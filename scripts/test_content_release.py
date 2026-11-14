@@ -29,5 +29,10 @@ class IndependentReleaseTests(unittest.TestCase):
         p,v=bundle(self.base);accept(self.repo,p,v);git(self.repo,'add','.');git(self.repo,'commit','-m','Report');before=git(self.repo,'rev-parse','HEAD').stdout.strip()
         (self.repo/'site/research/test-alpha-2026-11-14/index.html').write_text('Changed');git(self.repo,'add','.');git(self.repo,'commit','-m','Invalid')
         with self.assertRaises(ValueError):preserve(self.repo,before,'HEAD')
+    def test_legacy_identity_baseline_is_immutable(self):
+        before=git(self.repo,'rev-parse','HEAD').stdout.strip()
+        (self.repo/'site/data/research-register.json').write_bytes(canonical({'entries':[]}))
+        git(self.repo,'add','.');git(self.repo,'commit','-m','Invalid identity deletion')
+        with self.assertRaises(ValueError):preserve(self.repo,before,'HEAD')
 
 if __name__=='__main__':unittest.main()

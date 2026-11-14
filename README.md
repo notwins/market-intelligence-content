@@ -26,3 +26,23 @@ Cutover source: Hub commit 3ed568866a968ef0c6d08f4387381f9fc4c46c68.
 Only already-public news metadata and publication identities are retained as a validation baseline. Private material, credentials and review receipts are excluded.
 The content site is compatible with feed schema 1. Its pinned validators and renderer were taken from the reviewed Hub cutover; adopting future schema changes requires explicit compatibility tests. No runtime build dependency on the UI main branch exists.
 
+
+## Exact pre-publication and live checks
+Use a clean candidate based on current main. Run `python scripts/research_feed.py`,
+`python -m unittest discover -s scripts -p 'test_*.py'`, then
+`python scripts/content_release.py --output <new-private-staging-directory> --before <base-sha> --head <candidate-sha>`.
+Publish only the accepted owned source paths, never generated feed/search files.
+Wait for content.yml and check its live data readback, then verify the Hub browser
+card/search and the full-report URL. No Hub commit or Hub deployment is needed.
+
+The private review receipt contains exactly `record_sha256`, `approved_at_sgt`,
+`complete`, `public_safe`, `rights_cleared`, and `reviewer`. The hash covers the
+canonical prepared record. Set the three attestations to true only after actually
+reviewing the full report, its public boundaries and rights. Never publish the
+receipt or its reviewer identity. `submit_research.py` stores only its hash and
+verification timestamp with the public record.
+
+New content writes can use existing authorized Git authentication. If a connected
+GitHub app cannot write this repository, do not add credentials or broaden its
+permissions; use the already authorized Git path. Non-force push rejects a race;
+refetch, reaccept and revalidate against the new head before retrying.

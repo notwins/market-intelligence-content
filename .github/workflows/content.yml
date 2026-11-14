@@ -50,5 +50,7 @@ jobs:
       - name: Verify published report destinations
         env:
           PAGES_URL: ${{ steps.publish.outputs.page_url }}
-        run: python3 scripts/verify_research_destinations.py --base-url "$PAGES_URL"
+        run: |
+          python3 scripts/verify_research_destinations.py --base-url "$PAGES_URL"
+          python3 scripts/verify_content_delivery.py --base-url "$PAGES_URL"
 

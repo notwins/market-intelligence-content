@@ -16,7 +16,7 @@ def preserve(repo,before,after):
         return {s.split('\t')[1]:s.split()[2] for s in subprocess.check_output(['git','ls-tree','-r',ref],cwd=repo,text=True).splitlines()}
     old,new=tree(before),tree(after)
     for p,h in old.items():
-        if p.startswith(('baseline/','site/research/','site/data/research-records/','site/data/hourly-archive/')):
+        if p.startswith(('baseline/','site/research/','site/data/research-records/','site/data/hourly-archive/')) or p=='site/data/research-register.json':
             require(new.get(p)==h,'Immutable publication changed: '+p)
     path='site/data/hourly-news.json'
     if path in old:
@@ -89,6 +89,9 @@ def build(output,repo=ROOT):
 
 if __name__=='__main__':
     p=argparse.ArgumentParser();p.add_argument('--output',type=Path,required=True);p.add_argument('--before');p.add_argument('--head');a=p.parse_args()
-    if a.before:preserve(ROOT,a.before,a.head)
+    if a.head or a.before:
+        head=a.head or 'HEAD'
+        before=a.before or subprocess.check_output(['git','rev-parse',head+'^'],cwd=ROOT,text=True).strip()
+        preserve(ROOT,before,head)
     print(json.dumps(build(a.output),indent=2))
 
