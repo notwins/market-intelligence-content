@@ -1,0 +1,54 @@
+name: Independent research and news publication
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: content-pages
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+      - name: Build derived source feed for tests
+        run: python3 scripts/research_feed.py
+      - name: Test report acceptance, retries, concurrency and news history
+        run: python3 -m unittest discover -s scripts -p 'test_*.py'
+      - name: Validate immutable history and stage only public content
+        env:
+          BEFORE: ${{ github.event.before }}
+          HEAD: ${{ github.sha }}
+        run: |
+          python3 scripts/content_release.py --output "$RUNNER_TEMP/content-site" --before "$BEFORE" --head "$HEAD"
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: ${{ runner.temp }}/content-site
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+      contents: read
+    environment:
+      name: github-pages
+      url: ${{ steps.publish.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+      - name: Reject reruns of an obsolete content revision
+        run: |
+          git fetch origin main
+          test "$(git rev-parse origin/main)" = "$GITHUB_SHA"
+      - uses: actions/configure-pages@v5
+      - uses: actions/deploy-pages@v4
+        id: publish
+      - name: Verify published report destinations
+        env:
+          PAGES_URL: ${{ steps.publish.outputs.page_url }}
+        run: python3 scripts/verify_research_destinations.py --base-url "$PAGES_URL"
+

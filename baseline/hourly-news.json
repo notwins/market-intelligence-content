@@ -1,0 +1,1643 @@
+{
+  "schema_version": 1,
+  "source_name": "Reuters Hourly News",
+  "source_url": null,
+  "publisher_checked_at": "2026-11-14T16:57:24+08:00",
+  "last_complete_cutoff": null,
+  "source_schedule": {
+    "status": "Active",
+    "checked_at": "2026-11-03T18:21:21+08:00"
+  },
+  "editions": [
+    {
+      "id": "reuters-20261114T162209-SGT",
+      "report_at": "2026-11-14T16:28:09+08:00",
+      "window_start": "2026-11-14T12:22:09+08:00",
+      "cutoff": "2026-11-14T16:22:09+08:00",
+      "coverage": "partial",
+      "summary": "Three newly added, reviewed Reuters stories cover China-US trade discussions, Tesla customer invitations and China's diabetes-drug reimbursement. This is a partial catch-up update, not a complete scan.",
+      "limitations": [
+        "Targeted Reuters coverage only. The most recent fully completed scan remains unverified, and this update does not fill the historical publication backlog.",
+        "Only publication dates are verified for these sources. Exact original publication and development times are unknown; inclusion does not establish that events occurred inside this report window. Stories are conservatively labelled catch-up.",
+        "Two source follow-ups, on Bank of England policy and US air-traffic disruption, are held because their earlier versions are absent from the retained public history.",
+        "No market-price reaction attributable to these reports was independently established."
+      ],
+      "original_url": null,
+      "sources": [
+        {
+          "url": "https://www.reuters.com/world/china/china-us-discuss-tariffs-farm-trade-first-trade-council-meeting-2026-11-14/",
+          "title": "China and US hold first trade-council discussions",
+          "published_at": null,
+          "published_date": "2026-11-14",
+          "publication_precision": "date",
+          "verification_url": "https://www.investing.com/news/economy-news/china-us-discuss-tariffs-farm-trade-at-first-trade-council-meeting-5027183"
+        },
+        {
+          "url": "https://www.reuters.com/business/autos-transportation/tesla-invites-select-customers-buy-cybercab-personal-use-2026-11-14/",
+          "title": "Tesla invites selected customers to buy Cybercab",
+          "published_at": null,
+          "published_date": "2026-11-14",
+          "publication_precision": "date",
+          "verification_url": "https://www.devdiscourse.com/article/international/4006921-tesla-invites-select-customers-to-buy-cybercab-for-personal-use"
+        },
+        {
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/china-adds-first-car-t-cancer-therapy-national-health-insurance-scheme-2026-11-14/",
+          "title": "China adds Pfizer and Innovent diabetes drugs to reimbursement",
+          "published_at": null,
+          "published_date": "2026-11-14",
+          "publication_precision": "date",
+          "verification_url": "https://ca.marketscreener.com/news/pfizer-innovent-glp-1-drugs-added-to-china-national-insurance-for-diabetes-ce785ededb8aff2d"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261114-CHINA-US-FIRST-TRADE-COUNCIL-TARIFF-AGRICULTURE",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "China / US / Trade",
+          "headline": "China and US hold first trade-council discussions",
+          "body": "China's commerce ministry said the countries held their first trade-council meeting by video on Friday. The discussion covered tariffs, agricultural trade and earlier economic commitments. The report did not announce a completed agreement.",
+          "analysis": "A new negotiating forum could affect trade-sensitive businesses. Discussions alone do not establish tariff relief or new purchases.",
+          "watch_next": "Published terms and subsequent official statements.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/china/china-us-discuss-tariffs-farm-trade-first-trade-council-meeting-2026-11-14/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261114-TESLA-CYBERCAB-SELECT-CUSTOMER-PURCHASE-OFFER",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "US / Tesla / Vehicles",
+          "headline": "Tesla invites selected customers to buy Cybercab",
+          "body": "Reuters reported that Tesla said on Friday it was inviting selected customers to buy Cybercab for personal use.",
+          "analysis": "Invitations may open a further route to customers, but they do not establish completed deliveries or recognised revenue.",
+          "watch_next": "Confirmed deliveries and the final terms offered to customers.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/autos-transportation/tesla-invites-select-customers-buy-cybercab-personal-use-2026-11-14/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261114-CHINA-DIABETES-GLP1-INSURANCE-REIMBURSEMENT",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "China / Healthcare",
+          "headline": "China adds Pfizer and Innovent diabetes drugs to reimbursement",
+          "body": "Reuters reported that Pfizer's ecnoglutide and Innovent's mazdutide will join China's state health-insurance scheme for type 2 diabetes from January 1.",
+          "analysis": "Reimbursement could broaden access and treatment volumes; the commercial effect also depends on pricing and uptake.",
+          "watch_next": "Reimbursement terms, patient uptake and company sales disclosures.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/healthcare-pharmaceuticals/china-adds-first-car-t-cancer-therapy-national-health-insurance-scheme-2026-11-14/"
+          ],
+          "development_at": null
+        }
+      ],
+      "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859"
+    },
+    {
+      "id": "reuters-recovery-20261111T194604-SGT",
+      "report_at": "2026-11-11T19:50:39+08:00",
+      "window_start": "2026-11-11T15:46:04+08:00",
+      "cutoff": "2026-11-11T19:46:04+08:00",
+      "coverage": "partial",
+      "summary": "Historical recovery of the completed 11 November evening report. All five source story topics are retained as concise, independently checked summaries. This is not a current market snapshot.",
+      "limitations": [
+        "The original report had targeted, partial Reuters coverage; earlier uncovered intervals remain unresolved.",
+        "Original article dates are verified, but separate initial-publication and update times are not established. Date-only sources do not establish exact intraday timing.",
+        "Historical observations and proposed terms apply to the source cutoff, not the date this recovery was published.",
+        "Cross-report duplicate checks cover the retained public editions and accessible source responses, not all inaccessible briefing history."
+      ],
+      "original_url": null,
+      "sources": [
+        {
+          "url": "https://www.reuters.com/world/china/alphabet-eyes-3-billion-hong-kong-singapore-bond-sale-sources-say-2026-11-11/",
+          "title": "Alphabet eyes $3 billion Hong Kong, Singapore bond sale, sources say",
+          "published_at": null,
+          "published_date": "2026-11-11",
+          "publication_precision": "date",
+          "verification_url": "https://www.aol.com/articles/alphabet-eyes-3-billion-hong-021942000.html"
+        },
+        {
+          "url": "https://www.reuters.com/world/eu-threatens-significant-fines-unfair-online-trade-practices-2026-11-11/",
+          "title": "EU threatens significant fines for unfair online trade practices",
+          "published_at": null,
+          "published_date": "2026-11-11",
+          "publication_precision": "date",
+          "verification_url": "https://live.euronext.com/en/financial-news/eu-threatens-significant-fines-unfair-online-trade-practices"
+        },
+        {
+          "url": "https://www.reuters.com/world/asia-pacific/chinas-central-bank-vows-step-up-policy-support-economy-2026-11-11/",
+          "title": "China's central bank vows to step up policy support for the economy",
+          "published_at": null,
+          "published_date": "2026-11-11",
+          "publication_precision": "date",
+          "verification_url": "https://www.investing.com/news/economy-news/chinas-central-bank-vows-to-step-up-policy-support-for-the-economy-5018404"
+        },
+        {
+          "url": "https://www.reuters.com/business/finance/after-us-market-shake-out-signs-suggest-too-soon-say-worst-is-over-2026-11-11/",
+          "title": "After US market shake-out, signs suggest too soon to say worst is over",
+          "published_at": null,
+          "published_date": "2026-11-11",
+          "publication_precision": "date",
+          "verification_url": "https://www.marketscreener.com/news/after-us-market-shake-out-signs-suggest-too-soon-to-say-worst-is-over-ce785edbdd8af321"
+        },
+        {
+          "url": "https://www.reuters.com/world/asia-pacific/japan-advisors-urge-focus-sustaining-growth-after-inflation-hits-boj-goal-2026-11-11/",
+          "title": "Japan advisers urge focus on sustaining growth after inflation hits BOJ goal",
+          "published_at": null,
+          "published_date": "2026-11-11",
+          "publication_precision": "date",
+          "verification_url": "https://www.marketscreener.com/news/japan-advisors-urge-focus-on-sustaining-growth-after-inflation-hits-boj-goal-ce785edbda8cf722"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261111-ALPHABET-SGD-HKD-BOND-PLANS",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "Singapore / Alphabet / SGD bonds",
+          "headline": "Alphabet explores SGD and HKD borrowing",
+          "body": "Reuters cited sources saying Alphabet sought about US$3 billion from inaugural SGD and HKD issues. Proposed minimums were S$1.5 billion and HK$8 billion; SGD maturities could extend to 30 years. Final size, timing and pricing were unsettled at the report cutoff.",
+          "analysis": "Long maturity adds rate sensitivity; proposed borrowing is not a completed issuance.",
+          "watch_next": "Final terms, pricing, size and settlement.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/china/alphabet-eyes-3-billion-hong-kong-singapore-bond-sale-sources-say-2026-11-11/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261111-EU-DIGITAL-FAIRNESS-ACT-DRAFT",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "Europe / Digital regulation",
+          "headline": "EU proposes stronger online consumer rules",
+          "body": "Reuters described a proposed Digital Fairness Act and a separate consumer-protection enforcement revision allowing fines up to 6% of global annual revenue. The proposals still needed legislative agreement; this was not an enacted fine or a penalty already imposed.",
+          "analysis": "Platforms may face additional compliance costs if the proposals become law.",
+          "watch_next": "Final legislative scope and enforcement provisions.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/eu-threatens-significant-fines-unfair-online-trade-practices-2026-11-11/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261111-PBOC-Q3-MONETARY-POLICY-REPORT-SUPPORT",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "China / PBoC / FX",
+          "headline": "PBoC reiterates monetary support",
+          "body": "Reuters reported that the PBoC's quarterly policy report pledged counter-cyclical support, stronger domestic demand, low overall borrowing costs and a broadly stable yuan. These were policy commitments, not a newly quantified rate cut or liquidity injection.",
+          "analysis": "Policy direction alone does not establish immediate currency or funding-market effects.",
+          "watch_next": "Specific policy actions and domestic demand.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/asia-pacific/chinas-central-bank-vows-step-up-policy-support-economy-2026-11-11/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261111-US-TECH-POSITIONING-OPTIONS-POST-SELLOFF",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "US / Technology / Options",
+          "headline": "Tech positioning signals remain mixed",
+          "body": "Reuters analysis cited Deutsche Bank data showing technology positioning below April 2025 lows and Carrick Lane evidence of reduced AI call-option buying. Other technical indicators remained cautious; the reporting did not establish that the selloff had ended.",
+          "analysis": "Reduced crowding can help stabilisation without proving a durable market bottom.",
+          "watch_next": "Options flows, market breadth and company cash flows.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/finance/after-us-market-shake-out-signs-suggest-too-soon-say-worst-is-over-2026-11-11/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261111-JAPAN-ECONOMIC-COUNCIL-REAL-WAGES-BOJ",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "Japan / BOJ / Wages",
+          "headline": "Japan advisers prioritise real-income growth",
+          "body": "Reuters reported that private-sector members of Japan's economic policy council urged sustained income and productivity gains rather than treating 2% inflation as the final objective. They said consumption remained weak and real-income improvements were not fully realised.",
+          "analysis": "Meeting an inflation target does not necessarily restore household purchasing power.",
+          "watch_next": "Real wages, consumption and BOJ decisions.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/asia-pacific/japan-advisors-urge-focus-sustaining-growth-after-inflation-hits-boj-goal-2026-11-11/"
+          ],
+          "development_at": null
+        }
+      ],
+      "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859"
+    },
+    {
+      "id": "reuters-recovery-20261106T035300-SGT",
+      "report_at": "2026-11-06T03:56:15+08:00",
+      "window_start": "2026-11-05T23:53:00+08:00",
+      "cutoff": "2026-11-06T03:53:00+08:00",
+      "coverage": "partial",
+      "summary": "Recovered historical Reuters report: congressional request for an Nvidia briefing. Other report stories remain withheld pending checks or predecessor recovery.",
+      "limitations": [
+        "Historical report, not current market news.",
+        "Only one independently corroborated story retained from the four-story source.",
+        "Original publication date verified; exact original versus update timestamp not established.",
+        "No exhaustive Reuters scan claimed."
+      ],
+      "original_url": null,
+      "source_report_key": "027561cadd4342dab1fba5b1c16913066eaf0f9738c5526dd3784b61d706a416",
+      "sources": [
+        {
+          "url": "https://www.reuters.com/legal/litigation/key-republicans-seek-briefing-nvidia-ceo-over-chinese-spy-allegations-document-2026-11-05/",
+          "title": "Key Republicans seek briefing from Nvidia CEO over Chinese spy allegations-document",
+          "published_at": null,
+          "published_date": "2026-11-05",
+          "publication_precision": "date",
+          "verification_url": "https://www.investing.com/news/stock-market-news/key-republicans-seek-briefing-from-nvidia-ceo-over-chinese-spy-allegationsdocument-5005367"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261105-NVDA-CONGRESS-CHINA-SECURITY-BRIEFING",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "Nvidia / US–China / oversight",
+          "headline": "US lawmakers request Nvidia briefing",
+          "body": "Reuters reported that three House committee chairs requested a closed-door November 18 briefing from Jensen Huang in a November 4 letter concerning China-related allegations. Nvidia said customer discussions do not involve national-security-sensitive secrets. Allegations are not findings.",
+          "analysis": "A request for a briefing is not a regulatory sanction or proof of wrongdoing.",
+          "watch_next": "Whether the briefing occurs and official findings emerge.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/legal/litigation/key-republicans-seek-briefing-nvidia-ceo-over-chinese-spy-allegations-document-2026-11-05/"
+          ],
+          "development_at": null
+        }
+      ]
+    },
+    {
+      "id": "reuters-hourly-20261104T091354Z",
+      "report_at": "2026-11-04T17:19:07+08:00",
+      "cutoff": "2026-11-04T17:13:54+08:00",
+      "window_start": "2026-11-04T16:13:54+08:00",
+      "coverage": "partial",
+      "summary": "Partial Reuters scan to 4 November 2026, 5:13:54 PM SGT. US futures recovered after earlier midterm-related declines; UOB revised its NIM guidance (catch-up); France, Germany and Italy services PMIs diverged; Google voluntary exit programmes and Emaar's proposed minority buyout were reported. Historical price observations are not live.",
+      "limitations": [
+        "Targeted Reuters search, not exhaustive wire coverage; unresolved prior gaps and no verified last complete scan.",
+        "US stock-futures observations were at 4:13 PM SGT, before Reuters publication at 4:35 PM; precise earlier trough times were unavailable.",
+        "UOB and Emaar articles were first published outside the primary hourly window and are marked catch-up.",
+        "Google's June voluntary exit offers were reported in November; acceptance totals and fresh layoffs were not established.",
+        "Prices in source articles are historical, not real-time quotes.",
+        "Daily briefings were compared only to the accessible partial extracts; some output was truncated."
+      ],
+      "original_url": null,
+      "sources": [
+        {
+          "url": "https://www.reuters.com/business/us-stock-index-futures-steady-democrats-seize-congress-2026-11-04/",
+          "title": "US stock index futures steady as Democrats seize Congress",
+          "published_at": "2026-11-04T08:35Z"
+        },
+        {
+          "url": "https://www.reuters.com/world/asia-pacific/singapore-bank-uob-third-quarter-net-profit-more-than-doubles-year-2026-11-03/",
+          "title": "Singapore's UOB misses on Q3 profit, margin pressures loom; shares slide",
+          "published_at": "2026-11-03T23:08Z"
+        },
+        {
+          "url": "https://www.reuters.com/business/french-services-sector-contracts-october-fastest-pace-since-may-pmi-shows-2026-11-04/",
+          "title": "French services sector contracts in October at fastest pace since May, PMI shows",
+          "published_at": "2026-11-04T08:52Z"
+        },
+        {
+          "url": "https://www.reuters.com/business/germany-services-growth-slows-october-demand-slips-pmi-shows-2026-11-04/",
+          "title": "Germany services growth slows in October as demand slips, PMI shows",
+          "published_at": "2026-11-04T09:01Z"
+        },
+        {
+          "url": "https://www.reuters.com/business/italy-services-growth-accelerates-cost-pressures-intensify-pmi-shows-2026-11-04/",
+          "title": "Italy services growth accelerates but cost pressures intensify, PMI shows",
+          "published_at": "2026-11-04T08:48Z"
+        },
+        {
+          "url": "https://www.reuters.com/business/media-telecom/google-extends-voluntary-buyout-offers-employees-several-countries-2026-11-04/",
+          "title": "Google extends voluntary buyout offers to employees in several countries",
+          "published_at": "2026-11-04T08:32Z"
+        },
+        {
+          "url": "https://www.reuters.com/world/middle-east/dubais-emaar-plans-offer-buy-out-construction-arm-34-billion-deal-2026-11-04/",
+          "title": "Dubai's Emaar plans offer to buy out construction arm in $3.4 billion deal",
+          "published_at": "2026-11-04T07:53Z"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261104-US-MIDTERMS-ADDITIONAL-FLIPS",
+          "version": 5,
+          "status": "follow-up",
+          "freshness": "current",
+          "topic": "US equities / midterm market reaction",
+          "headline": "US index futures recover after sharp early post-election losses",
+          "body": "Reuters reported earlier falls of as much as 2.4% for Nasdaq-100 futures and 1.4% for S&P 500 futures. At 3:13 a.m. ET on 4 November, Dow futures were up 0.46%, S&P 500 futures up 0.15% and Nasdaq-100 futures up 0.26%. These were intraday observations, not live quotes; the earlier trough times were not established.",
+          "analysis": "Reversal highlights repricing uncertainty and does not prove steady rate or FX response.",
+          "watch_next": "US open, US Treasury curve and Big Tech regulation",
+          "earlier": "The previous v4 documented projected Democratic control of both US congressional chambers without a verified, time-matched market reaction.",
+          "source_urls": [
+            "https://www.reuters.com/business/us-stock-index-futures-steady-democrats-seize-congress-2026-11-04/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261104-UOB-Q3-NIM-OUTLOOK",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "Singapore banks / net interest margin",
+          "headline": "UOB lowers full-year margin forecast after Q3 profit misses estimates",
+          "body": "UOB reported Q3 net profit of S$1.25 billion against the S$1.35 billion LSEG mean estimate from two analysts. Q3 net interest margin was 1.68%, down six basis points quarter-on-quarter. Management expects full-year NIM below 1.75%, versus previous guidance of 1.75%–1.80%. Reuters observed shares down over 5% to S$38.15; observation time not established. This is a catch-up story from an earlier reporting window.",
+          "analysis": "Deposit competition pressures banks margins; avoid generalising sector.",
+          "watch_next": "Upcoming DBS and OCBC earnings",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/asia-pacific/singapore-bank-uob-third-quarter-net-profit-more-than-doubles-year-2026-11-03/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261104-EUROPE-SERVICES-PMI-OCT",
+          "version": 1,
+          "status": "new",
+          "freshness": "current",
+          "topic": "European services / ECB",
+          "headline": "French services contract as Germany and Italy maintain growth",
+          "body": "October services PMI readings: France 46.2, down from 51.2 in September and below a 48.4 flash estimate; Germany 52.5, from 52.9; Italy 52.0, from 51.7 and above a Reuters survey forecast of 51.5. Italy's selling-price PMI rose to 55.9 from 54.8 and input prices to 68.4 from 65.4. PMI values are diffusion indices, not annual inflation percentages.",
+          "analysis": "French contraction with Italian cost pressure complicates ECB assessment.",
+          "watch_next": "Euro area aggregate PMI, inflation and ECB guidance",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/french-services-sector-contracts-october-fastest-pace-since-may-pmi-shows-2026-11-04/",
+            "https://www.reuters.com/business/germany-services-growth-slows-october-demand-slips-pmi-shows-2026-11-04/",
+            "https://www.reuters.com/business/italy-services-growth-accelerates-cost-pressures-intensify-pmi-shows-2026-11-04/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261104-GOOGLE-VOLUNTARY-BUYOUTS",
+          "version": 1,
+          "status": "new",
+          "freshness": "current",
+          "topic": "Technology / staffing and AI capex",
+          "headline": "Google confirms June expansion of voluntary exit offers across five countries",
+          "body": "Google confirmed voluntary exit packages offered in June 2026 to certain employees in Canada, France, Germany, Japan and Switzerland. The number who accepted has not been established. Reuters sources said the Swiss programme excluded DeepMind. November reporting newly disclosed an existing initiative, not fresh layoffs.",
+          "analysis": "Cost controls accompanying AI capex; no quantified savings demonstrated.",
+          "watch_next": "Alphabet employee changes, severance and AI capex economics",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/media-telecom/google-extends-voluntary-buyout-offers-employees-several-countries-2026-11-04/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261104-EMAAR-DEVELOPMENT-BUYOUT",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "Dubai property / financing",
+          "headline": "Emaar proposes voluntary minority buyout of Emaar Development",
+          "body": "Emaar Properties, which owns just over 79% of Emaar Development, plans a voluntary cash offer of AED 15 per share for the remainder, potentially worth up to US$3.43 billion. Reuters observed Emaar Development up 5.3% at AED 14.64 by 06:30 UTC before article publication. The offer is not completed and funding details are unverified. This article is a catch-up discovery.",
+          "analysis": "Potential funding and leverage impact, pending terms.",
+          "watch_next": "Offer acceptance, acquisition financing and delisting decision",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/middle-east/dubais-emaar-plans-offer-buy-out-construction-arm-34-billion-deal-2026-11-04/"
+          ],
+          "development_at": null
+        }
+      ],
+      "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859"
+    },
+    {
+      "id": "reuters-hourly-20261104T081808Z",
+      "report_at": "2026-11-04T16:23:36+08:00",
+      "window_start": "2026-11-04T15:18:08+08:00",
+      "cutoff": "2026-11-04T16:18:08+08:00",
+      "coverage": "partial",
+      "summary": "Five newly selected Reuters items, including one historical crypto-liquidity catch-up: NextDC minority-stake offer, Binance post-hack withdrawals, Smith+Nephew guidance reduction, possible IndiGo aircraft order and drone attacks in northern Iraq. Coverage is partial, with earlier gaps still open; these are dated Reuters reports, not live pricing or trading signals.",
+      "limitations": [
+        "Targeted Reuters article and active-thread searches, not an exhaustive wire scan.",
+        "Earlier incomplete source-coverage intervals remain outstanding; only immediate prior interval was checked selectively for recovery.",
+        "Source article original publication times are to minute precision; subsequent updates cannot generally be timed.",
+        "Historical Binance hack and outflows predate this primary hour; marked catch-up despite current-hour Reuters roundup publication.",
+        "The IndiGo source notes a minor editorial refile to insert dropped words; no earlier report is affected and no new correction card is claimed.",
+        "No executable FX quote or verified market reaction to the newly reported stock bid, aircraft talks, outlook cut or drone incident.",
+        "Direct individual source-run conversation URL was unavailable; linked the known original Reuters producer conversation.",
+        "Original reported development time could not be independently established; publication timestamps do not indicate the event time.",
+        "Reuters syndication carries a correction to the broader crypto market capitalization figure; the corrected total is not repeated in this edition."
+      ],
+      "original_url": null,
+      "sources": [
+        {
+          "url": "https://www.reuters.com/world/goodman-group-digital-realty-launch-up-4997-million-share-bid-nextdc-term-sheet-2026-11-04/",
+          "title": "Goodman Group, Digital Realty launch up to $499.7 million share bid on NextDC: term sheet",
+          "published_at": "2026-11-04T07:32Z"
+        },
+        {
+          "url": "https://www.reuters.com/business/finance/crypto-dips-democrat-midterm-wins-binance-hack-dent-optimism-2026-11-04/",
+          "title": "Crypto dips on Democrat midterm wins, Binance hack dent optimism",
+          "published_at": "2026-11-04T07:35Z",
+          "verification_url": "https://www.globalbankingandfinance.com/crypto-dips-democrat-midterm-wins-binance-hack-dent-optimism/"
+        },
+        {
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/smithnephew-cuts-outlook-confirms-failed-merger-talks-with-jjs-orthopaedics-unit-2026-11-04/",
+          "title": "Smith+Nephew cuts outlook, confirms failed merger talks with J&J's orthopaedics unit",
+          "published_at": "2026-11-04T07:34Z"
+        },
+        {
+          "url": "https://www.reuters.com/world/india/indias-indigo-talks-with-embraer-100-jets-sources-say-2026-11-04/",
+          "title": "EXCLUSIVE India's IndiGo in talks with Embraer for 100 jets, sources say",
+          "published_at": "2026-11-04T07:28Z"
+        },
+        {
+          "url": "https://www.reuters.com/world/middle-east/drones-attack-iranian-kurdish-opposition-iraqs-sulaymaniyah-east-erbil-sources-2026-11-04/",
+          "title": "Drones attack Iranian Kurdish opposition in Iraq's Sulaymaniyah and east Erbil, sources say",
+          "published_at": "2026-11-04T07:56Z"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261104-GOODMAN-DLR-NEXTDC-STAKE",
+          "version": 1,
+          "status": "new",
+          "freshness": "current",
+          "topic": "EQUITIES_AND_AI_RATES_AND_CREDIT",
+          "headline": "Goodman and Digital Realty offer up to A$715m for a minority stake in NextDC",
+          "body": "According to a term sheet, the pair offered to buy up to 9.9% of NextDC for approximately A$715 million (US$499.7 million). Their offer of A$9.50 a share was 45.5% above NextDC's A$6.53 Wednesday closing price. NextDC had previously said electricity grid upgrades would defer about A$140 million of contracted revenue in the current financial year and has shelved new development projects. Market evidence: Reuters gave the historical A$6.53 Wednesday closing price; no post-offer trading price or change reported.",
+          "analysis": "A prospective strategic shareholder investment could address confidence and financing pressure, but neither a completed deal nor a new cash injection is established. AI data centres still face power-grid execution risk.",
+          "watch_next": "Offer completion, whether capital actually reaches NextDC, debt and grid milestones.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/goodman-group-digital-realty-launch-up-4997-million-share-bid-nextdc-term-sheet-2026-11-04/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261104-BINANCE-POSTHACK-OUTFLOWS",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "RISKS_CRYPTO_LIQUIDITY",
+          "headline": "Binance customers have withdrawn a net US$4.72bn after exchange reopening",
+          "body": "Reuters' newly published crypto roundup reported net customer withdrawals of US$4.72 billion after Binance reopened following last week's hack. Bitcoin was quoted at US$78,070 by 07:15 GMT on 4 November after briefly touching a six-week low. That historical price is not a live quote. Reuters said the wider crypto market lost about US$300 billion in value over the previous month, and investors were also weighing US election implications. Market evidence: Reuters Bitcoin observation: approximately US$78,070 at 07:15 GMT (15:15 SGT); not price movement solely attributable to the earlier hack or today's election.",
+          "analysis": "Large exchange withdrawals highlight custody and platform liquidity risk, but are not proof of insolvency or a bank credit default; the hack and withdrawals predate this primary hour.",
+          "watch_next": "Whether net withdrawals continue, user access and verifiable reserves; new investigations or regulator decisions.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/finance/crypto-dips-democrat-midterm-wins-binance-hack-dent-optimism-2026-11-04/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261104-SMITHNEPHEW-OUTLOOK-JNJ-TALKS",
+          "version": 1,
+          "status": "new",
+          "freshness": "current",
+          "topic": "EQUITIES_HEALTHCARE_M_AND_A",
+          "headline": "Smith+Nephew cuts annual forecasts and confirms J&J orthopaedics merger talks ended",
+          "body": "Smith+Nephew said merger talks with Johnson & Johnson's orthopaedics business held earlier this year have ended. Smith+Nephew lowered its full-year revenue and profit guidance due to persistent weakness in its Orthopaedics division. The company said it would continue evaluating strategic options for the division. Market evidence: No attributable share-price move in the inspected Reuters article.",
+          "analysis": "Reduced guidance worsens the earnings/cash-generation outlook, while failed merger talks remove a potential strategic outcome; final debt implications are not established.",
+          "watch_next": "Updated numerical guidance, restructuring plans, strategic alternatives and refinancing needs.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/healthcare-pharmaceuticals/smithnephew-cuts-outlook-confirms-failed-merger-talks-with-jjs-orthopaedics-unit-2026-11-04/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261104-INDIGO-EMBRAER-JET-TALKS",
+          "version": 1,
+          "status": "new",
+          "freshness": "current",
+          "topic": "EQUITIES_CREDIT_ASIA_AVIATION",
+          "headline": "IndiGo in early talks for 100 Embraer regional jets, sources say",
+          "body": "Three people told Reuters IndiGo was discussing a possible purchase of 100 Embraer regional jets, with options for about 50 more. Neither the model nor quantity was settled and no contract was announced; deliveries would likely begin in or after 2030. Reuters said that the 100 aircraft alone could be worth billions of dollars at list prices, before commonly negotiated discounts. Market evidence: No attributable share-price movement reported.",
+          "analysis": "If signed, the order would create major future aircraft financing and fleet-capital-expenditure needs; no financing terms or confirmed obligation exist today.",
+          "watch_next": "Binding purchase agreement, aircraft model, delivery slots, financing/leasing terms.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/india/indias-indigo-talks-with-embraer-100-jets-sources-say-2026-11-04/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261104-IRAQ-KURDISH-OPPOSITION-DRONES",
+          "version": 1,
+          "status": "new",
+          "freshness": "current",
+          "topic": "RISKS_MIDDLE_EAST_GEOPOLITICS",
+          "headline": "Security sources report two drone attacks on Iranian Kurdish opposition in Iraq",
+          "body": "Reuters cited security sources saying two explosive-laden drones attacked Iranian Kurdish opposition groups in Iraq's Sulaymaniyah and east Erbil on Wednesday. The article noted Iran has struck these groups' bases before; the specific attacker, damage and casualties from this incident were not verified. Market evidence: No attributable crude oil, gold or currency move reported in the inspected source.",
+          "analysis": "This may add to regional escalation risk, but a direct oil-supply disruption is not established by the report.",
+          "watch_next": "Independent identification of the attackers, damage assessments and any response affecting energy routes.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/middle-east/drones-attack-iranian-kurdish-opposition-iraqs-sulaymaniyah-east-erbil-sources-2026-11-04/"
+          ],
+          "development_at": null
+        }
+      ],
+      "source_report_key": "f7b6cdf4273edf3e219a8fe1386be199397ceee31eb91d396bafb82d283aabb6"
+    },
+    {
+      "id": "reuters-hourly-20261104T070233Z",
+      "report_at": "2026-11-04T15:07:40+08:00",
+      "cutoff": "2026-11-04T15:02:33+08:00",
+      "window_start": "2026-11-04T14:02:33+08:00",
+      "coverage": "partial",
+      "summary": "Partial Reuters scan to 3:02:33 PM SGT, 4 November 2026. Novo Nordisk and Continental raised company guidance; Reuters relayed an unconfirmed FT account of an Oracle–Tencent AI-chip deal cancellation. Prior Meta bond issuance coverage was supplemented with two tranche coupons whose original first-appearance time is unverified. No live trading prices or issue yields established.",
+      "limitations": [
+        "Targeted Reuters searches, not exhaustive Reuters wire coverage; earlier scan gaps remain open.",
+        "Daily earnings, central-bank and bond-credit cross-checks were limited by truncated report extracts.",
+        "Oracle–Tencent cancellation allegation is attributed to the Financial Times and is not independently verified by Reuters.",
+        "Meta bond-tranche terms were newly inspected relative to prior hourly coverage; their first publication time is unknown, so this is catch-up.",
+        "No verified contemporaneous market prices, Meta issue yields or bond spreads; this partial scan does not advance the complete cutoff."
+      ],
+      "original_url": null,
+      "sources": [
+        {
+          "url": "https://www.reuters.com/business/novo-nordisk-q3-profit-beats-forecast-raises-2026-guidance-2026-11-04/",
+          "title": "Novo Nordisk's Wegovy pill beats forecasts as it battles Lilly",
+          "published_at": "2026-11-04T06:36Z"
+        },
+        {
+          "url": "https://www.reuters.com/business/continental-raises-2026-outlook-tyre-business-strength-2026-11-04/",
+          "title": "Continental raises 2026 outlook on tyre business strength",
+          "published_at": "2026-11-04T06:34Z"
+        },
+        {
+          "url": "https://www.reuters.com/world/china/oracle-abandons-7-billion-tencent-ai-deal-under-trump-pressure-ft-reports-2026-11-04/",
+          "title": "Oracle abandons $7 billion Tencent AI deal under Trump pressure, FT reports",
+          "published_at": "2026-11-04T05:21Z"
+        },
+        {
+          "url": "https://www.reuters.com/technology/meta-raises-15-billion-in-five-part-us-bond-sale-2026-11-03/",
+          "title": "Meta raises $15 billion in five-part US bond sale to fund AI expansion",
+          "published_at": "2026-11-03T22:50Z"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261104-NOVO-Q3-2026-GUIDANCE",
+          "version": 1,
+          "status": "new",
+          "freshness": "current",
+          "topic": "equities-healthcare",
+          "headline": "Novo Nordisk's Wegovy-pill sales beat estimates; 2026 guidance raised",
+          "body": "Wegovy pill third-quarter revenue DKK5.39bn, versus company-compiled consensus DKK4.62bn, up 53% from Q2. Adjusted operating profit DKK31.72bn vs DKK28.39bn expected; adjusted sales DKK79.20bn vs DKK73.22bn expected. Adjusted 2026 sales and operating-profit outlook at constant exchange rates raised to -2% through +2% from previous -6% through 0%.",
+          "analysis": "Interpretation: Positive oral-obesity-drug adoption and better operating profits; monitor competitive pricing, Lilly market share and sustainability of guidance.",
+          "watch_next": "Wegovy pill market share, 2026 profit delivery and forthcoming Lilly results.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/novo-nordisk-q3-profit-beats-forecast-raises-2026-guidance-2026-11-04/"
+          ],
+          "development_at": "2026-11-04T06:36Z"
+        },
+        {
+          "story_id": "R-20261104-CONTINENTAL-2026-MARGIN",
+          "version": 1,
+          "status": "new",
+          "freshness": "current",
+          "topic": "equities-europe-guidance",
+          "headline": "Continental raises 2026 operating-margin outlook on tyre strength",
+          "body": "Continental raised FY2026 operating profit margin guidance excluding discontinued ContiTech to 13.4%-14%. Previous range was 12%-13.5%; company-supplied analyst consensus stood at 13.7%.",
+          "analysis": "Interpretation: Better tyre margins modestly improve earnings expectations; does not imply a broad recovery in European manufacturing.",
+          "watch_next": "Actual reported margins, tyre demand, restructuring and credit metrics.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/continental-raises-2026-outlook-tyre-business-strength-2026-11-04/"
+          ],
+          "development_at": "2026-11-04T06:34Z"
+        },
+        {
+          "story_id": "R-20261104-ORACLE-TENCENT-LEASE-REPORT",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "equities-ai-china-trade-restrictions",
+          "headline": "Reuters relays unconfirmed FT report of Oracle–Tencent US$7bn AI deal cancellation",
+          "body": "Reuters relayed a Financial Times report alleging cancellation of an estimated US$7 billion Oracle–Tencent AI-chip lease involving about 100,000 chips at Southeast Asian data centres. Reuters could not independently verify the claim; company confirmation was unavailable.",
+          "analysis": "Interpretation: If confirmed, trade controls could alter cloud revenue assumptions, asset utilisation and China/SEA data-centre buildout financing. Cancellation is not confirmed by Oracle or Reuters independently.",
+          "watch_next": "Official Oracle/Tencent statements, contractual status, cancellation costs and further US export-policy clarifications.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/china/oracle-abandons-7-billion-tencent-ai-deal-under-trump-pressure-ft-reports-2026-11-04/"
+          ],
+          "development_at": "2026-11-04T05:21Z"
+        },
+        {
+          "story_id": "R-20261103-META-USD15B-BONDS",
+          "version": 2,
+          "status": "follow-up",
+          "freshness": "catch-up",
+          "topic": "rates-credit-ai-issuance",
+          "headline": "Meta US$15bn bond offering: 2031 and 2033 tranche coupons reviewed",
+          "body": "The Reuters account gives US$3.25 billion of Meta notes due in 2031 carrying a 5.85% coupon and US$3.25 billion due in 2033 at a 6.25% coupon, with Moody's assigning Aa3. The time these terms first appeared is unknown. Coupon does not establish issue yield.",
+          "analysis": "Interpretation: Coupon and issue yield are not interchangeable; credit evaluation requires final issue price, maturity-specific UST spreads, leverage and expected capex.",
+          "watch_next": "Full tranche pricing, issue yields, benchmark spreads and free-cash-flow/debt trajectory.",
+          "earlier": "Previous hourly edition ending 2026-11-04 07:20:56 SGT, R-20261103-META-USD15B-BONDS v1: reported five-part US$15bn issue without verified tranche terms.",
+          "source_urls": [
+            "https://www.reuters.com/technology/meta-raises-15-billion-in-five-part-us-bond-sale-2026-11-03/"
+          ],
+          "development_at": null
+        }
+      ],
+      "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859"
+    },
+    {
+      "id": "reuters-hourly-20261104T053328Z",
+      "report_at": "2026-11-04T13:38:00+08:00",
+      "cutoff": "2026-11-04T13:33:28+08:00",
+      "window_start": "2026-11-04T12:33:28+08:00",
+      "coverage": "partial",
+      "summary": "Partial Reuters scan, 4 November 2026, 12:33:28–1:33:28 PM SGT. One substantive follow-up on Democratic control of both US congressional chambers and President Trump's response, plus a new Indonesian presidential chief-of-staff dismissal. Three Reuters sources reviewed; not an exhaustive wire scan.",
+      "limitations": [
+        "Targeted Reuters discovery, not an exhaustive wire scan; prior source-report coverage gaps remain unresolved.",
+        "Election overview retains an original 3 November publication timestamp despite substantive later updates; precise revision time is unverified.",
+        "Exact time of the Trump interview, Indonesian dismissal and other underlying developments was not independently established. Development timestamps remain null; no BREAKING designation is claimed.",
+        "No time-matched market prices or reactions attributable to either development were confirmed.",
+        "Cross-briefing duplication checks were limited by incomplete access to earlier daily-briefing contents; no complete-scan cutoff can be advanced."
+      ],
+      "original_url": null,
+      "sources": [
+        {
+          "url": "https://www.reuters.com/world/us/trump-acknowledges-iran-played-role-republican-midterm-losses-2026-11-04/",
+          "title": "Trump acknowledges Iran role in Democratic sweep",
+          "published_at": "2026-11-04T05:17Z"
+        },
+        {
+          "url": "https://www.reuters.com/world/us/trump-faces-midterm-verdict-with-control-congress-stake-2026-11-03/",
+          "title": "Democrats capture Congress in sweeping setback for Trump",
+          "published_at": "2026-11-03T06:04Z"
+        },
+        {
+          "url": "https://www.reuters.com/world/asia-pacific/indonesia-president-sacks-chief-staff-over-alleged-wiretap-2026-11-04/",
+          "title": "Indonesia president sacks chief of staff over alleged wiretap",
+          "published_at": "2026-11-04T05:11Z"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261104-US-MIDTERMS-ADDITIONAL-FLIPS",
+          "version": 4,
+          "status": "follow-up",
+          "freshness": "current",
+          "topic": "US_POLITICS_FISCAL_POLICY_RATES",
+          "headline": "Reuters reports Democratic control of both chambers; Trump acknowledges Iran war role in Republican losses",
+          "body": "Reuters' election overview reports that Democrats captured the House and Senate, with six Republican-held Senate seats flipped, subject to media projections and counting rather than final certification. A separately published Reuters article reports President Trump acknowledged the war in Iran contributed to Republican losses and said he would veto legislation he opposed. The election overview's exact revision time was not confirmed, and no event-timed market move was verified.",
+          "analysis": "Interpretation: A change in congressional control may affect budget negotiations, oversight and AI policy; presidential veto powers still constrain legislation. It does not establish a directional move in Treasury yields, USD or equities.",
+          "watch_next": "Official election certification, confirmed seat balance, 2027 fiscal negotiations and Reuters-verified market pricing after these developments.",
+          "earlier": "Version 3 at the 12:45:58 PM SGT cutoff reported four further Democratic Senate pickups while ultimate chamber control was unresolved. Reuters now reports control of both chambers and a separate Trump response.",
+          "source_urls": [
+            "https://www.reuters.com/world/us/trump-acknowledges-iran-played-role-republican-midterm-losses-2026-11-04/",
+            "https://www.reuters.com/world/us/trump-faces-midterm-verdict-with-control-congress-stake-2026-11-03/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261104-IDN-CHIEF-STAFF-DISMISSAL",
+          "version": 1,
+          "status": "new",
+          "freshness": "current",
+          "topic": "RISKS_ASEAN_GOVERNANCE",
+          "headline": "Indonesia's president dismisses chief of staff amid alleged wiretapping investigation",
+          "body": "Reuters reports President Prabowo Subianto dismissed his chief of staff after the official and two senior police officers were arrested on suspicion of illegally wiretapping the president, ministers and others. A presidential spokesperson said the allegations could amount to treason and threaten national security. These remain allegations, not convictions; an exact dismissal time and attributable financial-market reaction were not verified.",
+          "analysis": "Interpretation: The dismissal creates governance uncertainty in a major Southeast Asian economy, but no economic-policy impact or quantified market repricing has been established.",
+          "watch_next": "Investigation findings, appointment of a replacement and any confirmed policy or rupiah, bond or equity-market developments.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/asia-pacific/indonesia-president-sacks-chief-staff-over-alleged-wiretap-2026-11-04/"
+          ],
+          "development_at": null
+        }
+      ],
+      "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859"
+    },
+    {
+      "id": "reuters-hourly-20261104T044558Z",
+      "report_at": "2026-11-04T12:50:15+08:00",
+      "cutoff": "2026-11-04T12:45:58+08:00",
+      "window_start": "2026-11-04T11:45:58+08:00",
+      "coverage": "partial",
+      "summary": "Partial Reuters scan for 4 November 2026, 11:45:58 AM–12:45:58 PM SGT: two new selected developments and one substantive election follow-up. Six Reuters articles verified, but this was not an exhaustive wire scan.",
+      "limitations": [
+        "Targeted Reuters discovery rather than exhaustive wire coverage; earlier missed reporting intervals remain unresolved.",
+        "No last complete scan has been established; partial coverage cannot advance last_complete_cutoff.",
+        "Publication times were verified to minute precision, but incident/development times and later revisions were not independently established.",
+        "Full historical cross-briefing checks and directly attributable market reactions were unavailable."
+      ],
+      "original_url": null,
+      "sources": [
+        {
+          "url": "https://www.reuters.com/world/middle-east/irans-irgc-says-four-tankers-ablaze-after-hitting-mines-near-strait-hormuz-2026-11-04/",
+          "title": "Iran's IRGC says four tankers ablaze after hitting mines near Strait of Hormuz",
+          "published_at": "2026-11-04T03:50:00Z"
+        },
+        {
+          "url": "https://www.reuters.com/world/us/james-talarico-becomes-first-democrat-win-statewide-texas-since-1994-2026-11-04/",
+          "title": "James Talarico becomes first Democrat to win statewide in Texas since 1994",
+          "published_at": "2026-11-04T04:04:00Z"
+        },
+        {
+          "url": "https://www.reuters.com/world/us/democrat-sherrod-brown-wins-back-us-senate-seat-ohio-2026-11-04/",
+          "title": "Democrat Sherrod Brown wins back US Senate seat in Ohio",
+          "published_at": "2026-11-04T04:12:00Z"
+        },
+        {
+          "url": "https://www.reuters.com/world/us/adam-hamilton-becomes-first-democrat-elected-us-senate-kansas-94-years-2026-11-04/",
+          "title": "Adam Hamilton becomes first Democrat elected to the US Senate from Kansas in 94 years",
+          "published_at": "2026-11-04T04:24:00Z"
+        },
+        {
+          "url": "https://www.reuters.com/world/democrat-josh-turek-flips-republican-held-us-senate-seat-iowa-2026-11-04/",
+          "title": "Democrat Josh Turek flips Republican-held US Senate seat in Iowa",
+          "published_at": "2026-11-04T04:34:00Z"
+        },
+        {
+          "url": "https://www.reuters.com/world/middle-east/uae-non-oil-firms-raise-prices-record-pace-october-pmi-shows-2026-11-04/",
+          "title": "UAE non-oil firms raise prices at record pace in October, PMI shows",
+          "published_at": "2026-11-04T04:19:00Z"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261104-IRGC-HORMUZ-TANKERS",
+          "version": 1,
+          "status": "new",
+          "freshness": "current",
+          "topic": "RISKS_GEOPOLITICS_ENERGY",
+          "headline": "Iran Revolutionary Guard claims four oil tankers hit naval mines and two vessels seized near Hormuz",
+          "body": "Iran's Revolutionary Guard claimed four tankers struck naval mines south of the Strait of Hormuz and remained ablaze or destroyed; it also claimed two other vessels were seized. Reuters attributed these statements to the IRGC and did not independently verify tanker losses, identify ships, or establish an event time. No time-matched market-price reaction was established.",
+          "analysis": "Interpretation: If independently confirmed, mine hazards and tanker damage could disrupt oil supply, shipping and marine insurance; the claims are not confirmation of actual losses.",
+          "watch_next": "Verify vessels and maritime-authority reports, plus Reuters-observed tanker traffic and oil or freight market reactions.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/middle-east/irans-irgc-says-four-tankers-ablaze-after-hitting-mines-near-strait-hormuz-2026-11-04/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261104-US-MIDTERMS-ADDITIONAL-FLIPS",
+          "version": 3,
+          "status": "follow-up",
+          "freshness": "current",
+          "topic": "US_POLITICS_FISCAL_POLICY_RATES",
+          "headline": "Further Republican-held US Senate seats flip in media projections: Texas, Ohio, Kansas and Iowa",
+          "body": "Reuters reported US media projections of Democratic Senate wins by James Talarico over Ken Paxton in Texas, Sherrod Brown over Jon Husted in Ohio's special election, Adam Hamilton over Roger Marshall in Kansas and Josh Turek over Ashley Hinson in Iowa. Republicans entered the election with a 53–47 Senate majority; Democrats needed a net gain of four seats. Results are media projections, not certification. No market reaction attributable to these specific calls was verified.",
+          "analysis": "Interpretation: Additional pickups change the Senate-control outlook and potentially fiscal-policy negotiations, but do not themselves quantify a Treasury or foreign-exchange market reaction.",
+          "watch_next": "Remaining Senate races, confirmed majority balance, certification, and measured US rates, FX and equity reactions.",
+          "earlier": "Previous v2 (11:47:09 AM SGT) covered the projected Democratic House majority and individual seat flips, with Senate control unsettled. Reuters now reports four further projected Democratic Senate pickups in Texas, Ohio, Kansas and Iowa.",
+          "source_urls": [
+            "https://www.reuters.com/world/us/james-talarico-becomes-first-democrat-win-statewide-texas-since-1994-2026-11-04/",
+            "https://www.reuters.com/world/us/democrat-sherrod-brown-wins-back-us-senate-seat-ohio-2026-11-04/",
+            "https://www.reuters.com/world/us/adam-hamilton-becomes-first-democrat-elected-us-senate-kansas-94-years-2026-11-04/",
+            "https://www.reuters.com/world/democrat-josh-turek-flips-republican-held-us-senate-seat-iowa-2026-11-04/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261104-UAE-PMI-PRICE-PRESSURE",
+          "version": 1,
+          "status": "new",
+          "freshness": "current",
+          "topic": "MACRO_INFLATION_MIDDLE_EAST",
+          "headline": "UAE non-oil firms increase selling prices at fastest pace since PMI survey began in 2009",
+          "body": "S&P Global reported UAE non-oil PMI of 54.8 in October versus 55.3 in September, above the 50 expansion threshold. Reuters said selling prices rose at the fastest rate since the survey began in August 2009, while input-cost inflation was highest since June 2022, including raw materials, fuel, energy and freight. New orders accelerated; employment edged down. No attributable market reaction was verified.",
+          "analysis": "Interpretation: Strong demand coexists with price pressure that may affect borrowers' margins and regional credit; this PMI is not an observed CPI surprise.",
+          "watch_next": "Subsequent UAE inflation and PMI releases and corporate margin developments.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/middle-east/uae-non-oil-firms-raise-prices-record-pace-october-pmi-shows-2026-11-04/"
+          ],
+          "development_at": null
+        }
+      ],
+      "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859"
+    },
+    {
+      "id": "reuters-hourly-20261104T034709Z",
+      "report_at": "2026-11-04T11:52:07+08:00",
+      "cutoff": "2026-11-04T11:47:09+08:00",
+      "window_start": "2026-11-04T10:47:09+08:00",
+      "coverage": "partial",
+      "summary": "Partial Reuters report covering 4 November 2026, 10:47:09–11:47:09 SGT. One material US House projection follow-up, plus North Korean missiles and US crude inventory catch-up. Selected Reuters developments only; not an exhaustive wire scan.",
+      "limitations": [
+        "Targeted Reuters research; an exhaustive wire scan and full cross-edition audit were not completed.",
+        "No previously verified complete-scan cutoff; missing earlier reports and reporting intervals remain coverage gaps.",
+        "Some earlier daily briefing excerpts and same-URL revision histories were unavailable or incomplete.",
+        "Reuters publication timestamps do not establish precise underlying event or market-reaction times; development_at remains null.",
+        "Source publisher updates and complete cross-briefing duplicate checks remain unverified.",
+        "No directly attributable market reaction to House projection or North Korean launch was verified. API inventory figures were preliminary and not EIA official data."
+      ],
+      "original_url": null,
+      "sources": [
+        {
+          "url": "https://www.reuters.com/world/us/democrats-projected-win-majority-control-us-house-us-media-project-2026-11-04/",
+          "title": "Democrats projected to win majority control of US House, US media project",
+          "published_at": "2026-11-04T03:18Z"
+        },
+        {
+          "url": "https://www.reuters.com/world/us/democrats-flip-us-representative-ryan-mackenzies-pennsylvania-district-2026-11-04/",
+          "title": "Democrats flip US Representative Ryan Mackenzie's Pennsylvania district",
+          "published_at": "2026-11-04T03:23Z"
+        },
+        {
+          "url": "https://www.reuters.com/world/asia-pacific/north-korea-fires-unidentified-projectile-toward-sea-off-its-east-coast-seoul-2026-11-04/",
+          "title": "North Korea fires multiple missiles in fourth weapons launch in a month, Seoul says",
+          "published_at": "2026-11-04T01:57Z"
+        },
+        {
+          "url": "https://www.reuters.com/business/energy/oil-edges-down-investors-await-us-midterm-election-results-2026-11-04/",
+          "title": "Oil edges down as investors await US midterm election results",
+          "published_at": "2026-11-04T02:10Z"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261104-US-MIDTERMS-ADDITIONAL-FLIPS",
+          "version": 2,
+          "status": "follow-up",
+          "freshness": "current",
+          "topic": "US_POLITICS_FISCAL_POLICY",
+          "headline": "Democrats projected to win majority control of US House",
+          "body": "Reuters published at 03:18 UTC that US media projected Democrats to win House majority; not certified final count. At 03:23 UTC Reuters reported Democrat Bob Brooks projected to flip Republican Ryan Mackenzie Pennsylvania district. Senate control remained unresolved in accessible Reuters coverage.",
+          "analysis": "A prospective Democratic House majority changes legislative and oversight dynamics and may affect fiscal, Treasury supply, healthcare and AI regulation expectations.",
+          "watch_next": "Final House projections and certification; Senate majority; effects on USD, Treasuries and AI stocks only when independently measured.",
+          "earlier": "Previous report covered individual House and Senate seat flips with control of Congress unresolved. The US House majority itself is now projected for Democrats, beyond isolated seat flips. Pennsylvania seat newly reported as another Republican-to-Democrat flip.",
+          "source_urls": [
+            "https://www.reuters.com/world/us/democrats-projected-win-majority-control-us-house-us-media-project-2026-11-04/",
+            "https://www.reuters.com/world/us/democrats-flip-us-representative-ryan-mackenzies-pennsylvania-district-2026-11-04/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261104-NK-MULTIPLE-MISSILE-LAUNCH",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "ASIA_GEOPOLITICAL_RISK",
+          "headline": "North Korea launches multiple missiles, its fourth weapons test in a month",
+          "body": "South Korea Defence Ministry said North Korea fired multiple missiles from Sondok toward waters off its east coast. Fourth such weapons launch within a month; Seoul and Washington were analysing the launch. Reuters did not establish a new military confrontation or quantifiable market reaction.",
+          "analysis": "A regional security risk relevant to Asian risk sentiment, but no evidence from the cited report of an immediate FX/portfolio repricing.",
+          "watch_next": "Missile classification, allied response and regional-market implications if Reuters subsequently establishes them.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/asia-pacific/north-korea-fires-unidentified-projectile-toward-sea-off-its-east-coast-seoul-2026-11-04/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261104-US-API-CRUDE-DRAW",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "GLOBAL_MARKETS_ENERGY_INVENTORIES",
+          "headline": "Industry data show US crude inventories unexpectedly fall 5.27 million barrels",
+          "body": "Market sources citing API indicated US crude stocks decreased 5.27 million barrels in the week ended 30 October; eight Reuters-polled analysts expected an increase of about 880,000 barrels. Reuters observed Brent down 26 cents to US$103.34 and WTI down 53 cents to US$95.56 at 01:57 UTC, before this Reuters article publication. Official EIA crude inventory release scheduled for 4 Nov 15:30 UTC / 23:30 SGT, not yet available as of cutoff.",
+          "analysis": "Larger-than-expected industry stock draw is supportive for physical oil balance, while geopolitical and demand expectations could dominate price; compare with official EIA data before extrapolating.",
+          "watch_next": "Official EIA inventory report 4 Nov 23:30 SGT; Middle East developments and Brent/WTI movements.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/energy/oil-edges-down-investors-await-us-midterm-election-results-2026-11-04/"
+          ],
+          "development_at": null
+        }
+      ],
+      "source_report_key": "027561cadd4342dab1fba5b1c16913066eaf0f9738c5526dd3784b61d706a416"
+    },
+    {
+      "id": "reuters-hourly-20261104T031602Z",
+      "report_at": "2026-11-04T11:20:12+08:00",
+      "cutoff": "2026-11-04T11:16:02+08:00",
+      "window_start": "2026-11-04T10:16:02+08:00",
+      "coverage": "partial",
+      "summary": "Partial Reuters report covering 4 November 2026, 10:16:02–11:16:02 SGT. One new election story and one material AMD follow-up. Selected Reuters developments only; not an exhaustive wire scan.",
+      "limitations": [
+        "Targeted Reuters research; an exhaustive wire scan and full cross-edition audit were not completed.",
+        "No previously verified complete-scan cutoff; missing earlier reports and reporting intervals remain coverage gaps.",
+        "Some earlier daily briefing excerpts and same-URL revision histories were unavailable or incomplete.",
+        "Reuters publication timestamps do not establish precise underlying event or market-reaction times; development_at remains null.",
+        "Source publisher updates and complete cross-briefing duplicate checks remain unverified.",
+        "South Carolina Senate coverage was revised under an older Reuters article URL without a verified revision timestamp; not treated as breaking."
+      ],
+      "original_url": null,
+      "sources": [
+        {
+          "url": "https://www.reuters.com/world/us/democrats-flip-us-representative-tom-keans-new-jersey-district-2026-11-04/",
+          "title": "Democrats flip US Representative Tom Kean's New Jersey district",
+          "published_at": "2026-11-04T02:52:53Z"
+        },
+        {
+          "url": "https://www.reuters.com/world/us/trump-faces-midterm-verdict-with-control-congress-stake-2026-11-03/",
+          "title": "Democrats win South Carolina Senate race in rebuke to Trump",
+          "published_at": "2026-11-03T06:04:22Z"
+        },
+        {
+          "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-11-04/",
+          "title": "Stocks, dollar slide after some early wins for Democrats in US midterm election",
+          "published_at": "2026-11-04T01:06:00Z"
+        },
+        {
+          "url": "https://www.reuters.com/legal/transactional/amds-openai-meta-chip-deals-trigger-1-billion-quarterly-charge-2026-11-04/",
+          "title": "AMD's OpenAI, Meta chip deals trigger $1 billion quarterly charge",
+          "published_at": "2026-11-04T02:12:44Z"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261104-US-MIDTERMS-ADDITIONAL-FLIPS",
+          "version": 1,
+          "status": "new",
+          "freshness": "current",
+          "topic": "US_POLITICS_FISCAL_POLICY_GLOBAL_MARKETS",
+          "headline": "Democrats gain additional congressional seats, including NJ House and SC Senate",
+          "body": "New Jersey 7th House district projected flipped from Republican Tom Kean to Democrat Rebecca Bennett. Reuters' substantially revised older election article reports South Carolina Senate flip by Democrat Annie Andrews; precise revision timestamp unknown. Earlier Reuters Asian market report observed US 10Y yield down 6bp at 4.906%, S&P500 futures -0.8% and Nasdaq futures -1.8%; not attributable specifically to the subsequently reported seat flips.",
+          "analysis": "Changes the path to congressional control and potentially fiscal/tech oversight; chambers remain undecided.",
+          "watch_next": "Watch additional Senate/House races, certifications, fiscal policy statements and rate market reaction.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/us/democrats-flip-us-representative-tom-keans-new-jersey-district-2026-11-04/",
+            "https://www.reuters.com/world/us/trump-faces-midterm-verdict-with-control-congress-stake-2026-11-03/",
+            "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-11-04/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261103-AMD-Q3-Q4-GUIDANCE",
+          "version": 2,
+          "status": "follow-up",
+          "freshness": "catch-up",
+          "topic": "EQUITIES_AI_FINANCING",
+          "headline": "AMD discloses $1.07bn noncash charge tied to AI-customer equity warrants",
+          "body": "AMD recorded Q3 USD1.07bn noncash warrant charge, equal to 66 cents per share. OpenAI and Meta warrants could separately allow ownership stakes of roughly 10%, conditional on vesting and exercise. More AMD guidance on warrant conditions expected in 2027.",
+          "analysis": "Strong AI growth coexists with dilutive equity incentives; noncash charge not immediate cash expenditure.",
+          "watch_next": "Monitor vesting conditions, diluted share count and cash gross margins.",
+          "earlier": "R-20261103-AMD-Q3-Q4-GUIDANCE v1, hourly report cutoff 2026-11-04 05:30:55 SGT ",
+          "source_urls": [
+            "https://www.reuters.com/legal/transactional/amds-openai-meta-chip-deals-trigger-1-billion-quarterly-charge-2026-11-04/"
+          ],
+          "development_at": null
+        }
+      ],
+      "source_report_key": "027561cadd4342dab1fba5b1c16913066eaf0f9738c5526dd3784b61d706a416"
+    },
+    {
+      "id": "reuters-hourly-20261103T235946Z",
+      "report_at": "2026-11-04T08:04:11+08:00",
+      "window_start": "2026-11-04T06:59:46+08:00",
+      "cutoff": "2026-11-04T07:59:46+08:00",
+      "coverage": "partial",
+      "summary": "Partial targeted Reuters scan ending 2026-11-04T07:59:46+08:00. 3 newly selected stories, including 2 catch-up discoveries. Coverage is not exhaustive; no claim of a complete Reuters wire scan.",
+      "limitations": [
+        "Targeted accessible Reuters coverage, not an exhaustive wire scan; some developments may be missing.",
+        "No prior completed-scan cutoff has been established, leaving unrecovered coverage gaps.",
+        "Some daily briefing extracts were truncated, limiting cross-edition duplication checks.",
+        "Original article publication times were verified to minute precision; later revisions and some trade-observation times could not be established."
+      ],
+      "original_url": null,
+      "sources": [
+        {
+          "url": "https://www.reuters.com/world/us-has-no-immediate-plan-strike-iran-trump-tells-ft-2026-11-03/",
+          "title": "US has no immediate plan to strike Iran, Trump tells FT",
+          "published_at": "2026-11-03T23:48:00Z"
+        },
+        {
+          "url": "https://www.reuters.com/legal/litigation/cvs-health-explores-splitting-retail-pharmacy-insurance-businesses-ft-reports-2026-11-03/",
+          "title": "CVS Health to break up into two companies, WSJ reports",
+          "published_at": "2026-11-03T22:42:00Z"
+        },
+        {
+          "url": "https://www.reuters.com/world/asia-pacific/hong-kong-third-quarter-gdp-expands-by-52-year-on-year-2026-11-03/",
+          "title": "Hong Kong Q3 GDP expands by 5.2% year-on-year, outlook positive",
+          "published_at": "2026-11-03T08:47:00Z"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261103-US-IRAN-NOSTRIKE",
+          "version": 1,
+          "status": "new",
+          "freshness": "current",
+          "topic": "RISKS / GEOPOLITICS / COMMODITIES",
+          "headline": "Trump says no immediate US strike planned against Iran",
+          "body": "Reuters reported President Donald Trump told the Financial Times the United States had no immediate plans to strike Iran. The report did not establish a formal ceasefire or peace agreement.",
+          "analysis": "Potential short-term geopolitical de-escalation signal, but insufficient to infer a specific oil-price or interest-rate reaction.",
+          "watch_next": "Formal US statement, Iran response and any confirmed progress in negotiations.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/us-has-no-immediate-plan-strike-iran-trump-tells-ft-2026-11-03/"
+          ],
+          "development_at": "2026-11-03T23:48:00Z"
+        },
+        {
+          "story_id": "R-20261103-CVS-SEPARATION",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "EQUITIES / CREDIT / HEALTHCARE / CORPORATE_RESTRUCTURING",
+          "headline": "CVS Health reportedly plans to separate pharmacy and insurance businesses",
+          "body": "Reuters reported that, according to the Wall Street Journal, CVS Health would split into two businesses separating retail pharmacies from insurance and pharmacy-benefit operations. CVS had not immediately responded to Reuters for confirmation.",
+          "analysis": "Potential changes to debt allocation and credit risk profiles across the resulting issuers.",
+          "watch_next": "Official CVS confirmation, debt allocation, transaction terms and guidance.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/legal/litigation/cvs-health-explores-splitting-retail-pharmacy-insurance-businesses-ft-reports-2026-11-03/"
+          ],
+          "development_at": "2026-11-03T22:42:00Z"
+        },
+        {
+          "story_id": "R-20261103-HK-Q3-GDP",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "MACRO / ASIA / CLIENT_RELEVANCE",
+          "headline": "Hong Kong third-quarter GDP exceeds Reuters-polled expectations",
+          "body": "Hong Kong third-quarter GDP expanded 5.2% year over year, ahead of a 3.6% Reuters-polled forecast. Total goods exports increased 30.4% year over year.",
+          "analysis": "Indicates stronger regional export activity; does not establish a change to MAS policy or USD/SGD.",
+          "watch_next": "GDP revisions, export momentum, and regional demand resilience.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/asia-pacific/hong-kong-third-quarter-gdp-expands-by-52-year-on-year-2026-11-03/"
+          ],
+          "development_at": "2026-11-03T08:47:00Z"
+        }
+      ],
+      "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859"
+    },
+    {
+      "id": "reuters-hourly-20261103T232056Z",
+      "report_at": "2026-11-03T23:25:08Z",
+      "window_start": "2026-11-03T22:20:56Z",
+      "cutoff": "2026-11-03T23:20:56Z",
+      "coverage": "partial",
+      "summary": "Partial targeted Reuters scan ending 2026-11-03T23:20:56Z. 4 newly selected stories, including 2 catch-up discoveries. Coverage is not exhaustive; no claim of a complete Reuters wire scan.",
+      "limitations": [
+        "Targeted accessible Reuters coverage, not an exhaustive wire scan; some developments may be missing.",
+        "No prior completed-scan cutoff has been established, leaving unrecovered coverage gaps.",
+        "Some daily briefing extracts were truncated, limiting cross-edition duplication checks.",
+        "Original article publication times were verified to minute precision; later revisions and some trade-observation times could not be established."
+      ],
+      "original_url": null,
+      "sources": [
+        {
+          "url": "https://www.reuters.com/technology/meta-raises-15-billion-in-five-part-us-bond-sale-2026-11-03/",
+          "title": "Meta raises $15 billion in five-part US bond sale",
+          "published_at": "2026-11-03T22:50Z"
+        },
+        {
+          "url": "https://www.reuters.com/business/skyworks-tumbles-sluggish-smartphone-market-weighs-forecast-2026-11-03/",
+          "title": "Skyworks tumbles as sluggish smartphone market weighs on forecast",
+          "published_at": "2026-11-03T22:09Z"
+        },
+        {
+          "url": "https://www.reuters.com/business/world-at-work/australias-canva-cut-22-jobs-growth-slows-first-time-decade-2026-11-03/",
+          "title": "Australia's Canva to cut 22% of jobs as growth slows for first time in a decade",
+          "published_at": "2026-11-03T22:11Z"
+        },
+        {
+          "url": "https://www.reuters.com/business/energy/canadas-suncor-energy-tops-quarterly-profit-estimates-2026-11-03/",
+          "title": "Canada's Suncor Energy tops quarterly profit estimates",
+          "published_at": "2026-11-03T22:42Z"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261103-META-USD15B-BONDS",
+          "version": 1,
+          "status": "new",
+          "freshness": "current",
+          "topic": "rates-credit-ai",
+          "headline": "Meta raises US$15 billion in five-part bond sale",
+          "body": "Reuters reported Meta Platforms is raising US$15 billion through a five-part US-dollar bond offering to fund AI infrastructure investments.",
+          "analysis": "Additional large technology bond issuance may compete for investor capital; pricing and duration are needed before inferring any Treasury-yield or corporate-spread impact.",
+          "watch_next": "Final tranche pricing, coupons, maturities and spreads over matched-maturity Treasuries.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/technology/meta-raises-15-billion-in-five-part-us-bond-sale-2026-11-03/"
+          ],
+          "development_at": "2026-11-03T22:50Z"
+        },
+        {
+          "story_id": "R-20261103-SKYWORKS-Q1-WEAK-GUIDANCE",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "equities-semiconductors",
+          "headline": "Skyworks warns of smartphone weakness and guides below consensus",
+          "body": "Skyworks forecast first-quarter revenue and earnings below Wall Street expectations amid continued smartphone demand weakness. Reuters reported the stock fell more than 14% in extended trading; precise price-observation time was not established.",
+          "analysis": "Demand weakness in premium Android smartphones contrasts with AI datacentre strength; integration synergies are not yet achieved cash flow.",
+          "watch_next": "Actual first-quarter demand, gross margins, Qorvo integration and savings delivery.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/skyworks-tumbles-sluggish-smartphone-market-weighs-forecast-2026-11-03/"
+          ],
+          "development_at": "2026-11-03T22:09Z"
+        },
+        {
+          "story_id": "R-20261103-CANVA-RESTRUCTURE-JOBS",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "equities-tech-labour",
+          "headline": "Canva announces 1,271 job cuts as growth slows",
+          "body": "Australian design software company Canva announced 1,271 job cuts, approximately 22% of its workforce, after growth slowed for the first time in a decade.",
+          "analysis": "Company-specific hiring retrenchment highlights differentiation between software operating economics and capital-intensive AI hardware demand; not a national jobs data surprise.",
+          "watch_next": "Restructuring execution, renewal trends, remaining workforce capacity and margins.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/world-at-work/australias-canva-cut-22-jobs-growth-slows-first-time-decade-2026-11-03/"
+          ],
+          "development_at": "2026-11-03T22:11Z"
+        },
+        {
+          "story_id": "R-20261103-SUNCOR-Q3-PROFIT-DIVIDEND",
+          "version": 1,
+          "status": "new",
+          "freshness": "current",
+          "topic": "energy-equities",
+          "headline": "Suncor beats quarterly profit estimates and raises dividend",
+          "body": "Suncor reported adjusted operating profit of C$3.97 a share against the C$3.28 LSEG estimate for the third quarter. It raised its quarterly dividend 10% to C$0.66 a share.",
+          "analysis": "Elevated oil and refining margins can improve integrated energy cash flows while increasing cost pressure elsewhere; a single quarter is not a forward oil-price forecast.",
+          "watch_next": "Dividend funding, realised refinery margins and next-quarter crude pricing.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/energy/canadas-suncor-energy-tops-quarterly-profit-estimates-2026-11-03/"
+          ],
+          "development_at": "2026-11-03T22:42Z"
+        }
+      ],
+      "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859"
+    },
+    {
+      "id": "reuters-hourly-20261103T213055Z",
+      "report_at": "2026-11-03T21:35:32Z",
+      "window_start": "2026-11-04T04:30:55+08:00",
+      "cutoff": "2026-11-04T05:30:55+08:00",
+      "coverage": "partial",
+      "summary": "Targeted Reuters discovery from 4 November 2026, 4:30:55–5:30:55 AM Singapore time. Five newly published Reuters earnings developments were verified: AMD, Super Micro Computer, Block, LATAM Airlines and Amgen. Coverage was partial, not an exhaustive hourly newswire audit.",
+      "limitations": [
+        "Targeted five-article Reuters scan; other new Reuters developments during this hour may have been missed.",
+        "No prior verified complete-scan cutoff exists; earlier coverage gaps, including the previous hour’s missing artifact, remain unresolved.",
+        "Original publication times are verified to the minute, not second; no exact later update times were verified.",
+        "Daily US earnings, central bank and credit research could be compared only partially; full cross-report duplication coverage is not established.",
+        "Exact price-observation times for after-hours market reactions were unavailable. This edition contains no live stock prices."
+      ],
+      "original_url": null,
+      "sources": [
+        {
+          "url": "https://www.reuters.com/business/amd-forecasts-quarterly-revenue-above-estimates-data-center-growth-accelerates-2026-11-03/",
+          "title": "AMD forecasts quarterly revenue above estimates as data-center growth accelerates",
+          "published_at": "2026-11-03T21:18Z"
+        },
+        {
+          "url": "https://www.reuters.com/business/super-micro-forecasts-quarterly-revenue-above-estimates-strong-ai-server-demand-2026-11-03/",
+          "title": "Super Micro forecasts quarterly revenue above estimates on strong AI server demand",
+          "published_at": "2026-11-03T21:07Z"
+        },
+        {
+          "url": "https://www.reuters.com/business/block-raises-full-year-profit-outlook-cash-app-drives-q3-growth-2026-11-03/",
+          "title": "Block raises full-year profit outlook as Cash App drives Q3 growth",
+          "published_at": "2026-11-03T21:09Z"
+        },
+        {
+          "url": "https://www.reuters.com/business/latam-airlines-trims-earnings-outlook-fuel-costs-bite-2026-11-03/",
+          "title": "LATAM Airlines trims earnings outlook as fuel costs bite",
+          "published_at": "2026-11-03T21:18Z"
+        },
+        {
+          "url": "https://www.reuters.com/legal/litigation/amgen-third-quarter-sales-rise-8-led-by-cholesterol-cancer-drugs-2026-11-03/",
+          "title": "Amgen third quarter sales rise 8%, led by cholesterol, cancer drugs",
+          "published_at": "2026-11-03T21:05Z"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261103-AMD-Q3-Q4-GUIDANCE",
+          "version": 1,
+          "status": "new",
+          "freshness": "current",
+          "topic": "equities-ai",
+          "headline": "AMD beats quarterly estimates and forecasts further data-centre growth",
+          "body": "Fourth-quarter revenue guidance approximately $17 billion plus or minus 3%, versus LSEG consensus $16.23 billion. Third-quarter revenue $13.38 billion, +45%; data-center revenue $8.55 billion, +97%. Adjusted EPS $2.09 versus $1.95 consensus; guided adjusted gross margin approximately 55% versus 55.27% consensus. Reuters reported AMD shares rising more than 6% in extended trading; exact observation time not verified.",
+          "analysis": "AI demand is supporting revenue, but gross-margin guidance slightly below consensus raises a profitability watchpoint.",
+          "watch_next": "Helios rack ramp, Meta deployments, margin and memory supply; full earnings follow-up.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/amd-forecasts-quarterly-revenue-above-estimates-data-center-growth-accelerates-2026-11-03/"
+          ],
+          "development_at": "2026-11-03T21:18Z"
+        },
+        {
+          "story_id": "R-20261103-SMCI-Q1-FY27-GUIDANCE",
+          "version": 1,
+          "status": "new",
+          "freshness": "current",
+          "topic": "equities-ai",
+          "headline": "Super Micro raises FY2027 sales forecast on AI-server demand",
+          "body": "First-quarter revenue $19.95 billion versus LSEG consensus $16.39 billion; adjusted EPS $1.81 versus $1.23 consensus. Next-quarter revenue outlook $19.5-$21.5 billion versus $17.14 billion consensus. FY2027 forecast raised to $72.0-$82.0 billion from $65.0-$72.0 billion.",
+          "analysis": "AI server demand supports growth, but scaling and export-control compliance remain material execution risks.",
+          "watch_next": "Gross margins, working capital, cash conversion and export-control compliance.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/super-micro-forecasts-quarterly-revenue-above-estimates-strong-ai-server-demand-2026-11-03/"
+          ],
+          "development_at": "2026-11-03T21:07Z"
+        },
+        {
+          "story_id": "R-20261103-BLOCK-Q3-2026-GUIDANCE",
+          "version": 1,
+          "status": "new",
+          "freshness": "current",
+          "topic": "credit-equities-fintech",
+          "headline": "Block raises gross profit guidance as receivables losses rise",
+          "body": "2026 gross profit outlook raised to $12.63 billion from $12.51 billion. Cash App gross profit +27% year-on-year in Q3; Square gross profit +14%. Losses on transaction, loan and consumer receivables rose 65.6% to $601.7 million in Q3; the specific comparison period for this figure was not stated in the inspected report.",
+          "analysis": "Consumer payment growth is strong, but credit losses matter for risk-adjusted profitability; not evidence of sector-wide delinquencies.",
+          "watch_next": "Receivables losses, repayment trends, 2027 gross profit guidance and source of AI-related revenue.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/block-raises-full-year-profit-outlook-cash-app-drives-q3-growth-2026-11-03/"
+          ],
+          "development_at": "2026-11-03T21:09Z"
+        },
+        {
+          "story_id": "R-20261103-LATAM-FUEL-EBITDA",
+          "version": 1,
+          "status": "new",
+          "freshness": "current",
+          "topic": "equities-energy-credit",
+          "headline": "LATAM cuts 2026 EBITDA outlook on fuel cost pressure",
+          "body": "Adjusted 2026 EBITDA guidance cut to $3.9-$4.05 billion from $4.1-$4.4 billion. Q3 revenue $4.57 billion and adjusted EBITDA $1.10 billion versus LSEG consensus $1.05 billion. Average fuel prices increased more than 50% versus year earlier, costing approximately $520 million in Q3.",
+          "analysis": "An airline can experience resilient demand yet face margin pressure if fuel costs rise faster than fares.",
+          "watch_next": "Fuel prices, capacity adjustment, operating margin and debt-servicing flexibility.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/latam-airlines-trims-earnings-outlook-fuel-costs-bite-2026-11-03/"
+          ],
+          "development_at": "2026-11-03T21:18Z"
+        },
+        {
+          "story_id": "R-20261103-AMGEN-Q3-2026-OUTLOOK",
+          "version": 1,
+          "status": "new",
+          "freshness": "current",
+          "topic": "equities-earnings-healthcare",
+          "headline": "Amgen raises 2026 outlook after earnings beat",
+          "body": "Third-quarter revenue $10.4 billion versus $10.1 billion consensus; adjusted EPS $6.45 versus $5.79 consensus. 2026 adjusted EPS range raised to $22.90-$23.70 from $22.30-$23.50. 2026 revenue outlook raised to $38.9-$39.7 billion from $38.2-$39.4 billion.",
+          "analysis": "Stronger drug portfolio sales support guidance; clinical and competitive risks remain.",
+          "watch_next": "Drug pipeline trial data, Repatha competitive pressure, execution of revised guidance.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/legal/litigation/amgen-third-quarter-sales-rise-8-led-by-cholesterol-cancer-drugs-2026-11-03/"
+          ],
+          "development_at": "2026-11-03T21:05Z"
+        }
+      ],
+      "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859"
+    },
+    {
+      "id": "reuters-hourly-20261103T192627Z",
+      "report_at": "2026-11-03T19:30:56Z",
+      "cutoff": "2026-11-03T19:26:27Z",
+      "window_start": "2026-11-03T18:26:27Z",
+      "coverage": "partial",
+      "summary": "Targeted Reuters research identified 2 newly published items in the primary 02:26–03:26 SGT window (SK Hynix/Solidigm export licences and BMW 2026 guidance) plus 3 older eligible catch-up stories on ECB commentary, China FX reserve rules and Virgin Media O2 restructuring. Coverage remains partial; no comprehensive Reuters wire or full historical revision audit was available.",
+      "limitations": [
+        "Reuters access was a targeted website/search check, not an exhaustive Reuters wire audit.",
+        "Full same-URL revision comparisons for every active Reuters thread could not be established.",
+        "Saved story register contains no completed-scan cutoff; uncovered reporting intervals remain pending.",
+        "Latest daily earnings, central-bank and bond/credit briefing extracts were accessible but truncated.",
+        "Exact Reuters subsequent article-update timestamps and price observation times were not independently verified.",
+        "No notification receipt, publisher completion or Library register update inferred from this report.",
+        "Reuters original article publication timestamps have minute precision; no second-level accuracy is claimed.",
+        "Article publication times do not establish exact underlying news-development times. Development timestamps are therefore null and no item is labelled breaking."
+      ],
+      "original_url": null,
+      "sources": [
+        {
+          "url": "https://www.reuters.com/world/china/sk-hynixs-new-york-chip-plans-hit-snag-over-us-restrictions-china-sources-say-2026-11-03/",
+          "title": "SK Hynix's New York chip plans hit snag over US restrictions on China, sources say",
+          "published_at": "2026-11-03T18:50Z"
+        },
+        {
+          "url": "https://www.reuters.com/business/bmw-lowers-2026-automotive-ebit-margin-outlook-deliveries-2026-11-03/",
+          "title": "BMW lowers 2026 automotive EBIT margin outlook and deliveries",
+          "published_at": "2026-11-03T19:06Z"
+        },
+        {
+          "url": "https://www.reuters.com/business/bundesbanks-nagel-joins-ecb-chorus-backing-december-rate-hike-2026-11-03/",
+          "title": "Bundesbank's Nagel joins ECB chorus backing December rate hike",
+          "published_at": "2026-11-03T18:01Z"
+        },
+        {
+          "url": "https://www.reuters.com/world/asia-pacific/china-raise-forex-deposit-reserve-ratio-6-starting-november-15-2026-11-03/",
+          "title": "China to raise FX reserve requirement to slow yuan's rally",
+          "published_at": "2026-11-03T00:55Z",
+          "verification_url": "https://www.investing.com/news/economy-news/china-to-raise-forex-deposit-reserve-ratio-to-6-starting-november-15-4993312"
+        },
+        {
+          "url": "https://www.reuters.com/business/media-telecom/uks-virgin-media-o2-slash-jobs-halt-fibre-roll-out-2026-11-03/",
+          "title": "Virgin Media O2 to cut thousands of jobs and halt UK fibre expansion",
+          "published_at": "2026-11-03T07:47Z"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261103-SKHYNIX-SOLIDIGM-LICENCES",
+          "version": 1,
+          "status": "new",
+          "freshness": "current",
+          "topic": "equities_and_ai, trade_restrictions",
+          "headline": "SK Hynix US chip expansion faces China export-licence obstacle",
+          "body": "US officials have not approved the equipment-export licences sought for SK Hynix Dalian expansion, according to Reuters sources. Solidigm is considering about US$45 billion investment in New York NAND facilities, potentially about US$100 billion over time; no location decision made. Officials have not formally rejected the requested licences.",
+          "analysis": "US-China technology restrictions may delay or complicate financing a large US semiconductor buildout; a proposal is not committed capital expenditure.",
+          "watch_next": "US Commerce and White House export-licence decisions; formal Solidigm investment announcement.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/china/sk-hynixs-new-york-chip-plans-hit-snag-over-us-restrictions-china-sources-say-2026-11-03/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261103-BMW-OUTLOOK-2026",
+          "version": 1,
+          "status": "new",
+          "freshness": "current",
+          "topic": "equities, credit",
+          "headline": "BMW cuts 2026 automotive margin and delivery outlook",
+          "body": "BMW lowered its 2026 automotive EBIT margin forecast to negative 0.5% to positive 0.5%. BMW expects a moderate decrease in automotive deliveries in 2026. BMW will accelerate management-function reductions.",
+          "analysis": "Reduced margins merit closer attention to automotive cash flow and credit quality; resulting cash-flow amount was not quantified in this Reuters article.",
+          "watch_next": "Full earnings detail, operating cash flow, restructuring costs and deliveries.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/bmw-lowers-2026-automotive-ebit-margin-outlook-deliveries-2026-11-03/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261103-ECB-NAGEL-DEC-HIKE",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "central_banks, rates, fx",
+          "headline": "Bundesbank Nagel backs likely December ECB rate hike",
+          "body": "Bundesbank President Joachim Nagel said a December ECB rate hike appears very likely necessary absent a significantly improved inflation outlook. ECB held its deposit rate at 2.5% last week. Investors were pricing two to three rate hikes over the coming year, according to Reuters; a December increase was not fully priced in.",
+          "analysis": "Hawkish ECB commentary reinforces euro-area funding-rate sensitivity, without confirming a policy decision or quantifying a new yield move.",
+          "watch_next": "December ECB decision, inflation data and subsequent repricing.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/bundesbanks-nagel-joins-ecb-chorus-backing-december-rate-hike-2026-11-03/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261103-PBOC-FX-RRR",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "central_banks, fx, asia",
+          "headline": "PBOC raises FX deposit reserve ratio to 6% from 4%",
+          "body": "PBOC announced the FX deposit reserve requirement ratio will rise by two percentage points to 6% from 4% effective 15 November 2026. Reuters calculates that the measure absorbs US$24 billion in FX liquidity. Onshore yuan weakened as much as 0.37% to 6.6728 per dollar after the announcement; exact price observation time not independently verified.",
+          "analysis": "The policy signals PBOC concern about one-way yuan appreciation and alters bank FX liquidity; it does not establish USD/SGD or USD/CHF moves.",
+          "watch_next": "15 November implementation, USD/CNH responses and daily PBOC fixings.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/asia-pacific/china-raise-forex-deposit-reserve-ratio-6-starting-november-15-2026-11-03/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261103-VMO2-RESTRUCTURE-DEBT",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "credit, telecom, corporate_restructuring",
+          "headline": "Virgin Media O2 targets restructuring as high debt weighs",
+          "body": "Virgin Media O2 reports £22 billion of debt, equal to 5.6 times annualised third-quarter core earnings. Management targets £800 million savings by 2029, partly through reducing wage costs by 30%. Plans for fibre expansion have been curtailed amid competition and regulatory obstacles.",
+          "analysis": "Illustrates leverage, constrained organic investment and competitive pressure in the telecom sector, but Reuters did not report a default.",
+          "watch_next": "Refinancing terms, net leverage, cash generation and execution of savings.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/media-telecom/uks-virgin-media-o2-slash-jobs-halt-fibre-roll-out-2026-11-03/"
+          ],
+          "development_at": null
+        }
+      ],
+      "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859"
+    },
+    {
+      "id": "reuters-hourly-20261103T174721Z",
+      "report_at": "2026-11-04T01:50:51+08:00",
+      "cutoff": "2026-11-03T17:47:21Z",
+      "window_start": "2026-11-04T00:47:21+08:00",
+      "coverage": "partial",
+      "summary": "Targeted Reuters hourly scan through 4 Nov 2026 01:47:21 SGT: two new Reuters articles in the primary 60-minute reporting window (Polymarket futures-broker approval and Congo mining inquiry) plus one older eligible Shell LNG transaction catch-up. No instrument-specific market price reactions verified; not an exhaustive Reuters-wire scan.",
+      "limitations": [
+        "Reuters site search and accessible source pages are not an exhaustive Reuters wire scan",
+        "Some earlier completed briefing extracts are truncated",
+        "Completed-scan cutoff is null in accessible Library register; uncovered earlier intervals remain",
+        "Exact latest substantive Reuters update times not verified and therefore stored as null",
+        "Market prices are not asserted live and no unverified price reactions are inferred",
+        "Reuters publication times were verified but exact underlying event and substantive update timestamps remain unknown; no story is labelled breaking.",
+        "Congo investigative allegations are not court findings and production interruptions are not established."
+      ],
+      "original_url": null,
+      "sources": [
+        {
+          "url": "https://www.reuters.com/business/finance/polymarket-unit-gets-us-industry-organizations-approval-be-futures-broker-2026-11-03/",
+          "title": "Polymarket unit gets US industry organization's approval to be futures broker",
+          "published_at": "2026-11-03T17:19:00Z"
+        },
+        {
+          "url": "https://www.reuters.com/world/africa/congo-opens-mining-fraud-inquiry-after-copper-cobalt-seizures-statement-shows-2026-11-03/",
+          "title": "Congo opens mining fraud inquiry after copper and cobalt seizures, statement shows",
+          "published_at": "2026-11-03T16:54:00Z"
+        },
+        {
+          "url": "https://www.reuters.com/business/shell-agrees-sell-north-west-shelf-interest-adnocs-xrg-145-billion-2026-11-03/",
+          "title": "Shell to sell North West Shelf stake to XRG for $1.45 billion",
+          "published_at": "2026-11-03T06:12:00Z"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261103-POLYMARKET-NFA-FCM",
+          "version": 1,
+          "status": "new",
+          "freshness": "current",
+          "topic": "Finance / derivatives",
+          "headline": "Polymarket unit approved by NFA to be futures broker",
+          "body": "The US National Futures Association approved Polymarket unit PM Derivatives LLC as a futures commission merchant. US CFTC authorisation remains required before it can act as a broker. The firm intends to run fully collateralised positions.",
+          "analysis": "Regulatory progress, but licensing and protection of customer funds remain unresolved.",
+          "watch_next": "Watch CFTC authorisation, actual operational start and customer-fund safeguards.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/finance/polymarket-unit-gets-us-industry-organizations-approval-be-futures-broker-2026-11-03/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261103-CONGO-MINING-FRAUD",
+          "version": 1,
+          "status": "new",
+          "freshness": "current",
+          "topic": "Critical minerals / enforcement",
+          "headline": "Congo opens mining fraud probe following copper and cobalt seizures",
+          "body": "DR Congo ordered investigations into suspected mining fraud and smuggling following seizure of more than 500 trucks and thousands of metric tons of copper and cobalt. Authorities separately reported over 500 pieces of equipment seized at an ERG-owned site and more than 60 foreign nationals detained. Allegations remain under investigation.",
+          "analysis": "Critical minerals supply-chain compliance risk; no global shortage confirmed.",
+          "watch_next": "Watch formal findings, production disruptions and metals-supply effects.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/africa/congo-opens-mining-fraud-inquiry-after-copper-cobalt-seizures-statement-shows-2026-11-03/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261103-SHELL-XRG-NWS",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "Energy / LNG transactions",
+          "headline": "Shell agrees to sell North West Shelf LNG stake to XRG",
+          "body": "Shell agreed to sell its 16.67% non-operated North West Shelf LNG interest to ADNOC subsidiary XRG for US$1.45 billion base consideration, with possible milestone-linked payments. The buyer assumes decommissioning obligations; closing is expected in 2027.",
+          "analysis": "LNG asset rotation; project liabilities and contingent terms matter.",
+          "watch_next": "Watch transaction approvals, contingent payments, decommissioning liabilities and actual LNG flows.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/shell-agrees-sell-north-west-shelf-interest-adnocs-xrg-145-billion-2026-11-03/"
+          ],
+          "development_at": null
+        }
+      ],
+      "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859"
+    },
+    {
+      "id": "reuters-hourly-20261103T170507Z",
+      "report_at": "2026-11-04T01:05:07+08:00",
+      "cutoff": "2026-11-03T17:05:07Z",
+      "window_start": "2026-11-03T16:05:07Z",
+      "coverage": "partial",
+      "summary": "Partial Reuters discovery for 4 November 2026, 00:05:07–01:05:07 SGT. No material new story was verified within the primary hour. One older, not-yet-published Reuters development is included as catch-up, not breaking news.",
+      "limitations": [
+        "Search results were not a comprehensive Reuters wire audit.",
+        "No verified last complete scan cutoff; unreconciled earlier intervals remain.",
+        "Accessible past report and public feed do not establish complete duplicate checking across other briefings.",
+        "Original update timestamps unavailable; Reuters display 'Updated ago' is not a verified exact time.",
+        "One catch-up development predates the primary window and may have appeared in other inaccessible reports.",
+        "No full automation output comparison completed this run.",
+        "The Reuters market figures cited are historical observations; their intraday observation times are not verified and they are not prices at this report cutoff."
+      ],
+      "original_url": null,
+      "sources": [
+        {
+          "url": "https://www.reuters.com/world/middle-east/trump-says-us-will-stop-paying-israel-after-year-end-2026-11-03/",
+          "title": "As Americans vote, Trump says US will stop $4 billion in aid to Israel",
+          "published_at": "2026-11-03T13:28:41Z"
+        },
+        {
+          "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-11-03/",
+          "title": "Stocks erase losses, oil tumbles after Trump says US will end $4 billion funding to Israel",
+          "published_at": "2026-11-03T02:24:36Z"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261103-US-ISRAEL-AID",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "US fiscal policy / Middle East / energy and rates",
+          "headline": "Trump says US will end annual funding to Israel after 2026; implementation unclear",
+          "body": "Reuters reported on 3 November that President Trump said he and Prime Minister Benjamin Netanyahu agreed to end $4 billion in annual US funding after 2026, while weapons sales could continue. Reuters noted that an existing $3.8 billion annual military-aid arrangement runs through September 2028 and that appropriations require congressional action. Separately, Reuters described an earlier market session with Brent down 2.9% at $101.75 per barrel and the US 10-year Treasury yield up 2.5 basis points to 4.9187%. These are historical market observations, not quotes at this hourly cutoff; exact intraday observation times were not independently verified.",
+          "analysis": "Interpretation: Uncertainty around implementation could affect geopolitical risk perceptions, oil prices and inflation-sensitive bond yields. The announcement does not establish that the aid has already stopped or supply a fresh FX conversion trigger.",
+          "watch_next": "Watch White House and Israeli clarification, US congressional appropriations and verified market reaction.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/middle-east/trump-says-us-will-stop-paying-israel-after-year-end-2026-11-03/",
+            "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-11-03/"
+          ],
+          "development_at": null
+        }
+      ],
+      "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859"
+    },
+    {
+      "id": "reuters-hourly-20261103T164207Z",
+      "report_at": "2026-11-04T00:45:16+08:00",
+      "cutoff": "2026-11-04T00:42:07+08:00",
+      "window_start": "2026-11-03T23:42:07+08:00",
+      "coverage": "partial",
+      "summary": "A completed report with partial Reuters source coverage verified no separate material new development in the latest-hour search. This does not establish that no Reuters news occurred.",
+      "limitations": [
+        "Targeted Reuters search and excerpts did not provide an exhaustive wire audit.",
+        "Original publication times for four context sources remain unverified; verified dates are retained without invented times.",
+        "Earlier coverage gaps and limited comparison history remain unresolved."
+      ],
+      "original_url": null,
+      "sources": [
+        {
+          "url": "https://www.reuters.com/business/retail-consumer/us-stock-futures-mixed-apple-slides-midterms-loom-2026-11-03/",
+          "title": "S&P 500, Nasdaq edge higher ahead of midterm results; Apple falls",
+          "published_at": null,
+          "published_date": "2026-11-03",
+          "publication_precision": "date"
+        },
+        {
+          "url": "https://www.reuters.com/world/asia-pacific/dollar-under-pressure-oil-prices-slump-australia-rate-decision-awaited-2026-11-03/",
+          "title": "Dollar edges higher as Mideast, US midterms eyed",
+          "published_at": null,
+          "published_date": "2026-11-03",
+          "publication_precision": "date"
+        },
+        {
+          "url": "https://www.reuters.com/markets/commodities/oil-rises-after-report-us-strike-irans-qeshm-island-2026-11-03/",
+          "title": "Oil prices slide about 2% to multi-week low amid peace talks",
+          "published_at": null,
+          "published_date": "2026-11-03",
+          "publication_precision": "date"
+        },
+        {
+          "url": "https://www.reuters.com/world/us/trump-faces-midterm-verdict-with-control-congress-stake-2026-11-03/",
+          "title": "US voters head to polls to deliver midterm verdict on Trump",
+          "published_at": null,
+          "published_date": "2026-11-03",
+          "publication_precision": "date"
+        }
+      ],
+      "stories": [],
+      "source_report_key": "027561cadd4342dab1fba5b1c16913066eaf0f9738c5526dd3784b61d706a416"
+    },
+    {
+      "id": "hourly-2026-11-01T105924-SGT",
+      "report_at": "2026-11-01T11:02:04+08:00",
+      "cutoff": "2026-11-01T10:59:24+08:00",
+      "window_start": "2026-11-01T09:59:24+08:00",
+      "coverage": "partial",
+      "summary": "No material new Reuters market development was verified in the initial 60-minute scan. Source coverage was partial; this does not confirm that no Reuters news occurred.",
+      "limitations": [
+        "Accessible Reuters pages and search results did not provide an exhaustive wire audit.",
+        "Previous-report history was unavailable, so duplicate checks were limited to accessible records.",
+        "The source report did not advance its completed-scan cutoff. No qualifying Reuters article was selected."
+      ],
+      "original_url": null,
+      "sources": [],
+      "stories": [],
+      "source_report_key": "f7b6cdf4273edf3e219a8fe1386be199397ceee31eb91d396bafb82d283aabb6"
+    }
+  ]
+}

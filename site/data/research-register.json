@@ -1,0 +1,334 @@
+{
+  "entries": [
+    {
+      "id": "research-anthropic-ipo-2026-11-05",
+      "href": "research/anthropic-ipo-2026-11-05/",
+      "sha256": "3ef14d613c99fbcd908f5b99ce5f87017f6038e4b2294442f54451470ef437e9"
+    },
+    {
+      "id": "research-cpf-life-after-55-2026-11-04",
+      "href": "research/cpf-life-after-55-2026-11-04/",
+      "sha256": "a508d1f37deea98881605d642ad8d9e0d85668ba55be9175036553075d6a7664"
+    },
+    {
+      "id": "research-cpf-life-explained-2026-11-06-v2",
+      "href": "research/cpf-life-explained-2026-11-06-v2/",
+      "sha256": "83c613b55f63805640e9cb09eb550521e47b42262e937dee03f00b3b98f4a6fc"
+    },
+    {
+      "id": "research-cpf-life-yield-2026-11-05",
+      "href": "research/cpf-life-yield-2026-11-05/",
+      "sha256": "684916b6bdb9f5f0744a1c82e38ae24f0817b35f5448c22482ef141937a501a1"
+    },
+    {
+      "id": "research-cpf-oa-temasek-2070-2026-11-04",
+      "href": "research/cpf-oa-temasek-2070-2026-11-04/",
+      "sha256": "72ecd752f5eeb2a8afbba4b96f98c45af9619543ed2abaf0a74192d3795e5b36"
+    },
+    {
+      "id": "research-diversification-made-simple-2026-11-06",
+      "href": "research/diversification-made-simple-2026-11-06/",
+      "sha256": "16cf74a630df95d5e202c08490d7c481959969c2a0fc33cd497b3db8f209de05"
+    },
+    {
+      "id": "research-electricity-infrastructure-2026-11-05",
+      "href": "research/electricity-infrastructure-2026-11-05/",
+      "sha256": "11832ee317f7278ad5006dcb69ae000fa0977bd894d09e9032359829ba94d852"
+    },
+    {
+      "id": "research-googl",
+      "href": "research/googl/",
+      "sha256": "4585678f310fc9dceb7f0dbd3a1dbf102af49b3f600ac83c175907d3537f0828"
+    },
+    {
+      "id": "research-historical-market-events-2026-11-05",
+      "href": "research/historical-market-events-2026-11-05/",
+      "sha256": "c17f48ec32e83087e8d6807a58a67581677e6687cd8a9fff87b14d9f31d3e616"
+    },
+    {
+      "id": "research-jpm-price-growth-2026-11-05",
+      "href": "research/jpm-price-growth-2026-11-05/",
+      "sha256": "56d121d473e9a22a5dca3cdbe8f95c42e3e5b1cbbb456274ca9e09f20f098cc5"
+    },
+    {
+      "id": "research-nvda-2026-11-05",
+      "href": "research/nvda-2026-11-05/",
+      "sha256": "3b9161bd206b5026436e8aebaee8f43049c6d827934556589af41051a63f4a88"
+    },
+    {
+      "id": "research-oaktree-rates-wayne-dahl-2026-11-05",
+      "href": "research/oaktree-rates-wayne-dahl-2026-11-05/",
+      "sha256": "eaa4f48f01d59749b6fd8a0f2b82ea45de7e93b62e702390d9c7675e71b2bfbd"
+    },
+    {
+      "id": "research-pimco-income-bonds-2026-11-06",
+      "href": "research/pimco-income-bonds-2026-11-06/",
+      "sha256": "7b36c9fe41e769fceaf973e21ce59219353f60dbcccd6073feb0046b77649c47"
+    },
+    {
+      "id": "research-snb-mas-policy-2026-11-05",
+      "href": "research/snb-mas-policy-2026-11-05/",
+      "sha256": "448d64baac9529b839c995648d8843dbff6061a2ac8e9659f8fc3c156e385b66"
+    },
+    {
+      "id": "research-sti-banks-2026-11-06",
+      "href": "research/sti-banks-2026-11-06/",
+      "sha256": "6ebde1eeafd9b2d9fe2ef5aec972a97240bb3d7131834be6ec78405916a86664"
+    },
+    {
+      "id": "research-sti-banks-part2-2026-11-06",
+      "href": "research/sti-banks-part2-2026-11-06/",
+      "sha256": "d1fe458d29c8b3d5f46eca91357cf2572f4aecc23a8d65c70c6bd1ac6401819c"
+    },
+    {
+      "id": "research-tsm-2026-11-05",
+      "href": "research/tsm-2026-11-05/",
+      "sha256": "f0980e2ff1fbf39021ecbf6b2b84e19b4abcbd27d1cce238fb9936c7c88c7202"
+    },
+    {
+      "id": "research-wealth-inequality-2026-11-04",
+      "href": "research/wealth-inequality-2026-11-04/",
+      "sha256": "6c1adcdad0b3442604a90fc8a39ece814cb8fe7b0f759c228b2658fea7a2f24c"
+    },
+    {
+      "id": "research-wealth-inequality-2026-11-04-sharpe",
+      "href": "research/wealth-inequality-2026-11-04/sharpe.html",
+      "sha256": "7728c8f01b4d2296f4cce74f99730aae06cb8109d4c3618adbab812284fbedcb"
+    },
+    {
+      "id": "research-xau-central-banks-2026-11-05",
+      "href": "research/xau-central-banks-2026-11-05/",
+      "sha256": "cda929fbb52a5aadcd420b1b1097006abfbe246abd3d12febd149cfd9404ea96"
+    },
+    {
+      "id": "research-xau-gold-outlook-2026-11-06",
+      "href": "research/xau-gold-outlook-2026-11-06/",
+      "sha256": "0c44fe79d33c43637056a88e21c25b6bf6a1f0228343478986325916ad34c7fd"
+    },
+    {
+      "id": "research-xau-gold-outlook-2026-11-06-v2",
+      "href": "research/xau-gold-outlook-2026-11-06-v2/",
+      "sha256": "0f83f0540e31fe8463f5051a595224e3d301127283d29bc64710437a5cd20a95"
+    },
+    {
+      "id": "market-understanding-ai-data-centres-2026-11-05",
+      "href": "market-understanding/ai-data-centres-2026-11-05/",
+      "sha256": "1d478498320548ee39c15b660e9a5cd1e7b5b2c7539a7cd2d06e86b28e939622"
+    },
+    {
+      "id": "market-understanding-ai-selloff-2026-11-06",
+      "href": "market-understanding/ai-selloff-2026-11-06/",
+      "sha256": "5cd41923ae29716b93f4a8ffcd9a771f6bf7496a332db9d870f9711471603bfb"
+    },
+    {
+      "id": "market-understanding-ai-tech-2026-11-05",
+      "href": "market-understanding/ai-tech-2026-11-05/",
+      "sha256": "9888a1c57286e82e57194655606dff7d8c18a6f4b208dc434456a8aa7cf74bf3"
+    },
+    {
+      "id": "market-understanding-bond-research-review-2026-11-06",
+      "href": "market-understanding/bond-research-review-2026-11-06/",
+      "sha256": "0bbb30050b9fbaf7d79608fc7d03fa9230d0500cee59793010b8ae824d2d9cc4"
+    },
+    {
+      "id": "market-understanding-creditworthiness-2026-11-05",
+      "href": "market-understanding/creditworthiness-2026-11-05/",
+      "sha256": "c1da7418662ebd7fc7b1b933dd388bda2a4f44853718d0182cd6e91afbada67c"
+    },
+    {
+      "id": "market-understanding-creditworthiness-2026-11-06-v2",
+      "href": "market-understanding/creditworthiness-2026-11-06-v2/",
+      "sha256": "b4745d08c51b69aab286554cc6e4647877c1342468472fbfa88eeb1ddff172b3"
+    },
+    {
+      "id": "market-understanding-howard-marks-2026-11-05",
+      "href": "market-understanding/howard-marks-2026-11-05/",
+      "sha256": "d1517beac46563485c4cbbbe944a8e7a9f0b3493a92a68a52a9deaf18397d535"
+    },
+    {
+      "id": "market-understanding-howard-marks-2026-11-06-v2",
+      "href": "market-understanding/howard-marks-2026-11-06-v2/",
+      "sha256": "9eeff6b23f349c32f794ac8544f9c98a6bfe58bd7b3ac9d95a3effa48bdfdbf5"
+    },
+    {
+      "id": "market-understanding-mas-snb-2026-11-05",
+      "href": "market-understanding/mas-snb-2026-11-05/",
+      "sha256": "f34f4127264c1ca0d2e84f1e3450fea87043bd91d07b0c203b66ab46ba1d6871"
+    },
+    {
+      "id": "market-understanding-spx-collars-2026-11-06",
+      "href": "market-understanding/spx-collars-2026-11-06/",
+      "sha256": "1d44a067acbb6dfbeaebab39a678c3bffe518106004b6df72c8481c2d90ac8af"
+    },
+    {
+      "id": "market-understanding-spx-floor-cap-2026-11-05",
+      "href": "market-understanding/spx-floor-cap-2026-11-05/",
+      "sha256": "7635747364298c08d460d19274a9e4ca4e68afe4e7bbfd22c5ee908a12f77857"
+    },
+    {
+      "id": "market-understanding-structured-investment-hypothetical",
+      "href": "market-understanding/structured-investment-hypothetical/",
+      "sha256": "c4f4e8cd235b74d4f8f40bdb03bdb78d63c19308be33735bd857fb0666ef9364"
+    },
+    {
+      "id": "market-understanding-treasuries-chf-gold-2026-11-06",
+      "href": "market-understanding/treasuries-chf-gold-2026-11-06/",
+      "sha256": "24ec075766dfdbf34bcea59490a2c5a1df5c5ec5b7e78126f2bf56958f56a8ec"
+    },
+    {
+      "id": "market-understanding-us-earnings-cash-flow-2026-11-06",
+      "href": "market-understanding/us-earnings-cash-flow-2026-11-06/",
+      "sha256": "99e62462dc161689b55965e04dec98e09dbe3205a56ad0210783ff8d4e1ff2c9"
+    },
+    {
+      "id": "pending-pimco-v2",
+      "href": "research/pimco-income-public-2026-11-07/",
+      "sha256": "38fb807fc419dd141aab32fd67cb8e8c3671cb03e621d1991e682480a6ffffd8"
+    },
+    {
+      "id": "pending-mas-snb-v2",
+      "href": "market-understanding/mas-snb-public-2026-11-07/",
+      "sha256": "b3945c715bcf4cbc08a07ed75eabb158417201ad40a770a6f895b5542072b92d"
+    },
+    {
+      "id": "pending-snb-mas-v2",
+      "href": "research/snb-mas-public-2026-11-07/",
+      "sha256": "fc1d7b74d14d22233c66cfe2185c08bcf134835836d39c6a182a20e69b8dcc2e"
+    },
+    {
+      "id": "pending-ai-tech-v2",
+      "href": "market-understanding/ai-tech-public-2026-11-07/",
+      "sha256": "675375d91c6121f284b208ea5916315219b6c0a6c2502c48452fa3101a8d9d22"
+    },
+    {
+      "id": "pending-gold-v2-pdf",
+      "href": "research/gold-pdf-public-2026-11-07/",
+      "sha256": "82b2e5790df1fb4b428e65fc0c1455bf16a78a6d114aba732d414e994311884c"
+    },
+    {
+      "id": "pending-spx-pdf",
+      "href": "market-understanding/spx-pdf-public-2026-11-07/",
+      "sha256": "84b3469c887585ce176ad8cb07379b48fd43f543d3941934fdaf57493ca3eee2"
+    },
+    {
+      "id": "pending-cpf-source-pdf",
+      "href": "research/cpf-pdf-public-2026-11-07/",
+      "sha256": "bcb74b25298007623f743b6328c3b22f2171a12f0b76367774f7e4b25f0f2f73"
+    },
+    {
+      "id": "pending-weekly-fx-decks",
+      "href": null,
+      "sha256": null
+    },
+    {
+      "id": "pending-si-revision",
+      "href": "market-understanding/structured-investment-hypothetical/",
+      "sha256": null
+    },
+    {
+      "id": "pending-anthropic-revision",
+      "href": "research/anthropic-ipo-2026-11-05/",
+      "sha256": null
+    },
+    {
+      "id": "pending-wealth-revision",
+      "href": "research/wealth-inequality-2026-11-04/",
+      "sha256": null
+    },
+    {
+      "id": "pending-wealth-source-pdf",
+      "href": "research/wealth-pdf-public-2026-11-07/",
+      "sha256": "38511646ee006b7e5737ae2e28a9e209aff0b6b59bbe2b55b0f357d2602e1b6c"
+    },
+    {
+      "id": "pending-bond-comparison",
+      "href": "market-understanding/bond-comparison-2026-11-07/",
+      "sha256": "00e20f047742d572e46b122add1e2d3214a544616aabe1e9afa662f89db3e64f"
+    },
+    {
+      "id": "global-credit-public-2026-11-07",
+      "href": "market-understanding/global-credit-public-2026-11-07/",
+      "sha256": "cf07228c7bcb786e038059fb273b4f9f797b895e4c26c7e4228f7277cc15a5b4"
+    },
+    {
+      "id": "pending-us-cre-remake",
+      "href": "research/us-cre-refinancing-test-2026-11-08/",
+      "sha256": "b1be21b5cdfc02556f2e9bdc31636af2b31eaf9e80870f47168199dcdc645d51"
+    },
+    {
+      "id": "pending-humans-only-ai",
+      "href": null,
+      "sha256": null
+    },
+    {
+      "id": "research-sti-banks-v2-2026-11-09",
+      "href": "research/sti-banks-v2-2026-11-09/",
+      "sha256": "ed786f2975ba6e539d860202dba9f0782e3ca82ef21ecd16dafded1c33a67afb"
+    },
+    {
+      "id": "research-ai-circular-financing-2026-11-10",
+      "href": "research/ai-circular-financing-2026-11-10/",
+      "sha256": "97c474a04743d66939d1a694d51e534bec3bacf2fa207e1b998c9028fd2f1800"
+    },
+    {
+      "id": "research-ocbc-home-loans-2026-11-13",
+      "href": "research/ocbc-home-loans-2026-11-13/",
+      "sha256": "1e6e53ede7a5c14255f184f3c40fb58e8cf4b439dae5496bb44ee9cef6ea96e4"
+    },
+    {
+      "id": "research-ocbc-premier-welcome-2026-11-13",
+      "href": "research/ocbc-premier-welcome-2026-11-13/",
+      "sha256": "e0e8a5b51ad95f8273c682a1c8421f653e0e4646e730f725f657860c97fdbbb7"
+    },
+    {
+      "id": "research-diversification-one-pager-2026-11-14",
+      "href": "research/diversification-one-pager-2026-11-14/",
+      "sha256": "69293cab8651fbf0942fef6972ce16e827f583af2d3ebef123b613705fdbedba"
+    },
+    {
+      "id": "research-gold-xau-v2-one-pager-2026-11-14",
+      "href": "research/gold-xau-v2-one-pager-2026-11-14/",
+      "sha256": "c8f0059040d10227702a44a81f192654c8bb25ba2b091a2a76323b32de5db73d"
+    },
+    {
+      "id": "research-bis-ai-financing-loop-2026-11-13",
+      "href": "research/bis-ai-financing-loop-2026-11-13/",
+      "sha256": "e7886dfa8577a4396db0a8729e890de7eec329066c628a95d45a6946cffe2e6c"
+    },
+    {
+      "id": "research-mas-snb-one-page-2026-11-14",
+      "href": "research/mas-snb-one-page-2026-11-14/",
+      "sha256": "525c8fb77e1cae706eff71b6a4ba2a9a5ce52f4e7c2aba9ca477b2a8d7fc2a23"
+    },
+    {
+      "id": "research-cpf-temasek-two-page-2026-11-14",
+      "href": "research/cpf-temasek-two-page-2026-11-14/",
+      "sha256": "645946be53cd0c89b9bf37fa2894139e197b86beafb1dd363bfb1d2fc857cbe8"
+    },
+    {
+      "id": "research-us-earnings-full-2026-11-13",
+      "href": "research/us-earnings-full-2026-11-13/",
+      "sha256": "1cfe5dca685064420e6206e656c0dc47a851c44cea6adc64a26d16f6dbf62962"
+    },
+    {
+      "id": "research-pimco-public-companion-2026-11-14",
+      "href": "research/pimco-public-companion-2026-11-14/",
+      "sha256": "a2514285f0d4c260562c00b2c4bd64741d14532d622e3551590f21aac3ae2357"
+    },
+    {
+      "id": "research-spx-collar-public-companion-2026-11-14",
+      "href": "research/spx-collar-public-companion-2026-11-14/",
+      "sha256": "c14e0dd8f69a5ba57cc2314228b9e5b3241fd799417b202a0f53dacfd9c598f7"
+    },
+    {
+      "id": "research-bond-credit-full-2026-11-14",
+      "href": "research/bond-credit-full-2026-11-14/",
+      "sha256": "84f3669819d9a598af96b2e0ca70842bd2e15788604ddada7b2b68a8b6c8e864"
+    },
+    {
+      "id": "us-earnings-full-2026-11-14",
+      "href": "research/us-earnings-full-2026-11-14/",
+      "sha256": "2bfc42985c2150d14d7635dab175bac0c44e59b53fa34d9492106b50e43d4f77"
+    }
+  ]
+}
