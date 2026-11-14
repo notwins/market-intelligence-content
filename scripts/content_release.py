@@ -20,6 +20,8 @@ def preserve(repo,before,after):
     if 'site/data/publication-colour-policy.json' in old:frozen.add('scripts/read_ups.py')
     for p in frozen:
         if p in old:require(new.get(p)==old[p],'Published v1 renderer/standard is frozen; introduce a new version: '+p)
+    for p in {'scripts/publication_colour_v2.py','site/publication-colour-v2.css','site/data/publication-colour-catalogue-v2.json','site/data/publication-colour-policy-v2.json'}:
+        if p in old:require(new.get(p)==old[p],'Published v2 renderer/standard is frozen; introduce a new version: '+p)
     for p,h in old.items():
         if p.startswith(('baseline/','site/research/','site/data/research-records/','site/data/read-up-records/','site/data/hourly-archive/')) or p=='site/data/research-register.json':
             require(new.get(p)==h,'Immutable publication changed: '+p)
@@ -67,7 +69,7 @@ class Text(HTMLParser):
         if not self.hidden:self.parts.append(data)
 
 def search(feed,news,site):
-    from publication_colour import infer_labels
+    from publication_colour_v2 import infer_labels
     rows=[]
     def add(key,kind,title,text,href,date,tags,reading=None):
         rows.append(dict(id='content-'+key,kind=kind,title=title,text=text,href=href,date=date,source=None,status='Verified dated public content',tags=tags,location={'label':'Research Explained' if kind=='Research edition' else 'V4 → Hourly news','href':href,'exact':kind=='Research edition'},source_access='public',reading=reading or []))
@@ -89,6 +91,13 @@ def build(output,repo=ROOT):
     feed,news=validate_site(site)
     shutil.copytree(site,output)
     read_ups.build(site,output)
+    # Existing IDs retain v1; newly accepted briefs use the pinned v2 rules.
+    from publication_colour_v2 import enrich_read_up
+    prior=set(read(site/'data/publication-colour-policy-v2.json')['prior_read_ups'])
+    for p in (site/'data/read-up-records').glob('*.json'):
+        r=read(p)['record']
+        if r['id']+'-r'+str(r['revision']) not in prior:
+            (output/read_ups.destination(r)).write_bytes(enrich_read_up(r,read_ups.render_legacy(r)))
     (output/'data/research-feed.json').write_bytes(canonical(feed))
     (output/'data/site-search.json').write_bytes(canonical(search(feed,news,site)))
     revision=subprocess.check_output(['git','rev-parse','HEAD'],cwd=repo,text=True).strip()

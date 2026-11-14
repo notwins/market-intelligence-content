@@ -33,7 +33,7 @@ def submit_batch(remote,jobs,output=None,publish=False,attempts=12):
                     require(r['id'] not in {x['id'] for x in legacy},'Legacy identity already exists')
                     require(r['full_report_sha256'] not in {x['record']['full_report_sha256'] for x in existing}|{x.get('sha256') for x in legacy},'Duplicate report bytes')
                     if (site/'data/publication-colour-policy.json').exists():
-                        from publication_colour import audit_html
+                        from publication_colour_v2 import audit_html
                         for name in r['assets']:
                             if name.endswith('.html'):audit_html((bundle/'files'/name).read_text(encoding='utf-8'),site)
                 except (ValueError,KeyError,TypeError,OSError) as exc:

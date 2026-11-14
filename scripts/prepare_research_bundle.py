@@ -13,7 +13,7 @@ FIELDS={'title','cutoff_sgt','category','tags','summary'}
 def prepare(report_dir,metadata,channel,output,slug=None,brief=None,revision=None,site=None):
     site_path=Path(site or ROOT/'site')
     if (site_path/'data/publication-colour-policy.json').exists():
-        from publication_colour import enrich_folder
+        from publication_colour_v2 import enrich_folder
         with tempfile.TemporaryDirectory(prefix='mih-colour-') as tmp:
             enriched,meta=enrich_folder(report_dir,metadata,Path(tmp)/'files',site_path)
             return prepare_raw(enriched,meta,channel,output,slug,brief,revision,site_path)

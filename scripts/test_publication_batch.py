@@ -9,7 +9,7 @@ from submit_research_batch import submit_batch
 
 def seed(repo):
     original_seed(repo)
-    for name in ['colour-templates-v3.json','external-source-standard.json','publication-colour-catalogue-v1.json','publication-colour-policy.json']:
+    for name in ['colour-templates-v3.json','external-source-standard.json','publication-colour-catalogue-v1.json','publication-colour-policy.json','publication-colour-catalogue-v2.json','publication-colour-policy-v2.json']:
         shutil.copyfile(ROOT/'site/data'/name,repo/'site/data'/name)
     git(repo,'add','.');git(repo,'commit','-m','Enable colour policy in private test repository')
 
