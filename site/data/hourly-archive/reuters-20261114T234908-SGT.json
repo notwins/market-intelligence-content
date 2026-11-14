@@ -1,0 +1,95 @@
+{
+  "id": "reuters-20261114T234908-SGT",
+  "report_at": "2026-11-14T23:52:53+08:00",
+  "cutoff": "2026-11-14T23:49:08+08:00",
+  "window_start": "2026-11-14T19:49:08+08:00",
+  "coverage": "partial",
+  "summary": "Three verified Reuters story records cover Ukraine's reported Donbas/NATO negotiation question, Italy's Meta privacy fine and disputed Starshield restrictions. The BoE follow-up is held for missing public predecessors. This is a partial metadata edition; the full styled report remains unpublished.",
+  "limitations": [
+    "Targeted Reuters review only. Older coverage gaps remain and no complete-scan cutoff is verified.",
+    "Only original publication dates are verified for the Reuters sources; exact original publication and development times remain unknown. Stories are conservatively labelled catch-up, and inclusion does not prove events occurred within the four-hour window.",
+    "The BoE story R-20261113-BOE-REUTERS-POLL-DEC-RATE-DIVERGENCE version 3 is held because versions 1 and 2 are missing from retained public history. Its identity and version are not reset.",
+    "The source's END UPDATE marker repeats the 23:49:08 cutoff; report_at uses its separately stated 23:52:53 SGT report-generation time. No article-header time is treated as an independently verified first-publication time.",
+    "Other scheduled briefing responses were unavailable to the producer; cross-report comparison is limited to accessible public history.",
+    "No event-attributable market-price reaction was verified. Negotiating ideas and disputed operational allegations are distinguished from agreements, proven causes and the regulator's actual order.",
+    "This publishes metadata and story context only. A complete private review copy retains the detailed source report; full styled hourly publication remains held because the approved publisher lacks an hourly channel and time-aware edition identity."
+  ],
+  "original_url": null,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/world/europe/us-floated-idea-ukraine-ceding-donbas-nato-membership-zelenskiy-says-2026-11-14/",
+      "title": "Zelenskiy says US raised Donbas withdrawal linked to NATO membership",
+      "published_at": null,
+      "published_date": "2026-11-14",
+      "publication_precision": "date",
+      "verification_url": "https://d2233.cms.socastsrm.com/2026/11/14/us-floated-idea-of-ukraine-ceding-donbas-for-nato-membership-zelenskiy-says/"
+    },
+    {
+      "url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
+      "title": "Italy fines Meta EUR805 million over Android gallery access",
+      "published_at": null,
+      "published_date": "2026-11-14",
+      "publication_precision": "date",
+      "verification_url": "https://www.investing.com/news/stock-market-news/italy-fines-meta-887-million-over-android-users-data-access-5027329"
+    },
+    {
+      "url": "https://www.reuters.com/business/aerospace-defense/ukraines-zelenskiy-escalates-criticism-spacex-over-speed-caps-2026-11-14/",
+      "title": "Ukraine raises Starshield speed-limit concerns; SpaceX disputes new restrictions",
+      "published_at": null,
+      "published_date": "2026-11-14",
+      "publication_precision": "date",
+      "verification_url": "https://kelo.com/2026/11/14/ukraines-zelenskiy-escalates-criticism-of-spacex-over-speed-caps/"
+    }
+  ],
+  "stories": [
+    {
+      "story_id": "R-20261114-UKRAINE-DONBAS-NATO-NEGOTIATIONS",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "Ukraine / Russia / US / NATO",
+      "headline": "Zelenskiy says US raised Donbas withdrawal linked to NATO membership",
+      "body": "Zelenskiy said US negotiators had asked whether Ukraine would withdraw from Donbas in exchange for joining NATO, the first such linkage raised in the recent talks. Kyiv remained unwilling to concede territory outright. He said a comprehensive package including security guarantees, a strong and well-funded military and reconstruction funds could be put to a national referendum. The Abu Dhabi talks ended without a major breakthrough, although a prisoner exchange involving more than 1,000 people was agreed in principle, with final numbers unsettled. Neither NATO admission nor a territorial concession is agreed. No contemporaneous attributable Treasury, currency, oil or European bond-market reaction was verified.",
+      "analysis": "The reported discussion could broaden peace-negotiation options, but Russia's longstanding opposition to Ukrainian NATO membership remains a major obstacle. A negotiating question is not an implemented settlement.",
+      "watch_next": "Written proposals, US and Russian responses, security guarantees and prisoner-exchange implementation.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/europe/us-floated-idea-ukraine-ceding-donbas-nato-membership-zelenskiy-says-2026-11-14/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261114-ITALY-META-ANDROID-PRIVACY-FINE",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "Italy / Europe / Meta / Regulation",
+      "headline": "Italy fines Meta EUR805 million over Android gallery access",
+      "body": "Italy's data-protection authority fined Meta EUR805 million, reported by Reuters as approximately US$887 million, over access to Android users' gallery photographs and videos through a Facebook feature without adequate information or consent. Meta was given 60 days to disable the feature by default and seek separate consent. The authority described the fine as about 0.47% of global revenue. The investigation did not cover whether the content was used to train AI models; the regulator reserved separate review of another cloud-processing feature. No event-specific Meta share-price or credit-spread move was verified.",
+      "analysis": "The fine creates a concrete regulatory exposure and product-governance obligation. It does not establish improper AI training, a final appeal outcome or an actual cash payment.",
+      "watch_next": "Meta's response, any appeal, compliance changes and further regulatory review.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261114-UKRAINE-SPACEX-STARSHIELD-SPEED-RESTRICTIONS",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "Ukraine / SpaceX / Defence technology",
+      "headline": "Ukraine raises Starshield speed-limit concerns; SpaceX disputes new restrictions",
+      "body": "Zelenskiy said military-grade Starshield terminals in Russian-occupied Ukrainian areas had been limited to 161 km/h for five days, hampering air-defence operations. He said Ukraine's Defence Ministry had raised the issue with SpaceX. SpaceX denied introducing new restrictions or changing its satellite operations. This is new reporting on an existing, disputed limitation, not proof that a restriction began during this report window. Its cause was not independently established in the Reuters account. No event-specific securities or commodity move was verified.",
+      "analysis": "Military reliance on satellite communications creates operational and counterparty dependencies. The disputed account does not establish deliberate interference or a verified causal explanation.",
+      "watch_next": "Independent technical evidence, Ukrainian ministry announcements and any formal restoration confirmation.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/business/aerospace-defense/ukraines-zelenskiy-escalates-criticism-spacex-over-speed-caps-2026-11-14/"
+      ],
+      "development_at": null
+    }
+  ],
+  "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859"
+}
