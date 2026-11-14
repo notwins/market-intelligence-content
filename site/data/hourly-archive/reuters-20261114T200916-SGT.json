@@ -1,0 +1,118 @@
+{
+  "id": "reuters-20261114T200916-SGT",
+  "report_at": "2026-11-14T20:15:21+08:00",
+  "cutoff": "2026-11-14T20:09:16+08:00",
+  "window_start": "2026-11-14T16:09:16+08:00",
+  "coverage": "partial",
+  "summary": "Four verified Reuters story updates: conditional US restraint on Iran, Binance withdrawal recovery, Indonesia mining-policy intentions and CVS's GLP-1 payer-cost study. One Hormuz follow-up is held; this is not a complete wire scan or a full-detail HTML publication.",
+  "limitations": [
+    "Targeted Reuters coverage only; older coverage gaps remain and no complete-scan cutoff is verified.",
+    "Reuters-attributed syndication verifies original publication dates, but exact original publication and development timestamps remain unverified. Stories are conservatively labelled catch-up; inclusion does not establish that events occurred within this four-hour window.",
+    "The source's Hormuz tanker follow-up (version 4) is held because its preceding versions are absent from retained public history. It is not renamed or reset to version 1.",
+    "The source could not retrieve the latest other scheduled briefings, so cross-report comparison is limited to accessible public history.",
+    "No directly attributable market-price reaction was verified. Company targets, policy intentions, observational study estimates and unverified allegations are not confirmed outcomes.",
+    "This is metadata and story context only. The complete styled hourly companion is held: the current approved full-report publisher lacks an hourly channel and time-aware edition identity. A private review copy retains the source detail."
+  ],
+  "original_url": null,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/world/middle-east/trump-tells-advisers-he-may-hold-off-iran-attacks-barring-new-provocations-2026-11-14/",
+      "title": "Trump weighs withholding further Iran attacks; no final decision",
+      "published_at": null,
+      "published_date": "2026-11-14",
+      "publication_precision": "date",
+      "verification_url": "https://www.investing.com/news/world-news/trump-tells-advisers-he-may-hold-off-on-iran-attacks-barring-new-provocations-sources-say-5027294"
+    },
+    {
+      "url": "https://www.reuters.com/legal/government/binance-targets-full-reopening-withdrawals-by-next-week-2026-11-14/",
+      "title": "Binance reports 87 networks reopened and targets remaining withdrawals next week",
+      "published_at": null,
+      "published_date": "2026-11-14",
+      "publication_precision": "date",
+      "verification_url": "https://www.investing.com/news/stock-market-news/binance-targets-full-reopening-of-withdrawals-by-next-week-5027231"
+    },
+    {
+      "url": "https://www.reuters.com/world/asia-pacific/indonesian-president-orders-greater-share-mining-benefits-state-2026-11-14/",
+      "title": "Indonesia seeks greater state benefit from mining permits",
+      "published_at": null,
+      "published_date": "2026-11-14",
+      "publication_precision": "date",
+      "verification_url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/14/indonesian-president-orders-greater-share-of-mining-benefits-for-the-state"
+    },
+    {
+      "url": "https://www.reuters.com/legal/litigation/cvs-says-glp-1s-save-money-when-priced-below-350-per-month-2026-11-14/",
+      "title": "CVS study estimates GLP-1 break-even below US$350 monthly",
+      "published_at": null,
+      "published_date": "2026-11-14",
+      "publication_precision": "date",
+      "verification_url": "https://www.marketscreener.com/news/cvs-says-glp-1s-save-money-when-priced-below-350-per-month-ce785ededa8af52d"
+    }
+  ],
+  "stories": [
+    {
+      "story_id": "R-20261103-US-IRAN-NOSTRIKE",
+      "version": 2,
+      "status": "follow-up",
+      "freshness": "catch-up",
+      "topic": "US / Iran / Oil / Geopolitics",
+      "headline": "Trump weighs withholding further Iran attacks; no final decision",
+      "body": "Reuters cited three people familiar with discussions saying President Trump has considered withholding further attacks unless Iran or the Houthis undertake fresh provocations. Saudi and Turkish leaders urged restraint; Israeli officials continued advocating military action. Sources also described a third US carrier moving into the region to replace one of two there, with all three able to remain if needed. The White House has not announced a final decision. Military readiness and possible restraint coexist. No oil, Treasury-yield or FX movement attributable specifically to this report was verified.",
+      "analysis": "Possible restraint could reduce geopolitical risk premiums, while military preparations and Hormuz tensions keep energy-supply and inflation risks uncertain. These are reported deliberations, not a ceasefire or binding policy commitment.",
+      "watch_next": "A formal US decision, independently verified military activity and actual oil-transport conditions.",
+      "earlier": "Version 1, published at the 4 November 2026 07:59:46 SGT cutoff, recorded Trump's statement that no immediate US strike was planned. This follow-up adds reported conditional restraint, diplomatic pressure and military preparations.",
+      "source_urls": [
+        "https://www.reuters.com/world/middle-east/trump-tells-advisers-he-may-hold-off-iran-attacks-barring-new-provocations-2026-11-14/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261104-BINANCE-POSTHACK-OUTFLOWS",
+      "version": 2,
+      "status": "follow-up",
+      "freshness": "catch-up",
+      "topic": "Digital assets / Binance / Liquidity",
+      "headline": "Binance reports 87 networks reopened and targets remaining withdrawals next week",
+      "body": "Binance said withdrawals had reopened on 87 networks during the week and targeted the remaining networks and assets by the end of the following week. Reuters reported phased reopening after Binance covered 95% of the US$6.3 billion in tokens stolen in October; the company pledged to repay customers. This is a company-reported operational update and target. It does not establish that every withdrawal service is operational or that customer reimbursement is complete. No digital-asset price movement attributable specifically to this announcement was verified.",
+      "analysis": "Improved withdrawal access can reduce operational friction. Custody, liquidity and counterparty risks still need separate assessment; the reopening target is not a completed recovery.",
+      "watch_next": "Full withdrawal restoration, customer redemption performance and verifiable reserves.",
+      "earlier": "Version 1, published at the 4 November 2026 16:18:08 SGT cutoff, documented US$4.72 billion in net customer withdrawals after reopening. This follow-up adds the reported network reopening count and remaining-service target.",
+      "source_urls": [
+        "https://www.reuters.com/legal/government/binance-targets-full-reopening-withdrawals-by-next-week-2026-11-14/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261114-INDONESIA-MINING-STATE-PROCEEDS",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "Indonesia / ASEAN / Mining / Resources",
+      "headline": "Indonesia seeks greater state benefit from mining permits",
+      "body": "President Prabowo Subianto said at least 70% of mining-permit proceeds should benefit the state and suggested state-controlled equity where necessary. The presidential palace clarified that the 70% remark referred to proceeds from managing mining permits. Reuters reported that an earlier proposal for a 70:30 output split had been dropped in June. The remarks do not establish a blanket 70% government-equity requirement or a final enacted royalty schedule. No mining-share, bond or rupiah movement attributable specifically to the remarks was verified.",
+      "analysis": "Greater state participation could affect future project margins and foreign-investment economics. The effect depends on the eventual contracts, taxes or equity rules, rather than the speech alone.",
+      "watch_next": "Written regulations, royalty structures, any state-equity requirements and company responses.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/asia-pacific/indonesian-president-orders-greater-share-mining-benefits-state-2026-11-14/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261114-CVS-GLP1-HEALTH-PLAN-BREAKEVEN",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "US / CVS / GLP-1 / Health insurance",
+      "headline": "CVS study estimates GLP-1 break-even below US$350 monthly",
+      "body": "CVS said its Aetna claims analysis suggested GLP-1 prices below US$350 per month could allow employers and other plan sponsors to break even. For patients observed over three years, medical spending fell by US$9,400 per person while prescription spending rose by US$13,300, leaving US$3,900 in additional net spending. The analysis compared patients with obesity, diabetes or other conditions taking GLP-1s with similar non-users. The result is observational, and the break-even price depends on patient health and population; it is not a universal reimbursement threshold. No event-specific share-price reaction was verified.",
+      "analysis": "Pressure for lower net prices could change payer coverage, manufacturers' revenue per prescription and insurer cost expectations. This study estimate is not a realised industry-wide saving.",
+      "watch_next": "Coverage decisions, manufacturer pricing, adoption and longer-term claims evidence.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/legal/litigation/cvs-says-glp-1s-save-money-when-priced-below-350-per-month-2026-11-14/"
+      ],
+      "development_at": null
+    }
+  ],
+  "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859"
+}
