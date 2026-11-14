@@ -1,0 +1,46 @@
+{
+  "id": "reuters-20261115T041657-SGT",
+  "report_at": "2026-11-15T04:21:51+08:00",
+  "cutoff": "2026-11-15T04:16:57+08:00",
+  "window_start": "2026-11-15T00:16:57+08:00",
+  "coverage": "partial",
+  "summary": "One verified catch-up Reuters story covers Susan Collins' preference for gradual rate increases and her higher possible policy-rate path. FAA and Microsoft follow-ups are held for missing public predecessors. This is a partial metadata edition; the full styled report remains unpublished.",
+  "limitations": [
+    "Targeted Reuters coverage only. Older gaps remain and no fully completed source-scan cutoff is verified.",
+    "The accepted Reuters source has a verified original publication date of 14 November 2026. Exact original publication and development times are unknown; the story is labelled catch-up and does not establish a fresh event inside this four-hour window.",
+    "FAA story R-20261113-US-FAA-NATIONAL-GROUND-STOP version 4 and Microsoft story R-20261113-MICROSOFT-M365-GLOBAL-OUTAGE version 2 are held because their predecessor versions are missing from retained public history. Neither story is renamed or reset to version 1.",
+    "Other briefing responses were unavailable to the producer, so cross-report checks are limited to accessible public history.",
+    "Collins' comments are an individual policymaker's assessment, not an enacted policy decision, a verified market-probability change or an event-attributable yield or FX move.",
+    "This publishes metadata and story context only. A private review copy retains the full detailed source report. Styled hourly publication remains held because the approved publisher lacks an hourly channel and time-aware edition identity."
+  ],
+  "original_url": null,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/business/feds-collins-says-gradual-rate-hikes-best-manage-economic-risks-2026-11-14/",
+      "title": "Fed's Collins says gradual rate hikes best to manage economic risks",
+      "published_at": null,
+      "published_date": "2026-11-14",
+      "publication_precision": "date",
+      "verification_url": "https://ca.finance.yahoo.com/news/feds-collins-says-gradual-rate-154619584.html"
+    }
+  ],
+  "stories": [
+    {
+      "story_id": "R-20261114-FED-COLLINS-GRADUAL-TIGHTENING-PATH",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "US / Fed / UST / Funding",
+      "headline": "Fed's Collins favours gradual hikes and sees a potentially higher rate path",
+      "body": "Boston Fed President Susan Collins favoured steady, modest rate increases to manage inflation and economic uncertainty. She said recent inflation and labour-market evidence made the possible policy-rate path over the coming year somewhat higher than she expected a few months earlier. Reuters described widespread expectations of a quarter-point increase at the December 8-9 FOMC meeting, but Collins did not commit to a particular cadence. No policy-rate decision was made, and no Treasury-yield or dollar movement attributable specifically to her remarks was established. The Reuters report is dated 14 November and was recovered from the prior-window overlap, rather than proving a fresh event inside this four-hour window.",
+      "analysis": "A changed individual policymaker assessment matters for USD financing and duration sensitivity. It is distinct from an enacted Fed decision or a verified shift in market-implied probabilities; CHF financing and exchange-rate risks require separate assessment.",
+      "watch_next": "US inflation, labour-market evidence and the December 8-9 FOMC meeting.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/business/feds-collins-says-gradual-rate-hikes-best-manage-economic-risks-2026-11-14/"
+      ],
+      "development_at": null
+    }
+  ],
+  "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859"
+}
