@@ -1,0 +1,30 @@
+Reuters Read-Up is a distinct short-brief publication type, independent of full reports.
+
+Accept a private bundle containing record.json and evidence.json plus a separately
+reviewed private receipt with scripts/submit_read_up.py. Trusted review is a local
+owner action, not a browser-provided boolean. Never publish evidence, receipts,
+drafts, names of reviewers or fictional rehearsal cards. The public record stores
+only a receipt hash and verification timestamp beside its validated brief.
+
+Ordinary publication changes one new immutable file:
+site/data/read-up-records/read-up-<24 hex>-r<N>.json
+The content build generates data/reuters-read-ups.json and stable brief pages
+read-ups/<id>/r<N>.html plus a direct-link list. One card represents one brief's
+latest revision. Keep every prior revision and URL. The ID is the canonical original
+Reuters article-set hash. A retry is a no-op; changed content under the same
+revision is rejected. Use a reviewed next revision for an intentional correction.
+
+Run scripts/research_feed.py, all Python tests and content_release.py with a NEW
+staging directory outside the checkout. Preserve immutable records and all earlier
+news/full reports. Reapply one reviewed record to current main on non-force push
+conflict; never overwrite a stale whole index. The workflow validates the source,
+stages one complete artifact, then verifies exact deployed data and all generated
+brief HTML bytes. No Hub checkout or UI deployment is involved.
+
+Private owner setup and review flow are documented in the Hub's docs/reuters-read-up.txt.
+Only the public typed read-up contract and publisher are duplicated here; this
+repository never reads a private owner database or requires a Hub build.
+
+This infrastructure release deploys an empty valid index. Synthetic tests remain
+outside site/. Individual publication still needs an owner's explicit Publish on
+the exact finished version. Automatic research and auto-publication are not enabled.

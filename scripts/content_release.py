@@ -6,6 +6,7 @@ from research_feed import ROOT,read,canonical,require,compile_feed,digest
 from import_hourly_news import validate,merge,empty_feed
 from public_data_projection import private_url
 from verify_research_destinations import verify_staged
+import read_ups
 
 BASE='https://notwins.github.io/market-intelligence-content/'
 HUB='https://notwins.github.io/market-intelligence-hub/'
@@ -16,7 +17,7 @@ def preserve(repo,before,after):
         return {s.split('\t')[1]:s.split()[2] for s in subprocess.check_output(['git','ls-tree','-r',ref],cwd=repo,text=True).splitlines()}
     old,new=tree(before),tree(after)
     for p,h in old.items():
-        if p.startswith(('baseline/','site/research/','site/data/research-records/','site/data/hourly-archive/')) or p=='site/data/research-register.json':
+        if p.startswith(('baseline/','site/research/','site/data/research-records/','site/data/read-up-records/','site/data/hourly-archive/')) or p=='site/data/research-register.json':
             require(new.get(p)==h,'Immutable publication changed: '+p)
     path='site/data/hourly-news.json'
     if path in old:
@@ -27,6 +28,7 @@ def preserve(repo,before,after):
 
 def validate_site(site):
     site=Path(site);feed=compile_feed(site)
+    read_ups.collect(site)
     registered={r['id'] for r in feed['records']}
     if (site/'research').exists():
         require(all(p.is_dir() and p.name in registered for p in (site/'research').iterdir()),'Unregistered report destination')
@@ -72,6 +74,8 @@ def search(feed,news,site):
         for s in e['stories']:
             add(s['story_id']+'-'+str(s['version']),'Hourly story',s['headline'],s['body']+' '+s['analysis'],HUB+'v4.html#hourly',e['report_at'],[s['topic']],[
                 {'label':'Saved briefing','text':s['body']},{'label':'Saved analysis','text':s['analysis']}])
+    for r in read_ups.collect(site)['entries']:
+        add(r['id'],'Reuters Read-Up',r['title'],' '.join(r[k] for k in ('takeaway','happened','matters','watch')),BASE+read_ups.destination(r),r['published_at'],['Reuters Read-Up'])
     return {'schema_version':1,'entries':rows}
 
 def build(output,repo=ROOT):
@@ -79,6 +83,7 @@ def build(output,repo=ROOT):
     require(not output.exists() and not output.is_relative_to(repo.resolve()),'Use a new staging directory outside this repository')
     feed,news=validate_site(site)
     shutil.copytree(site,output)
+    read_ups.build(site,output)
     (output/'data/research-feed.json').write_bytes(canonical(feed))
     (output/'data/site-search.json').write_bytes(canonical(search(feed,news,site)))
     revision=subprocess.check_output(['git','rev-parse','HEAD'],cwd=repo,text=True).strip()

@@ -3,11 +3,13 @@ import argparse,json,subprocess,time
 from urllib.request import Request,urlopen
 from research_feed import ROOT,compile_feed,read
 from content_release import search
+import read_ups
 
 def verify(base,attempts=12):
     expected=subprocess.check_output(['git','rev-parse','HEAD'],cwd=ROOT,text=True).strip()
     feed=compile_feed(ROOT/'site');news=read(ROOT/'site/data/hourly-news.json')
     targets={'data/research-feed.json':feed,'data/hourly-news.json':news,'data/site-search.json':search(feed,news,ROOT/'site')}
+    targets['data/reuters-read-ups.json']=read_ups.collect(ROOT/'site')
     last=None
     for attempt in range(attempts):
         try:
@@ -15,6 +17,10 @@ def verify(base,attempts=12):
                 with urlopen(Request(base.rstrip('/')+'/'+path+'?revision='+expected,headers={'Cache-Control':'no-cache'}),timeout=20) as response:return json.load(response)
             assert get('data/delivery.json')['source_revision']==expected,'Old content artifact is still served'
             for path,value in targets.items():assert get(path)==value,'Published data mismatch: '+path
+            for path in (ROOT/'site/data/read-up-records').glob('*.json'):
+                record=read(path)['record'];destination=read_ups.destination(record)
+                with urlopen(Request(base.rstrip('/')+'/'+destination+'?revision='+expected,headers={'Cache-Control':'no-cache'}),timeout=20) as response:
+                    assert response.read()==read_ups.render(record),'Published read-up bytes mismatch'
             return {'source_revision':expected,'reports':len(feed['records']),'hourly_editions':len(news['editions']),'live_data':'exact match'}
         except Exception as exc:
             last=exc
