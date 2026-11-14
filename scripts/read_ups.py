@@ -94,6 +94,10 @@ def paragraphs(value, sources):
     return ''.join('<p>'+re.sub(r'\[([SP]\d+)\]',ref,html.escape(p))+'</p>' for p in value.split('\n\n') if p.strip())
 
 def render(r):
+    from publication_colour import enrich_read_up
+    return enrich_read_up(r,render_legacy(r))
+
+def render_legacy(r):
     validate(r);e=html.escape;refs={s['id']:s for s in r['sources']+r['primary']}
     body=''.join('<section><h2>'+label+'</h2>'+paragraphs(r[k],refs)+'</section>' for k,label in [('happened','What happened'),('matters','Why it matters · Our interpretation'),('watch','What to watch')])
     links=''.join('<li><a rel="noopener noreferrer" href="'+e(s.get('original_url',s.get('url')),quote=True)+'">['+s['id']+'] '+e(s['title'])+'</a></li>' for s in refs.values())

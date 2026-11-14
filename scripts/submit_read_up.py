@@ -9,6 +9,8 @@ def accept(repo,bundle,receipt):
     target=Path(repo)/'site/data/read-up-records'/(r['id']+'-r'+str(r['revision'])+'.json')
     if target.exists():
         require(read(target)['record']==r,'Revision already exists with different content; review a new revision');collect(Path(repo)/'site');return [],'duplicate'
+    from read_ups import render
+    render(r)  # Validate the pinned presentation before accepting new source bytes.
     target.parent.mkdir(parents=True,exist_ok=True);target.write_bytes(canonical(row))
     try:collect(Path(repo)/'site')
     except Exception:target.unlink();raise

@@ -18,7 +18,9 @@ jobs:
       - name: Build derived source feed for tests
         run: python3 scripts/research_feed.py
       - name: Test report acceptance, retries, concurrency and news history
-        run: python3 -m unittest discover -s scripts -p 'test_*.py'
+        run: |
+          node scripts/test_publication_colour.cjs
+          python3 -m unittest discover -s scripts -p 'test_*.py'
       - name: Validate immutable history and stage only public content
         env:
           BEFORE: ${{ github.event.before }}

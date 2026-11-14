@@ -18,6 +18,10 @@ def accept(repo,bundle,review):
     r=read(bundle/'record.json');site=repo/'site'
     standard=read(site/'data/colour-templates-v3.json');tags={x['id']:x for x in read(site/'data/external-source-standard.json')['tags']}
     validate_report(r,bundle/'files',standard,tags);receipt=validate_review(r,read(review))
+    if (site/'data/publication-colour-policy.json').exists() and not (site/'data/research-records'/(r['id']+'.json')).exists():
+        from publication_colour import audit_html
+        for name in r['assets']:
+            if name.endswith('.html'):audit_html((bundle/'files'/name).read_text(encoding='utf-8'),site)
     target=site/'data/research-records'/(r['id']+'.json')
     if target.exists():
         previous=read(target)

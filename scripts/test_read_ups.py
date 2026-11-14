@@ -6,7 +6,7 @@ from submit_read_up import accept,submit
 from submit_research import git
 
 def fixture(root,article='capacity',revision=1):
-    r=dict(kind='reuters-read-up',revision=revision,published_at='2026-11-14T08:00:00+08:00',title='Capacity and funding',takeaway='Demand and funding need to be read together.',
+    r=dict(kind='reuters-read-up',revision=revision,published_at='2026-11-14T08:00:00+08:00',title='Fixed income capacity and funding',takeaway='Demand and funding need to be read together.',
            happened='Selected reporting describes an investment plan. [S1]',matters='Our interpretation: cash timing matters. [S1]',watch='Our watch points: compare receipts with payments. [S1]',
            sources=[dict(id='S1',title='Selected story',original_url='https://www.reuters.com/business/'+article+'-2026-11-14/',accessed_url='https://www.reuters.com/business/'+article+'-2026-11-14/')],primary=[])
     r['id']='read-up-'+R.scope(r['sources']);r['word_count']=len(re.findall(r"\b[\w’'-]+\b",' '.join(r[k] for k in ('title','takeaway','happened','matters','watch'))))

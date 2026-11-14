@@ -2,7 +2,19 @@ import json,shutil,tempfile,unittest
 from pathlib import Path
 from content_release import ROOT,validate_site,build,preserve
 from research_feed import canonical
-from test_research_feed import bundle
+from test_research_feed import bundle as original_bundle,save
+from publication_colour import enrich_html
+from research_feed import read,digest
+
+def bundle(root):
+    folder,receipt=original_bundle(root);record=read(folder/'record.json')
+    path=folder/'files/index.html'
+    text=path.read_text(encoding='utf-8')
+    if '<head>' not in text:text=text.replace('<html>','<html><head><title>Synthetic release fixture</title></head>')
+    text,metadata=enrich_html(text,record,ROOT/'site')
+    path.write_text(text,encoding='utf-8');record['tags']=metadata['tags']
+    record['assets']['index.html']=record['full_report_sha256']=digest(path.read_bytes());save(folder,record)
+    return folder,receipt
 from submit_research import accept,git
 
 class IndependentReleaseTests(unittest.TestCase):

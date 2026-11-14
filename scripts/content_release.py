@@ -16,6 +16,10 @@ def preserve(repo,before,after):
     def tree(ref):
         return {s.split('\t')[1]:s.split()[2] for s in subprocess.check_output(['git','ls-tree','-r',ref],cwd=repo,text=True).splitlines()}
     old,new=tree(before),tree(after)
+    frozen={'scripts/publication_colour_v1.py','scripts/publication_colour.py','site/publication-colour-v1.css','site/data/publication-colour-catalogue-v1.json','site/data/publication-colour-policy.json'}
+    if 'site/data/publication-colour-policy.json' in old:frozen.add('scripts/read_ups.py')
+    for p in frozen:
+        if p in old:require(new.get(p)==old[p],'Published v1 renderer/standard is frozen; introduce a new version: '+p)
     for p,h in old.items():
         if p.startswith(('baseline/','site/research/','site/data/research-records/','site/data/read-up-records/','site/data/hourly-archive/')) or p=='site/data/research-register.json':
             require(new.get(p)==h,'Immutable publication changed: '+p)
@@ -63,6 +67,7 @@ class Text(HTMLParser):
         if not self.hidden:self.parts.append(data)
 
 def search(feed,news,site):
+    from publication_colour import infer_labels
     rows=[]
     def add(key,kind,title,text,href,date,tags,reading=None):
         rows.append(dict(id='content-'+key,kind=kind,title=title,text=text,href=href,date=date,source=None,status='Verified dated public content',tags=tags,location={'label':'Research Explained' if kind=='Research edition' else 'V4 → Hourly news','href':href,'exact':kind=='Research edition'},source_access='public',reading=reading or []))
@@ -72,10 +77,10 @@ def search(feed,news,site):
     # Search history includes earlier versions; runtime merges it with the legacy catalogue.
     for e in news['editions']:
         for s in e['stories']:
-            add(s['story_id']+'-'+str(s['version']),'Hourly story',s['headline'],s['body']+' '+s['analysis'],HUB+'v4.html#hourly',e['report_at'],[s['topic']],[
+            add(s['story_id']+'-'+str(s['version']),'Hourly story',s['headline'],s['body']+' '+s['analysis'],HUB+'v4.html#hourly',e['report_at'],list(dict.fromkeys([s['topic']]+infer_labels(s['headline']+' '+s['body'],site))),[
                 {'label':'Saved briefing','text':s['body']},{'label':'Saved analysis','text':s['analysis']}])
     for r in read_ups.collect(site)['entries']:
-        add(r['id'],'Reuters Read-Up',r['title'],' '.join(r[k] for k in ('takeaway','happened','matters','watch')),BASE+read_ups.destination(r),r['published_at'],['Reuters Read-Up'])
+        add(r['id'],'Reuters Read-Up',r['title'],' '.join(r[k] for k in ('takeaway','happened','matters','watch')),BASE+read_ups.destination(r),r['published_at'],['Reuters Read-Up']+infer_labels(r['title']+' '+r['takeaway'],site))
     return {'schema_version':1,'entries':rows}
 
 def build(output,repo=ROOT):
