@@ -1,0 +1,119 @@
+{
+  "id": "reuters-20261115T235012-SGT",
+  "report_at": "2026-11-15T23:53:35+08:00",
+  "cutoff": "2026-11-15T23:50:12+08:00",
+  "window_start": "2026-11-15T19:50:12+08:00",
+  "coverage": "partial",
+  "summary": "Four verified Reuters stories cover Romanian shipping attacks, unfinished ASEAN-China maritime negotiations, conditional Myanmar engagement and Shell's Mina West start-up. Myanmar is an earlier catch-up discovery. Metadata previews only; the full styled edition remains held.",
+  "limitations": [
+    "Targeted partial Reuters review, not exhaustive wire coverage. Earlier uncovered intervals remain unresolved; last_complete_cutoff stays unverified.",
+    "The source report window is 19:50:12–23:50:12 SGT on 15 November 2026, completed at 23:53:35 SGT. The preceding retained cutoff was 19:46:06 SGT; the interval to this window's start is not silently filled.",
+    "Reuters original publication dates were verified as 15 November. Exact initial-publication versus subsequent revision times were not independently established; no exact article timestamps were manufactured from syndication headers. The Myanmar discovery predates this report window and is explicitly catch-up.",
+    "No attributable shipping-rate, insurance, oil, gas, FX, equity or Treasury-yield repricing was established. Territorial strikes do not prove canal closure, and a negotiation deadline is not a shipping interruption.",
+    "Mina West's 160 million cubic feet per day is estimated potential production, not realised output. ASEAN's about 80% draft agreement is provisional and is not a completed legally binding code. Myanmar's conditional pathway does not lift current restrictions immediately.",
+    "Retained hourly history and accessible daily register/data were checked for duplicate facts. Unavailable or truncated earlier sources still limit continuity and no backlog coverage is implied.",
+    "Metadata is a preview, not the full report. The complete original narrative and a private readable HTML copy are retained. Full styled hourly publication is held because the approved publisher lacks an hourly channel, time-aware identity and exact-edition reader links. The source's matching JSON attachment was not retrieved or checksum-verified."
+  ],
+  "original_url": null,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/business/aerospace-defense/three-ships-struck-by-drones-black-sea-near-romanian-shipping-canal-pm-says-2026-11-15/",
+      "title": "Three ships struck by drones in Black Sea near Romanian shipping canal, PM says",
+      "verification_url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/15/three-ships-struck-by-drones-in-black-sea-near-romanian-shipping-canal-pm-says",
+      "published_at": null,
+      "published_date": "2026-11-15",
+      "publication_precision": "date"
+    },
+    {
+      "url": "https://www.reuters.com/world/china/asean-china-fail-conclude-south-china-sea-code-conduct-2026-11-15/",
+      "title": "ASEAN, China fail to conclude South China Sea code of conduct",
+      "verification_url": "https://ca.marketscreener.com/news/asean-china-fail-to-conclude-south-china-sea-code-of-conduct-ce785ededc81f12c",
+      "published_at": null,
+      "published_date": "2026-11-15",
+      "publication_precision": "date"
+    },
+    {
+      "url": "https://www.reuters.com/world/asia-pacific/asean-continue-constructive-principled-engagement-with-myanmar-blocs-chair-2026-11-15/",
+      "title": "ASEAN keeps Myanmar restrictions but opens path to political return",
+      "verification_url": "https://www.streetinsider.com/Reuters/ASEAN%2Bto%2Bcontinue%2Bconstructive%2Band%2Bprincipled%2Bengagement%2Bwith%2BMyanmar%2C%2Bblocs%2Bchair%2BPhilippines%2Bsays/27346257.html",
+      "published_at": null,
+      "published_date": "2026-11-15",
+      "publication_precision": "date"
+    },
+    {
+      "url": "https://www.reuters.com/business/energy/shell-starts-gas-production-egypts-mina-west-field-2026-11-15/",
+      "title": "Shell starts gas production from Egypt's Mina West field",
+      "verification_url": "https://ca.marketscreener.com/news/shell-starts-gas-production-from-egypt-s-mina-west-field-ce785ededc8ef622",
+      "published_at": null,
+      "published_date": "2026-11-15",
+      "publication_precision": "date"
+    }
+  ],
+  "stories": [
+    {
+      "story_id": "R-20261115-ROMANIA-SULINA-THREE-SHIPS-DRONE-STRIKES",
+      "freshness": "current",
+      "topic": "Romania / NATO / Black Sea / Shipping",
+      "headline": "Romania reports drone strikes on three commercial ships near Sulina",
+      "body": "Romanian officials said three commercial vessels were hit by drones near the Sulina canal late on Saturday. The prime minister said fighter jets were scrambled twice; the defence minister reported no casualties and said crews brought fires under control. Reuters reported that two of the vessels were struck inside Romanian territorial waters. Drone attribution remains unestablished in the reviewed account. No attributable freight, insurance, oil, FX or Treasury-yield movement was verified.",
+      "analysis": "The reported attacks increase maritime-security concerns near a NATO member's export route. They do not establish a canal closure or a halt to exports.",
+      "watch_next": "Verified damage, canal operations, drone attribution and NATO responses.",
+      "source_urls": [
+        "https://www.reuters.com/business/aerospace-defense/three-ships-struck-by-drones-black-sea-near-romanian-shipping-canal-pm-says-2026-11-15/"
+      ],
+      "version": 1,
+      "status": "new",
+      "earlier": "",
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261115-ASEAN-CHINA-SCS-CODE-DEADLOCK",
+      "freshness": "current",
+      "topic": "Singapore / ASEAN / China / South China Sea",
+      "headline": "ASEAN-China maritime code remains unfinished ahead of Singapore's chairmanship",
+      "body": "Philippine Foreign Minister Ma. Theresa Lazaro said ASEAN and China had not concluded their South China Sea code of conduct despite provisional agreement on about 80% of its draft. Whether the code will be legally binding remains unresolved. Singapore assumes the ASEAN chairmanship in 2027 and inherits the negotiations. This records Sunday's official account, rather than treating every aspect of the longstanding negotiations as a new event. No announcement-attributable regional market or freight-rate response was verified.",
+      "analysis": "Unresolved maritime rules leave diplomatic and trade-confidence risks. Missing a negotiation target is not confirmation of a shipping disruption.",
+      "watch_next": "Singapore's 2027 agenda, unresolved legal terms and verified maritime developments.",
+      "source_urls": [
+        "https://www.reuters.com/world/china/asean-china-fail-conclude-south-china-sea-code-conduct-2026-11-15/"
+      ],
+      "version": 1,
+      "status": "new",
+      "earlier": "",
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261115-ASEAN-MYANMAR-PHASED-ENGAGEMENT",
+      "freshness": "catch-up",
+      "topic": "ASEAN / Myanmar / Diplomacy",
+      "headline": "ASEAN keeps Myanmar restrictions while setting a conditional path to return",
+      "body": "Reuters reported earlier on Sunday that ASEAN retained restrictions on Myanmar's full political representation, while considering gradual restoration if sustained progress is made on its five-point peace plan. The approach is phased and tied to progress. This earlier report is an uncovered catch-up discovery, counted once; it is not fresh news from the current four-hour window. No directly attributable currency, bond or equity response was verified.",
+      "analysis": "A conditional diplomatic pathway leaves existing restrictions in place. It is not immediate political reinstatement or a confirmed sanctions change.",
+      "watch_next": "Concrete peace-plan progress and formal ASEAN representation decisions.",
+      "source_urls": [
+        "https://www.reuters.com/world/asia-pacific/asean-continue-constructive-principled-engagement-with-myanmar-blocs-chair-2026-11-15/"
+      ],
+      "version": 1,
+      "status": "new",
+      "earlier": "",
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261115-SHELL-EGYPT-MINA-WEST-GAS-FIRST-PRODUCTION",
+      "freshness": "current",
+      "topic": "Egypt / Shell / Natural Gas",
+      "headline": "Shell starts Mina West gas production; potential output is an estimate",
+      "body": "Shell said production had begun at Egypt's offshore Mina West gas field, connected to existing West Delta Deep Marine infrastructure. Reuters reported estimated potential production of 160 million cubic feet per day, with Shell holding 60% and a KUFPEC subsidiary 40%. The potential rate is a company estimate, not verified realised daily output. No event-attributable share-price, gas-benchmark or FX movement was verified.",
+      "analysis": "The project adds a domestic supply source. Its capacity estimate alone does not establish actual volumes, realised earnings or lower global gas prices.",
+      "watch_next": "Actual production, Egyptian gas import needs and operating disclosures.",
+      "source_urls": [
+        "https://www.reuters.com/business/energy/shell-starts-gas-production-egypts-mina-west-field-2026-11-15/"
+      ],
+      "version": 1,
+      "status": "new",
+      "earlier": "",
+      "development_at": null
+    }
+  ],
+  "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859"
+}
