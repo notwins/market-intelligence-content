@@ -2,13 +2,84 @@
   "schema_version": 1,
   "source_name": "Reuters Hourly News",
   "source_url": null,
-  "publisher_checked_at": "2026-11-15T17:22:46+08:00",
+  "publisher_checked_at": "2026-11-15T20:21:10+08:00",
   "last_complete_cutoff": null,
   "source_schedule": {
     "status": "Active",
     "checked_at": "2026-11-03T18:21:21+08:00"
   },
   "editions": [
+    {
+      "id": "reuters-20261115T194606-SGT",
+      "report_at": "2026-11-15T19:50:57+08:00",
+      "cutoff": "2026-11-15T19:46:06+08:00",
+      "window_start": "2026-11-15T15:46:06+08:00",
+      "coverage": "partial",
+      "summary": "Two verified Reuters stories cover Yemeni government-aligned forces' Bab el-Mandeb withdrawal and Wingtech's planned appeal of Dutch Nexperia measures. The Nvidia/Megaspeed follow-up is held for missing public predecessors. Metadata only; the full styled report is not published.",
+      "limitations": [
+        "Targeted partial Reuters coverage. Older intervals remain unverified and no fully completed source-scan cutoff is established.",
+        "The source report cutoff is 19:46:06 SGT and completion is 19:50:57 SGT on 15 November 2026. Reuters original publication dates are verified as 15 November. Exact Reuters initial-publication versus subsequent revision times were not independently established in this publishing run and are not manufactured from displayed page headers or syndication timestamps.",
+        "The territorial withdrawal concerns an area overlooking Bab el-Mandeb. It does not establish that the strait is closed, shipments have stopped or a new freight, insurance, oil-price or FX movement has occurred.",
+        "Wingtech's intended appeal is a corporate legal announcement, not a successful appeal, removal of the interim court measures, confirmed new chip-production interruption or realised financial loss.",
+        "Nvidia/Megaspeed follow-up R-20261108-NVDA-HUANG-BOARD-INTELLIGENCE-INQUIRY version 14 is held because its public predecessor versions 1–13 are absent. The separate retained US-lawmakers briefing story is not used as a substitute chain. No story is renamed or reset to version 1.",
+        "Other briefing sources were unavailable to the producer, limiting cross-report review to accessible retained history. Partial coverage does not imply exhaustive Reuters-wire monitoring.",
+        "Metadata previews only. The detailed source narrative and private reader copy are retained. Full styled hourly publication is held because the approved publisher lacks an hourly channel, time-aware identity and exact-edition reader links. The source's illustrative image reference was not recovered as a usable image asset."
+      ],
+      "original_url": null,
+      "sources": [
+        {
+          "url": "https://www.reuters.com/world/middle-east/yemen-government-forces-withdraw-area-near-bab-el-mandeb-strait-houthis-control-2026-11-15/",
+          "title": "Yemen government forces withdraw from area near Bab el-Mandeb Strait, Houthis in control",
+          "published_at": null,
+          "published_date": "2026-11-15",
+          "publication_precision": "date",
+          "verification_url": "https://www.investing.com/news/world-news/yemen-government-forces-withdraw-from-area-near-bab-elmandeb-strait-houthis-in-control-5027740"
+        },
+        {
+          "url": "https://www.reuters.com/legal/litigation/wingtech-says-it-will-appeal-dutch-courts-order-nexperia-dispute-2026-11-15/",
+          "title": "Wingtech says it will appeal Dutch court's order in Nexperia dispute",
+          "published_at": null,
+          "published_date": "2026-11-15",
+          "publication_precision": "date",
+          "verification_url": "https://sg.finance.yahoo.com/news/wingtech-says-appeal-dutch-courts-102436457.html"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261115-YEMEN-BAB-EL-MANDEB-WITHDRAWAL",
+          "version": 1,
+          "status": "new",
+          "freshness": "current",
+          "topic": "Middle East / Houthis / Shipping / Energy",
+          "headline": "Yemeni forces withdraw from territory overlooking Bab el-Mandeb",
+          "body": "Reuters reported that forces aligned with Yemen's internationally recognised Saudi-backed government announced withdrawal from Dhubab Airport and the Bab el-Mandeb area west of Taiz, redeploying towards Aden. The account leaves the Houthis controlling territory overlooking the maritime chokepoint on the Asia–Europe route through Suez. This is a reported territorial change, not confirmation that the strait is closed or shipping has stopped. No attributable freight-rate, marine-insurance, oil-price or FX response was verified.",
+          "analysis": "Control near an important shipping route could increase security and insurance risks. Actual vessel movements and commercial disruption require separate verification before inferring supply losses or financial effects.",
+          "watch_next": "Vessel movements, official maritime advisories, insurance conditions and Houthi military activity.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/middle-east/yemen-government-forces-withdraw-area-near-bab-el-mandeb-strait-houthis-control-2026-11-15/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261115-WINGTECH-NEXPERIA-DUTCH-COURT-APPEAL",
+          "version": 1,
+          "status": "new",
+          "freshness": "current",
+          "topic": "China / Netherlands / Semiconductors / Litigation",
+          "headline": "Wingtech announces intended appeal of Dutch Nexperia court measures",
+          "body": "Wingtech said in a Shanghai Stock Exchange filing that it would appeal an interim Dutch court ruling concerning Nexperia. It argued the decision lacked a factual and legal basis and interfered with Chinese judicial proceedings. Reuters also described additional Dutch measures ordered the preceding week to protect Nexperia from owner interference. An announced appeal does not overturn those measures. No new production interruption or attributable Wingtech share-price movement was established.",
+          "analysis": "The dispute adds uncertainty around cross-border semiconductor ownership and oversight. Its effect on automotive or industrial chip supplies remains conditional; a filing is not a successful legal outcome.",
+          "watch_next": "Formal appeal proceedings, regulatory responses and Nexperia operating disclosures.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/legal/litigation/wingtech-says-it-will-appeal-dutch-courts-order-nexperia-dispute-2026-11-15/"
+          ],
+          "development_at": null
+        }
+      ],
+      "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859"
+    },
     {
       "id": "reuters-20261115T162143-SGT",
       "report_at": "2026-11-15T16:25:31+08:00",
