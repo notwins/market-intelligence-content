@@ -25,8 +25,9 @@ class IndependentReleaseTests(unittest.TestCase):
     def tearDown(self):self.tmp.cleanup()
     def test_new_report_search_and_independent_ui_rollback(self):
         ui=self.base/'ui';ui.mkdir();(ui/'index.html').write_text('UI A')
+        initial_reports=len(list((self.repo/'site/data/research-records').glob('*.json')))
         p,v=bundle(self.base);accept(self.repo,p,v)
-        result=build(self.base/'deployed-content',self.repo);self.assertEqual(result['reports'],1)
+        result=build(self.base/'deployed-content',self.repo);self.assertEqual(result['reports'],initial_reports+1)
         report=self.base/'deployed-content/research/test-alpha-2026-11-14/index.html';original=report.read_bytes()
         (ui/'index.html').write_text('UI B');(ui/'index.html').write_text('UI A')
         self.assertEqual(report.read_bytes(),original)
