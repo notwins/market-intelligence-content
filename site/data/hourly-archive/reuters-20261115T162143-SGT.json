@@ -1,0 +1,71 @@
+{
+  "id": "reuters-20261115T162143-SGT",
+  "report_at": "2026-11-15T16:25:31+08:00",
+  "cutoff": "2026-11-15T16:21:43+08:00",
+  "window_start": "2026-11-15T12:21:43+08:00",
+  "coverage": "partial",
+  "summary": "Two verified Reuters stories cover Bahrain-reported Iranian interceptions and the Philippines–Australia defence arrangement. Iran's claim of a successful US-base strike remains unconfirmed. A Hormuz follow-up is held for missing public predecessors. Metadata only; the full styled companion is unpublished.",
+  "limitations": [
+    "Targeted partial Reuters coverage. Earlier gaps remain unresolved and no verified fully complete source-scan cutoff is established.",
+    "The source report was completed at 16:25:31 SGT with a 16:21:43 SGT cutoff. Reuters original article dates are verified as 15 November; exact original-publication versus revision timestamps and precise event times remain unknown. Displayed headers are not treated as event times.",
+    "Bahrain's military reported interceptions; Iran's separate claim that six drones targeted US radar at Al-Rifaa is attributed and not independent confirmation of a successful strike or damage. No event-attributable oil, Treasury-yield or FX move is established.",
+    "The defence cooperation arrangement was signed, but implementation and additional maritime-surveillance support are prospective. No specific new funding amount or attributable market-price response was verified.",
+    "Hormuz follow-up R-20261112-HORMUZ-IRGC-TWO-TANKER-EXPLOSION-CLAIM version 5 is held because its public predecessor versions 1–4 are absent. The unrelated retained 4 November tanker-claim story is not used as a substitute version chain. No story is renamed or reset to version 1.",
+    "Other briefing automations were unavailable to the producer. Cross-report checks are limited to accessible retained history, and the review is not an exhaustive Reuters-wire scan.",
+    "Metadata previews only. A complete source narrative and presentation review copy are retained privately. Full styled hourly publication remains held because the approved publisher lacks an hourly channel, time-aware identity and exact-edition full-report links."
+  ],
+  "original_url": null,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/world/middle-east/bahrains-interior-ministry-issues-alerts-potential-threats-2026-11-15/",
+      "title": "Bahrain intercepts Iranian aerial attacks as Tehran says it attacked US base",
+      "published_at": null,
+      "published_date": "2026-11-15",
+      "publication_precision": "date",
+      "verification_url": "https://www.koreatimes.co.kr/world/20261115/bahrain-intercepts-iranian-aerial-attacks-as-tehran-says-it-attacked-us-base"
+    },
+    {
+      "url": "https://www.reuters.com/world/china/philippines-australia-sign-defence-pact-with-eye-china-2026-11-15/",
+      "title": "Philippines, Australia sign defence pact with eye on China",
+      "published_at": null,
+      "published_date": "2026-11-15",
+      "publication_precision": "date",
+      "verification_url": "https://www.investing.com/news/world-news/philippines-australia-sign-defence-pact-with-eye-on-china-5027662"
+    }
+  ],
+  "stories": [
+    {
+      "story_id": "R-20261115-BAHRAIN-IRAN-DRONE-INTERCEPTS-US-BASE-CLAIM",
+      "version": 1,
+      "status": "new",
+      "freshness": "current",
+      "topic": "Bahrain / Iran / US / Energy security",
+      "headline": "Bahrain reports Iranian interceptions; claimed US-base strike unconfirmed",
+      "body": "Reuters reported that Bahrain said it intercepted several Iranian aerial attacks after warnings urging residents to seek shelter, its first such interceptions since September. Iran's Revolutionary Guards separately claimed six drones targeted US air-defence radar at the Al-Rifaa helicopter base. No immediate US or Bahraini confirmation established that this claimed strike succeeded. Bahrain hosts the US Navy's Fifth Fleet. The exact event time and any attributable oil, Treasury-yield or currency movement remain unverified.",
+      "analysis": "Renewed Gulf attacks could raise energy-infrastructure and maritime-transport risks. Reported interceptions and an unverified military claim do not establish damaged oil facilities or physical supply losses.",
+      "watch_next": "US military confirmation, independent damage assessments, further strikes and verified shipping interruptions.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/middle-east/bahrains-interior-ministry-issues-alerts-potential-threats-2026-11-15/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261115-PHILIPPINES-AUSTRALIA-DEFENCE-ARRANGEMENT",
+      "version": 1,
+      "status": "new",
+      "freshness": "current",
+      "topic": "ASEAN / Philippines / Australia / China",
+      "headline": "Philippines and Australia sign arrangement to streamline defence cooperation",
+      "body": "The countries signed a defence cooperation arrangement in Manila on Sunday to simplify coordination under their existing Status of Visiting Forces Agreement. It covers maritime, air and land cooperation and humanitarian/disaster response. Anthony Albanese announced additional maritime-awareness support involving drone technology, equipment and training; the reviewed Reuters report did not establish a specific new amount. No attributable Asian equity, bond or CNH movement was verified.",
+      "analysis": "Closer defence coordination matters for South China Sea security. Signing the arrangement does not establish a commercial-shipping interruption or trade blockade.",
+      "watch_next": "Implementation, joint activities, formal Chinese responses and further maritime incidents.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/china/philippines-australia-sign-defence-pact-with-eye-china-2026-11-15/"
+      ],
+      "development_at": null
+    }
+  ],
+  "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859"
+}
