@@ -2,13 +2,84 @@
   "schema_version": 1,
   "source_name": "Reuters Hourly News",
   "source_url": null,
-  "publisher_checked_at": "2026-11-15T05:16:30+08:00",
+  "publisher_checked_at": "2026-11-15T13:18:32+08:00",
   "last_complete_cutoff": null,
   "source_schedule": {
     "status": "Active",
     "checked_at": "2026-11-03T18:21:21+08:00"
   },
   "editions": [
+    {
+      "id": "reuters-20261115T122316-SGT",
+      "report_at": "2026-11-15T12:26:31+08:00",
+      "cutoff": "2026-11-15T12:23:16+08:00",
+      "window_start": "2026-11-15T08:23:16+08:00",
+      "coverage": "partial",
+      "summary": "Two verified Reuters stories cover Saudi-reported missile/drone interceptions and a US diesel-price decline. The FAA follow-up is held for missing public predecessors. This is a partial metadata edition; the complete styled companion remains unpublished.",
+      "limitations": [
+        "Targeted Reuters coverage only. Earlier uncovered intervals remain open and no verified fully completed source-scan cutoff is established.",
+        "Reuters original publication dates are verified as 15 November 2026. Exact initial-publication versus later article-update times cannot be distinguished and remain unknown. Displayed headers are not treated as event times.",
+        "The Saudi account attributes interceptions to the coalition; no new oil-production loss or attributable oil, FX or bond-price reaction is established.",
+        "The US diesel observation is from Saturday, 14 November, before this edition's four-hour window. It is labelled catch-up, despite appearing as new in the producer's report. It is a historical retail price, not a live quote, released CPI result or Fed decision.",
+        "FAA story R-20261113-US-FAA-NATIONAL-GROUND-STOP version 6 is held because public predecessor versions 1–5 are absent. The story has not been renamed or reset to version 1.",
+        "The producer could not access other briefing automations, so cross-report checking is limited to retained accessible history. This does not imply exhaustive Reuters coverage.",
+        "Metadata previews only. The complete source narrative and presentation review copy are retained privately. Full styled hourly publication is held because the approved publisher lacks an hourly channel, time-aware edition identity and exact-edition full-report reader links."
+      ],
+      "original_url": null,
+      "sources": [
+        {
+          "url": "https://www.reuters.com/world/middle-east/saudi-led-coalition-intercepts-missiles-towards-riyadh-drones-eastern-province-2026-11-15/",
+          "title": "Saudi-led coalition intercepts missiles towards Riyadh, drones in Eastern Province",
+          "published_at": null,
+          "published_date": "2026-11-15",
+          "publication_precision": "date",
+          "verification_url": "https://www.dunyanews.tv/en/World/982996-saudiled-coalition-intercepts-missiles-towards-riyadh-drones-in-east"
+        },
+        {
+          "url": "https://www.reuters.com/business/energy/us-diesel-below-6-gallon-2-month-low-easing-tensions-weaker-demand-2026-11-15/",
+          "title": "US diesel below $6 a gallon at 2-month low on easing tensions, weaker demand",
+          "published_at": null,
+          "published_date": "2026-11-15",
+          "publication_precision": "date",
+          "verification_url": "https://m.economictimes.com/news/international/business/us-diesel-below-6-a-gallon-at-2-month-low-on-easing-tensions-weaker-demand/amp_articleshow/135845300.cms"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261115-SAUDI-HOUTHI-RIYADH-EASTERN-INTERCEPTS",
+          "version": 1,
+          "status": "new",
+          "freshness": "current",
+          "topic": "Saudi Arabia / Houthis / Energy security",
+          "headline": "Saudi-led coalition reports intercepting two missiles and three drones",
+          "body": "Reuters reported the coalition's account of two Houthi ballistic missiles intercepted towards Riyadh and three drones over the oil-rich Eastern Province. The report describes earlier attacks on Aramco facilities. It does not establish a new production interruption from these interceptions. The exact attack time and any attributable oil, currency or bond-market movement remain unverified.",
+          "analysis": "Energy-infrastructure security warrants attention. An interception announcement does not establish damaged facilities, lost output or a confirmed export disruption.",
+          "watch_next": "Saudi Energy Ministry and Aramco statements, independently verified damage, production continuity and shipping conditions.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/middle-east/saudi-led-coalition-intercepts-missiles-towards-riyadh-drones-eastern-province-2026-11-15/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261115-US-DIESEL-UNDER-SIX",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "US / Diesel / Inflation / Freight",
+          "headline": "US average diesel falls below $6 per gallon; observation predates this window",
+          "body": "Reuters attributed a Saturday, 14 November, US average retail diesel price of $5.998 per US gallon to GasBuddy, below $6 for the first time in two months. The reported record was $6.519 on September 22. Seasonal demand weakness, recovering refinery activity and lower crude prices helped the decline; Brent futures had fallen 18.5% over the preceding two weeks. These are historical observations, not live quotations. No attributable contemporaneous Treasury-yield or dollar movement was verified.",
+          "analysis": "If sustained, lower diesel costs could ease freight and farming expenses. This does not establish a CPI decline, a consensus surprise or a Fed rate decision.",
+          "watch_next": "Wholesale fuel and freight prices, duration of the decline, and subsequent CPI/PCE releases.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/energy/us-diesel-below-6-gallon-2-month-low-easing-tensions-weaker-demand-2026-11-15/"
+          ],
+          "development_at": null
+        }
+      ],
+      "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859"
+    },
     {
       "id": "reuters-20261115T041657-SGT",
       "report_at": "2026-11-15T04:21:51+08:00",
