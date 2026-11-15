@@ -2,13 +2,60 @@
   "schema_version": 1,
   "source_name": "Reuters Hourly News",
   "source_url": null,
-  "publisher_checked_at": "2026-11-16T00:16:38+08:00",
+  "publisher_checked_at": "2026-11-16T04:18:28+08:00",
   "last_complete_cutoff": null,
   "source_schedule": {
     "status": "Active",
     "checked_at": "2026-11-03T18:21:21+08:00"
   },
   "editions": [
+    {
+      "id": "reuters-20261116T034633-SGT",
+      "report_at": "2026-11-16T03:52:47+08:00",
+      "cutoff": "2026-11-16T03:46:33+08:00",
+      "window_start": "2026-11-15T23:46:33+08:00",
+      "coverage": "partial",
+      "original_url": null,
+      "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+      "summary": "One newly reviewed Reuters story covers Kansas City Fed President Jeff Schmid's inflation assessment and existing December rate-futures pricing. Three source follow-ups remain held. Metadata is a preview; the full styled report remains unpublished.",
+      "limitations": [
+        "Targeted partial source review, not an exhaustive Reuters scan. Historical gaps remain open and last_complete_cutoff remains unverified.",
+        "The matching source JSON was downloaded and its SHA-256 verified. It specifies the window 15 November 23:46:33 to 16 November 03:46:33 SGT, completed at 03:52:47 SGT. The nominal window overlaps the preceding retained cutoff of 15 November 23:50:12 SGT; this does not fill older gaps.",
+        "Reuters original article date is verified as 15 November 2026 through attributed syndication. Exact original publication, revision and event times remain unverified; no displayed header or syndication timestamp is treated as the original Reuters publication time. The newly imported item is conservatively marked catch-up for that timing limit.",
+        "The Nvidia version 15 and FAA version 7 follow-ups are held because their required public predecessor chains are absent. Neither has been renamed, restarted at version one, or silently treated as new.",
+        "The Saudi version 2 pipeline-attack and throughput claims are held: the inspected supplied Reuters syndication did not establish those additional facts or their newness. A separate report names missile targets but may concern the already retained interceptions; it does not confirm pipeline damage.",
+        "December futures pricing is a Reuters-reported expectation, not a new Fed decision or a measured change attributable to the speech. No matched Treasury-yield, USD, CHF funding-rate or other market reaction was verified.",
+        "Metadata is only a preview. The complete source narrative, matching JSON, styled private review copies and source-to-output checklist are retained privately. Full publication remains held because the approved report publisher has no hourly channel, timestamp-aware edition identity or exact-edition reader link. Unverified/unsupported source items also remain held."
+      ],
+      "sources": [
+        {
+          "url": "https://www.reuters.com/world/us/fed-has-some-work-do-inflation-kc-fed-chief-says-2026-11-15/",
+          "title": "Fed 'has some work to do on inflation,' KC Fed chief says",
+          "published_at": null,
+          "published_date": "2026-11-15",
+          "publication_precision": "date",
+          "verification_url": "https://uk.marketscreener.com/news/fed-has-some-work-to-do-on-inflation-kc-fed-chief-says-ce785ededf8bf720"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261115-FED-SCHMID-INFLATION-AI-DEMAND",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "US / Fed / Inflation / AI demand",
+          "headline": "Fed Schmid says inflation remains too high and policy can restrain AI-linked demand",
+          "body": "Reuters reported on Sunday that Kansas City Fed President Jeff Schmid considered inflation above the 2% objective and said monetary policy could influence strong demand, including AI investment. He did not explicitly request another rate increase and is not a 2026 FOMC voter. Reuters described December futures as pricing a quarter-point increase with a small chance of a half-point move. That is an existing market expectation, not a new policy decision or evidence of a speech-driven change. Exact development timing and attributable Treasury-yield or dollar moves were not established.",
+          "analysis": "The remarks provide a policymaker assessment relevant to USD funding and duration sensitivity. They do not establish a new rate decision, an attributable repricing or a change in CHF financing costs.",
+          "watch_next": "US inflation evidence, the December FOMC decision and comparable dated market observations.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/us/fed-has-some-work-do-inflation-kc-fed-chief-says-2026-11-15/"
+          ],
+          "development_at": null
+        }
+      ]
+    },
     {
       "id": "reuters-20261115T235012-SGT",
       "report_at": "2026-11-15T23:53:35+08:00",
