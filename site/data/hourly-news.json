@@ -2,13 +2,180 @@
   "schema_version": 1,
   "source_name": "Reuters Hourly News",
   "source_url": null,
-  "publisher_checked_at": "2026-11-16T17:16:55+08:00",
+  "publisher_checked_at": "2026-11-16T21:22:56+08:00",
   "last_complete_cutoff": null,
   "source_schedule": {
     "status": "Active",
     "checked_at": "2026-11-03T18:21:21+08:00"
   },
   "editions": [
+    {
+      "id": "reuters-20261116T210511-SGT",
+      "report_at": "2026-11-16T21:09:43+08:00",
+      "cutoff": "2026-11-16T21:05:11+08:00",
+      "window_start": "2026-11-16T16:41:34+08:00",
+      "coverage": "partial",
+      "original_url": null,
+      "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+      "summary": "Six reviewed Reuters previews cover Barr AI-risk warnings, UniCredit regulatory approvals, AI portfolio concentration, Morgan Stanley forecasts, Indian unemployment and Uniper plans. Coverage remains partial; the full detailed edition is held and these cards are previews.",
+      "limitations": [
+        "Partial targeted Reuters review, not exhaustive wire coverage. Historical gaps remain open and last_complete_cutoff is not advanced.",
+        "Coverage window 16 November 16:41:34-21:05:11 SGT. The source END UPDATE line repeats the 21:05:11 cutoff; the downloaded handoff records report_at and file generation at 21:09:43 SGT. Both are preserved separately rather than treating the cutoff as the file completion time.",
+        "The matching 29,213-byte source JSON was downloaded and its SHA-256 independently matched ff0e2896618ab721159d39986684268dac1ed0d97c36e70257eab720289c8961. Its complete generated dashboard, six story records and six Reuters sources were read.",
+        "Imported material claims were checked against Reuters-attributed syndication. Original publication dates are retained at date precision; displayed page-header or syndication times are not substituted for unverified original publication or revision clocks. Items are conservatively labelled catch-up, including the producer-labelled Uniper catch-up.",
+        "The 87% AI-risk survey is from the November 13 Fed Financial Stability Report; Barr remarks are a separate November 16 development. UniCredit approvals do not establish takeover completion. AI concentration figures have specific index and pension-sample denominators and are not AI capex or debt totals.",
+        "Morgan Stanley index/EPS targets and Uniper profit/investment plans are forecasts, not realised returns or cash flows. The S&P 500 comparison is a previous close; Uniper grid capacity is not operating demand. No event-specific market reaction or monetary-policy decision is inferred.",
+        "Metadata is only a preview. Complete original research text, matching JSON, styled private copy and a source-to-output checklist are retained. Full-detail publication remains held because the approved process lacks an hourly channel, timestamp-aware edition identity and exact-edition full-report reader link. No full-detail, pinned V3 contract or desktop/mobile visual approval is claimed."
+      ],
+      "sources": [
+        {
+          "url": "https://www.reuters.com/world/feds-barr-warns-ai-risks-financial-system-2026-11-16/",
+          "title": "Fed's Barr warns on AI risks to financial system",
+          "published_at": null,
+          "published_date": "2026-11-16",
+          "publication_precision": "date",
+          "verification_url": "https://www.investing.com/news/economic-indicators/feds-barr-warns-on-ai-risks-to-financial-system-5028804"
+        },
+        {
+          "url": "https://www.reuters.com/business/finance/unicredit-wins-eu-approval-commerzbank-acquisition-2026-11-16/",
+          "title": "UniCredit wins EU and US approval for Commerzbank acquisition",
+          "published_at": null,
+          "published_date": "2026-11-16",
+          "publication_precision": "date",
+          "verification_url": "https://wsau.com/2026/11/16/unicredit-wins-eu-and-us-approval-for-commerzbank-acquisition/"
+        },
+        {
+          "url": "https://www.reuters.com/legal/legalindustry/ai-selloff-has-investors-scrambling-measure-their-true-exposure-2026-11-16/",
+          "title": "AI selloff has investors scrambling to measure their true exposure",
+          "published_at": null,
+          "published_date": "2026-11-16",
+          "publication_precision": "date",
+          "verification_url": "https://www.channelnewsasia.com/business/analysisai-selloff-has-investors-scrambling-measure-their-true-exposure-6555406"
+        },
+        {
+          "url": "https://www.reuters.com/business/morgan-stanley-raises-global-equities-maximum-overweight-cheap-valuations-2026-11-16/",
+          "title": "Morgan Stanley raises global equities to 'maximum overweight' on cheap valuations, earnings strength",
+          "published_at": null,
+          "published_date": "2026-11-16",
+          "publication_precision": "date",
+          "verification_url": "https://www.investing.com/news/economy-news/morgan-stanley-raises-global-equities-to-maximum-overweight-on-cheap-valuations-earnings-strength-5029212"
+        },
+        {
+          "url": "https://www.reuters.com/world/india/indias-october-unemployment-rate-49-yy-2026-11-16/",
+          "title": "India's October unemployment rate at 4.9% y/y",
+          "published_at": null,
+          "published_date": "2026-11-16",
+          "publication_precision": "date",
+          "verification_url": "https://economictimes.indiatimes.com/news/economy/indicators/indias-unemployment-rate-eases-to-4-9-in-october/articleshow/135884988.cms"
+        },
+        {
+          "url": "https://www.reuters.com/business/energy/germanys-uniper-expects-core-profit-up-15-billion-2027-2026-11-16/",
+          "title": "Germany's Uniper details €6 billion investment plan as Berlin seeks sale",
+          "published_at": null,
+          "published_date": "2026-11-16",
+          "publication_precision": "date",
+          "verification_url": "https://live.euronext.com/en/financial-news/germanys-uniper-details-eu6-billion-investment-plan-berlin-seeks-sale"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261116-FED-BARR-AI-FINANCIAL-STABILITY",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "US / FED / CENTRAL BANKS / AI / BANKS / FINANCIAL STABILITY / CYBERSECURITY",
+          "headline": "Fed governor warns AI agents could amplify bank runs and market disruptions",
+          "body": "Fed Governor Michael Barr described how AI trading herds, cyberattacks and automated bank-account activity could disrupt finance or accelerate withdrawals. He offered no monetary-policy outlook. Reuters cited 87% of surveyed contacts identifying AI as a salient risk in the Financial Stability Report released November 13; that survey predates Monday remarks. No directly attributable Treasury, bank-share or currency reaction was established.",
+          "analysis": "AI is increasingly an operational, conduct and financial-stability risk alongside equity valuations and debt. Banks should distinguish accountable customer instructions from high-speed automated agent transactions.",
+          "watch_next": "Fed supervision and Financial Stability Report follow-ups, bank controls for agent authorisation and AI-linked credit exposure.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/feds-barr-warns-ai-risks-financial-system-2026-11-16/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261116-UNICREDIT-COMMERZBANK-EU-US-APPROVAL",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "EUROPE / EU / US FED / BANKS / M&A / CREDIT",
+          "headline": "UniCredit wins EU and US approvals for €45bn Commerzbank takeover",
+          "body": "UniCredit obtained unconditional European Commission clearance and US Federal Reserve approval for its proposed EUR45 billion acquisition of Commerzbank. ECB approval came in October. These are additional regulatory milestones in an existing approach, not confirmation that ownership has transferred or that all transaction conditions are met. No approval-specific bank-share or credit-spread reaction was verified.",
+          "analysis": "A major regulatory hurdle for European bank consolidation has been removed, but deal completion, integration risk and shareholder consequences still require monitoring.",
+          "watch_next": "Remaining deal conditions, German government position, closing timetable and bank capital/integration plans.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/finance/unicredit-wins-eu-approval-commerzbank-acquisition-2026-11-16/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261116-AI-PORTFOLIO-CONCENTRATION-REASSESSMENT",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "US / GLOBAL / AI / EQUITIES / CREDIT / PORTFOLIO RISK",
+          "headline": "Asset managers reassess hidden AI concentration after sector selloff",
+          "body": "Reuters described managers examining indirect AI exposure across power, telecoms, loans, bonds and structured securities. It cited at least US$25.3 trillion invested in large firms with direct AI exposure in the MSCI Global Intelligence Index, rather than AI capex or debt. Equable Institute found 52 AI-related firms represented 38.5% of public-equity holdings in its large-pension-fund sample in June 2026. That percentage does not describe all pension assets or the entire pension system. The discussed selloff predates this reporting window.",
+          "analysis": "Traditional sector allocation can conceal correlations across AI builders, power suppliers and AI-financed borrowers; stress-testing both equity and credit exposures may reveal concentration.",
+          "watch_next": "Nvidia results, debt service/cash-flow disclosures, index concentration and new AI-linked credit-screening practices.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/legal/legalindustry/ai-selloff-has-investors-scrambling-measure-their-true-exposure-2026-11-16/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261116-MORGAN-STANLEY-GLOBAL-EQUITIES-MAX-OVERWEIGHT",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "GLOBAL / US / JAPAN / EUROPE / EQUITIES / VALUATION / EARNINGS",
+          "headline": "Morgan Stanley upgrades global equities to maximum overweight",
+          "body": "Morgan Stanley moved its global equity allocation view to maximum overweight, upgrading Europe and Japan from equal-weight to overweight. Its forecast S&P 500 target is 8,700 at end-2027; expected index EPS is US$420 for 2027 versus US$369 estimated for 2026. The 7,561.67 comparison is an earlier close quoted by Reuters, not a live level. These forecasts do not establish a realised or guaranteed return.",
+          "analysis": "This is a broker forecast rather than a guaranteed return. Compare implied earnings growth and valuations, and stress-test downside if AI capex or margins disappoint.",
+          "watch_next": "Upcoming earnings, actual earnings forecasts, oil/rate developments and whether valuations support the target.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/morgan-stanley-raises-global-equities-maximum-overweight-cheap-valuations-2026-11-16/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261116-INDIA-OCT-UNEMPLOYMENT-SURPRISE",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "INDIA / MACRO / EMPLOYMENT / RBI / EM EQUITIES",
+          "headline": "India unemployment eases to 4.9%, beating Reuters consensus",
+          "body": "India October 2026 unemployment among people aged 15 and above was 4.9%, compared with 5.0% in September and a Reuters poll forecast of 5.1%. The unemployment reading is 0.2 percentage point below the forecast. No release-specific rupee, equity or sovereign-yield response was verified. This employment release is distinct from earlier inflation data and is not an RBI policy decision.",
+          "analysis": "Labour resilience helps frame the Indian inflation/growth tradeoff, but does not erase earlier reported wholesale-inflation pressures.",
+          "watch_next": "RBI guidance, employment participation and subsequent inflation/growth data.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/india/indias-october-unemployment-rate-49-yy-2026-11-16/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261116-UNIPER-EUR6BN-DATA-CENTRE-GRID-PLAN",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "GERMANY / EUROPE / ENERGY / AI / GRID / CORPORATE CREDIT",
+          "headline": "Uniper plans €6bn investment and secures grid access for data centres",
+          "body": "Uniper announced EUR6 billion of investment planned through the early 2030s while Germany pursues a reduction of its controlling stake. It reported about 700 MW of grid capacity secured for potential data-centre projects, rather than active data-centre load. Its 2027 adjusted net-profit forecast is EUR550 million-EUR750 million. Planned expenditure, capacity and projected profit are different measures; no completed divestment or attributable market response was established. The source classifies this as an older uncovered catch-up discovery.",
+          "analysis": "Power and grid access are increasingly strategic inputs into data-centre growth, but planned capex is not realised cash flow; funding, execution and energy-market exposures remain material.",
+          "watch_next": "Project commitments, utilisation of 700MW grid capacity, divestment route and realised 2027 profitability.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/energy/germanys-uniper-expects-core-profit-up-15-billion-2027-2026-11-16/"
+          ],
+          "development_at": null
+        }
+      ]
+    },
     {
       "id": "reuters-20261116T164134-SGT",
       "report_at": "2026-11-16T16:46:30+08:00",
