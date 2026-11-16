@@ -2,13 +2,165 @@
   "schema_version": 1,
   "source_name": "Reuters Hourly News",
   "source_url": null,
-  "publisher_checked_at": "2026-11-16T08:26:03+08:00",
+  "publisher_checked_at": "2026-11-16T15:16:01+08:00",
   "last_complete_cutoff": null,
   "source_schedule": {
     "status": "Active",
     "checked_at": "2026-11-03T18:21:21+08:00"
   },
   "editions": [
+    {
+      "id": "reuters-20261116T121639-SGT",
+      "report_at": "2026-11-16T12:22:04+08:00",
+      "cutoff": "2026-11-16T12:16:39+08:00",
+      "window_start": "2026-11-16T08:16:39+08:00",
+      "coverage": "partial",
+      "original_url": null,
+      "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+      "summary": "Five reviewed Reuters previews cover China demand and housing, Japan GDP, oil supply expectations, Fed pricing and SK Hynix supplier support. Coverage remains partial. The complete styled research edition remains held; metadata is only a preview.",
+      "limitations": [
+        "Targeted partial review, not exhaustive Reuters wire coverage. Earlier gaps remain open and last_complete_cutoff is not advanced.",
+        "Source window 16 November 08:16:39-12:16:39 SGT; report completed 12:22:04 SGT. The interval after the preceding 07:50:59 cutoff is not certified complete by a discovery overlap.",
+        "The original 25,946-byte source JSON was downloaded and its SHA-256 matched 2bf3a7f3541fc3d9e198cffde55a907ff1c2bc6c07601bf0a5254d0b8275619c. The complete generated dashboard, five story records and seven-source register were read.",
+        "Imported material claims were independently checked against Reuters-attributed syndication. Original publication dates are retained at date precision. Exact original and revision times remain unverified; displayed headers are not original publication clocks. Items are conservatively labelled catch-up.",
+        "The producer cites 8%/92% FedWatch probabilities from one FX snapshot. Accessible Reuters syndications show other snapshots, so that exact pair and its 5.137% yield are withheld from this preview. The separate 6% versus 12% global-markets comparison is retained with its own context. No blended probability or matched intraday yield move is inferred.",
+        "IEA surplus and Jones Act waiver are 13 November context. Oil prices are dated 01:45 GMT observations, not live quotes. SK Hynix announced support, facility costs and financing are distinct measures and are not added together.",
+        "Metadata is a preview only. Complete original text, matching JSON, styled private review copy and a source-to-output checklist are retained. Full publication remains held: the approved publisher lacks an hourly channel, timestamp-aware edition identity and exact-edition full-report reader link. No full-detail or visual approval is claimed."
+      ],
+      "sources": [
+        {
+          "url": "https://www.reuters.com/world/chinas-factory-output-retail-sales-growth-slow-october-2026-11-16/",
+          "title": "China's economy falters in October as factory output, retail sales miss forecasts",
+          "published_at": null,
+          "published_date": "2026-11-16",
+          "publication_precision": "date",
+          "verification_url": "https://www.investing.com/news/economy-news/chinas-factory-output-retail-sales-growth-slow-in-october-5028313"
+        },
+        {
+          "url": "https://www.reuters.com/markets/asia/drop-chinas-new-home-prices-narrows-11-month-low-2026-11-16/",
+          "title": "China's new home prices fall again in October; slowest annual decline in almost a year",
+          "published_at": null,
+          "published_date": "2026-11-16",
+          "publication_precision": "date",
+          "verification_url": "https://www.investing.com/news/economic-indicators/drop-in-chinas-new-home-prices-narrows-to-11month-low-5028306"
+        },
+        {
+          "url": "https://www.reuters.com/business/japans-economy-unexpectedly-shrinks-july-september-consumption-falters-2026-11-16/",
+          "title": "Japan's economy unexpectedly shrinks as inflation squeezes households",
+          "published_at": null,
+          "published_date": "2026-11-16",
+          "publication_precision": "date",
+          "verification_url": "https://www.investing.com/news/economy-news/japans-economy-unexpectedly-shrinks-in-julyseptember-as-consumption-falters-5028233"
+        },
+        {
+          "url": "https://www.reuters.com/business/energy/oil-prices-fall-expectations-coming-supply-surplus-2026-11-16/",
+          "title": "Oil prices fall on expectations of coming supply surplus",
+          "published_at": null,
+          "published_date": "2026-11-16",
+          "publication_precision": "date",
+          "verification_url": "https://uk.marketscreener.com/news/oil-prices-fall-on-expectations-of-coming-supply-surplus-ce785ededf81f320"
+        },
+        {
+          "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-spend-1-billion-over-five-years-support-chip-suppliers-2026-11-16/",
+          "title": "SK Hynix to spend $1 billion over five years to support chip suppliers",
+          "published_at": null,
+          "published_date": "2026-11-16",
+          "publication_precision": "date",
+          "verification_url": "https://www.investing.com/news/stock-market-news/sk-hynix-to-spend-1-billion-over-five-years-to-support-chip-suppliers-5028220"
+        },
+        {
+          "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-16/",
+          "title": "Asian shares fall before Nvidia earnings, Anthropic IPO test tech rally",
+          "published_at": null,
+          "published_date": "2026-11-16",
+          "publication_precision": "date",
+          "verification_url": "https://www.marketscreener.com/news/asian-shares-fall-before-nvidia-earnings-anthropic-ipo-test-tech-rally-ce785ededf8ff720"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261116-CHINA-OCTOBER-DEMAND-HOUSING-DATA",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "China / Macro / Property / Credit",
+          "headline": "China October output and spending undershoot forecasts",
+          "body": "Reuters reported October industrial output growth of 4.8% year on year against a 5.3% poll forecast, and retail-sales growth of 0.4% against 0.8%. September readings were 5.5% and 1.1%. January-October fixed-asset investment fell 8.1% against a forecast 7.0% decline. Separate Reuters calculations showed October new-home prices down 0.1% month on month and 2.4% year on year. No attributable currency or credit-spread move was verified.",
+          "analysis": "Weak spending and housing can pressure confidence and credit quality; these releases do not establish a policy response.",
+          "watch_next": "PBoC measures, fiscal support, housing inventories and consumer demand.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/chinas-factory-output-retail-sales-growth-slow-october-2026-11-16/",
+            "https://www.reuters.com/markets/asia/drop-chinas-new-home-prices-narrows-11-month-low-2026-11-16/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261116-JAPAN-Q3-GDP-UNEXPECTED-CONTRACTION",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "Japan / BoJ / JPY / GDP",
+          "headline": "Japan Q3 economy contracts as household spending weakens",
+          "body": "Japan Q3 2026 GDP fell 0.1% at an annualised rate, versus a Reuters median forecast for 0.3% growth and a revised 1.7% Q2 expansion. Private consumption fell 0.3% quarter on quarter while capital spending rose 1.6%. This was the first contraction in four quarters. No GDP-specific FX move was verified; available early-Asia Reuters currency snapshots differ and have no matched observation clock.",
+          "analysis": "Weak household spending complicates the policy outlook, without establishing that the BoJ will pause tightening.",
+          "watch_next": "BoJ communications, wages, underlying inflation and confirmed intervention announcements.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/japans-economy-unexpectedly-shrinks-july-september-consumption-falters-2026-11-16/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261116-OIL-IEA-Q4-SURPLUS-PRICE-REACTION",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "Global / Oil / IEA / Inflation",
+          "headline": "Oil eases against an older IEA surplus forecast",
+          "body": "At 01:45 GMT on 16 November, Reuters recorded Brent futures at US$95.37 per barrel, down 0.49%, and WTI at US$88.33, down 0.26%. Friday 13 November IEA forecasts put Q4 supply 1.7 million barrels per day above demand; that forecast was older context. A 90-day Jones Act waiver extension was also announced Friday. An Iranian state-media tanker-mine claim remained independently unverified by Reuters.",
+          "analysis": "A surplus outlook could ease energy inflation, while shipping costs and security risks can limit the effect. Forecast supply is not realised output.",
+          "watch_next": "Verified Hormuz exports, tanker costs, fuel inflation and IEA revisions.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/energy/oil-prices-fall-expectations-coming-supply-surplus-2026-11-16/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261116-FED-DECEMBER-50BP-PROBABILITY-LOWER",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "US / Fed / UST / USD",
+          "headline": "Reuters reports lower odds of a large December Fed hike",
+          "body": "Reuters global-markets reporting on 16 November put the implied probability of a 50bp December hike at 6%, versus 12% in its prior-day comparison. It reported 2-year Treasury yields of 4.8652% and 10-year yields of 5.1433%, after prior-week increases of 35bp and 29bp respectively. Those are prior-week changes, not this scan-window moves; exact quote clocks were not established. The source dashboard also cites a different FX probability snapshot, which remains withheld from this preview pending reconciliation.",
+          "analysis": "Market-implied probabilities are expectations, not an FOMC decision. Elevated yields remain relevant to duration and USD funding.",
+          "watch_next": "Fed minutes, inflation and the December 8-9 FOMC decision.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-16/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261116-SK-HYNIX-CHIP-SUPPLIER-SUPPORT",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "South Korea / Semiconductors / AI",
+          "headline": "SK Hynix announces supplier support and shared testing facility",
+          "body": "Reuters reported planned SK Hynix supplier support of 1.4 trillion won, approximately US$1.05 billion, over five years. A separate jointly funded testing facility at Yongin costs 874.6 billion won, with SK Hynix contributing 443.2 billion won and opening planned for May 2027. The programme also describes 2 trillion won of financing with financial institutions, distinct from direct company spending. No announcement-attributable equity or credit reaction was verified.",
+          "analysis": "Shared testing could improve supplier access, but announced funding does not establish future earnings or realised investment returns.",
+          "watch_next": "Trinity Fab opening, supplier participation and operating economics.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/asia-pacific/sk-hynix-spend-1-billion-over-five-years-support-chip-suppliers-2026-11-16/"
+          ],
+          "development_at": null
+        }
+      ]
+    },
     {
       "id": "reuters-20261116T075059-SGT",
       "report_at": "2026-11-16T07:55:38+08:00",
