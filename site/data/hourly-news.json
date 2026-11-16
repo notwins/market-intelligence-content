@@ -2,13 +2,189 @@
   "schema_version": 1,
   "source_name": "Reuters Hourly News",
   "source_url": null,
-  "publisher_checked_at": "2026-11-16T15:16:01+08:00",
+  "publisher_checked_at": "2026-11-16T17:16:55+08:00",
   "last_complete_cutoff": null,
   "source_schedule": {
     "status": "Active",
     "checked_at": "2026-11-03T18:21:21+08:00"
   },
   "editions": [
+    {
+      "id": "reuters-20261116T164134-SGT",
+      "report_at": "2026-11-16T16:46:30+08:00",
+      "cutoff": "2026-11-16T16:41:34+08:00",
+      "window_start": "2026-11-16T12:41:34+08:00",
+      "coverage": "partial",
+      "original_url": null,
+      "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+      "summary": "Six reviewed Reuters previews cover ECB financing risks, BoJ communications, Indian inflation and capital flows, Moodys banking outlook and a reported Kerch bridge strike. Coverage remains partial. The complete detailed edition is held; these cards are previews.",
+      "limitations": [
+        "Partial targeted Reuters review, not exhaustive wire coverage. Earlier coverage gaps remain unresolved; last_complete_cutoff is not advanced.",
+        "The source window is 16 November 12:41:34-16:41:34 SGT, completed 16:46:30 SGT. Recovery and discovery overlap after the previous 12:16:39 cutoff do not certify complete coverage of intervening time.",
+        "The full untruncated original generated dashboard, six stable story IDs and seven-source register were read through the source reader. The source references Reuters-Hourly-Report-20261116T084134Z.json (35,526 bytes; producer checksum 9493f4140ad65dd26f8499ae388d8421b19dfda93f12bfaefc6f3282fb1d9771); its matching attachment could not be retrieved during this run because the signed-in browser stopped responding. That attachment checksum is producer-reported, not independently verified here.",
+        "Material imported claims were independently checked against Reuters-attributed syndication. Original publication dates are retained at date precision; page-header and syndication times are not substituted for unverified original publication or revision clocks. Items are conservatively labelled catch-up.",
+        "ECB financing needs are a forecast through 2030, not completed borrowing. BoJ remarks are not an enacted rate change; Ueda remarks occurred November 11 and were disclosed in Monday minutes. Moodys outlook is a sector forecast, not an individual rating action.",
+        "India inflows and index returns are month-to-date, with a separate 2026 year-to-date comparison, not scan-window moves. Wholesale and consumer inflation are distinct. The bridge strike and traffic limits are attributed to the Russian-appointed governor; damage and maritime disruption remain unverified.",
+        "Metadata is only a preview. Complete original generated text, a styled private review copy and a section-by-section checklist are retained. Full-detail publication remains held because hourly channel, timestamp-aware edition identity and exact-edition full-report reader links are unsupported, and matching attachment review is incomplete. No full-detail or desktop/mobile visual approval is claimed."
+      ],
+      "sources": [
+        {
+          "url": "https://www.reuters.com/legal/transactional/ecb-vp-says-ai-debt-have-become-prominent-stability-risks-2026-11-16/",
+          "title": "ECB VP says AI, debt have become prominent stability risks",
+          "published_at": null,
+          "published_date": "2026-11-16",
+          "publication_precision": "date",
+          "verification_url": "https://kfgo.com/2026/11/16/ecb-vp-says-ai-debt-have-become-prominent-stability-risks/"
+        },
+        {
+          "url": "https://www.reuters.com/markets/currencies/bojs-takata-calls-swift-hike-rates-good-position-2026-11-16/",
+          "title": "Hawkish BOJ policymaker Takata calls for swift hike in rates to 'good' position",
+          "published_at": null,
+          "published_date": "2026-11-16",
+          "publication_precision": "date",
+          "verification_url": "https://www.thestandard.com.hk/finance/article/348614/Hawkish-BOJ-policymaker-Takata-calls-for-swift-hike-in-rates-to-good-position"
+        },
+        {
+          "url": "https://www.reuters.com/business/boj-chief-ueda-tells-government-panel-wage-growth-quite-strong-2026-11-16/",
+          "title": "BOJ chief Ueda tells government panel wage growth 'quite strong'",
+          "published_at": null,
+          "published_date": "2026-11-16",
+          "publication_precision": "date",
+          "verification_url": "https://finance.yahoo.com/economy/policy/articles/boj-chief-ueda-tells-government-081649680.html"
+        },
+        {
+          "url": "https://www.reuters.com/world/india/india-wholesale-prices-rise-1229-year-on-year-october-2026-11-16/",
+          "title": "India's wholesale inflation accelerates to 12.29% in October on fuel price surge",
+          "published_at": null,
+          "published_date": "2026-11-16",
+          "publication_precision": "date",
+          "verification_url": "https://ca.investing.com/news/economic-indicators/indias-wholesale-prices-rise-1229-yearonyear-in-october-4959646"
+        },
+        {
+          "url": "https://www.reuters.com/business/finance/global-banks-set-enter-2027-strong-footing-moodys-report-says-2026-11-16/",
+          "title": "Global banks set to enter 2027 on strong footing, Moody's report says",
+          "published_at": null,
+          "published_date": "2026-11-16",
+          "publication_precision": "date",
+          "verification_url": "https://kwsn.com/2026/11/16/global-banks-set-to-enter-2027-on-strong-footing-moodys-report-says/"
+        },
+        {
+          "url": "https://www.reuters.com/world/ukraine-hits-key-crimean-bridge-curbing-traffic-russian-governor-says-2026-11-16/",
+          "title": "Ukraine hits key Crimean bridge, curbing traffic, Russian governor says",
+          "published_at": null,
+          "published_date": "2026-11-16",
+          "publication_precision": "date",
+          "verification_url": "https://kfgo.com/2026/11/16/ukraine-hits-key-crimean-bridge-curbing-traffic-russian-governor-says/"
+        },
+        {
+          "url": "https://www.reuters.com/world/india/record-foreign-inflows-fuel-indian-stocks-november-surge-2026-11-16/",
+          "title": "Record foreign inflows fuel Indian stocks' November surge",
+          "published_at": null,
+          "published_date": "2026-11-16",
+          "publication_precision": "date",
+          "verification_url": "https://ca.marketscreener.com/news/record-foreign-inflows-fuel-indian-stocks-november-surge-ce785eded18df123"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261116-ECB-AI-DEBT-SOVEREIGN-STABILITY",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "Europe / ECB / AI / Credit / Sovereign debt",
+          "headline": "ECB warns AI financing and sovereign debt pose stability risks",
+          "body": "ECB Vice President Boris Vujcic warned that AI-related financial risks extend to debt funding, concentrated exposures, opaque off-balance-sheet structures and cybersecurity. Reuters cited projected financing needs of US$5.5 trillion for major US technology firms through 2030. That is forecast financing demand, not completed borrowing. He also warned of sovereign borrowing costs and potential competition for capital between public and private borrowers. No warning-specific market move or corporate default was verified.",
+          "analysis": "Financing structures and debt-service capacity matter alongside equity valuations; a stability warning does not establish an imminent loss.",
+          "watch_next": "AI issuance, company cash flows, sovereign spreads and subsequent ECB stability reporting.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/legal/transactional/ecb-vp-says-ai-debt-have-become-prominent-stability-risks-2026-11-16/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261116-BOJ-TAKATA-UEDA-INFLATION-RATES",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "Japan / BoJ / JPY / Rates",
+          "headline": "Takata urges earlier tightening; Ueda wage comments released",
+          "body": "BoJ board member Hajime Takata called for nimble increases towards the middle of the staff-estimated 1.1%-2.5% neutral-rate range. The policy rate remained 1.25%; his earlier proposal for 1.5% had failed. Separately, minutes published Monday disclosed Governor Kazuo Ueda discussing strong wage growth at a November 11 government council meeting. These are policymaker communications, not a new rate decision or repeat GDP release. No directly attributable JGB or yen move was established.",
+          "analysis": "Inflation risks alongside weak household spending complicate the timing of tightening and the outlook for yen funding.",
+          "watch_next": "Ueda remarks scheduled for November 30 and the next BoJ decision.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/markets/currencies/bojs-takata-calls-swift-hike-rates-good-position-2026-11-16/",
+            "https://www.reuters.com/business/boj-chief-ueda-tells-government-panel-wage-growth-quite-strong-2026-11-16/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261116-INDIA-OCT-WHOLESALE-INFLATION-SURPRISE",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "India / Macro / Inflation / RBI",
+          "headline": "India October wholesale inflation exceeds Reuters forecast",
+          "body": "Reuters reported October 2026 wholesale inflation of 12.29% year on year, versus 12.1% expected in its poll and 11.39% in September. Fuel and power prices rose 32.84% year on year. The upside surprise is 0.19 percentage point. Wholesale inflation is distinct from consumer inflation. No announcement-attributable rupee or government-bond move was verified.",
+          "analysis": "Energy-driven cost pressure may complicate monetary policy, but this data release is not a rate decision.",
+          "watch_next": "RBI guidance, fuel costs and subsequent wholesale and consumer inflation releases.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/india/india-wholesale-prices-rise-1229-year-on-year-october-2026-11-16/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261116-MOODYS-GLOBAL-BANKS-2027-OUTLOOK",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "Global banks / Moodys / Credit",
+          "headline": "Moodys sees stable 2027 bank credit outlook with refinancing risks",
+          "body": "Moodys Ratings expects global banks to enter 2027 with solid profitability and a stable sector credit outlook over the next 12 months. Its risks include delayed effects of 2022-24 tightening, renewed increases in borrowing costs during 2026, refinancing, long-dated government yields, private markets and AI investment. This is a sector outlook, not an individual bank-rating action. No attributable capital-bond spread or equity reaction was verified.",
+          "analysis": "Resilient banking fundamentals do not remove refinancing exposure for borrowers replacing older, cheaper debt.",
+          "watch_next": "Corporate maturities, property-credit delinquencies, bank capital and individual rating actions.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/finance/global-banks-set-enter-2027-strong-footing-moodys-report-says-2026-11-16/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261116-CRIMEA-KERCH-BRIDGE-TRAFFIC-STRIKE",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "Ukraine / Russia / Crimea / Infrastructure",
+          "headline": "Russian-appointed governor reports Kerch bridge strike and traffic limits",
+          "body": "Crimeas Russian-appointed governor Sergei Aksyonov said Ukraine struck the bridge linking Russia and Crimea across the Kerch strait. He said traffic would be restricted until midday Monday but gave no damage details. This is an attributed official account; damage extent and any effect on maritime shipping were not independently established. No attributable oil, freight, Treasury or FX move was verified.",
+          "analysis": "The transport link has strategic importance, but the account does not establish a prolonged closure or shipping disruption.",
+          "watch_next": "Independent damage assessments, traffic restoration and official responses.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/ukraine-hits-key-crimean-bridge-curbing-traffic-russian-governor-says-2026-11-16/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261116-INDIA-RECORD-FOREIGN-EQUITY-INFLOWS",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "India / Equities / Capital flows / FX",
+          "headline": "India attracts record November equity inflows amid market rotation",
+          "body": "Reuters reported US$8.94 billion of foreign purchases of Indian equities in November, a monthly record, and US$9.8 billion including bonds. The Nifty 50 had gained 9.5% month to date while remaining down 3.5% for 2026. Financial-sector indexes had risen 11.5%-13.5% in November. These are month-to-date and year-to-date measures, not four-hour returns. The reporting described rotation away from AI-heavy markets.",
+          "analysis": "Different sector exposure can aid diversification, while valuation and currency risk remain and inflows can reverse.",
+          "watch_next": "Subsequent foreign flows, bank earnings, valuations and rupee volatility.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/india/record-foreign-inflows-fuel-indian-stocks-november-surge-2026-11-16/"
+          ],
+          "development_at": null
+        }
+      ]
+    },
     {
       "id": "reuters-20261116T121639-SGT",
       "report_at": "2026-11-16T12:22:04+08:00",
