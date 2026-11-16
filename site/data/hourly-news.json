@@ -2,13 +2,148 @@
   "schema_version": 1,
   "source_name": "Reuters Hourly News",
   "source_url": null,
-  "publisher_checked_at": "2026-11-16T21:22:56+08:00",
+  "publisher_checked_at": "2026-11-17T01:22:39+08:00",
   "last_complete_cutoff": null,
   "source_schedule": {
     "status": "Active",
     "checked_at": "2026-11-03T18:21:21+08:00"
   },
   "editions": [
+    {
+      "id": "reuters-20261117T002226-SGT",
+      "report_at": "2026-11-17T00:29:25+08:00",
+      "cutoff": "2026-11-17T00:22:26+08:00",
+      "window_start": "2026-11-16T21:05:11+08:00",
+      "coverage": "partial",
+      "original_url": null,
+      "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+      "summary": "Four reviewed Reuters previews cover US AI-chip licensing rules, the historical VLCC freight decline, planned Shenzhen diplomacy and data-centre emissions research. The Megaspeed v16 follow-up is held for missing public predecessors. Partial coverage; the complete detailed edition remains held.",
+      "limitations": [
+        "Targeted partial source review, not a full Reuters wire scan. Earlier gaps remain open; last_complete_cutoff is not advanced. Unavailable daily outputs were not reconstructed.",
+        "Exact window: 16 November 21:05:11 to 17 November 00:22:26 SGT; completed 17 November 00:29:25 SGT. Matching 25,970-byte JSON was downloaded and its SHA-256 matched b2943717dd9c2c09c1518d1385f6a9a365d2267ccdd24f2cc2f5130c7fe5973d.",
+        "All six source-register entries were read and checked against Reuters-attributed syndication. Original article dates are 16 November; original-publication/revision clocks and development times remain unverified. New source story labels are retained, with conservative catch-up freshness instead of invented intrawindow timing.",
+        "Megaspeed follow-up R-20261108-NVDA-HUANG-BOARD-INTELLIGENCE-INQUIRY v16 is withheld because retained public v15 and its chain are absent. It is not renamed, reset to v1 or substituted with an unrelated Nvidia story. That development and all original context remain in the private held bundle.",
+        "VLCC figures compare 8 October with 13 November and are not a four-hour market move. No underlying licensed freight dataset is redistributed. The emissions study covers May 2024-April 2025 and is not current output. Diplomatic meetings remain planned/conditional. No event-specific financial-market reaction was established.",
+        "Metadata previews do not satisfy detailed publication. The complete original dashboard, matching JSON, table, chart specification, source links and emphasis are retained privately with a section checklist. Full publication remains held: approved process has no hourly channel, timestamp-aware identity or discoverable exact-edition full-report link. No V3 compliance, desktop/mobile visual approval or completeness attestation is claimed."
+      ],
+      "sources": [
+        {
+          "url": "https://www.reuters.com/legal/litigation/us-issues-rule-protect-advanced-ai-chips-being-accessed-remotely-2026-11-16/",
+          "title": "US to curb China's access to AI chips as Trump heads to Asia",
+          "published_at": null,
+          "published_date": "2026-11-16",
+          "publication_precision": "date",
+          "verification_url": "https://www.devdiscourse.com/article/international/4007671-us-to-curb-chinas-access-to-ai-chips-as-trump-heads-to-asia"
+        },
+        {
+          "url": "https://www.reuters.com/business/energy/supertanker-rates-plunge-more-than-60-record-highs-2026-11-16/",
+          "title": "Supertanker rates plunge more than 60% from record highs",
+          "published_at": null,
+          "published_date": "2026-11-16",
+          "publication_precision": "date",
+          "verification_url": "https://gcaptain.com/supertanker-rates-plunge-more-than-60-from-record-highs/"
+        },
+        {
+          "url": "https://www.reuters.com/world/china/singapore-us-agree-continue-discussing-megaspeed-case-straits-times-says-2026-11-16/",
+          "title": "Singapore, US agree to keep discussing Megaspeed as scrutiny of Nvidia scandal widens",
+          "published_at": null,
+          "published_date": "2026-11-16",
+          "publication_precision": "date",
+          "verification_url": "https://www.investing.com/news/stock-market-news/singapore-us-agree-to-keep-discussing-megaspeed-as-scrutiny-of-nvidia-scandal-widens-5029296"
+        },
+        {
+          "url": "https://www.reuters.com/world/china/kremlin-says-putin-xi-trump-meeting-china-will-have-major-impact-global-affairs-2026-11-16/",
+          "title": "Kremlin says Putin-Xi-Trump meeting in China will have major impact on global affairs",
+          "published_at": null,
+          "published_date": "2026-11-16",
+          "publication_precision": "date",
+          "verification_url": "https://www.investing.com/news/world-news/kremlin-saysputinxitrump-meeting-in-china-will-have-major-impact-on-globalaffairs-5030127"
+        },
+        {
+          "url": "https://www.reuters.com/world/trump-says-he-might-meet-with-north-koreas-kim-jong-un-china-2026-11-16/",
+          "title": "Trump says he might meet with North Korea's Kim Jong Un in China",
+          "published_at": null,
+          "published_date": "2026-11-16",
+          "publication_precision": "date",
+          "verification_url": "https://ca.marketscreener.com/news/trump-says-he-might-meet-with-north-korea-s-kim-jong-un-in-china-ce785edfdb8cff2d"
+        },
+        {
+          "url": "https://www.reuters.com/legal/litigation/us-hyperscale-data-centers-emit-much-denmark-report-says-2026-11-16/",
+          "title": "US hyperscale data centers emit as much as Denmark, report says",
+          "published_at": null,
+          "published_date": "2026-11-16",
+          "publication_precision": "date",
+          "verification_url": "https://www.investing.com/news/commodities-news/us-hyperscale-data-centers-emit-as-much-as-denmark-report-says-5030503"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261116-US-REMOTE-AI-CHIP-DATACENTRE-LICENSING",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "US / SINGAPORE / CHINA / AI / SEMICONDUCTORS / TRADE CONTROLS / NVDA",
+          "headline": "New US chip-export rule requires licences for advanced chips supplied to firms in Singapore and four other countries",
+          "body": "The US Commerce Department issued restrictions on overseas data-centre access to advanced AI chips, intended to limit circumvention through remote computing. Covered advanced-chip exports to companies in Singapore, Thailand, Malaysia, Indonesia and Brazil require licences, subject to the rule details and exemptions. Reuters reports exclusions for online-retailer and social-media systems and rescission of the earlier broader licensing framework. No directly attributable Nvidia, FX or Treasury-yield movement was verified.",
+          "analysis": "Licensing could affect procurement timetables, compliance costs and demand for cloud compute; commercial and earnings effects cannot be quantified from the announcement alone.",
+          "watch_next": "Commerce implementation details, licence determinations, export-compliance responses and any company guidance.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/legal/litigation/us-issues-rule-protect-advanced-ai-chips-being-accessed-remotely-2026-11-16/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261116-VLCC-GULF-OMAN-CHINA-FREIGHT-REVERSAL",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "GLOBAL MARKETS / OIL / SHIPPING / HORMUZ / CHINA / INFLATION",
+          "headline": "Gulf of Oman-to-China oil-supertanker rates 64% below October peak",
+          "body": "Reuters reports Gulf of Oman-to-China VLCC freight assessments of about 308 Worldscale on 13 November versus 841 on 8 October, approximately 64% lower. Recovering Gulf exports, reduced longer-haul crude demand and additional vessel availability contributed. This is a historical comparison of two dated assessments, not a 64% decline within this reporting window or a live charter quote. Shipping attacks and security risks continued.",
+          "analysis": "If sustained, lower VLCC rates may reduce seaborne crude transport costs, though actual oil prices, insurance and delivered fuel costs may follow different paths.",
+          "watch_next": "Baltic Exchange route assessments, independently verified exports, insurance and physical Hormuz shipping.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/energy/supertanker-rates-plunge-more-than-60-record-highs-2026-11-16/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261116-TRUMP-XI-PUTIN-SHENZHEN-SUMMIT-POTENTIAL-KIM",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "US / CHINA / RUSSIA / NORTH KOREA / GEOPOLITICS / TRADE",
+          "headline": "Kremlin details Xi-Putin-Trump summit and Trump floats possible Kim attendance",
+          "body": "The Kremlin said Putin, Xi and Trump planned a Thursday meeting during the APEC summit in Shenzhen, at the Chinese leader's residence. Trump separately said he might meet North Korea's Kim Jong Un in China. The Kim meeting was not confirmed. These are plans and conditional statements, not completed meetings, agreements or verified market reactions.",
+          "analysis": "A meeting could change trade and security expectations, but invitations and political statements are not negotiated policy outcomes.",
+          "watch_next": "Official meeting confirmations and substantive statements on chip controls, Taiwan, sanctions, North Korea and Russia-Ukraine.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/china/kremlin-says-putin-xi-trump-meeting-china-will-have-major-impact-global-affairs-2026-11-16/",
+            "https://www.reuters.com/world/trump-says-he-might-meet-with-north-koreas-kim-jong-un-china-2026-11-16/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261116-US-HYPERSCALE-DATACENTER-EMISSIONS-STUDY",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "US / AI / DATA CENTRES / ENERGY / REGULATORY RISK",
+          "headline": "New study measures US hyperscale data-centre emissions and electricity concentration",
+          "body": "A peer-reviewed study reported by Reuters estimates 25.7 million tonnes of CO2 from 403 US hyperscale data centres during May 2024-April 2025, about three times the earlier 2018 reference. Virginia, Oregon, Ohio and Iowa accounted for more than half of the electricity use studied. These historical emissions estimates do not measure current output, future financial costs or an observed equity, utility-price or bond-spread reaction.",
+          "analysis": "Electricity availability and potential local permitting or environmental constraints could affect AI infrastructure costs; historical emissions are not future expenditure or current stock prices.",
+          "watch_next": "Site-specific power contracts, local regulation, build-out costs and the study’s measurement caveats.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/legal/litigation/us-hyperscale-data-centers-emit-much-denmark-report-says-2026-11-16/"
+          ],
+          "development_at": null
+        }
+      ]
+    },
     {
       "id": "reuters-20261116T210511-SGT",
       "report_at": "2026-11-16T21:09:43+08:00",
