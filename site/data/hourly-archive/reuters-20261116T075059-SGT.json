@@ -1,0 +1,119 @@
+{
+  "id": "reuters-20261116T075059-SGT",
+  "report_at": "2026-11-16T07:55:38+08:00",
+  "cutoff": "2026-11-16T07:50:59+08:00",
+  "window_start": "2026-11-16T03:50:59+08:00",
+  "coverage": "partial",
+  "original_url": null,
+  "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+  "summary": "Four reviewed Reuters previews cover the loss of Amazon Leo satellites, Intel shareholder litigation, IDP's rejected Blackstone proposal and prospective UK-EU talks. The FAA version 8 follow-up remains held. Metadata is a preview; the complete styled edition remains unpublished.",
+  "limitations": [
+    "Partial targeted source review, not an exhaustive Reuters scan. Prior coverage gaps remain open; no last_complete_cutoff is advanced.",
+    "Source window is 16 November 03:50:59-07:50:59 SGT, completed 07:55:38 SGT. The nominal window begins after the preceding retained 03:46:33 cutoff; a discovery overlap does not establish complete coverage of the intervening period.",
+    "The matching source JSON was downloaded: 27,232 bytes, SHA-256 6d64440e3b2acb0dfaf5b9db08ada3c9e5277ed3264eb5830b72a36ab95a6587. Its full dashboard and source register were read.",
+    "Material imported claims were checked against Reuters-attributed syndication. Original Reuters publication dates are retained at date precision; exact original publication, revision and development times remain unverified. Displayed source headers and syndication timestamps are not substituted for original Reuters times. Items are conservatively labelled catch-up.",
+    "FAA story R-20261113-US-FAA-NATIONAL-GROUND-STOP version 8 is held because its required public version 7 and predecessor chain are absent. It is not restarted at version one or renamed. Unpublished earlier follow-ups remain held.",
+    "Intel's 28.6% decline is dated 30 October, not a fresh lawsuit-driven move. IDP's bid valuation is a rejected proposal, not an executed transaction. No matched event-specific stock, FX, yield or spread reaction was verified.",
+    "Metadata is only a preview. The complete original research text, source JSON, styled private review copy and section-by-section checklist are retained privately. Full publication remains held because the approved publisher lacks an hourly channel, timestamp-aware edition identity and exact-edition full-report reader link. No full-detail publication or visual approval is claimed."
+  ],
+  "sources": [
+    {
+      "url": "https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/",
+      "title": "Rocket from Boeing-Lockheed firm fails mid-flight, destroys payload of Amazon satellites",
+      "published_at": null,
+      "published_date": "2026-11-15",
+      "publication_precision": "date",
+      "verification_url": "https://quews.news/rocket-from-boeing-lockheed-firm/"
+    },
+    {
+      "url": "https://www.reuters.com/business/intel-sued-by-shareholders-following-29-stock-plunge-2026-11-15/",
+      "title": "Intel sued by shareholders following 29% stock plunge",
+      "published_at": null,
+      "published_date": "2026-11-15",
+      "publication_precision": "date",
+      "verification_url": "https://www.investing.com/news/stock-market-news/intel-sued-by-shareholders-following-29-stock-plunge-5028171"
+    },
+    {
+      "url": "https://www.reuters.com/world/asia-pacific/australias-idp-rebuffs-blackstones-third-buyout-attempt-5645-million-valuation-2026-11-15/",
+      "title": "Australia's IDP rebuffs Blackstone's third buyout attempt at $564.5 million valuation",
+      "published_at": null,
+      "published_date": "2026-11-15",
+      "publication_precision": "date",
+      "verification_url": "https://kwsn.com/2026/11/15/australias-idp-rebuffs-blackstones-third-buyout-attempt-at-564-5-million-valuation/"
+    },
+    {
+      "url": "https://www.reuters.com/world/uk/uk-pm-burnham-ready-confront-obvious-truth-brexits-costs-2026-11-15/",
+      "title": "UK PM Burnham ready to confront 'obvious truth' of Brexit's costs",
+      "published_at": null,
+      "published_date": "2026-11-15",
+      "publication_precision": "date",
+      "verification_url": "https://www.devdiscourse.com/article/international/4007201-uk-pm-burnham-ready-to-confront-obvious-truth-of-brexits-costs"
+    }
+  ],
+  "stories": [
+    {
+      "story_id": "R-20261115-ULA-VULCAN-AMAZON-LEO-LAUNCH-FAILURE",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "US / Amazon / Boeing / Lockheed Martin / Space",
+      "headline": "ULA Vulcan launch failure destroys 40 Amazon Leo satellites",
+      "body": "Reuters reported that a United Launch Alliance Vulcan rocket failed roughly ten minutes after liftoff from Florida on 15 November, destroying 40 Amazon Leo satellites. ULA is the Boeing-Lockheed Martin joint venture. The cause was not established. Reuters described 398 Leo satellites already deployed across 14 earlier launches, providing rollout context. No verified monetary loss or attributable AMZN, BA or LMT price reaction was established in the source report.",
+      "analysis": "Replacement launches and investigation delays could affect the deployment timetable. That is operational-risk analysis, not a quantified financial loss.",
+      "watch_next": "ULA investigation, launch clearance and Amazon deployment or service-timetable updates.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261115-INTEL-SHAREHOLDER-DISCLOSURE-LAWSUIT",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "US / Intel / Semiconductors / Litigation",
+      "headline": "Intel faces shareholder disclosure lawsuit after its October stock decline",
+      "body": "A proposed shareholder class action filed on 13 November accuses Intel and executives of insufficient disclosure about weak PC demand and excess inventories. Reuters said unspecified damages were sought for investors holding shares between 23 July and 29 October 2026. The reported 28.6% stock decline occurred on 30 October following weaker fourth-quarter guidance; it is historical and is not a reaction to this lawsuit. The allegations are not court findings. Intel had not immediately responded to Reuters.",
+      "analysis": "The suit adds potential governance and legal-cost exposure, without establishing fraud or a recognised financial liability.",
+      "watch_next": "Intel response, class certification, court findings and updated operating guidance.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/business/intel-sued-by-shareholders-following-29-stock-plunge-2026-11-15/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261116-UK-BURNHAM-EU-RESET-SUMMIT",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "UK / EU / Brexit / Trade / GBP",
+      "headline": "UK prime minister signals Brexit reassessment before EU summit",
+      "body": "Reuters reported advance excerpts of a planned Monday speech in which Prime Minister Andy Burnham would seek a broader discussion of Brexit's costs. Britain was seeking agreements at the Friday summit on food-border frictions and youth mobility, within the government's existing red lines. These were prospective discussions: no new UK-EU agreement was established in the inspected reporting. No attributable GBP, gilt-yield or equity reaction was verified in the source report.",
+      "analysis": "Reduced trading friction could affect costs and growth if agreements are implemented. Advance speech excerpts and negotiating aims are not adopted policy.",
+      "watch_next": "The formal speech and confirmed outcomes from the 20 November UK-EU summit.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/uk/uk-pm-burnham-ready-confront-obvious-truth-brexits-costs-2026-11-15/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261116-IDP-BLACKSTONE-THIRD-BID-REJECTION",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "Australia / IDP Education / Blackstone / M&A",
+      "headline": "IDP Education rejects Blackstone third proposal at A$3 per share",
+      "body": "Reuters reported that IDP Education rejected Blackstone's third takeover approach, an A$3-per-share proposal valuing the company at approximately A$833.7 million, or US$564.50 million in the report. The board considered the proposal inadequate. Reuters described the latest offer as 20%-30% above the two previous bids. This is a rejected proposal, not a completed sale or guaranteed shareholder proceeds. No attributable post-announcement price move was verified in the source report.",
+      "analysis": "Further bid uncertainty remains alongside the company's standalone education-demand risks. The indicative offer valuation is separate from realised proceeds.",
+      "watch_next": "Blackstone response, any revised binding proposal and IDP operating or student-volume updates.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/asia-pacific/australias-idp-rebuffs-blackstones-third-buyout-attempt-5645-million-valuation-2026-11-15/"
+      ],
+      "development_at": null
+    }
+  ]
+}
