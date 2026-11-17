@@ -2,13 +2,133 @@
   "schema_version": 1,
   "source_name": "Reuters Hourly News",
   "source_url": null,
-  "publisher_checked_at": "2026-11-18T00:19:24+08:00",
+  "publisher_checked_at": "2026-11-18T06:18:43+08:00",
   "last_complete_cutoff": null,
   "source_schedule": {
     "status": "Active",
     "checked_at": "2026-11-03T18:21:21+08:00"
   },
   "editions": [
+    {
+      "id": "reuters-20261118T035224-SGT",
+      "report_at": "2026-11-18T03:56:25+08:00",
+      "cutoff": "2026-11-18T03:52:24+08:00",
+      "window_start": "2026-11-17T23:41:47+08:00",
+      "coverage": "partial",
+      "summary": "Four new Reuters previews cover the unconfirmed Saudi pipeline drone claim, Musalem rate remarks, the Tara Gas evacuation and October US factory output. Two unconnected Nvidia governance and FAA follow-ups are held for missing public predecessors. Full-detail publication remains held.",
+      "limitations": [
+        "Targeted partial Reuters coverage for 17 November 23:41:47 to 18 November 03:52:24 SGT; END UPDATE and completion at 03:56:25 SGT. Historical coverage gaps remain open and last_complete_cutoff is not advanced.",
+        "The original completed source body and all seven source-register entries were read. The matching Reuters-Hourly-Report-20261117T195224Z.json attachment is advertised as 26,952 bytes with SHA-256 5fa8a154d75986e840fcc36c37fa8744edf1b82589839d2068994f7e477213ad, but the browser source view did not expose the new attachment and then stopped responding. Its bytes, extra dashboard assets and chart specifications have not been verified; no attachment-completeness claim is made.",
+        "Four new version-1 metadata previews were checked against Reuters-attributed syndication. Original publication dates are retained at date precision; displayed article headers and syndication clocks do not establish independent original-publication, revision or development times. All previews are conservatively labelled catch-up. No breaking designation is inferred.",
+        "The source contains four new stories and two follow-ups. R-20261108-NVDA-HUANG-BOARD-INTELLIGENCE-INQUIRY v20 is held because retained public v19 and its chain are missing. R-20261113-US-FAA-NATIONAL-GROUND-STOP v10 is held because retained public v9 and its chain are missing. Neither story is renamed, renumbered or published as an initial version.",
+        "The pipeline launch remains a Houthi claim without Saudi confirmation; approximately 4 million barrels per day is contextual rerouted throughput, not verified lost supply. Musalem described his assessment, not a rate decision. October manufacturing, vehicles, utilities and overall industrial-output changes retain their separate measures.",
+        "For Tara Gas, 24 evacuated is not asserted to be the entire vessel complement. The Indian ministry hospitalisation statement is attributed; total complement, missing-person and flag discrepancies are not resolved or silently combined. No verified incident-specific market move is claimed.",
+        "The source persistent register remains empty; available public hourly history and legacy daily-report identities were checked for duplicates. Unavailable newer daily producer runs and older coverage gaps are not represented as recovered.",
+        "Metadata is a short preview only. The full original source body, both source tables and section/emphasis inventory are retained privately in a held HTML review. Full-detail publication remains held because the approved process lacks an hourly channel, time-aware edition identity and exact-edition full-reader links; attachment retrieval is also incomplete. No V3 approval, completeness attestation or desktop/mobile visual approval is claimed."
+      ],
+      "original_url": null,
+      "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+      "sources": [
+        {
+          "url": "https://www.reuters.com/world/middle-east/yemens-houthis-say-they-launched-drones-towards-saudi-east-west-pipeline-2026-11-17/",
+          "title": "Yemen's Houthis say they launched drones towards Saudi East-West pipeline",
+          "published_at": null,
+          "published_date": "2026-11-17",
+          "publication_precision": "date",
+          "verification_url": "https://new.streetinsider.com/Reuters/Yemens%2BHouthis%2Bsay%2Bthey%2Blaunched%2Bdrones%2Btowards%2BSaudi%2BEast-West%2Bpipeline/27362630.html"
+        },
+        {
+          "url": "https://www.reuters.com/business/feds-musalem-us-likely-needs-several-rate-hikes-by-spring-control-inflation-2026-11-17/",
+          "title": "Fed's Musalem: US likely needs several rate hikes by spring to control inflation",
+          "published_at": null,
+          "published_date": "2026-11-17",
+          "publication_precision": "date",
+          "verification_url": "https://www.streetinsider.com/Reuters/Feds%2BMusalem%3A%2BUS%2Blikely%2Bneeds%2Bseveral%2Brate%2Bhikes%2Bby%2Bspring%2Bto%2Bcontrol%2Binflation/27359676.html"
+        },
+        {
+          "url": "https://www.reuters.com/world/middle-east/crew-abandon-gas-tanker-off-hormuz-after-being-hit-by-projectile-sources-say-2026-11-17/",
+          "title": "Crew abandons gas tanker off Oman after being hit by projectile, sources say",
+          "published_at": null,
+          "published_date": "2026-11-17",
+          "publication_precision": "date",
+          "verification_url": "https://www.arabnews.com/middle-east/crew-abandons-gas-tanker-off-oman-after-being-hit-by-projectile-sources-say-3012536"
+        },
+        {
+          "url": "https://www.reuters.com/business/motor-vehicles-ai-investment-lift-us-factory-production-october-2026-11-17/",
+          "title": "Motor vehicles, AI investment lift US factory production in October",
+          "published_at": null,
+          "published_date": "2026-11-17",
+          "publication_precision": "date",
+          "verification_url": "https://www.streetinsider.com/Reuters/Motor%2Bvehicles%2C%2BAI%2Binvestment%2Blift%2BUS%2Bfactory%2Bproduction%2Bin%2BOctober/27361691.html"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261117-HOUTHI-SAUDI-EAST-WEST-PIPELINE-DRONE-CLAIM",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "Middle East / Saudi Arabia / oil / risk",
+          "headline": "Houthis claim drone launch toward Saudi East-West pipeline; damage unconfirmed",
+          "body": "The Houthis said five drones were launched towards two pumping stations along Saudi Arabia's East-West pipeline in the Riyadh area. Reuters reported no immediate Saudi confirmation. The article describes about 4 million barrels a day rerouted through this pipeline to Yanbu while Hormuz flows are disrupted; that is contextual throughput, not a verified production loss. This preview does not establish physical damage, a pipeline shutdown or a directly attributable oil-price reaction.",
+          "analysis": "A verified interruption could affect an important alternative export route. A launch claim alone does not establish an operational outage or new lost supply.",
+          "watch_next": "Saudi confirmation, pumping-station operations, Yanbu export flows and shipping security.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/middle-east/yemens-houthis-say-they-launched-drones-towards-saudi-east-west-pipeline-2026-11-17/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261117-FED-MUSALEM-SEVERAL-RATE-HIKES-2027",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "US / Federal Reserve / rates / Treasury yields",
+          "headline": "Musalem argues several Fed rate increases may be needed before spring 2027",
+          "body": "St Louis Fed President Alberto Musalem said several increases may be needed before spring 2027 to restore price stability. Reuters cited the current target range at 3.75%-4.00% and his view that it could be as much as one percentage point below the level needed for the 2% inflation target. He favoured acting while expectations remain anchored and is not a voting policymaker this year. These are his policy assessments, not an announced FOMC rate change; no speech-specific Treasury-yield move or futures-probability change was verified.",
+          "analysis": "The remarks support monitoring tightening risk for long-duration bonds and USD borrowing. They do not establish a policy decision or a quantified market repricing.",
+          "watch_next": "FOMC minutes, subsequent inflation evidence and the 8-9 December meeting.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/feds-musalem-us-likely-needs-several-rate-hikes-by-spring-control-inflation-2026-11-17/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261116-OMAN-TARA-GAS-LPG-TANKER-PROJECTILE-ATTACK",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "Oman / LPG / maritime security",
+          "headline": "Tara Gas crew evacuated after reported projectile attack off Oman",
+          "body": "Reuters cited maritime security sources saying the Tara Gas LPG tanker crew abandoned the vessel after a projectile strike near Oman's Khasab coast. Oman said it evacuated 24 crew members following a fire. India's external affairs ministry dated the attack to 16 November and said two of the 24 Indian crew members were admitted to hospital in Khasab. The evacuation count is not independently established as the vessel's entire complement; total-crew, missing-person and flag details differ across accounts and are omitted. No attributable freight, oil-price or insurance-premium move was verified.",
+          "analysis": "This is a separate physical shipping-security incident from the Saudi pipeline launch claim. The report does not identify a verified market-price response or resolve every crew-status discrepancy.",
+          "watch_next": "Vessel condition, official crew-status reconciliation, damage assessments and maritime warnings.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/middle-east/crew-abandon-gas-tanker-off-hormuz-after-being-hit-by-projectile-sources-say-2026-11-17/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261117-US-OCT-FACTORY-OUTPUT-AI-AUTOS",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "US / macroeconomy / factories / AI investment",
+          "headline": "US factory output rises 0.3% in October while overall industry falls 0.4%",
+          "body": "US manufacturing output rose 0.3% month on month in October 2026, compared with a 0.2% Reuters forecast. Motor vehicles and parts rose 4.4%, with AI-infrastructure-related segments also supporting factory output. Overall industrial production fell 0.4%, including a 4.3% decline in utilities output. Manufacturing is a component of the wider industrial aggregate, so the two readings are not contradictory. These are monthly output changes, not inflation, yearly growth or Treasury-yield moves. No release-specific FX or yield reaction was established.",
+          "analysis": "Selective factory and capital-spending strength can coexist with a weaker aggregate industrial reading. The 0.1 percentage-point manufacturing forecast surprise should not be interpreted as a bond-yield change.",
+          "watch_next": "Factory orders, capital-expenditure evidence and subsequent industrial-production releases.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/motor-vehicles-ai-investment-lift-us-factory-production-october-2026-11-17/"
+          ],
+          "development_at": null
+        }
+      ]
+    },
     {
       "id": "reuters-20261117T234147-SGT",
       "report_at": "2026-11-17T23:46:21+08:00",
