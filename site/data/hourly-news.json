@@ -2,13 +2,181 @@
   "schema_version": 1,
   "source_name": "Reuters Hourly News",
   "source_url": null,
-  "publisher_checked_at": "2026-11-17T21:24:43+08:00",
+  "publisher_checked_at": "2026-11-18T00:19:24+08:00",
   "last_complete_cutoff": null,
   "source_schedule": {
     "status": "Active",
     "checked_at": "2026-11-03T18:21:21+08:00"
   },
   "editions": [
+    {
+      "id": "reuters-20261117T234147-SGT",
+      "report_at": "2026-11-17T23:46:21+08:00",
+      "cutoff": "2026-11-17T23:41:47+08:00",
+      "window_start": "2026-11-17T20:17:24+08:00",
+      "coverage": "partial",
+      "summary": "Five new Reuters previews cover US retail/import-price data, historical neocloud credit stress, Hammack market-liquidity proposals, homebuilder sentiment and Genesis AI funding. A connected v3 follow-up adds China Ministry of Commerce response to the retained AI-chip licensing story. One Nvidia governance v19 follow-up is held for a missing predecessor. Full-detail publication remains held.",
+      "limitations": [
+        "Targeted partial Reuters coverage for 17 November 2026 20:17:24-23:41:47 SGT; completed and END UPDATE at 23:46:21 SGT. Historical gaps remain open; last_complete_cutoff is not advanced.",
+        "The matching original 34,410-byte JSON was downloaded and SHA-256 matched d6310e1830d933bf66c000c4d6fb03b5cc43a1d34da064f4d3affbde2869f6f3. Original generated report, seven source/story records, chart specification, tables, detailed attachment text and emphasis are retained privately.",
+        "Six imported story developments were checked against Reuters-attributed syndication. Original source dates are retained at date precision. Displayed header and syndication timestamps are not substituted for unverified original-publication, revision or exact development clocks. Public freshness is conservatively catch-up; the neocloud article is also an explicitly older producer-labelled discovery.",
+        "Source totals were five new stories and two follow-ups. Public output is five new previews plus one connected follow-up. R-20261108-NVDA-HUANG-BOARD-INTELLIGENCE-INQUIRY v19 is held because its required public v18 predecessor and earlier chain are absent. It was not renumbered, renamed or attached to the different older congressional-briefing ID. Its unconnected development is not published as a news card.",
+        "Chip-licensing v3 retains public v2 and v1. The Chinese ministry warning is a substantive official response, not an enacted countermeasure or a repeat of the original US rule. No quantifiable announcement-specific regional market reaction was established.",
+        "Retail/import figures are October month-on-month actuals and Reuters forecasts; percentage-point surprises are not Treasury-yield basis-point changes. Neocloud issuance yields, later market yields and convertible price observations are historical and distinct. Hammack discussed contingency principles rather than current QE; NAHB survey results are not defaults. Genesis fundraising, valuation and planned rollout are different measures.",
+        "The source persistent register remains empty and other producer briefing results were unavailable. Existing public hourly history and available legacy daily-report identities were checked; inaccessible newer source runs and earlier coverage gaps are not represented as recovered.",
+        "Metadata remains a preview. The complete original dashboard, supplied bar-chart data, comparison tables, matching attachment and section checklist remain private. Full-detail publication is held because the approved submission process lacks an hourly channel, time-aware edition identity and exact-edition full-reader links. No V3 approval, completeness attestation or desktop/mobile visual approval is claimed."
+      ],
+      "original_url": null,
+      "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+      "sources": [
+        {
+          "url": "https://www.reuters.com/world/us/us-retail-sales-increase-moderately-october-2026-11-17/",
+          "title": "US retail sales increase moderately; import prices rise above expectations",
+          "published_at": null,
+          "published_date": "2026-11-17",
+          "publication_precision": "date",
+          "verification_url": "https://ca.investing.com/news/economy-news/us-retail-sales-increase-moderately-import-prices-rise-above-expectations-4964492"
+        },
+        {
+          "url": "https://www.reuters.com/business/nvidia-turmoil-marks-end-easy-money-ai-trade-2026-11-17/",
+          "title": "Nvidia turmoil marks the end of easy money for the AI trade",
+          "published_at": null,
+          "published_date": "2026-11-17",
+          "publication_precision": "date",
+          "verification_url": "https://www.investing.com/news/stock-market-news/analysisnvidia-turmoil-marks-the-end-of-easy-money-for-the-ai-trade-5032324"
+        },
+        {
+          "url": "https://www.reuters.com/business/fed-needs-prepare-bond-market-intervention-during-calm-times-hammack-says-2026-11-17/",
+          "title": "Fed needs to prepare for bond-market intervention during calm times, Hammack says",
+          "published_at": null,
+          "published_date": "2026-11-17",
+          "publication_precision": "date",
+          "verification_url": "https://www.investing.com/news/economy-news/fed-needs-to-prepare-for-bondmarket-intervention-during-calm-times-hammack-says-5033340"
+        },
+        {
+          "url": "https://www.reuters.com/business/us-homebuilder-sentiment-tumbles-more-than-14-12-year-low-november-2026-11-17/",
+          "title": "US homebuilder sentiment tumbles to more than 14-1/2-year low in November",
+          "published_at": null,
+          "published_date": "2026-11-17",
+          "publication_precision": "date",
+          "verification_url": "https://www.streetinsider.com/Reuters/US%2Bhomebuilder%2Bsentiment%2Btumbles%2Bto%2Bmore%2Bthan%2B14-12-year%2Blow%2Bin%2BNovember/27361470.html"
+        },
+        {
+          "url": "https://www.reuters.com/world/china/china-says-it-will-take-countermeasures-if-us-imposes-new-chip-curbs-2026-11-17/",
+          "title": "China says it will take countermeasures if US imposes new chip curbs",
+          "published_at": null,
+          "published_date": "2026-11-17",
+          "publication_precision": "date",
+          "verification_url": "https://www.aol.com/articles/china-says-countermeasures-us-imposes-144404000.html"
+        },
+        {
+          "url": "https://www.reuters.com/business/finance/french-robot-maker-genesis-raises-500-million-35-billion-valuation-2026-11-17/",
+          "title": "French robot maker Genesis raises $500 million at $3.5 billion valuation",
+          "published_at": null,
+          "published_date": "2026-11-17",
+          "publication_precision": "date",
+          "verification_url": "https://live.euronext.com/en/financial-news/french-robot-maker-genesis-raises-500-million-35-billion-valuation"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261117-US-RETAIL-IMPORT-PRICES-OCTOBER",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "US / MACRO / RETAIL / IMPORT PRICES / FED / UST",
+          "headline": "US core retail spending and import-price inflation exceed Reuters forecasts",
+          "body": "US October 2026 retail sales rose 0.2% month on month, matching the Reuters forecast after September 0.8%. The control group excluding autos, gasoline, building materials and food services rose 0.6% versus 0.4% expected; September was revised to 0.5% from 0.1%. Import prices, which exclude tariffs, rose 1.1% versus 0.7% expected. Fuel import prices rose 3.6%; excluding food and fuel, prices rose 0.9%. Reuters described rising Treasury yields and a lower US equity open without a matched-time yield magnitude. Forecast surprises are 0.2 and 0.4 percentage point for core retail and imports, respectively, not basis-point yield moves.",
+          "analysis": "Resilient underlying spending and imported inflation may sustain tightening expectations; that does not quantify a new Fed repricing or Treasury-yield shock.",
+          "watch_next": "FOMC minutes, inflation trend and Treasury yields",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/us/us-retail-sales-increase-moderately-october-2026-11-17/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261117-NVDA-NEOCLOUD-HIGH-YIELD-CREDIT-STRESS",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "US / Nvidia / CoreWeave / Nebius / AI / HIGH-YIELD CREDIT",
+          "headline": "Reuters analysis highlights historical financing pressure on Nvidia-linked neocloud borrowers",
+          "body": "Reuters analysis compared CoreWeave debt issued in June at a reported 9.625% issuance yield with nearly 15% in the prior week. Nebius convertibles issued in August at a 4.5% yield had fallen to about US$0.70 per US$1 face value on Friday 13 November, with yields above 12%. Nvidia has a US$6.3 billion capacity-purchase commitment involving CoreWeave through April 2032. These are historical article comparisons, not moves during this report window or current executable bond quotes; issuance yield, market yield and convertible price are separate measures. No confirmed default was reported. This is an older uncovered catch-up discovery.",
+          "analysis": "Smaller infrastructure borrowers depend on external funding; higher refinancing costs can pressure equity and debt-service cushions without establishing a default.",
+          "watch_next": "Vendor finance commitments, debt refinancing, lease utilisation, liquidity and actual cash flow",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/nvidia-turmoil-marks-end-easy-money-ai-trade-2026-11-17/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261117-FED-HAMMACK-TREASURY-MARKET-INTERVENTION-PRINCIPLES",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "US / FED / Hammack / UST / REPO / FINANCIAL STABILITY",
+          "headline": "Hammack urges advance principles for temporary Treasury-market interventions",
+          "body": "Cleveland Fed President Beth Hammack called for principles established in advance of future Treasury-market dysfunction. She supported repo-facility enhancements and said temporary, targeted Treasury purchases could be considered if repo operations proved inadequate, with clear communication and an exit plan. She drew lessons from March 2020 and April 2025. This is a proposal for emergency market-functioning tools, not an announced purchase programme, quantitative-easing decision, interest-rate change or current intervention. No directly attributable Treasury-yield movement was established.",
+          "analysis": "A liquidity backstop may limit disorderly forced selling but does not eliminate duration risk or guarantee lower long-term yields.",
+          "watch_next": "Fed Treasury liquidity proposals, Standing Repo Facility changes and market depth",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/fed-needs-prepare-bond-market-intervention-during-calm-times-hammack-says-2026-11-17/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261117-NAHB-NOVEMBER-HOMEBUILDER-SENTIMENT-MISS",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "US / HOUSING / MORTGAGES / CREDIT / NAHB",
+          "headline": "US homebuilder sentiment falls to 25 versus 29 expected",
+          "body": "The November 2026 NAHB/Wells Fargo Housing Market Index fell four points to 25, its lowest since April 2012, versus a Reuters forecast of 29. The survey found 46% of builders cutting prices and 68% offering sales incentives. Reuters cited a recent Freddie Mac 30-year fixed mortgage average of 7.18%, compared with 7.40% in mid-October; these mortgage averages are historical observations, not same-window Treasury changes or executable financing offers. High borrowing costs, labour shortages and material costs pressured builders. No directly attributable homebuilder-share or Treasury-yield move was established.",
+          "analysis": "Weak demand and price incentives can pressure developer margins and construction-credit quality; survey sentiment is not a measure of realised loan losses.",
+          "watch_next": "New-home demand, mortgage rates, developer liquidity and further homebuilder surveys",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/us-homebuilder-sentiment-tumbles-more-than-14-12-year-low-november-2026-11-17/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261116-US-REMOTE-AI-CHIP-DATACENTRE-LICENSING",
+          "version": 3,
+          "status": "follow-up",
+          "freshness": "catch-up",
+          "topic": "China / US / Singapore / AI / SEMICONDUCTORS / TRADE",
+          "headline": "China threatens countermeasures over the US advanced AI-chip rule",
+          "body": "China Ministry of Commerce opposed the new US rule restricting access to advanced AI chips and said it would take countermeasures if Washington insisted on the restrictions. The statement adds an official Chinese response to the previously retained US licensing rule and Singapore engagement. It did not specify an enacted retaliatory measure or named target companies. No attributable USD/SGD or semiconductor-share movement was verified. A conditional threat is distinct from an implemented restriction.",
+          "analysis": "Potential retaliation could complicate regional supply chains, but exposure depends on concrete rules and enforcement rather than the threat alone.",
+          "watch_next": "Any concrete Chinese countermeasure, US exemptions and Singapore licensing guidance",
+          "earlier": "The retained v2 report at 17 November 2026 16:04:53 SGT covered Singapore government engagement and regional data-centre share reactions to the US AI-chip licensing rule. Public v1 is also retained.",
+          "source_urls": [
+            "https://www.reuters.com/world/china/china-says-it-will-take-countermeasures-if-us-imposes-new-chip-curbs-2026-11-17/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261117-GENESIS-AI-ROBOTICS-500M-SERIES-A",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "France / EUROPE / AI / ROBOTICS / PRIVATE CAPITAL",
+          "headline": "Genesis AI raises US$500m at a US$3.5bn valuation for robotics expansion",
+          "body": "French robotics startup Genesis AI said it raised US$500 million in a Series A round valuing it at US$3.5 billion. Backers included Nvidia, Bpifrance and venture investors. Proceeds support Eno robot production, data collection, AI training and hardware development. Wider customer rollout is planned for 2027. The financing raised and company valuation are separate figures; neither represents realised operating profit, completed 2027 sales or a public-market price reaction.",
+          "analysis": "Selected private growth projects can attract capital while leveraged infrastructure borrowers face financing pressure; commercial success remains unproven.",
+          "watch_next": "Production scale, customer uptake, operating costs and 2027 rollout",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/finance/french-robot-maker-genesis-raises-500-million-35-billion-valuation-2026-11-17/"
+          ],
+          "development_at": null
+        }
+      ]
+    },
     {
       "id": "reuters-20261117T201724-SGT",
       "report_at": "2026-11-17T20:21:21+08:00",
