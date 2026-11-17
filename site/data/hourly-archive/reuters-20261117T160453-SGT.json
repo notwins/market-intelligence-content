@@ -1,0 +1,175 @@
+{
+  "id": "reuters-20261117T160453-SGT",
+  "report_at": "2026-11-17T16:09:37+08:00",
+  "cutoff": "2026-11-17T16:04:53+08:00",
+  "window_start": "2026-11-17T11:50:26+08:00",
+  "coverage": "partial",
+  "original_url": null,
+  "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+  "summary": "Five new Reuters previews cover Indonesian market risk, UK labour surprises, Indian margin-trading proposals, Asian oil-stockpile cooperation and EBRD infrastructure constraints. A connected v2 follow-up adds Singapore government engagement and regional share reactions to the existing AI-chip licensing story. Coverage remains partial; the full detailed report remains held.",
+  "limitations": [
+    "Targeted partial Reuters coverage, not a complete wire audit. Exact source window: 17 November 11:50:26-16:04:53 SGT; report generated 16:09:37 SGT. The source END UPDATE repeats the cutoff; explicit handoff report_at preserves the later file-completion time. Historical gaps remain open and last_complete_cutoff is not advanced.",
+    "Matching 32,386-byte JSON was downloaded and SHA-256 matched 73f8f6071ce0c73f739840585716557390c4739fe3faaa714291f1aac80a3385. Complete generated source text, six story records, seven source entries, UK labour comparison table and handoff table were read.",
+    "Imported facts were checked against Reuters-attributed syndication. Original source dates are retained at date precision; displayed header or syndication times are not substituted for unverified original-publication, update or development clocks. Conservative catch-up freshness is used; the Japan proposal is also explicitly a producer-labelled older discovery.",
+    "AI-chip licensing v2 retains its existing event ID and public v1 predecessor. New facts are Singapore government engagement and dated regional stock reactions, not a second announcement of the original rule. Earlier held Megaspeed, FAA and AI-selloff version gaps remain unresolved; this release does not fill them.",
+    "Intraday equity and FX observations are not live quotes or verified closing returns. Indonesian passive outflows are a conditional Goldman Sachs estimate. Indian margin restrictions and Japanese stockpile coordination remain proposals. UK 0.1-percentage-point forecast differences are labour-data surprises, not a new BoE decision or verified Treasury-yield shock. EBRD research does not establish defaults.",
+    "Metadata is a preview only. Complete original dashboard, matching attachment, sources, tables and emphasis are retained privately with a section checklist. Full-detail publication remains held because the approved process lacks an hourly channel, timestamp-aware edition identities and exact-edition full-report reader links. No V3, desktop/mobile visual approval or completeness attestation is claimed."
+  ],
+  "sources": [
+    {
+      "url": "https://www.reuters.com/world/asia-pacific/us-ai-chip-curbs-threaten-southeast-asia-data-centre-boom-shares-tumble-2026-11-17/",
+      "title": "US AI chip curbs threaten Southeast Asia data centre boom, shares slump",
+      "published_at": null,
+      "published_date": "2026-11-17",
+      "publication_precision": "date",
+      "verification_url": "https://www.livemint.com/technology/us-ai-chip-curbs-threaten-southeast-asia-data-centre-boom-shares-slump-11794896626332.html"
+    },
+    {
+      "url": "https://www.reuters.com/world/china/people-react-us-ai-chip-curbs-that-threaten-data-centre-boom-2026-11-17/",
+      "title": "Reaction to US AI chip curbs that threaten data centre boom",
+      "published_at": null,
+      "published_date": "2026-11-17",
+      "publication_precision": "date",
+      "verification_url": "https://www.investing.com/news/stock-market-news/people-react-to-us-ai-chip-curbs-that-threaten-data-centre-boom-5031675"
+    },
+    {
+      "url": "https://www.reuters.com/markets/europe/indonesia-slippery-slope-political-tumult-adds-msci-led-market-angst-2026-11-17/",
+      "title": "Indonesia on a 'slippery slope' as political tumult adds to MSCI-led market angst",
+      "published_at": null,
+      "published_date": "2026-11-17",
+      "publication_precision": "date",
+      "verification_url": "https://uk.marketscreener.com/news/indonesia-on-a-slippery-slope-as-political-tumult-adds-to-msci-led-market-angst-ce785edfdf80f22c"
+    },
+    {
+      "url": "https://www.reuters.com/world/uk/uk-wage-growth-slows-35-three-months-september-2026-11-17/",
+      "title": "UK wage growth slows to 3.5% in three months to September",
+      "published_at": null,
+      "published_date": "2026-11-17",
+      "publication_precision": "date",
+      "verification_url": "https://y94.com/2026/11/17/uk-wage-growth-slows-to-3-5-in-three-months-to-september/"
+    },
+    {
+      "url": "https://www.reuters.com/legal/government/india-may-limit-leveraged-stock-bets-curb-volatility-sources-say-2026-11-17/",
+      "title": "India may limit leveraged stock bets to curb volatility, sources say",
+      "published_at": null,
+      "published_date": "2026-11-17",
+      "publication_precision": "date",
+      "verification_url": "https://ca.marketscreener.com/news/india-may-limit-leveraged-stock-bets-to-curb-volatility-sources-say-ce785edfde8ef22c"
+    },
+    {
+      "url": "https://www.reuters.com/business/energy/japan-propose-asia-oil-security-task-force-azec-summit-media-reports-2026-11-17/",
+      "title": "Japan proposes Asia oil security task force at ASEAN summit",
+      "published_at": null,
+      "published_date": "2026-11-17",
+      "publication_precision": "date",
+      "verification_url": "https://ae.marketscreener.com/news/japan-proposes-asia-oil-security-task-force-at-asean-summit-ce785edfdf80f026"
+    },
+    {
+      "url": "https://www.reuters.com/business/finance/developing-economies-risk-missing-out-defence-ai-boom-ebrd-warns-2026-11-17/",
+      "title": "Developing economies risk missing out on defence and AI boom, EBRD warns",
+      "published_at": null,
+      "published_date": "2026-11-17",
+      "publication_precision": "date",
+      "verification_url": "https://www.investing.com/news/economic-indicators/developing-economies-risk-missing-out-on-defence-and-ai-boom-ebrd-warns-5031732"
+    }
+  ],
+  "stories": [
+    {
+      "story_id": "R-20261116-US-REMOTE-AI-CHIP-DATACENTRE-LICENSING",
+      "version": 2,
+      "status": "follow-up",
+      "freshness": "catch-up",
+      "topic": "Singapore / US / China / NVDA / AI / semiconductors / FX / policy / follow-up",
+      "headline": "Singapore engages the US as AI-chip restrictions hit regional data-centre shares",
+      "body": "Singapore authorities said they were studying the new US AI-chip restrictions, engaging affected companies and contacting US counterparts about implementation. Reuters reported Tuesday intraday declines of nearly 20% in Malaysian MN Holdings and Critical Holdings, nearly 10% in YTL Power, 3.91% in Singapore Frencken and 2.9% in AEM; SMIC rose 7%. Exact individual quote times were not supplied. The governmental response and regional stock reactions are a substantive follow-up to the previously reported licensing rule; none of these moves is represented as a closing return or live price.",
+      "analysis": "Regulatory exposure may become a financing and utilisation risk for data centres dependent on Chinese AI customers; no quantified loss of Singapore exports or profitability is established.",
+      "watch_next": "Formal US licensing guidance; Singapore government engagement; data-centre operators’ customer mix and capex disclosures.",
+      "earlier": "The 17 November 2026 12:22:26 AM SGT report (v1) covered the US licensing rule for advanced chips supplied to Singapore and four other countries.",
+      "source_urls": [
+        "https://www.reuters.com/world/asia-pacific/us-ai-chip-curbs-threaten-southeast-asia-data-centre-boom-shares-tumble-2026-11-17/",
+        "https://www.reuters.com/world/china/people-react-us-ai-chip-curbs-that-threaten-data-centre-boom-2026-11-17/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261117-INDONESIA-MSCI-RUPIAH-POLITICAL-RISK",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "Indonesia / FX / IDR / credit / equities / MSCI / risk",
+      "headline": "Indonesia rupiah hits record low amid MSCI and political concerns",
+      "body": "Reuters reported USD/IDR at a record 18,285 on Tuesday, with the rupiah down 8.7% in 2026. Indonesian shares were down 38% year to date and foreign equity withdrawals totalled US$5.36 billion. Political uncertainty and potential MSCI reclassification weigh on sentiment. Indonesia has until mid-2027 to retain emerging-market status; Goldman Sachs estimated another US$5.6 billion of passive outflows if removal occurs. That outflow estimate and classification outcome remain conditional, not realised. The FX level is a dated Reuters observation with unknown quote time.",
+      "analysis": "Potential index outflows, fiscal credibility concerns and a weakening currency can reinforce each other; high local yields do not protect unhedged foreign investors from FX losses.",
+      "watch_next": "MSCI classification decisions, Bank Indonesia measures, policy credibility, FX and local-bond spreads.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/markets/europe/indonesia-slippery-slope-political-tumult-adds-msci-led-market-angst-2026-11-17/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261117-UK-WAGES-SEP-BOE-OUTLOOK",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "UK / BoE / macro / wages / employment / GBP / rates",
+      "headline": "UK wage growth and unemployment undershoot Reuters expectations",
+      "body": "Regular UK pay excluding bonuses grew 3.5% year on year in July-September 2026, below the Reuters poll median of 3.6% and the prior three-month reading of 3.7%. Unemployment was 4.6% against a 4.7% forecast. Provisional company payrolls fell by 34,000 in October. Reuters described about a 90% priced probability of a December BoE hike, without establishing a new release-driven change. Wage growth and unemployment each undershot forecast by 0.1 percentage point; no attributable sterling or gilt move was verified.",
+      "analysis": "Cooler pay growth alongside a lower jobless rate gives mixed inflation and labour-market signals; this is not a BoE decision.",
+      "watch_next": "BoE guidance, UK CPI and updated labour-market figures.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/uk/uk-wage-growth-slows-35-three-months-september-2026-11-17/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261117-INDIA-SEBI-LEVERAGED-EQUITIES-REVIEW",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "India / SEBI / equities / credit / margin / risk",
+      "headline": "India considers limits on margin-funded stock trading",
+      "body": "Sources told Reuters SEBI was considering limits on new margin-funded purchases when such positions reach a proposed 5%-10% of a stock free float. Outstanding margin positions were 1.53 trillion rupees, approximately US$16.3 billion, up 29% year on year; about two-thirds involved small and mid caps. Brokers reportedly offer up to four times investor capital at interest rates of 9%-18%. Thresholds remain unsettled and public consultation would precede final rules. This is a proposal, not an enacted trading ban or confirmed default.",
+      "analysis": "High leverage in less-liquid shares can amplify forced selling, but a possible regulation is not a default or an enacted trading ban.",
+      "watch_next": "SEBI consultation paper, margin concentration measures and any binding restrictions.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/legal/government/india-may-limit-leveraged-stock-bets-curb-volatility-sources-say-2026-11-17/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261117-JAPAN-ASEAN-OIL-SECURITY-TASK-FORCE",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "Japan / ASEAN / Singapore / energy / oil / macro / risk",
+      "headline": "Japan proposes regional oil-stockpile cooperation at ASEAN summit",
+      "body": "Japan proposed a regional task force for emergency oil-stockpile cooperation and potential access to spare Japanese storage, coordinated with a Philippine-led initiative. Reuters cited Japan natural-resources agency estimating that about 90% of crude transiting Hormuz goes to Asia. This is an older uncovered catch-up discovery. The proposal is not an adopted reserve-sharing agreement, committed release volume or actual oil release, and no attributable oil-price or freight reaction was established.",
+      "analysis": "Shared emergency inventories may eventually improve ASEAN resilience, but the proposal has not been adopted or allocated volumes.",
+      "watch_next": "ASEAN agreement, stockpile-sharing terms, funding commitments, and emergency release mechanisms.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/business/energy/japan-propose-asia-oil-security-task-force-azec-summit-media-reports-2026-11-17/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261117-EBRD-AI-DEFENCE-GRID-FINANCING-GAPS",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "EBRD / AI / infrastructure / credit / macro / energy",
+      "headline": "EBRD warns weak grids and financing may exclude developing economies from AI investment",
+      "body": "The EBRD transition report warned that developing economies may lack the electricity infrastructure, financing and industrial capacity needed to participate in AI and defence investment. Nearly half of the roughly 40 EBRD countries have grids unable to support a single data centre, Reuters reported. These are structural constraints and research findings, not newly realised borrower defaults, failed bond issues or quantified losses at a specific project. No attributable financial-market reaction was established.",
+      "analysis": "AI project viability depends on power capacity and funding quality, not only chips and demand forecasts; the report does not confirm defaults.",
+      "watch_next": "Grid investment commitments, project-finance terms and completed data-centre contracts.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/business/finance/developing-economies-risk-missing-out-defence-ai-boom-ebrd-warns-2026-11-17/"
+      ],
+      "development_at": null
+    }
+  ]
+}
