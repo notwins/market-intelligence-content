@@ -2,13 +2,123 @@
   "schema_version": 1,
   "source_name": "Reuters Hourly News",
   "source_url": null,
-  "publisher_checked_at": "2026-11-17T01:22:39+08:00",
+  "publisher_checked_at": "2026-11-17T15:37:04+08:00",
   "last_complete_cutoff": null,
   "source_schedule": {
     "status": "Active",
     "checked_at": "2026-11-03T18:21:21+08:00"
   },
   "editions": [
+    {
+      "id": "reuters-20261117T115026-SGT",
+      "report_at": "2026-11-17T11:53:21+08:00",
+      "cutoff": "2026-11-17T11:50:26+08:00",
+      "window_start": "2026-11-17T08:11:18+08:00",
+      "coverage": "partial",
+      "original_url": null,
+      "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+      "summary": "Three reviewed Reuters previews cover the dollar and FedWatch repricing, RBA November minutes and Japan proposed floating-rate bond delay. AI-selloff v3 and FAA v9 follow-ups are held for missing public predecessors. Coverage remains partial; the full detailed edition remains held.",
+      "limitations": [
+        "Partial targeted Reuters review, not exhaustive wire coverage. Exact source window is 17 November 08:11:18-11:50:26 SGT, completed 11:53:21 SGT. The last published prior cutoff is 00:22:26 SGT; this release does not fill intervening publication or source-coverage gaps. last_complete_cutoff remains unestablished.",
+        "Matching source JSON was downloaded: 24,778 bytes, SHA-256 be7b8185f6dd9d0b499414d13106af4f4933617bfd3ee5512f05fc82771b1c1b. Original full body, both tables and all five source entries were read. Other briefing results are incomplete or older; no missing daily report is reconstructed.",
+        "Material claims were checked against Reuters-attributed syndication. Original-publication dates are retained at date precision. Displayed source-header times are not substituted for unverified original or revision clocks. Story development timestamps remain null; source new labels are retained with conservative catch-up freshness.",
+        "Held: AI-selloff R-20261116-US-AI-SEMICONDUCTOR-SELL-OFF v3 lacks public v2; FAA R-20261113-US-FAA-NATIONAL-GROUND-STOP v9 lacks public v8 and earlier chain. Neither event is renamed or reset to v1. Original versions and context remain private pending chain verification.",
+        "Currency levels are historical Reuters observations, not current dealing quotes. FedWatch probabilities and RBA end-2027 pricing are market expectations, not decisions. RBA minutes describe the November 2-3 meeting and do not announce a new hike. Japan bond postponement is attributed to unnamed sources, not a ministry notice.",
+        "These are metadata previews only. Complete source text, matching JSON, styled private copy and source-to-output checklist are retained. Full detail remains held because approved publication lacks hourly channel support, timestamp-aware identities and exact-edition full-report reader links. No V3, visual-review or completeness approval is claimed."
+      ],
+      "sources": [
+        {
+          "url": "https://www.reuters.com/world/africa/us-dollar-hits-19-month-peak-fed-hike-bets-aussie-dips-2026-11-17/",
+          "title": "US dollar hits 19-month peak on Fed hike bets; Aussie dips",
+          "published_at": null,
+          "published_date": "2026-11-17",
+          "publication_precision": "date",
+          "verification_url": "https://www.thestandard.com.hk/finance/article/348704/US-dollar-hits-19-month-peak-on-Fed-hike-bets-Aussie-dips"
+        },
+        {
+          "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-17/",
+          "title": "Asia shares slide on tech weakness ahead of Nvidia earnings",
+          "published_at": null,
+          "published_date": "2026-11-17",
+          "publication_precision": "date",
+          "verification_url": "https://au.marketscreener.com/news/asia-shares-stumble-on-tech-weakness-ahead-of-nvidia-earnings-ce785edfdf8df626"
+        },
+        {
+          "url": "https://www.reuters.com/world/asia-pacific/rba-board-judges-fifth-rate-hike-needed-provide-policy-assurance-2026-11-17/",
+          "title": "RBA board judges fifth rate hike needed to provide policy assurance",
+          "published_at": null,
+          "published_date": "2026-11-17",
+          "publication_precision": "date",
+          "verification_url": "https://halfoffqc.com/article/rba-board-judges-fifth-rate-hike-needed-to-provide-policy-assurance"
+        },
+        {
+          "url": "https://www.reuters.com/markets/asia/japan-postpone-launch-new-floating-rate-government-bonds-sources-say-2026-11-17/",
+          "title": "Japan to postpone launch of new floating-rate government bonds, sources say",
+          "published_at": null,
+          "published_date": "2026-11-17",
+          "publication_precision": "date",
+          "verification_url": "https://uk.marketscreener.com/news/japan-to-postpone-launch-of-new-floating-rate-government-bonds-sources-say-ce785edfdf8cf525"
+        },
+        {
+          "url": "https://www.reuters.com/business/aerospace-defense/top-four-us-airlines-face-345-million-hit-faa-ground-stop-bernstein-estimates-2026-11-16/",
+          "title": "Top four US airlines face $345 million hit from FAA ground stop, Bernstein estimates",
+          "published_at": null,
+          "published_date": "2026-11-16",
+          "publication_precision": "date",
+          "verification_url": "https://www.aol.com/articles/top-four-us-airlines-face-140741000.html"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261117-USD-19MONTH-HIGH-FEDWATCH-REPRICE",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "US / Fed / FX / USD/CHF / JPY / AUD / rates / policy expectations",
+          "headline": "Dollar hits a 19-month high even as the odds of a 50bp December Fed hike recede",
+          "body": "Reuters reported the dollar index at 103.66, its highest since 2 April 2025, with USD/CHF at 0.84075 and USD/JPY at 159.49. These are historical source observations with unknown individual quote times, not live rates. Reuters cited CME FedWatch odds of a 50-basis-point December hike at about 4%, down from nearly 12% the previous day. Market pricing is neither a Fed decision nor a guaranteed outcome; a stronger dollar can coexist with reduced odds of a larger hike.",
+          "analysis": "The combination of a stronger dollar and reduced probability of an outsized move shows that rate direction and the magnitude of the next hike are separate market variables. Singapore and CHF borrowers should watch FX exposure and actual funding terms.",
+          "watch_next": "US retail-sales release, FOMC minutes and whether USD/JPY approaches intervention-sensitive levels.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/africa/us-dollar-hits-19-month-peak-fed-hike-bets-aussie-dips-2026-11-17/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261117-RBA-NOVEMBER-MINUTES-6-3-SPLIT",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "Australia / RBA / central banks / AUD / inflation / employment / housing",
+          "headline": "RBA minutes reveal 6–3 split behind the November rate rise",
+          "body": "Minutes released on 17 November from the RBA November 2-3 meeting show six members backed the increase and three opposed. The majority cited persistent inflation and doubts about sufficient restraint; dissenters feared a sharper downturn as unemployment rose and housing weakened. The existing cash rate is 4.85% following five increases in 2026. Reuters described about 22 basis points of easing priced by end-2027. The minutes disclose reasoning behind an earlier decision; they are not a new rate rise on 17 November or a commitment to future cuts.",
+          "analysis": "An explicit 6–3 split contrasts hawkish inflation risk with growth and housing concerns. This can matter for AUD exposure but is not a fresh rate hike on 17 November.",
+          "watch_next": "Australia employment and inflation indicators, future RBA speeches, and revisions to futures-implied policy.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/asia-pacific/rba-board-judges-fifth-rate-hike-needed-provide-policy-assurance-2026-11-17/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261117-JAPAN-SHORT-FRN-ISSUANCE-DEFERRED",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "Japan / MOF / JGB / bonds / duration / BoJ / issuance",
+          "headline": "Japan delays planned two-year floating-rate government bond launch",
+          "body": "Two sources told Reuters Japan Ministry of Finance would defer its proposed two-year floating-rate government bond, previously targeted for as early as January, while reassessing sustainable demand as rate expectations change. The ministry had not immediately commented. Dealer consultations include 26 November; fiscal 2027 issuance plans are due by year-end, with a further review in June. This is source-attributed reporting rather than a published ministry decision; no attributable JGB-yield or yen movement was established.",
+          "analysis": "The postponement highlights how rapidly shifting rate expectations affect sovereign issuance design and investor demand. It is not a cancellation of existing fixed-rate JGBs.",
+          "watch_next": "November 26 dealer consultations and the 2027 issuance plan at year-end.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/markets/asia/japan-postpone-launch-new-floating-rate-government-bonds-sources-say-2026-11-17/"
+          ],
+          "development_at": null
+        }
+      ]
+    },
     {
       "id": "reuters-20261117T002226-SGT",
       "report_at": "2026-11-17T00:29:25+08:00",
