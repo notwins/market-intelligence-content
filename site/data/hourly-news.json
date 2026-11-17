@@ -2,13 +2,180 @@
   "schema_version": 1,
   "source_name": "Reuters Hourly News",
   "source_url": null,
-  "publisher_checked_at": "2026-11-17T16:24:27+08:00",
+  "publisher_checked_at": "2026-11-17T21:24:43+08:00",
   "last_complete_cutoff": null,
   "source_schedule": {
     "status": "Active",
     "checked_at": "2026-11-03T18:21:21+08:00"
   },
   "editions": [
+    {
+      "id": "reuters-20261117T201724-SGT",
+      "report_at": "2026-11-17T20:21:21+08:00",
+      "cutoff": "2026-11-17T20:17:24+08:00",
+      "window_start": "2026-11-17T16:04:53+08:00",
+      "coverage": "partial",
+      "summary": "Six new Reuters previews cover BofA technology positioning, Nvidia earnings-implied volatility, proposed Chinese optical-equipment restrictions, European Commission fiscal forecasts, UK service-provider oversight and JD.com quarterly earnings. Coverage remains partial; the complete detailed report is retained privately and held from publication.",
+      "limitations": [
+        "Targeted partial Reuters review for 17 November 2026 16:04:53-20:17:24 SGT; report generated and END UPDATE at 20:21:21 SGT. Earlier gaps remain open; last_complete_cutoff is not advanced.",
+        "The matching 28,919-byte original JSON was downloaded and its SHA-256 verified as b18b842c2e038e5c8cd293e7ab3d357d6d68bc18ebfb37dc8f62d41f0e7738a1. Full source text, six stories, six source entries, original chart specification and three original tables are retained privately.",
+        "Material facts were verified against attributed Reuters syndication. Original-publication dates are known, but separate original-publication, revision and exact development clocks are not. Displayed header times are not substituted. Public freshness is conservatively catch-up; all six source records remain new v1 relative to inspected history, not claims of first-ever reporting.",
+        "The source persistent register remains empty and its completed-scan cutoff unverified. Other source-automation lookups were unavailable. Existing public hourly history and available public daily-report identities were compared, without asserting that inaccessible cross-report coverage was checked or gaps filled.",
+        "BofA allocations and capital-spending expectations are survey observations, Nvidia volatility is market-implied rather than a realised return, European figures are forecasts, FCC curbs remain proposed, and UK designations are supervision rather than misconduct findings. JD premarket performance is a historical quotation with unknown exact observation time.",
+        "No new quantitative scenario trigger or announcement-attributable FX, Treasury-yield, sovereign-spread or credit-default event was established by this partial report.",
+        "Metadata is a preview only. Complete original generated detail, chart data, comparisons, tables, source links and emphasis are retained privately with an itemised checklist. Full-detail publication remains held because the approved process lacks an hourly channel, time-aware identity and exact-edition full reader links. No V3 approval, complete-output attestation or desktop/mobile visual approval is claimed."
+      ],
+      "original_url": null,
+      "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+      "sources": [
+        {
+          "url": "https://www.reuters.com/business/global-markets-bofa-survey-2026-11-17/",
+          "title": "Investors slashed tech exposure allocations by most since 2006",
+          "published_at": null,
+          "published_date": "2026-11-17",
+          "publication_precision": "date",
+          "verification_url": "https://whbl.com/2026/11/17/investors-slashed-tech-exposure-last-month-anticipate-less-capital-spending/"
+        },
+        {
+          "url": "https://www.reuters.com/business/nvidia-shares-set-335-billion-swing-after-earnings-options-show-2026-11-17/",
+          "title": "Nvidia shares set for $335 billion swing after earnings, options show",
+          "published_at": null,
+          "published_date": "2026-11-17",
+          "publication_precision": "date",
+          "verification_url": "https://www.investing.com/news/stock-market-news/nvidia-shares-set-for-335-billion-swing-after-earnings-options-show-5032318"
+        },
+        {
+          "url": "https://www.reuters.com/world/trumps-china-data-center-curb-advances-despite-amazon-google-meta-lobbying-2026-11-17/",
+          "title": "Trump's China data center curb advances despite Amazon, Google, Meta lobbying",
+          "published_at": null,
+          "published_date": "2026-11-17",
+          "publication_precision": "date",
+          "verification_url": "https://www.investing.com/news/stock-market-news/exclusivetrumps-china-data-center-curb-advances-despite-amazon-google-meta-lobbying-5032280"
+        },
+        {
+          "url": "https://www.reuters.com/world/euro-zone-economy-seen-growing-moderately-france-outlook-weakest-commission-2026-11-17/",
+          "title": "Euro zone economy seen growing moderately, France outlook weakest -Commission",
+          "published_at": null,
+          "published_date": "2026-11-17",
+          "publication_precision": "date",
+          "verification_url": "https://ca.marketscreener.com/news/euro-zone-economy-seen-growing-moderately-france-outlook-weakest-commission-ce785edfd08ff722"
+        },
+        {
+          "url": "https://www.reuters.com/business/autos-transportation/uk-designates-blackrock-bloomberg-critical-third-parties-2026-11-17/",
+          "title": "UK designates BlackRock, Bloomberg as critical third parties",
+          "published_at": null,
+          "published_date": "2026-11-17",
+          "publication_precision": "date",
+          "verification_url": "https://ca.marketscreener.com/news/uk-designates-blackrock-bloomberg-as-critical-third-parties-ce785edcd981f42c"
+        },
+        {
+          "url": "https://www.reuters.com/business/retail-consumer/chinas-jdcom-misses-third-quarter-estimates-weak-consumer-demand-2026-11-17/",
+          "title": "China's JD.com misses third-quarter estimates on weak consumer demand",
+          "published_at": null,
+          "published_date": "2026-11-17",
+          "publication_precision": "date",
+          "verification_url": "https://www.investing.com/news/stock-market-news/chinas-jdcom-misses-thirdquarter-estimates-on-weak-consumer-demand-5032200"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261117-BOFA-FMS-AI-TECH-ALLOCATIONS",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "US / GLOBAL / AI / EQUITIES / CREDIT / INVESTOR POSITIONING",
+          "headline": "BofA survey shows technology overweight falling from 37% to 12%",
+          "body": "BofA November fund-manager survey put net technology overweight at 12%, down from 37% in October, the largest monthly allocation reduction since June 2006. Among 169 investors managing US$461 billion, 38% regarded company investment as excessive and 52% expected an AI hyperscaler to cut capital spending within six months. Only 3% expected global recession. These are surveyed positions and expectations, not confirmed capital-spending cuts, realised market returns or a measured credit-spread change.",
+          "analysis": "Surveyed concern about AI investment and financing is not a recession consensus; assess actual free cash flow and funding commitments before inferring realised losses.",
+          "watch_next": "Nvidia earnings, hyperscaler actual capex, corporate funding and technology allocation changes.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/global-markets-bofa-survey-2026-11-17/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261117-NVDA-OPTIONS-EARNINGS-IMPLIED-MOVE",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "US / Nvidia / NVDA / OPTIONS / EARNINGS / AI",
+          "headline": "Nvidia options imply an 8.5% move and roughly US$335bn market-value swing",
+          "body": "Reuters reported that Nvidia options implied an approximately 8.5% move in either direction on the session following its scheduled Tuesday third-quarter earnings, equivalent to about US$335 billion in market value. The percentage exceeds twice the average post-earnings move over the preceding eight quarters, according to Susquehanna cited by Reuters. This is an options-implied range rather than a directional forecast, actual gain/loss or live quotation.",
+          "analysis": "High implied volatility raises the cost of optionality; a correct directional view alone does not establish a profitable option trade.",
+          "watch_next": "Revenue and cash flow, guidance, order cancellations or postponements, and actual next-session price movement.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/nvidia-shares-set-335-billion-swing-after-earnings-options-show-2026-11-17/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261117-FCC-CHINA-OPTICAL-TRANSCEIVER-IMPORT-CURBS",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "US / China / TECHNOLOGY CONTROLS / DATA CENTRES / FCC",
+          "headline": "US advances proposed Chinese optical-equipment import curbs despite technology lobbying",
+          "body": "Sources told Reuters the US administration was advancing proposed restrictions on imports of new Chinese optical-transceiver models despite opposition from Amazon, Google, Meta and other technology firms. Executives warned compliance could take up to a decade. Reuters cited Counterpoint estimating Chinese suppliers account for about two-thirds of the global optical-transceiver market. This FCC proposal is distinct from the already reported advanced AI-chip export-licensing rule; it is not a newly implemented final ban. No attributable financial-market move was verified.",
+          "analysis": "Alternative hardware and transition costs could affect infrastructure economics, subject to the final scope, exemptions and implementation period.",
+          "watch_next": "The FCC proposed text, implementation schedule, exemptions and company sourcing responses.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/trumps-china-data-center-curb-advances-despite-amazon-google-meta-lobbying-2026-11-17/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261117-EU-COMMISSION-FORECAST-FRANCE-FISCAL",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "EURO AREA / France / INFLATION / SOVEREIGN CREDIT / FORECASTS",
+          "headline": "Commission raises euro-zone growth forecast while projecting rising French debt",
+          "body": "The European Commission forecast euro-zone GDP growth of 1.2% in both 2026 and 2027, raising its 2026 projection from the 0.9% expected in May. It forecast inflation of 3.2% and 3.1%, respectively. France debt/GDP was projected at 119.2% in 2026 and 122.1% in 2027, with deficits of 5.5% and 5.4% of GDP. France 2027 growth was forecast at 0.6%. All figures are Commission projections, not realised results. No attributable OAT/Bund spread or euro move was established.",
+          "analysis": "Stronger projected output can coexist with worsening sovereign debt dynamics; growth, inflation and fiscal solvency are distinct measures.",
+          "watch_next": "French fiscal measures, OAT/Bund spreads, inflation releases and future Commission revisions.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/euro-zone-economy-seen-growing-moderately-france-outlook-weakest-commission-2026-11-17/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261117-UK-CRITICAL-FINANCE-THIRD-PARTIES",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "UK / BoE / FINANCIAL INFRASTRUCTURE / REGULATION",
+          "headline": "UK names five more critical financial-service providers for joint oversight",
+          "body": "Britain designated BlackRock, Bloomberg, Bottomline Technologies, Broadridge Financial Solutions and Form3 as critical third parties, bringing the total to nine after four earlier designations. The designated services become subject to joint Bank of England, Prudential Regulation Authority and Financial Conduct Authority oversight. This is a supervisory designation, not evidence of misconduct, an outage or a central-bank interest-rate decision. No attributable share-price, credit-spread or sterling move was established.",
+          "analysis": "Financial stability depends on outside service-provider resilience as well as regulated banks; designation alone is not a distress signal.",
+          "watch_next": "Implementation details, service-resilience requirements and enforcement guidance.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/autos-transportation/uk-designates-blackrock-bloomberg-critical-third-parties-2026-11-17/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261117-JD-Q3-EARNINGS-CHINA-DEMAND-MISS",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "China / JD / EARNINGS / RETAIL / CONSUMER DEMAND",
+          "headline": "JD.com Q3 revenue and adjusted profit miss estimates; shares fall premarket",
+          "body": "JD.com reported Q3 2026 revenue of CNY309.6 billion versus the LSEG analyst estimate of CNY311.48 billion, and adjusted net profit of CNY8.3 billion versus CNY8.59 billion expected. Reuters described cautious consumer spending, property weakness and discount-led competition. US-listed JD shares were down 3.41% in premarket trading at an unspecified observation time; this was not a closing return or live quote. Quarterly actuals and estimates remain separate from year-to-date share performance.",
+          "analysis": "The company-level earnings miss adds evidence of weak consumer demand but does not establish economy-wide corporate credit stress.",
+          "watch_next": "Consumer stimulus, spending patterns, profitability and a completed-market reaction.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/retail-consumer/chinas-jdcom-misses-third-quarter-estimates-weak-consumer-demand-2026-11-17/"
+          ],
+          "development_at": null
+        }
+      ]
+    },
     {
       "id": "reuters-20261117T160453-SGT",
       "report_at": "2026-11-17T16:09:37+08:00",
