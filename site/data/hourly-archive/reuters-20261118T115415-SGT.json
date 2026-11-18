@@ -1,0 +1,144 @@
+{
+  "id": "reuters-20261118T115415-SGT",
+  "report_at": "2026-11-18T12:01:21+08:00",
+  "cutoff": "2026-11-18T11:54:15+08:00",
+  "window_start": "2026-11-18T08:09:42+08:00",
+  "coverage": "partial",
+  "summary": "Five new Reuters previews cover BoJ guidance, proposed UBS capital curbs, DBS-Circle institutional settlement, Japan trade and US oil inventories. Gold and Asian-equity follow-ups are held for missing predecessors; the Alaska result is held pending Reuters verification. Full-detail publication remains held.",
+  "limitations": [
+    "Partial targeted Reuters coverage from 18 November 08:09:42 to 11:54:15 SGT, with source report completion recorded at 12:01:21 SGT. END UPDATE repeats the cutoff rather than the later generation time. Historical gaps remain open and last_complete_cutoff is not advanced.",
+    "The original completed response, matching complete dashboard JSON and all eight source-register entries were read. Five new version-1 previews were independently reviewed against attributed Reuters syndication. The source-provided original-publication clocks could not be independently separated from rolling headers or updates; public sources retain date-only precision and null development times. All previews are conservatively labelled catch-up; no breaking designation is inferred.",
+    "Gold R-20261116-GOLD-ONE-YEAR-LOW-HIGH-YIELDS v2 is held because retained public v1 is absent. Asian equities R-20261116-US-AI-SEMICONDUCTOR-SELL-OFF v5 is held because public v4 and its predecessor chain are absent. Neither event is renamed or renumbered as a new version-1 story.",
+    "The Alaska Senate-result story is held because eligible full Reuters text or attributed Reuters syndication was not retrievable. Accessible AP reporting is corroboration, not a substitute for this publisher Reuters review. No election projection or Senate seat count from that held item is added here.",
+    "BoJ comments are not a fresh rate decision. The original additional bond-purchase/fiscal-financing warning was not independently confirmed in accessible Reuters text and is omitted from this preview while retained privately. UBS subsidiary-backing percentages are proposed requirements, not bank-wide capital ratios or final regulatory decisions. DBS stablecoin access is institutional and separate from tokenised deposits.",
+    "Japan trade actuals, market forecasts and year-on-year rates retain separate labels and units. API inventory estimates for the week ended 13 November are distinct from official EIA figures. Oil futures observations at 09:49 SGT are historical; their moves are not attributed solely to inventories. No unsupported yield, FX or share-price reaction is inferred.",
+    "Current public hourly history, independent full reports and available legacy daily editions were checked for duplicate events. Earlier Peltola polling/legal references and unrelated historical 5.28 figures do not represent the new held election result or this week API inventory measure. Unavailable newer daily source runs and source-register gaps are not represented as recovered coverage.",
+    "Metadata is a short preview only. All eight stories, sections A-F, original tables, complete attachment dashboard, client draft and source links remain in a private held HTML review with a source-to-output checklist. Full-detail publication remains held because the approved process lacks an hourly channel, time-aware identities for multiple editions per day and exact-edition full-reader/card/search links. No approved V3, completeness or desktop/mobile visual attestation is made."
+  ],
+  "original_url": null,
+  "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+  "sources": [
+    {
+      "url": "https://www.reuters.com/markets/asia/bank-japan-governor-says-central-bank-should-keep-raising-rates-2026-11-18/",
+      "title": "Bank of Japan governor says central bank should keep raising rates",
+      "published_at": null,
+      "published_date": "2026-11-18",
+      "publication_precision": "date",
+      "verification_url": "https://au.marketscreener.com/news/bank-of-japan-governor-says-central-bank-should-keep-raising-rates-ce785edcde8df420"
+    },
+    {
+      "url": "https://www.reuters.com/business/finance/ubs-set-accept-defeat-over-swiss-capital-curbs-sources-say-2026-11-17/",
+      "title": "UBS set to accept defeat over Swiss capital curbs, sources say",
+      "published_at": null,
+      "published_date": "2026-11-17",
+      "publication_precision": "date",
+      "verification_url": "https://uk.marketscreener.com/news/ubs-set-to-accept-defeat-over-swiss-capital-curbs-sources-say-ce785edcd881f725"
+    },
+    {
+      "url": "https://www.reuters.com/world/asia-pacific/dbs-partners-with-circle-expand-institutional-access-usdc-asia-2026-11-18/",
+      "title": "DBS partners with Circle to expand institutional access to USDC in Asia",
+      "published_at": null,
+      "published_date": "2026-11-18",
+      "publication_precision": "date",
+      "verification_url": "https://in.marketscreener.com/news/dbs-partners-with-circle-to-expand-institutional-access-to-usdc-in-asia-ce785edcde8df620"
+    },
+    {
+      "url": "https://www.reuters.com/markets/asia/japan-exports-set-record-october-strong-chip-related-demand-2026-11-18/",
+      "title": "Japan exports set record in October on strong chip-related demand",
+      "published_at": null,
+      "published_date": "2026-11-18",
+      "publication_precision": "date",
+      "verification_url": "https://www.investing.com/news/economic-indicators/japan-exports-set-record-in-october-on-strong-chiprelated-demand-5034426"
+    },
+    {
+      "url": "https://www.reuters.com/business/energy/oil-prices-fall-higher-us-crude-stocks-temper-supply-risks-2026-11-18/",
+      "title": "Oil prices fall as higher US crude stocks temper supply risks",
+      "published_at": null,
+      "published_date": "2026-11-18",
+      "publication_precision": "date",
+      "verification_url": "https://www.channelnewsasia.com/business/oil-prices-fall-higher-us-crude-stocks-temper-supply-risks-6561041"
+    }
+  ],
+  "stories": [
+    {
+      "story_id": "R-20261118-BOJ-UEDA-HIKES-JGB-PURCHASES",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "JAPAN / BOJ / JGB / RATES",
+      "headline": "Ueda backs further BoJ rate increases; October policy rate remains 1.25%",
+      "body": "BoJ Governor Kazuo Ueda told parliament that monetary conditions remain accommodative and further policy-rate increases should follow economic, price and financial developments. Reuters reported that the BoJ kept its policy rate at 1.25% at the 30 October meeting and stressed the need to anchor underlying inflation around 2%. These are current remarks about the direction of policy, not a new rate decision or a timetable for the next increase. No speech-specific JGB-yield or JPY move was established.",
+      "analysis": "A changing Japanese rate outlook can affect yen funding and JGB duration exposure. Policy direction, the timing of the next decision and a measured market reaction are separate questions.",
+      "watch_next": "Next BoJ communication, JGB auction demand, long-yield volatility and yen policy signals.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/markets/asia/bank-japan-governor-says-central-bank-should-keep-raising-rates-2026-11-18/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261117-UBS-SWISS-CAPITAL-CURBS-REUTERS-EXCLUSIVE",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "SWITZERLAND / UBS / BANK CAPITAL / CREDIT",
+      "headline": "Reuters sources say UBS sees little room to soften proposed Swiss capital curbs",
+      "body": "Three people familiar with the discussions told Reuters that UBS sees limited room to soften proposed Swiss rules on capital backing for foreign subsidiaries. The central proposal requires Common Equity Tier 1 backing for 100% of their value; the upper house supported a 90% alternative. These percentages describe subsidiary backing, not a bank-wide CET1 ratio. Parliamentary action could come as soon as December, and UBS may outline options at its February results. The requirements and strategic response remain conditional rather than a newly finalised rule or relocation decision.",
+      "analysis": "Greater required capital backing may constrain buybacks and international expansion. It does not itself establish a default, an SNB policy decision or an agreed move abroad.",
+      "watch_next": "Final Swiss parliamentary rules and UBS capital-plan disclosures at early-February results.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/business/finance/ubs-set-accept-defeat-over-swiss-capital-curbs-sources-say-2026-11-17/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261118-DBS-CIRCLE-USDC-INSTITUTIONAL-SETTLEMENT",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "SINGAPORE / DBS / USDC / PAYMENTS",
+      "headline": "DBS and Circle expand direct institutional USDC access with 24/7 settlement",
+      "body": "DBS partnered with Circle to broaden institutional access to USDC in Asia. Eligible institutional clients can mint and redeem the dollar-backed stablecoin directly through DBS instead of relying solely on secondary-market trades. Reuters reported 24/7 USD-USDC settlement, allowing conversion outside traditional banking hours. The arrangement follows a separate DBS-JPMorgan tokenised-deposit initiative announced the previous week; these are different products. This is institutional settlement access, not a new retail deposit account or a guaranteed investment return. No attributable DBS-share or SGD move was established.",
+      "analysis": "Around-the-clock access may improve institutional settlement flexibility. Counterparty, issuer, redemption and operational risks still require assessment; faster settlement does not eliminate them.",
+      "watch_next": "Eligibility and controls, usage volumes, and MAS regulatory developments.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/asia-pacific/dbs-partners-with-circle-expand-institutional-access-usdc-asia-2026-11-18/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261118-JAPAN-OCTOBER-TRADE-EXPORT-RECORD",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "JAPAN / MACRO / TRADE / SEMICONDUCTORS",
+      "headline": "Japan October exports rise 20.5% while import growth undershoots forecasts",
+      "body": "Japan October 2026 exports rose 20.5% year on year versus a 20.0% market forecast, reaching a record monthly value of about JPY11.8 trillion. This was the fourteenth consecutive month of growth from a year earlier. Imports rose 21.6% versus 25.8% expected. The trade deficit was JPY476.5 billion versus a forecast JPY956 billion deficit. Reuters described semiconductor-related demand supporting exports and oil and transport costs lifting import values. These are nominal trade values and year-on-year growth rates, not real-volume changes or month-on-month inflation. No release-specific JPY or JGB move was established.",
+      "analysis": "Chip-related external demand can coexist with expensive energy imports and pressure on household purchasing power. A smaller-than-forecast deficit is not a verified currency or bond-price response.",
+      "watch_next": "BoJ policy, JPY, chip-equipment demand and oil import costs.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/markets/asia/japan-exports-set-record-october-strong-chip-related-demand-2026-11-18/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261118-US-API-OIL-INVENTORY-BUILD",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "US / OIL / INVENTORIES / MIDDLE EAST",
+      "headline": "API-reported US inventory builds temper oil supply worries; Gulf risks remain",
+      "body": "Reuters cited market sources reporting API data for the week ended 13 November: US crude inventories rose 5.28 million barrels and gasoline stocks rose 5.12 million barrels. These industry estimates are distinct from the forthcoming official EIA release. At 01:49 GMT on 18 November (09:49 SGT), WTI futures were US$85.45 per barrel, down 0.65%, and Brent futures were US$92.98, down 0.17%. The dated observations are not live prices, and the session moves are not attributed solely to inventories. US-Iran attacks and Hormuz shipping risks continued.",
+      "analysis": "Higher reported inventories may ease near-term supply concerns while physical shipping and geopolitical risks remain. API estimates, official inventory data and futures-price observations should be compared on their own dates.",
+      "watch_next": "Official EIA inventory figures, Saudi export-pipeline status and Hormuz vessel movements.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/business/energy/oil-prices-fall-higher-us-crude-stocks-temper-supply-risks-2026-11-18/"
+      ],
+      "development_at": null
+    }
+  ]
+}
