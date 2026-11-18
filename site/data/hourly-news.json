@@ -2,13 +2,132 @@
   "schema_version": 1,
   "source_name": "Reuters Hourly News",
   "source_url": null,
-  "publisher_checked_at": "2026-11-19T01:17:50+08:00",
+  "publisher_checked_at": "2026-11-19T05:16:50+08:00",
   "last_complete_cutoff": null,
   "source_schedule": {
     "status": "Active",
     "checked_at": "2026-11-03T18:21:21+08:00"
   },
   "editions": [
+    {
+      "id": "reuters-20261119T035946-SGT",
+      "report_at": "2026-11-19T04:08:34+08:00",
+      "cutoff": "2026-11-19T03:59:46+08:00",
+      "window_start": "2026-11-19T00:29:53+08:00",
+      "coverage": "partial",
+      "summary": "Four verified Reuters previews cover newly released October Fed minutes, conditional Anthropic options-listing plans, an older US pending-home-sales discovery and Canadian-dollar weakness. Three are new events and one is a connected follow-up. Full-detail publication remains held.",
+      "limitations": [
+        "Targeted partial Reuters coverage from 19 November 00:29:53 to 03:59:46 SGT, with discovery overlap from 00:14:53. The response’s END UPDATE repeats the scan cutoff. Its handoff table and hash-matched JSON instead identify report completion as 04:08:34 SGT; cutoff and completion remain separate. Earlier gaps remain open and last_complete_cutoff is not advanced.",
+        "The complete original response, matching 22,384-byte dashboard attachment and four-entry source register were retrieved. All four selected previews were checked against Reuters-attributed article text. Article dates remain 18 November; displayed SGT headers do not independently resolve original publication and revision clocks. Sources retain date precision, development times remain null and freshness is conservatively catch-up.",
+        "The Anthropic options story retains R-20261118-ANTHROPIC-IPO-RETAIL-LEVERAGED-ETFS v2 connected to published v1. It adds Cboe’s conditional listing plans, rather than repeating proposed leveraged funds as new. Monday options trading, the stock debut and final IPO terms are not represented as completed outcomes or realised volume.",
+        "The Fed minutes disclose October meeting evidence, separate from the preceding Waller interview. The October policy range is an earlier actual decision; the larger-hike discussion is conditional, not an enacted increase. The exact vote tally is omitted from the preview because it was not independently established in the selected Reuters text; the original remains private for review.",
+        "Pending-home sales describe October signed contracts, not closed sales, and the mortgage-rate comparison is for the prior week. This older discovery is catch-up. Canadian-dollar quotes retain CAD-per-USD direction and their historical date. The roughly 21bp US-Canada two-year spread widening is since the start of November, not this scan window or a greater-than-10bp matched Treasury-yield trigger. No cross-currency move, confirmed default or other scenario trigger is inferred.",
+        "Current hourly history, six independent full research records and accessible legacy daily public content were checked for duplicate events. New minutes, housing and Canadian-dollar IDs were absent; future watch references to minutes are not prior publication of the release. The source’s three cross-briefing automation lookups were unavailable, so no claim of complete private daily-history comparison is made.",
+        "Metadata provides previews only. All four original stories, complete response sections A–F, source metric cards and figures, handoff table, attachment dashboard, client draft, links and meaningful emphasis remain in a private held HTML review with a source-to-output checklist. Full-detail publication remains held because the approved process lacks an hourly channel, time-aware identities for multiple daily reports and exact-edition full-reader/card/search links. Complete fact, approved V3 and desktop/mobile visual attestations are not made."
+      ],
+      "original_url": null,
+      "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+      "sources": [
+        {
+          "url": "https://www.reuters.com/business/fed-policymakers-focused-inflation-risks-october-with-some-seeing-need-bigger-2026-11-18/",
+          "title": "Fed policymakers focused on inflation risks in October, with some seeing need for bigger rate hike",
+          "published_at": null,
+          "published_date": "2026-11-18",
+          "publication_precision": "date",
+          "verification_url": "https://new.streetinsider.com/Reuters/Fed%2Bpolicymakers%2Bfocused%2Bon%2Binflation%2Brisks%2Bin%2BOctober%2C%2Bwith%2Bsome%2Bseeing%2Bneed%2Bfor%2Bbigger%2Brate%2Bhike/27369499.html"
+        },
+        {
+          "url": "https://www.reuters.com/business/anthropic-options-could-begin-trading-monday-expected-draw-strong-demand-2026-11-18/",
+          "title": "Anthropic options could begin trading on Monday, expected to draw strong demand",
+          "published_at": null,
+          "published_date": "2026-11-18",
+          "publication_precision": "date",
+          "verification_url": "https://uk.marketscreener.com/news/anthropic-options-could-begin-trading-on-monday-expected-to-draw-strong-demand-ce785edddd8cf22d"
+        },
+        {
+          "url": "https://www.reuters.com/business/us-pending-home-sales-tumble-record-low-october-2026-11-18/",
+          "title": "US pending home sales tumble to record low in October",
+          "published_at": null,
+          "published_date": "2026-11-18",
+          "publication_precision": "date",
+          "verification_url": "https://www.streetinsider.com/Reuters/US%2Bpending%2Bhome%2Bsales%2Btumble%2Bto%2Brecord%2Blow%2Bin%2BOctober/27368366.html"
+        },
+        {
+          "url": "https://www.reuters.com/markets/us/canadian-dollar-hits-19-month-low-after-hawkish-fed-governor-comments-2026-11-18/",
+          "title": "Canadian dollar hits 19-month low after hawkish Fed governor comments",
+          "published_at": null,
+          "published_date": "2026-11-18",
+          "publication_precision": "date",
+          "verification_url": "https://ca.investing.com/news/economy-news/canadian-dollar-hits-19month-low-after-hawkish-fed-governor-comments-4967754"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261118-FED-OCTOBER-FOMC-MINUTES-HAWKISH-DISSENT",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "FED / UST / INFLATION / MONETARY POLICY",
+          "headline": "New October Fed minutes disclose conditional debate over larger hikes; policy rate unchanged",
+          "body": "Minutes released on 18 November cover the Fed’s October 27–28 meeting, when it held the policy range at 3.75%–4.00%. Lisa Cook and Beth Hammack preferred a 25bp increase. Reuters reported that almost all participants expected further hikes under their baseline outlook, while a couple discussed a 50bp increase if incoming inflation data were unfavourable. Officials also discussed AI overinvestment risk. This is newly disclosed meeting evidence, distinct from the earlier Waller interview, and not a new rate decision. No directly attributable, matched-period Treasury-yield move was verified.",
+          "analysis": "A wider debate about inflation supports stress-testing duration and funding costs. Conditional preferences in minutes do not determine the next committee decision or a measured market response.",
+          "watch_next": "December 8–9 FOMC decision and inflation data.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/fed-policymakers-focused-inflation-risks-october-with-some-seeing-need-bigger-2026-11-18/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261118-ANTHROPIC-IPO-RETAIL-LEVERAGED-ETFS",
+          "version": 2,
+          "status": "follow-up",
+          "freshness": "catch-up",
+          "topic": "US / AI / ANTHROPIC / OPTIONS / IPO",
+          "headline": "Cboe targets a conditional Monday options debut after Anthropic’s expected share listing",
+          "body": "Cboe said it expected to list Anthropic options two business days after the shares begin trading, subject to industry readiness. With the share debut expected on Thursday, 19 November, the earliest indicated options start was Monday, 23 November. The final IPO price and actual stock or options launch were not established by this article. Anticipated demand is not realised trading volume or a verified options price. This adds conditional exchange-listing plans to the retained IPO and leveraged-fund preparations.",
+          "analysis": "Early derivatives access can accelerate speculative positioning and hedging. Conditional launch arrangements do not establish investment returns or liquidity.",
+          "watch_next": "Final IPO price, actual share debut and Cboe confirmation of option trading.",
+          "earlier": "Retained v1 at the 18 November 19:54:29 SGT cutoff covered the prospective IPO, planned leveraged funds and forecast retail interest; it did not establish actual trading.",
+          "source_urls": [
+            "https://www.reuters.com/business/anthropic-options-could-begin-trading-monday-expected-draw-strong-demand-2026-11-18/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261118-US-OCT-PENDING-HOME-SALES-RECORD-LOW",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "US / HOUSING / MACRO / MORTGAGE / CREDIT",
+          "headline": "October US pending-home sales fall 4.7% against a 2.0% decline forecast; older discovery",
+          "body": "October contracts to buy previously owned US homes fell 4.7% month on month, versus the Reuters poll’s expected 2.0% decline. The pending-sales index reached 63.0, its lowest since the series began in 2001; contracts were down 16.7% year on year. These are signed contracts that generally lead completed sales by one or two months, not completed transactions themselves. Reuters cited a 7.18% average 30-year fixed mortgage rate for the prior week, rather than a live borrowing quote. The 18 November article predates this report window and is catch-up. No data-specific Treasury or property-credit reaction was verified.",
+          "analysis": "Weak housing turnover points to affordability and origination pressure, but does not by itself establish defaults or a deterioration in every mortgage borrower.",
+          "watch_next": "Existing-home closings, new-home inventory and delinquencies.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/us-pending-home-sales-tumble-record-low-october-2026-11-18/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261118-CAD-19MONTH-LOW-FED-RATE-DIFFERENTIAL",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "CANADA / US / FX / RATES",
+          "headline": "Canadian dollar reaches a 19-month low; yield-spread widening is measured since November began",
+          "body": "On 18 November, Reuters reported CAD down 0.2% at C$1.4325 per US$1 after reaching C$1.4340, its weakest intraday level since April 2025. Exact individual quote clocks were not independently established; these are historical observations, not live executable rates. The US two-year yield premium over Canada had widened about 21 basis points since the beginning of November to 148.5bp. That is a month-to-date spread change, not a four-hour US Treasury-yield move, a policy-rate increase or evidence of the same move in SGD or CHF.",
+          "analysis": "Rate differentials can influence currencies alongside other factors. Use actual USD/SGD and USD/CHF observations for those exposures rather than substituting Canadian-dollar evidence.",
+          "watch_next": "Canadian rate expectations, USD index, matched-time FX quotations.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/markets/us/canadian-dollar-hits-19-month-low-after-hawkish-fed-governor-comments-2026-11-18/"
+          ],
+          "development_at": null
+        }
+      ]
+    },
     {
       "id": "reuters-20261119T002953-SGT",
       "report_at": "2026-11-19T00:35:25+08:00",
