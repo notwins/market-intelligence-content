@@ -2,13 +2,132 @@
   "schema_version": 1,
   "source_name": "Reuters Hourly News",
   "source_url": null,
-  "publisher_checked_at": "2026-11-18T17:19:26+08:00",
+  "publisher_checked_at": "2026-11-18T20:24:44+08:00",
   "last_complete_cutoff": null,
   "source_schedule": {
     "status": "Active",
     "checked_at": "2026-11-03T18:21:21+08:00"
   },
   "editions": [
+    {
+      "id": "reuters-20261118T195429-SGT",
+      "report_at": "2026-11-18T20:01:58+08:00",
+      "cutoff": "2026-11-18T19:54:29+08:00",
+      "window_start": "2026-11-18T16:10:10+08:00",
+      "coverage": "partial",
+      "summary": "Four verified new Reuters previews cover proposed Chinese-AI disclosures, Samsung’s neocloud assessment, Anthropic IPO fund preparations and Target’s sales outlook. Two source follow-ups are held for missing predecessors. Full-detail publication remains held.",
+      "limitations": [
+        "Targeted partial Reuters coverage from 18 November 16:10:10 to 19:54:29 SGT; completion and END UPDATE are 20:01:58 SGT. Source discovery overlap began at 15:55:10 SGT. Earlier coverage gaps remain open; last_complete_cutoff is not advanced.",
+        "The complete original response, matching 26,983-byte dashboard attachment and six-source register were retrieved. Four new story previews were independently checked against attributed Reuters syndication. Article dates are retained, but displayed headers do not establish independently distinguishable original publication or revision clocks. Development times remain null and previews are conservatively labelled catch-up.",
+        "Nvidia shipment follow-up R-20261117-NVDA-Q3-EARNINGS-GUIDANCE v2 is held because public hourly predecessor v1 is absent. The prior earnings event has a separate retained full research article. The source’s AI-share rebound R-20261116-US-AI-SEMICONDUCTOR-SELL-OFF v6 is held because predecessor v5 and its chain are absent. Neither thread is renamed, renumbered or represented as recovered history.",
+        "Current hourly history, all six independent full research records and accessible legacy daily public content were checked for duplicate selected events. This does not establish complete access to the newest private daily producer reports. The Chinese-model proposal is distinct from earlier chip-export rules; Samsung’s new management assessment is distinct from retained general neocloud credit-stress analysis.",
+        "Chinese-AI disclosures remain a proposal. Samsung’s approximate 8% figure is a company estimate, not a solvency measure; its image-only refile is not counted as a factual correction. Anthropic’s valuation, retail purchases and future funds remain forecasts or preparations. The source’s up-to-20% retail IPO allocation was not corroborated in the selected current Reuters article and is omitted from the preview, while retained privately for review.",
+        "Target’s Q3 comparable-sales actual and consensus estimate, annual sales/EPS outlook, tariff-refund contribution and planned 2027 capital spending retain their units and periods. No year-to-date gain is presented as a same-window reaction, and no event-specific executable FX, yield or credit quote is inferred.",
+        "Metadata provides previews only. All six original stories, complete response sections A–F, source tables, figures, full attachment dashboard, client draft, links and meaningful emphasis remain in a private held HTML bundle and source-to-output checklist. Full-detail publication remains held because the approved process lacks an hourly channel, time-aware multiple-editions-per-day identities and exact-edition full-reader/card/search links. Approved V3, complete fact and desktop/mobile visual attestations are not made."
+      ],
+      "original_url": null,
+      "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+      "sources": [
+        {
+          "url": "https://www.reuters.com/world/china/trump-administration-weighs-forcing-us-firms-disclose-chinese-ai-use-2026-11-18/",
+          "title": "Trump administration weighs forcing US firms to disclose Chinese AI use",
+          "published_at": null,
+          "published_date": "2026-11-18",
+          "publication_precision": "date",
+          "verification_url": "https://ca.finance.yahoo.com/news/exclusive-trump-administration-weighs-forcing-110405774.html"
+        },
+        {
+          "url": "https://www.reuters.com/world/asia-pacific/samsung-electronics-downplays-concerns-about-neocloud-firms-ai-bubble-2026-11-18/",
+          "title": "Samsung Electronics downplays concerns about neocloud firms and AI bubble",
+          "published_at": null,
+          "published_date": "2026-11-18",
+          "publication_precision": "date",
+          "verification_url": "https://www.investing.com/news/stock-market-news/samsung-electronics-downplays-concerns-about-neocloud-firms-and-ai-bubble-5035189"
+        },
+        {
+          "url": "https://www.reuters.com/legal/transactional/wall-street-prepares-anthropic-ipo-frenzy-despite-broader-ai-stock-slump-2026-11-18/",
+          "title": "Wall Street prepares for Anthropic IPO frenzy, despite broader AI stock slump",
+          "published_at": null,
+          "published_date": "2026-11-18",
+          "publication_precision": "date",
+          "verification_url": "https://new.streetinsider.com/Reuters/Wall%2BStreet%2Bprepares%2Bfor%2BAnthropic%2BIPO%2Bfrenzy%2C%2Bdespite%2Bbroader%2BAI%2Bstock%2Bslump/27365983.html"
+        },
+        {
+          "url": "https://www.reuters.com/business/retail-consumer/after-another-strong-quarter-target-lifts-annual-sales-growth-target-6-2026-11-18/",
+          "title": "After another strong quarter, Target lifts annual sales growth target to 6%",
+          "published_at": null,
+          "published_date": "2026-11-18",
+          "publication_precision": "date",
+          "verification_url": "https://new.streetinsider.com/Reuters/After%2Banother%2Bstrong%2Bquarter%2C%2BTarget%2Blifts%2Bannual%2Bsales%2Bgrowth%2Btarget%2Bto%2B6%25/27366393.html"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261118-US-CHINESE-AI-MODEL-DISCLOSURE-PROPOSAL",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "US / CHINA / TRUMP / TREASURY / AI / REGULATION",
+          "headline": "US officials discuss Chinese-AI disclosure requirements; no rule adopted",
+          "body": "Reuters sources said Treasury and White House technology-policy officials had discussed requiring US companies to disclose Chinese AI model use on their websites. Airbnb, which uses Alibaba Qwen for a customer-service agent, was cited as an example. Whether the idea will advance or enter formal rulemaking remained unclear. This is a proposal, not an adopted restriction or a new chip-export rule. No directly attributable equity, FX or credit-price movement was established.",
+          "analysis": "A disclosure proposal could affect compliance and technology-vendor choices without banning a product. Assess its final scope and legal status before assuming implementation costs.",
+          "watch_next": "Any proposal text, agency approval, application scope and compliance requirements.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/china/trump-administration-weighs-forcing-us-firms-disclose-chinese-ai-use-2026-11-18/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261118-SAMSUNG-NEOCLOUD-MARKET-8PCT-DEBT-RISK",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "SINGAPORE / SOUTH KOREA / SAMSUNG / AI / DATA CENTRES / CREDIT",
+          "headline": "Samsung puts neoclouds at about 8% of the AI market; borrower risks remain",
+          "body": "At a Morgan Stanley conference in Singapore, Samsung executive Kim Yong-kwan estimated neoclouds at approximately 8% of the broader AI market. He described current investment as supported by actual demand and long-term contracts. The percentage and resilience assessment are management views, not an independent borrower-solvency test. Reuters noted existing concern over debt-funded data-centre expansion. Its image-only refile did not change the news text and is not a financial-fact correction. No announcement-specific stock or credit-spread reaction was verified.",
+          "analysis": "Broad demand confidence can coexist with refinancing stress at individual AI borrowers. Track cash flow, debt terms and customer concentration separately from chip demand.",
+          "watch_next": "Customer capex, Nvidia-linked borrower refinancing, hyperscaler contract fulfilment, Samsung capital allocation.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/asia-pacific/samsung-electronics-downplays-concerns-about-neocloud-firms-ai-bubble-2026-11-18/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261118-ANTHROPIC-IPO-RETAIL-LEVERAGED-ETFS",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "US / ANTHROPIC / IPO / AI / EQUITIES / DERIVATIVES",
+          "headline": "Anthropic IPO draws preparations for leveraged funds; valuation and retail flows remain forecasts",
+          "body": "Reuters reported preparations for at least 11 leveraged single-stock ETFs from seven issuers around Anthropic’s prospective Thursday, 19 November listing. The possible valuation of up to US$1.4 trillion was an expectation, not a final offering value. Vanda Research forecast approximately US$250 million of net retail buying on the first trading day; that was not an actual completed flow. Planned funds and expected interest do not establish that the instruments have launched or shares have traded.",
+          "analysis": "Speculative interest and daily leverage can amplify volatility. An anticipated launch or valuation is not proof of sustainable profits or a suitable entry price.",
+          "watch_next": "Final IPO price, allocation, actual listing-day turnover and leverage-product approvals.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/legal/transactional/wall-street-prepares-anthropic-ipo-frenzy-despite-broader-ai-stock-slump-2026-11-18/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261118-TARGET-Q3-COMPS-FY-SALES-GUIDANCE",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "US / TARGET TGT / CONSUMER / EARNINGS / RETAIL",
+          "headline": "Target raises annual sales-growth outlook to around 6% after a Q3 comparable-sales beat",
+          "body": "Target’s third-quarter comparable sales rose 5.6%, above the 3.5% estimate. It raised its annual net-sales growth outlook to around 6% from around 5%. Adjusted EPS guidance of US$10.65–11.40 includes approximately US$2.14 per share from tariff refunds received so far this year; it is not recurring earnings alone. Planned 2027 capital expenditure is US$5–6 billion. Quarterly sales, annual forecasts and next-year spending are distinct periods. No release-specific share move with a verified observation time is asserted.",
+          "analysis": "Stronger sales support the operating recovery, while refund benefits should be separated from recurring profit when comparing valuation. Spending plans still need to generate returns.",
+          "watch_next": "Holiday sales, margins, sustained comparable growth and capex returns.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/retail-consumer/after-another-strong-quarter-target-lifts-annual-sales-growth-target-6-2026-11-18/"
+          ],
+          "development_at": null
+        }
+      ]
+    },
     {
       "id": "reuters-20261118T161010-SGT",
       "report_at": "2026-11-18T16:15:06+08:00",
