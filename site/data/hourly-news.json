@@ -2,13 +2,205 @@
   "schema_version": 1,
   "source_name": "Reuters Hourly News",
   "source_url": null,
-  "publisher_checked_at": "2026-11-18T20:24:44+08:00",
+  "publisher_checked_at": "2026-11-19T01:17:50+08:00",
   "last_complete_cutoff": null,
   "source_schedule": {
     "status": "Active",
     "checked_at": "2026-11-03T18:21:21+08:00"
   },
   "editions": [
+    {
+      "id": "reuters-20261119T002953-SGT",
+      "report_at": "2026-11-19T00:35:25+08:00",
+      "cutoff": "2026-11-19T00:29:53+08:00",
+      "window_start": "2026-11-18T19:54:29+08:00",
+      "coverage": "partial",
+      "summary": "Seven verified Reuters previews cover Waller’s tightening proposal, official US oil inventories, Russian refinery estimates, a US-China commission report, Malaysia compliance guidance, UK rate pricing and Emirates fuel-cost pressure. Four are new and three are connected follow-ups. Gold and Bapco are held; full-detail publication remains held.",
+      "limitations": [
+        "Targeted partial Reuters coverage from 18 November 19:54:29 to 19 November 00:29:53 SGT; completed at 00:35:25 SGT. Discovery overlap started at 19:39:29 SGT on 18 November. Earlier coverage gaps remain open and last_complete_cutoff is not advanced.",
+        "The newest complete original response, matching 42,211-byte dashboard attachment and nine-entry source register were retrieved. Seven selected previews were checked against accessible Reuters-attributed text. Public original publication dates remain 18 November; displayed headers and later rolling-article facts do not independently resolve original or revision clocks. Sources retain date precision, development times remain null and freshness is conservatively catch-up.",
+        "EIA v2 connects to retained API v1, Malaysia v4 to retained US-chip-rule v3, and UK CPI/rate-pricing v2 to retained v1. API industry estimates and government EIA figures are distinct sources, not revisions of one measure. Malaysia adds host-country guidance rather than a separate US ban. UK rate pricing is an older discovery and its earlier-week comparison is not a four-hour return.",
+        "Gold R-20261116-GOLD-ONE-YEAR-LOW-HIGH-YIELDS v3 is held because public predecessor v2 and its earlier chain are missing. Bapco R-20261118-BAHRAIN-BAPCO-REFINERY-RECOVERY v1 is held because eligible Reuters text could not be independently retrieved. Separate original reporting from The National is not substituted for Reuters; its vessel-transit duration also differs from the source dashboard. Both original stories remain private and neither is renumbered.",
+        "Waller’s 50bp option is an individual policy proposal, not a rate decision. EIA actuals and forecasts retain barrels and the week ended 13 November; the 23:46 SGT oil observations are historical, not live or closing prices. Russia’s estimated current 45% throughput fall is separate from November’s smaller 5%–10% average decline. Commission allegations are not verified new shipments. Malaysia’s investment is cumulative since 2021. Emirates’ prior first-half profit and September-end group cash are dated background to a new interview, not current cash or a fresh loss.",
+        "The accessible Reuters UK text supports roughly 80% December hike odds versus 92% earlier in the week, not the dashboard’s precise 79.6%. The uncorroborated precision is omitted from the preview and retained privately. No exact FOMC-minutes release clock is asserted here. No new matched-period Treasury move greater than 10bp, SNB deposit change, revised recession probability or confirmed corporate default is inferred.",
+        "Current public hourly history, six independent full research records and accessible legacy daily public content were checked for duplicate selected events. This is not complete access to the newest private daily producer histories. Existing versions, background events and coverage gaps remain preserved.",
+        "Metadata provides previews only. All nine original stories, response sections A–F, full attachment dashboard, three original tables, figures, client draft, sources and meaningful emphasis remain in a complete private held HTML review with a source-to-output checklist. Full-detail publication remains held: the approved process lacks an hourly channel, time-aware identities for multiple daily cutoffs and exact-edition full-reader/card/search links. Complete fact, approved V3 and desktop/mobile visual attestations are not made."
+      ],
+      "original_url": null,
+      "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+      "sources": [
+        {
+          "url": "https://www.reuters.com/markets/us/waller-says-cnbc-fed-needs-get-more-aggressive-inflation-response-2026-11-18/",
+          "title": "Waller says on CNBC the Fed needs to get more aggressive in inflation response",
+          "published_at": null,
+          "published_date": "2026-11-18",
+          "publication_precision": "date",
+          "verification_url": "https://www.aol.com/articles/waller-says-cnbc-fed-needs-135146000.html"
+        },
+        {
+          "url": "https://www.reuters.com/business/energy/oil-prices-fall-higher-us-crude-stocks-temper-supply-risks-2026-11-18/",
+          "title": "Oil down 1% as US oil stocks post larger-than-expected rise, EIA says",
+          "published_at": null,
+          "published_date": "2026-11-18",
+          "publication_precision": "date",
+          "verification_url": "https://www.channelnewsasia.com/business/oil-down-1-us-oil-stocks-post-larger-expected-rise-eia-says-6561041"
+        },
+        {
+          "url": "https://www.reuters.com/business/energy/drone-attacks-nearly-halve-russias-november-oil-refining-sources-say-2026-11-18/",
+          "title": "Drone attacks nearly halve Russia's November oil refining, sources say",
+          "published_at": null,
+          "published_date": "2026-11-18",
+          "publication_precision": "date",
+          "verification_url": "https://new.streetinsider.com/Reuters/Exclusive-Drone%2Battacks%2Bnearly%2Bhalve%2BRussia%27s%2BNovember%2Boil%2Brefining%2C%2Bsources%2Bsay/27368424.html"
+        },
+        {
+          "url": "https://www.reuters.com/world/china/china-seeks-advanced-nvidia-chips-ai-weapons-despite-us-curbs-report-says-2026-11-18/",
+          "title": "China seeks advanced Nvidia chips for AI weapons despite US curbs, report says",
+          "published_at": null,
+          "published_date": "2026-11-18",
+          "publication_precision": "date",
+          "verification_url": "https://www.investing.com/news/stock-market-news/china-seeks-advanced-nvidia-chips-for-ai-weapons-despite-us-curbs-report-says-5035787"
+        },
+        {
+          "url": "https://www.reuters.com/business/finance/malaysia-says-data-centres-must-comply-with-us-ai-chip-rules-2026-11-18/",
+          "title": "Malaysia says data centres must comply with US AI chip rules",
+          "published_at": null,
+          "published_date": "2026-11-18",
+          "publication_precision": "date",
+          "verification_url": "https://www.channelnewsasia.com/asia/malaysia-says-data-centres-must-comply-us-ai-chip-rules-6562711"
+        },
+        {
+          "url": "https://www.reuters.com/world/uk/sterling-slips-one-month-low-versus-dollar-after-uk-core-inflation-steadies-2026-11-18/",
+          "title": "Sterling slips to one-month low versus dollar after UK core inflation steadies",
+          "published_at": null,
+          "published_date": "2026-11-18",
+          "publication_precision": "date",
+          "verification_url": "https://www.devdiscourse.com/article/international/4008976-sterling-slips-to-one-month-low-versus-dollar-after-uk-core-inflation-steadies"
+        },
+        {
+          "url": "https://www.reuters.com/business/energy/emirates-boss-says-fuel-not-demand-squeezing-airline-profits-2026-11-18/",
+          "title": "Emirates boss says fuel, not demand, squeezing airline profits",
+          "published_at": null,
+          "published_date": "2026-11-18",
+          "publication_precision": "date",
+          "verification_url": "https://in.marketscreener.com/news/emirates-boss-says-fuel-not-demand-squeezing-airline-profits-ce785eddda88f627"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261118-FED-WALLER-AGGRESSIVE-INFLATION-RESPONSE",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "US / Fed / central banks / rates / inflation / UST / Waller",
+          "headline": "Waller urges a half-point December hike or clearer guidance for faster tightening",
+          "body": "Fed Governor Christopher Waller told CNBC the central bank should either raise rates by 50 basis points at its December 8–9 meeting or clearly signal faster increases in 2027, including January. He said inflation was spreading through services and feared that businesses were accepting persistently higher price growth. The Fed held its policy range at 3.75%–4.00% in October. His position is an individual policy view, not an FOMC decision or an enacted 50bp increase. No precisely matched Treasury-yield reaction was verified.",
+          "analysis": "More aggressive tightening would matter for duration and funding costs, but a governor’s proposal does not establish the committee’s eventual decision. Stress-test actual rates separately.",
+          "watch_next": "October FOMC minutes, December policy communication and actual Treasury-yield observations.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/markets/us/waller-says-cnbc-fed-needs-get-more-aggressive-inflation-response-2026-11-18/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261118-US-API-OIL-INVENTORY-BUILD",
+          "version": 2,
+          "status": "follow-up",
+          "freshness": "catch-up",
+          "topic": "US / EIA / oil / inventories / commodities / risk",
+          "headline": "Official EIA inventory builds exceed forecasts; API estimates remain a separate measure",
+          "body": "For the week ended 13 November, EIA crude inventories rose 3.4 million barrels to 417.8 million, versus a Reuters-poll forecast of a 58,000-barrel increase. Gasoline rose 5.2 million versus 1.6 million forecast; distillates rose 1.6 million versus 1.3 million forecast. These government figures differ from the earlier industry API estimates and are not an API revision. At 15:46 GMT on 18 November (23:46 SGT), Reuters reported Brent at US$92.02 per barrel, down 1.2%, and WTI at US$84.38, down 1.9%. Those are dated intraday observations, not closing or executable live prices; inventory pressure was one reported contributor alongside continuing Gulf risks.",
+          "analysis": "Larger stock builds can pressure oil while shipping disruption constrains regional supply. Compare API and EIA as distinct sources for the same week; avoid assigning the entire price move to one release.",
+          "watch_next": "Next EIA report, inventory geography, refined-products demand and shipping flows.",
+          "earlier": "The retained v1 covered preliminary API estimates, including a 5.28-million-barrel crude build for the week ended 13 November, ahead of official EIA data.",
+          "source_urls": [
+            "https://www.reuters.com/business/energy/oil-prices-fall-higher-us-crude-stocks-temper-supply-risks-2026-11-18/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261118-RUSSIA-REFINERY-DRONE-45PCT-OUTPUT",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "Russia / Ukraine / energy / oil / geopolitical risk / credit",
+          "headline": "Reuters sources estimate current Russian refinery throughput down 45%; monthly decline is smaller",
+          "body": "Two industry sources estimated that Russian refineries’ current combined crude processing had fallen about 45% since late October, from over 700,000 to around 400,000 metric tons per day. Attacks had disrupted or halted 15 of 35 major plants, versus nine in the middle of the previous week. November’s average remained above 500,000 tons per day, about 5%–10% below September and October levels. The current run rate and monthly average are different measures. These are attributed industry estimates, not independently audited output or a verified announcement-specific oil-price reaction.",
+          "analysis": "Persistent operational damage could affect fuel availability and exports. Do not treat a current-throughput estimate as the monthly-average decline or a confirmed default.",
+          "watch_next": "Verified throughput, refinery restorations, regional product shortages and fuel-export flows.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/energy/drone-attacks-nearly-halve-russias-november-oil-refining-sources-say-2026-11-18/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261118-US-CONGRESS-CHINA-NVDA-MILITARY-AI-CHIPS",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "US / China / Nvidia / AMD / AI / export controls / geopolitical risk",
+          "headline": "US-China commission alleges military demand for advanced chips; no new shipment established",
+          "body": "The US-China Economic and Security Review Commission said China’s military was seeking advanced Nvidia chips for AI-enabled weapons and related systems despite US controls. Its annual report assessed domestic Huawei and Cambricon alternatives as behind leading US processors. These are the commission’s findings and allegations. The article does not establish a particular prohibited shipment or military end use during this report window. No announcement-specific Nvidia, AMD or FX reaction was verified.",
+          "analysis": "National-security scrutiny can raise licensing and compliance risk. Distinguish a commission assessment from transaction-level enforcement evidence.",
+          "watch_next": "Verified licensing decisions, evidence from investigations and further US-China measures.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/china/china-seeks-advanced-nvidia-chips-ai-weapons-despite-us-curbs-report-says-2026-11-18/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261116-US-REMOTE-AI-CHIP-DATACENTRE-LICENSING",
+          "version": 4,
+          "status": "follow-up",
+          "freshness": "catch-up",
+          "topic": "Malaysia / Singapore / US / China / AI / data centres / export controls",
+          "headline": "Malaysia urges data-centre compliance and seeks clarity on US chip restrictions",
+          "body": "Trade Minister Johari Abdul Ghani said Malaysian data-centre operators should comply with new US restrictions and that Malaysia would seek clarification, including on licensing and third-party services. Reuters described nearly US$100 billion of data-centre investment since 2021; this is cumulative investment, not annual revenue or a new inflow. The remarks add host-country compliance guidance to the retained US rule and Chinese response. They are not a separate US ban, proof of a particular violation or a confirmed project cancellation. No fresh attributable MYR, SGD or equity quote was established.",
+          "analysis": "Regional operators face compliance and customer-screening uncertainty. Watch written guidance and actual financing or project changes rather than assuming broad closures.",
+          "watch_next": "Written US licensing guidance, operator compliance plans, exemptions and actual project delays.",
+          "earlier": "Retained v3 recorded China’s conditional countermeasure threat against the US licensing rule; earlier versions retained the rule and Singapore engagement.",
+          "source_urls": [
+            "https://www.reuters.com/business/finance/malaysia-says-data-centres-must-comply-with-us-ai-chip-rules-2026-11-18/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261118-UK-CPI-OCT-2026-36-SERVICES",
+          "version": 2,
+          "status": "follow-up",
+          "freshness": "catch-up",
+          "topic": "UK / BoE / GBP / FX / CPI / rates",
+          "headline": "Sterling reaches a one-month low as BoE hike pricing eases to roughly 80%",
+          "body": "Reuters reported sterling down 0.4% to US$1.314, its lowest since mid-October, after UK core inflation held at 2.8% while headline inflation reached 3.6%. Traders attached roughly an 80% probability to a December 25bp BoE increase, versus 92% earlier in the week. That is market pricing, not an actual decision, and the comparison is across the week rather than a measured four-hour change. This 18 November report predates the current window and is catch-up. The precise individual quote clock was not established; it is a historical observation, not an executable rate.",
+          "analysis": "UK pricing can diverge from hawkish US commentary. The probability comparison does not isolate the CPI release as its sole cause.",
+          "watch_next": "Subsequent BoE repricing, wages and UK-EU talks.",
+          "earlier": "Retained v1 reported October UK headline CPI at 3.6% and services CPI at 3.7% versus 3.8% forecast, without a matched price observation.",
+          "source_urls": [
+            "https://www.reuters.com/world/uk/sterling-slips-one-month-low-versus-dollar-after-uk-core-inflation-steadies-2026-11-18/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261118-EMIRATES-FUEL-PROFIT-PRESSURE",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "UAE / Middle East / Emirates / airlines / oil / credit / cash flow",
+          "headline": "Emirates president cites fuel-cost pressure despite strong demand; earlier results retain their dates",
+          "body": "Emirates President Tim Clark told Reuters that high fuel costs and regional disruption were squeezing margins despite strong demand on several routes. The airline’s previously reported first-half net profit fell 66%; that earlier result is background to the new interview, not a fresh four-hour loss. Emirates Group cash was AED54.1 billion at September-end. Clark said there was no immediate need to raise debt. Those are dated financial context and management views, not a guarantee about future liquidity. No interview-specific bond-spread or listed-airline price reaction was established.",
+          "analysis": "A profit squeeze and a default are different outcomes. Compare cash, hedging, fuel costs and debt maturities when assessing airline credit risk.",
+          "watch_next": "Fuel costs, occupancy, cash balances and future airline financing.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/energy/emirates-boss-says-fuel-not-demand-squeezing-airline-profits-2026-11-18/"
+          ],
+          "development_at": null
+        }
+      ]
+    },
     {
       "id": "reuters-20261118T195429-SGT",
       "report_at": "2026-11-18T20:01:58+08:00",
