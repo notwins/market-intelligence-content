@@ -1,0 +1,193 @@
+{
+  "id": "reuters-20261118T161010-SGT",
+  "report_at": "2026-11-18T16:15:06+08:00",
+  "cutoff": "2026-11-18T16:10:10+08:00",
+  "window_start": "2026-11-18T11:54:15+08:00",
+  "coverage": "partial",
+  "summary": "Seven new Reuters previews cover Indonesia rates, UK inflation, an ADNOC vessel casualty statement, Bridge Data Centres talks, Binance expansion plans, Java patching warnings and Korea export-consumption divergence. Older incidents and market observations retain their dates. Full-detail publication remains held.",
+  "limitations": [
+    "Targeted partial Reuters coverage from 18 November 11:54:15 to 16:10:10 SGT; source completion and END UPDATE are 16:15:06 SGT. Historical uncovered intervals remain, and last_complete_cutoff is not advanced.",
+    "The original completed response, matching full dashboard JSON and seven-entry source register were read. Seven new version-1 previews were checked against attributed Reuters syndication, including Reuters Italian and French translations for the operator statement and data-centre talks. Displayed headers and syndication clocks do not independently establish original publication or revision times. Public sources retain date precision and null development clocks; all previews are conservatively labelled catch-up.",
+    "Current public hourly history, six independent full reports and the available legacy daily register were checked for duplicate events. Indonesia's new rate decision is distinct from prior rupiah-weakness coverage. UK October CPI is distinct from the earlier wage release. No selected source story ID already appears in retained public history; older coverage gaps are not represented as recovered.",
+    "The ADNOC operator statement does not identify the vessel. It is not merged into the retained Tara Gas story, and it is not asserted to prove a separate additional attack. Casualties are not combined across unidentified maritime accounts. No incident-specific oil, freight or insurance move is inferred.",
+    "Binance's 2027 expansion plan is distinct from the retained R-20261104-BINANCE-POSTHACK-OUTFLOWS event. The October theft and earlier 95% token-replenishment statement are background, not a new hack or a fresh recovery update. Proposed markets, talks and planned launches are not regulatory approvals.",
+    "Indonesia policy-rate basis points, facility rates and dated FX observations remain separate measures. UK annual CPI actuals and forecasts are labelled separately; the services miss is 0.1 percentage point, not a yield change. The 90% BoE probability is historical market pricing without a verified release-driven change. BDC's targeted valuation and proposed stake are not signed terms. Korea's annual export milestone, Q3 consumption and drawdown since June are different periods and measures.",
+    "The Java preview retains the independently verified urgent-patching advisory and its operational context. Specific exploit mechanics and the source's Oracle update date were not independently confirmed in accessible Reuters text, so they are omitted from the preview while retained privately. No cause of banking or aviation outages or quantified corporate loss is asserted.",
+    "The latest original daily producer runs were unavailable to the source; duplicate checks here use available public daily history and current independent records, not an assumed complete private source history. Source-register and historical scan gaps remain open.",
+    "Metadata is a short preview only. All seven original stories, sections A-F, original tables, full attachment dashboard, client draft, figures, emphasis and source links remain in a private held HTML review with a source-to-output checklist. Full-detail publication remains held: the approved process lacks an hourly channel, time-aware identities for multiple reports per day and exact-edition full-reader/card/search links. No approved V3, completeness or desktop/mobile visual attestation is made."
+  ],
+  "original_url": null,
+  "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+  "sources": [
+    {
+      "url": "https://www.reuters.com/world/indonesia-central-bank-hikes-rates-support-rupiah-2026-11-18/",
+      "title": "Indonesia central bank hikes rates to support rupiah",
+      "published_at": null,
+      "published_date": "2026-11-18",
+      "publication_precision": "date",
+      "verification_url": "https://malaysia.news.yahoo.com/indonesia-central-bank-hikes-rates-074530149.html"
+    },
+    {
+      "url": "https://www.reuters.com/world/uk/uk-inflation-rose-36-october-2026-11-18/",
+      "title": "UK inflation rises to one-year high of 3.6%",
+      "published_at": null,
+      "published_date": "2026-11-18",
+      "publication_precision": "date",
+      "verification_url": "https://new.streetinsider.com/Reuters/UK%2Binflation%2Brises%2Bto%2Bone-year%2Bhigh%2Bof%2B3.6%25/27365690.html"
+    },
+    {
+      "url": "https://www.reuters.com/world/middle-east/uaes-adnoc-ls-says-one-crew-member-missing-after-attack-its-vessel-hormuz-2026-11-18/",
+      "title": "UAE's ADNOC L&S says one crew member missing after attack on its vessel in Hormuz",
+      "published_at": null,
+      "published_date": "2026-11-18",
+      "publication_precision": "date",
+      "verification_url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/18/uae-s-adnoc-l-s-says-one-crew-member-missing-after-attack-on-its-vessel-in-hormuz"
+    },
+    {
+      "url": "https://www.reuters.com/world/canadas-la-caisse-talks-stake-bains-bridge-data-centres-sources-say-2026-11-18/",
+      "title": "Canada's La Caisse in talks for stake in Bain's Bridge Data Centres, sources say",
+      "published_at": null,
+      "published_date": "2026-11-18",
+      "publication_precision": "date",
+      "verification_url": "https://www.boursorama.com/bourse/actualites/la-caisse-canadienne-en-pourparlers-pour-une-participation-dans-bridge-data-centres-de-bain-capital-selon-des-sources-f29b77eb1b7d7233214ed1744895df59"
+    },
+    {
+      "url": "https://www.reuters.com/business/finance/after-63-billion-crypto-heist-binance-plans-foray-into-5-asian-markets-2026-11-18/",
+      "title": "After $6.3 billion crypto heist, Binance plans foray into 5 Asian markets",
+      "published_at": null,
+      "published_date": "2026-11-18",
+      "publication_precision": "date",
+      "verification_url": "https://www.investing.com/news/forex-news/after-63-billion-crypto-heist-binance-plans-foray-into-5-asian-markets-5034971"
+    },
+    {
+      "url": "https://www.reuters.com/world/south-korea-holds-emergency-meeting-possible-flaws-java-programming-language-2026-11-18/",
+      "title": "US, South Korea advise users to urgently fix flaws in Java programming language",
+      "published_at": null,
+      "published_date": "2026-11-18",
+      "publication_precision": "date",
+      "verification_url": "https://www.aol.com/articles/us-south-korea-issue-urgent-004842000.html"
+    },
+    {
+      "url": "https://www.reuters.com/business/finance/south-koreas-chip-boom-bypasses-retail-investors-stock-rout-hits-spending-2026-11-18/",
+      "title": "South Korea's chip boom bypasses retail investors as stock rout hits spending",
+      "published_at": null,
+      "published_date": "2026-11-18",
+      "publication_precision": "date",
+      "verification_url": "https://ca.finance.yahoo.com/news/south-koreas-chip-boom-bypasses-060627512.html"
+    }
+  ],
+  "stories": [
+    {
+      "story_id": "R-20261118-INDONESIA-BI-25BP-HIKE-RUPIAH",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "INDONESIA / BANK INDONESIA / FX / EMERGING-MARKET RATES",
+      "headline": "Bank Indonesia raises its benchmark rate 25bp to 6.00% to support the rupiah",
+      "body": "Bank Indonesia raised its seven-day reverse repurchase rate by 25 basis points to 6.00%, its highest since January 2025. Deposit and lending facility rates also rose 25bp to 5.25% and 6.75%. Only 10 of 27 Reuters-polled economists had expected an increase; the rest expected no change. Reuters observed the rupiah up 0.06% after the announcement versus down 0.13% beforehand, without individual observation clocks. Those figures are dated reported changes, not executable FX rates or a measured four-hour return.",
+      "analysis": "Defending currency stability can raise domestic financing costs. The decision does not guarantee rupiah appreciation; assess borrower cash flow and actual FX and yield observations separately.",
+      "watch_next": "Subsequent USD/IDR, foreign bond/equity flows, funding spreads, policy statements and bank balance sheets.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/indonesia-central-bank-hikes-rates-support-rupiah-2026-11-18/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261118-UK-CPI-OCT-2026-36-SERVICES",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "UK / BOE / CPI / RATES",
+      "headline": "UK October inflation reaches 3.6%; services undershoot the Reuters forecast",
+      "body": "UK October 2026 headline CPI rose 3.6% year on year, matching the Reuters forecast and increasing from September 3.5%. Core CPI held at 2.8%, also as expected. Services inflation held at 3.7% versus 3.8% forecast, an undershoot of 0.1 percentage point. Reuters described a slight sterling decline without a verified price or matched clock. Its approximately 90% market-implied chance of a December BoE increase is an expectation, not a rate decision or an established release-driven probability change.",
+      "analysis": "Higher headline inflation can coexist with a modest downside services surprise. Compare annual CPI components and forecasts without treating percentage-point surprises as bond-yield basis points.",
+      "watch_next": "December BoE decision, wage growth, energy bills and matching GBP/gilt observations.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/uk/uk-inflation-rose-36-october-2026-11-18/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261118-ADNOC-LS-HORMUZ-VESSEL-CASUALTIES",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "GULF / OIL & GAS / SHIPPING / PHYSICAL RISK",
+      "headline": "ADNOC L&S reports one missing and 11 injured after an attack on an unnamed vessel",
+      "body": "ADNOC Logistics & Services said one crew member was missing and 11 were injured after a vessel attack in the Strait of Hormuz on Tuesday, 17 November. It said the remaining crew were evacuated and search-and-rescue work continued. Reuters did not identify the vessel in the company statement. The relationship to the retained Tara Gas report and other maritime accounts is unresolved: this is a new operator casualty confirmation, not proof of an additional separate attack or a reconciled incident tally. No announcement-specific oil, freight or insurance-price move was verified.",
+      "analysis": "Confirmed casualties reinforce physical shipping risks, but commercial consequences depend on verified vessel damage, traffic effects and insurance responses. Do not aggregate unidentified incidents or casualty figures.",
+      "watch_next": "Search-and-rescue results, vessel name, damage, navigation advice and export disruption.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/middle-east/uaes-adnoc-ls-says-one-crew-member-missing-after-attack-its-vessel-hormuz-2026-11-18/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261118-SINGAPORE-BDC-LA-CAISSE-STAKE-TALKS",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "SINGAPORE / MALAYSIA / AI / PRIVATE EQUITY / DATA CENTRES",
+      "headline": "La Caisse leads talks for a Bridge Data Centres stake; valuation remains unagreed",
+      "body": "Reuters sources said Canadian pension fund La Caisse was the leading bidder in advanced, non-exclusive talks for a stake in Singapore-based Bridge Data Centres. Bain had launched a process to sell at least 40% of BDC shares, previously targeting a US$5 billion valuation. The stake size and transaction terms remained under negotiation; the target valuation is not an agreed sale price. BDC operates in Malaysia, Thailand and India, and ByteDance was an anchor tenant of its Johor facility. No signed transaction or realised valuation was established.",
+      "analysis": "Institutional interest in data centres coexists with tenant concentration, funding and chip-licensing risks. A sale target and ongoing negotiations do not establish a completed investment or guaranteed valuation.",
+      "watch_next": "Final buyer, stake size, signed valuation, customer diversification and US export licences.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/canadas-la-caisse-talks-stake-bains-bridge-data-centres-sources-say-2026-11-18/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261118-BINANCE-POST-HEIST-FIVE-ASIAN-MARKETS",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "SINGAPORE / DIGITAL ASSETS / CYBERSECURITY / EXCHANGE RISK",
+      "headline": "Binance outlines plans for five Asian markets in 2027; approvals remain pending",
+      "body": "Binance APAC head SB Seker said at Singapore FinTech Festival that the exchange planned to enter five Asian markets in 2027, prioritising South and Southeast Asia. He described discussions with at least five or six markets, three at relatively advanced stages, without naming the eventual markets. Plans and regulatory conversations are not approvals or completed launches. Last month's US$6.3 billion theft and the earlier 95% token-replenishment statement are historical background, already reflected in retained post-hack coverage; they are not new losses or fresh remediation figures.",
+      "analysis": "Expansion plans do not resolve custody, withdrawal or cybersecurity risk. Future licensing and independently evidenced remediation matter more than an announced growth plan.",
+      "watch_next": "Regulator decisions, full reopening of withdrawals and independently verified security remediation.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/business/finance/after-63-billion-crypto-heist-binance-plans-foray-into-5-asian-markets-2026-11-18/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261118-JAVA-ORACLE-JDK-CRITICAL-PATCH",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "US / SOUTH KOREA / FINANCIAL TECHNOLOGY / CYBERSECURITY",
+      "headline": "US and South Korean authorities urge prompt Java security updates",
+      "body": "Reuters reported that US and South Korean authorities urged Java users to install security updates after vulnerabilities were identified. The US Cybersecurity and Infrastructure Security Agency called for immediate patching. Java is used across government, corporate and financial information systems, making remediation operationally important. This preview does not establish that these flaws caused recent banking or aviation outages, that a particular organisation was compromised, or that any listed company suffered a quantified loss. Detailed patch applicability should be checked against current vendor and authority advisories.",
+      "analysis": "A patching warning concerns exposure and resilience; it is not proof of exploitation, a confirmed financial loss or the explanation for an unrelated outage.",
+      "watch_next": "Vendor advisories, installation of relevant updates and confirmed exploitation reports.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/south-korea-holds-emergency-meeting-possible-flaws-java-programming-language-2026-11-18/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261118-KOREA-AI-CHIP-EXPORTS-RETAIL-SPENDING-DIVERGENCE",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "SOUTH KOREA / AI / EQUITIES / CONSUMPTION",
+      "headline": "Korean chip-export strength contrasts with household spending and stock-market losses",
+      "body": "Reuters reported that South Korea was on track for US$1 trillion of exports in 2026 while household consumption contracted in the third quarter for the first time in nearly two years. The KOSPI had fallen more than 40% from its June record high; this is a multi-month drawdown, not a move during this reporting window. The article described how uneven benefits from semiconductor demand and stock losses were affecting households. The export figure remains a prospective annual milestone, separate from realised third-quarter consumption and historical equity performance.",
+      "analysis": "Export-led technology growth need not translate evenly into consumer demand. Company earnings, household balance sheets and aggregate credit conditions should be assessed separately.",
+      "watch_next": "Consumption data, household borrowing, the KOSPI and semiconductor export volumes.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/business/finance/south-koreas-chip-boom-bypasses-retail-investors-stock-rout-hits-spending-2026-11-18/"
+      ],
+      "development_at": null
+    }
+  ]
+}
