@@ -1,0 +1,95 @@
+{
+  "id": "reuters-20261118T080942-SGT",
+  "report_at": "2026-11-18T08:15:21+08:00",
+  "cutoff": "2026-11-18T08:09:42+08:00",
+  "window_start": "2026-11-18T03:52:24+08:00",
+  "coverage": "partial",
+  "summary": "Three new Reuters previews cover Qeshm airstrikes, Williams rate remarks and the Kirkuk-Ceyhan pipeline restart. Nvidia results already covered in the retained company research are not repeated. Two unconnected follow-ups and the Wyoming financing story are held. The complete detailed report remains held.",
+  "limitations": [
+    "Partial targeted Reuters coverage from 18 November 03:52:24 to 08:09:42 SGT. The attachment records report completion at 08:15:21 SGT; the source END UPDATE repeats the 08:09:42 cutoff. No exhaustive wire coverage or complete historical scan cutoff is established.",
+    "The completed original report, full dashboard attachment and seven-entry source register were read. Three new version-1 previews were independently checked against attributed Reuters syndication. Article publication dates are retained at date precision; displayed update headers and syndication clocks do not establish separate original publication, revision or exact development times. All three are conservatively labelled catch-up.",
+    "Nvidia governance R-20261108-NVDA-HUANG-BOARD-INTELLIGENCE-INQUIRY v21 is held because public v20 and its predecessor chain are missing. US market selloff R-20261116-US-AI-SEMICONDUCTOR-SELL-OFF v4 is held because public v3 and its chain are missing. Neither is renamed or renumbered as a new story.",
+    "The new Wyoming conditional-financing story is held pending accessible full Reuters or attributed Reuters-syndication verification. A Reuters headline and primary DOE corroboration do not substitute for that required review. No conditional loan, capacity, savings or project-timing figures from this held story enter the public preview.",
+    "Nvidia Q3 actual revenue and gross margin remain separate from Q4 guidance and estimates. Williams remarks are not a rate decision. Qeshm damage and incident-specific market effects are unverified; session-wide oil settlements are not assigned to that single event. Iraq initial pumping and planned future flows do not establish net additional global supply.",
+    "Current public hourly history, independent full research and available legacy daily editions were checked for event duplication. The Nvidia Q3 revenue and Q4 guidance event is already covered in the separately retained NVIDIA after Jensen Huang report at the 18 November 08:55 SGT cutoff and is not repeated as new. That company report is not the full companion to this hourly edition. Unavailable newer daily reports and empty source-register continuity do not establish recovered coverage. Existing gaps remain and last_complete_cutoff is not advanced.",
+    "Metadata is a short preview only. All seven source stories, sections A-F, the original table, attachment dashboard, client draft and source links are retained privately with a source-to-output checklist. Full-detail publication remains held: the approved process lacks an hourly channel, time-aware edition identity for multiple reports per day and exact-edition reader/card/search links. No approved V3, completeness, desktop or mobile visual attestation is made."
+  ],
+  "original_url": null,
+  "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+  "sources": [
+    {
+      "url": "https://www.reuters.com/world/middle-east/us-strikes-iranian-missile-launch-site-qeshm-island-us-official-says-2026-11-17/",
+      "title": "US strikes Iranian missile launch site on Qeshm Island, US official says",
+      "published_at": null,
+      "published_date": "2026-11-17",
+      "publication_precision": "date",
+      "verification_url": "https://www.marketscreener.com/news/us-strikes-iranian-missile-launch-site-on-qeshm-island-us-official-says-ce785edcdc88f424"
+    },
+    {
+      "url": "https://www.reuters.com/business/feds-williams-still-favors-tighter-monetary-policy-says-now-is-not-time-dramatic-2026-11-17/",
+      "title": "Fed's Williams still favors tighter monetary policy, but says now is not the time for 'dramatic action'",
+      "published_at": null,
+      "published_date": "2026-11-17",
+      "publication_precision": "date",
+      "verification_url": "https://new.streetinsider.com/Reuters/Fed%27s%2BWilliams%2Bstill%2Bfavors%2Btighter%2Bmonetary%2Bpolicy%2C%2Bbut%2Bsays%2Bnow%2Bis%2Bnot%2Bthe%2Btime%2Bfor%2B%27dramatic%2Baction%27/27363159.html"
+    },
+    {
+      "url": "https://www.reuters.com/business/energy/iraq-resumes-crude-oil-pumping-export-purposes-via-pipeline-turkey-oil-minister-2026-11-17/",
+      "title": "Iraq resumes crude oil pumping for export purposes via pipeline to Turkey, oil minister says",
+      "published_at": null,
+      "published_date": "2026-11-17",
+      "publication_precision": "date",
+      "verification_url": "https://boereport.com/2026/11/17/iraq-resumes-crude-oil-pumping-for-export-purposes-via-pipeline-to-turkey-oil-minister-says/amp/"
+    }
+  ],
+  "stories": [
+    {
+      "story_id": "R-20261117-US-IRAN-QESHM-AIRSTRIKES",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "MIDDLE EAST / US / IRAN / OIL / GEOPOLITICAL RISK",
+      "headline": "US military confirms strikes on Iranian missile-launch site on Qeshm Island",
+      "body": "A US military official told Reuters that American fighter aircraft struck a missile-launch site on Iran's Qeshm Island in retaliation for Iranian targeting of US personnel and assets. A verified damage assessment and an incident-specific oil-price response were not established. This is an earlier eligible discovery, not evidence that historical coverage gaps have been filled.",
+      "analysis": "A confirmed military strike increases regional security risk, but its physical and commercial impact requires further evidence. Session-wide oil settlements cannot be attributed solely to this incident.",
+      "watch_next": "Look for independently verified damage, response or mediation announcements, tanker flows and energy settlements.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/middle-east/us-strikes-iranian-missile-launch-site-qeshm-island-us-official-says-2026-11-17/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261117-FED-WILLIAMS-GRADUAL-TIGHTENING",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "US / FED / RATES / MACRO / UST",
+      "headline": "New York Fed’s Williams favours more tightening but rejects unusually aggressive action",
+      "body": "New York Fed President John Williams favoured further tightening to address persistent inflation while opposing a sudden, unusually aggressive policy response. Reuters cited the current federal-funds target range at 3.75%-4.00% and a broadly expected quarter-percentage-point increase at the December 8-9 meeting. These are policymaker remarks and market expectations, not a new FOMC decision. No event-attributable Treasury-yield or futures-probability change was verified.",
+      "analysis": "The pace of tightening is distinct from its direction. Evaluate duration and funding exposure against actual matched-time yields and financing terms.",
+      "watch_next": "Monitor the October FOMC minutes, December decision and matched-time US Treasury yields.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/business/feds-williams-still-favors-tighter-monetary-policy-says-now-is-not-time-dramatic-2026-11-17/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261117-IRAQ-KIRKUK-CEYHAN-PIPELINE-RESTART",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "IRAQ / TURKEY / OIL / EXPORTS / SUPPLY / GEOPOLITICAL RISK",
+      "headline": "Iraq resumes oil pumping through Kirkuk-Ceyhan pipeline",
+      "body": "Iraq's oil minister said pumping for export through the Kirkuk-Ceyhan pipeline had resumed at an initial 120,000 barrels per day, with a plan to increase flows to 500,000 barrels per day. The route had been shut since 2014. It provides another northern export outlet alongside the Kurdistan pipeline. Initial flow, planned capacity and net additional global supply are different measures; additional supply rather than diverted exports has not been established.",
+      "analysis": "An alternative export route may improve resilience, while the effect on total exports depends on available supply and whether flows supplement or replace existing shipments.",
+      "watch_next": "Watch sustained daily pumping, actual shipment volumes, disruption risk and incremental versus diverted supply.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/business/energy/iraq-resumes-crude-oil-pumping-export-purposes-via-pipeline-turkey-oil-minister-2026-11-17/"
+      ],
+      "development_at": null
+    }
+  ]
+}
