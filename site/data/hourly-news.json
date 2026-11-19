@@ -2,13 +2,165 @@
   "schema_version": 1,
   "source_name": "Reuters Hourly News",
   "source_url": null,
-  "publisher_checked_at": "2026-11-19T05:16:50+08:00",
+  "publisher_checked_at": "2026-11-19T08:22:51+08:00",
   "last_complete_cutoff": null,
   "source_schedule": {
     "status": "Active",
     "checked_at": "2026-11-03T18:21:21+08:00"
   },
   "editions": [
+    {
+      "id": "reuters-20261119T074016-SGT",
+      "window_start": "2026-11-19T03:59:46+08:00",
+      "cutoff": "2026-11-19T07:40:16+08:00",
+      "report_at": "2026-11-19T07:46:02+08:00",
+      "coverage": "partial",
+      "original_url": null,
+      "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+      "summary": "Five reviewed Reuters previews cover reported Anthropic IPO terms, September foreign Treasury holdings, the Commerzbank takeover, proposed ECB reserves and October housing construction. Three are new events and two are connected follow-ups after transaction deduplication. One Nvidia follow-up is held. Full-detail publication remains held.",
+      "limitations": [
+        "Targeted partial source coverage from 19 November 03:59:46 to 07:40:16 SGT, with discovery overlap from 03:44:46. The complete response’s handoff table states completion at 07:46:02; END UPDATE repeats the earlier cutoff. Previous gaps remain open and last_complete_cutoff is not advanced.",
+        "The original report contains four new and two follow-up stories, including two older catch-up discoveries. Five previews were selected: three new events and two connected follow-ups. Anthropic v3 connects to retained v2. The source’s new German-deal identifier is normalized to the existing UniCredit-Commerzbank takeover ID at v2, because the political agreement advances the transaction already retained at v1. No event is double-counted.",
+        "Nvidia source v7 is held: its v6 and earlier prerequisite chain are absent from retained hourly history. It was not renamed, reset to v1 or imported under another event. The selected Reuters-attributed copy establishes intraday and analyst-estimate details but not independently the source’s closing-price claim. No earlier gap or omitted version is implied to have been recovered.",
+        "Selected facts were checked in six Reuters-attributed article copies. Sources retain verified 18 November date precision only; original publication and revision clocks remain unestablished. No original clock is inferred from a displayed updated header or a URL. Development times are null and freshness labels are conservatively catch-up. IPO terms are source-reported; market trading remains prospective. Treasury custody stocks and transaction flows, conditional ECB savings, and annualised housing rates remain separate.",
+        "The full source body, six stories, sections A–F, three tables, all seven original Reuters links, metric figures and meaningful emphasis are retained in a private held HTML review and checklist. The source advertises a 31,691-byte JSON attachment; the signed-in browser repeatedly displayed only the older 03:59 report, so the new attachment could not be retrieved or checksum-verified. No attachment completeness is attested.",
+        "Metadata is a preview only. Full-detail publication remains held: the approved process has no hourly channel, uses day-only report IDs, and lacks exact hourly full-report reader/card/search links. The missing attachment and unconnected/unverified Nvidia detail also prevent a faithful approved complete edition. Approved V3, complete-fact and desktop/mobile visual approvals are not attested.",
+        "Current hourly history, six independent full reports and accessible legacy daily public records were checked for duplicate events. Some private cross-briefing histories in the source were older or truncated; no claim of exhaustive cross-briefing coverage is made. No matched-period Treasury-yield, executable SGD/CHF FX or confirmed-default trigger is inferred."
+      ],
+      "sources": [
+        {
+          "url": "https://www.reuters.com/business/anthropic-clinches-biggest-ever-ipo-with-81-billion-offering-2026-11-18/",
+          "title": "EXCLUSIVE: Anthropic clinches biggest-ever IPO with $81 billion offering",
+          "published_at": null,
+          "published_date": "2026-11-18",
+          "publication_precision": "date",
+          "verification_url": "https://www.investing.com/news/stock-market-news/exclusiveanthropic-clinches-biggestever-ipo-with-81-billion-offering-5037350"
+        },
+        {
+          "url": "https://www.reuters.com/legal/transactional/anthropic-prices-blockbuster-ipo-83-share-source-says-2026-11-18/",
+          "title": "Anthropic prices blockbuster IPO at $83 a share, source says",
+          "published_at": null,
+          "published_date": "2026-11-18",
+          "publication_precision": "date",
+          "verification_url": "https://uk.marketscreener.com/news/anthropic-prices-blockbuster-ipo-at-83-a-share-source-says-ce785edddc80f624"
+        },
+        {
+          "url": "https://www.reuters.com/markets/us/foreign-holdings-us-treasuries-dip-sept-china-holdings-hit-2008-low-data-show-2026-11-18/",
+          "title": "Foreign holdings of US Treasuries fall in September; China slashes to 2008 low, data show",
+          "published_at": null,
+          "published_date": "2026-11-18",
+          "publication_precision": "date",
+          "verification_url": "https://www.marketscreener.com/news/foreign-holdings-of-us-treasuries-fall-in-september-china-slashes-to-2008-low-data-show-ce785edddf8dfe26"
+        },
+        {
+          "url": "https://www.reuters.com/business/finance/unicredit-germany-reach-broad-agreement-commerzbank-takeover-2026-11-18/",
+          "title": "EXCLUSIVE: UniCredit and Germany reach broad agreement on Commerzbank takeover",
+          "published_at": null,
+          "published_date": "2026-11-18",
+          "publication_precision": "date",
+          "verification_url": "https://www.investing.com/news/stock-market-news/exclusiveunicredit-and-germany-reach-broad-agreement-on-commerzbank-takeover-5037328"
+        },
+        {
+          "url": "https://www.reuters.com/business/finance/ecb-discuss-raising-reserve-requirement-next-week-sources-say-2026-11-18/",
+          "title": "EXCLUSIVE: ECB to discuss raising reserve requirement next week, sources say",
+          "published_at": null,
+          "published_date": "2026-11-18",
+          "publication_precision": "date",
+          "verification_url": "https://www.investing.com/news/economy-news/exclusiveecb-to-discuss-raising-reserve-requirement-next-week-sources-say-5035827"
+        },
+        {
+          "url": "https://www.reuters.com/world/us/us-single-family-housing-starts-rebound-october-building-permits-plunge-2026-11-18/",
+          "title": "US single-family housing starts rebound, but trend remains subdued",
+          "published_at": null,
+          "published_date": "2026-11-18",
+          "publication_precision": "date",
+          "verification_url": "https://whtc.com/2026/11/18/us-single-family-housing-starts-rebound-in-october-building-permits-plunge/"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261118-ANTHROPIC-IPO-RETAIL-LEVERAGED-ETFS",
+          "version": 3,
+          "status": "follow-up",
+          "freshness": "catch-up",
+          "topic": "US / ANTHROPIC / AI / IPO / FINANCING",
+          "headline": "Reuters source reports an US$81.31bn Anthropic IPO at US$83 per share; trading still prospective",
+          "body": "Reuters reported, citing a person familiar with the transaction, that Anthropic raised US$81.31 billion in its IPO, exceeding the earlier SpaceX offering. The reported offer price was US$83 per share, above the proposed US$70–78 range. These are reported offering terms and proceeds, not an observed secondary-market share price or a revenue figure. Shares were expected to begin Nasdaq trading on Thursday, 19 November, under ANT. No actual ANT share trade, options premium or realised trading volume was verified. The new pricing and size information advances the retained IPO story rather than restarting it.",
+          "analysis": "A large capital raise improves available funding but does not establish future profitability or remove computing and infrastructure-financing obligations.",
+          "watch_next": "Actual first-session trading, final public deal documentation and confirmed options-listing arrangements.",
+          "earlier": "Retained v2 at the 19 November 03:59:46 SGT cutoff covered conditional Cboe options plans; final IPO terms were not established then.",
+          "source_urls": [
+            "https://www.reuters.com/business/anthropic-clinches-biggest-ever-ipo-with-81-billion-offering-2026-11-18/",
+            "https://www.reuters.com/legal/transactional/anthropic-prices-blockbuster-ipo-83-share-source-says-2026-11-18/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261118-US-TIC-SEPT-FOREIGN-UST-HOLDINGS",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "US / CHINA / JAPAN / UST / CAPITAL FLOWS",
+          "headline": "September foreign Treasury holdings fall to US$9.241tn; custody stocks differ from transaction flows",
+          "body": "Treasury data reported by Reuters put foreign holdings at US$9.241 trillion in September, compared with US$9.317 trillion in August. China’s holdings fell for a fourth consecutive month to US$563.9 billion from US$590.7 billion, their lowest in more than 18 years. Japan’s holdings declined to US$1.063 trillion from US$1.068 trillion. On a separate transaction basis, September Treasury inflows were US$80.8 billion versus US$108.9 billion in August. Ownership stocks and transaction inflows measure different things. These are September monthly data, not an overnight liquidation or a verified matched-period Treasury-yield move.",
+          "analysis": "Foreign-holder demand matters for financing, but changing custody stocks alone do not establish a price, yield shock or the direction of total capital demand.",
+          "watch_next": "Subsequent TIC releases, Treasury auction participation and dated actual yield observations.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/markets/us/foreign-holdings-us-treasuries-dip-sept-china-holdings-hit-2008-low-data-show-2026-11-18/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261116-UNICREDIT-COMMERZBANK-EU-US-APPROVAL",
+          "version": 2,
+          "status": "follow-up",
+          "freshness": "catch-up",
+          "topic": "EUROPE / UNICREDIT / COMMERZBANK / BANKS / M&A / CREDIT",
+          "headline": "Germany and UniCredit reach broad takeover terms; retained Commerzbank story advances",
+          "body": "Reuters reported a broad agreement over remaining German objections to UniCredit’s proposed Commerzbank takeover. A letter and the German finance minister’s statement describe Frankfurt remaining the combined bank’s German headquarters as a listed entity. Germany dropped its demand for two Commerzbank supervisory-board seats, while UniCredit pledged German nationals on its own board. A combination would have more than EUR1.3 trillion in assets; that is a prospective combined balance sheet, not completed ownership transfer. No agreement-specific bank-share or credit-spread reaction was verified. This political development follows earlier regulatory milestones in the same transaction.",
+          "analysis": "Political agreement can remove a deal obstacle without resolving every closing, integration, employee or capital requirement.",
+          "watch_next": "Final commitments, remaining transaction conditions, closing timetable and capital/integration plans.",
+          "earlier": "Retained v1 reported EU and US regulatory approvals on 16 November. The new German political agreement is a substantive follow-up to that same takeover.",
+          "source_urls": [
+            "https://www.reuters.com/business/finance/unicredit-germany-reach-broad-agreement-commerzbank-takeover-2026-11-18/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261118-ECB-MINIMUM-RESERVES-1-TO-2PCT",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "EURO AREA / ECB / BANKS / LIQUIDITY",
+          "headline": "Sources say ECB will discuss raising unremunerated reserves from 1% to 2%; no enacted rule",
+          "body": "Four sources told Reuters that ECB policymakers planned to discuss minimum reserve requirements on 25 November, potentially deferring a decision until 17 December. The proposal would require banks to keep 2% rather than 1% of deposits and other short-term liabilities in unremunerated accounts. Reuters estimated roughly EUR4.4 billion in annual Eurosystem savings at prevailing rates. That is a conditional estimate, not a realised saving. This is an older 18 November discovery marked catch-up. No rule change, policy-rate increase or attributable bank-market reaction was verified.",
+          "analysis": "Larger non-interest-bearing reserves could absorb excess liquidity and reduce bank interest income; the proposal and implementation terms remain distinct from ECB policy rates.",
+          "watch_next": "Meeting outcome, final requirement, implementation dates and bank responses.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/finance/ecb-discuss-raising-reserve-requirement-next-week-sources-say-2026-11-18/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261118-US-HOUSING-STARTS-PERMITS-OCT",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "US / HOUSING / MORTGAGES / CONSTRUCTION",
+          "headline": "October single-family starts rise 4.0%, while permits fall 8.7%; older housing discovery",
+          "body": "US single-family starts rose 4.0% month on month in October to a seasonally adjusted annual rate of 864,000 units. Single-family permits fell 8.7% to an annual rate of 772,000, their lowest since January 2023. Overall housing starts rose 9.9% to a 1.309 million annual rate. Annualised rates are not counts of houses actually started during that month. Starts, permits and previously reported pending-home sales are distinct measures. The 18 November report is an older catch-up discovery. No data-specific Treasury, mortgage-credit-spread or homebuilder-share reaction was verified.",
+          "analysis": "A rebound in current construction need not signal a durable recovery when permissions for future projects are weakening.",
+          "watch_next": "Home sales, unsold inventory, later permit/start releases and builder financing costs.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/us/us-single-family-housing-starts-rebound-october-building-permits-plunge-2026-11-18/"
+          ],
+          "development_at": null
+        }
+      ]
+    },
     {
       "id": "reuters-20261119T035946-SGT",
       "report_at": "2026-11-19T04:08:34+08:00",
