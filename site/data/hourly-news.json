@@ -2,13 +2,85 @@
   "schema_version": 1,
   "source_name": "Reuters Hourly News",
   "source_url": null,
-  "publisher_checked_at": "2026-11-19T12:18:54+08:00",
+  "publisher_checked_at": "2026-11-20T05:57:59+08:00",
   "last_complete_cutoff": null,
   "source_schedule": {
     "status": "Active",
     "checked_at": "2026-11-03T18:21:21+08:00"
   },
   "editions": [
+    {
+      "id": "reuters-20261120T033231-SGT",
+      "window_start": "2026-11-20T00:05:19+08:00",
+      "cutoff": "2026-11-20T03:32:31+08:00",
+      "report_at": "2026-11-20T03:38:14+08:00",
+      "coverage": "partial",
+      "original_url": null,
+      "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+      "summary": "Two reviewed Reuters previews cover disputed AMD-related China allegations and National Bank of Canada’s prospective panda-bond funding. Anthropic v5 and the wider AI-selloff v8 are held because their prerequisite public versions are missing. Full-detail publication remains held.",
+      "limitations": [
+        "Targeted partial scan for 20 November 00:05:19–03:32:31 SGT, with discovery overlap from 19 November 23:50:19. The source handoff table states report generation at 03:38:14 SGT; END UPDATE repeats the 03:32:31 cutoff. No fully complete source-scan cutoff is established or advanced.",
+        "The source contains two new stories and two follow-ups. Two new previews were selected after Reuters-attributed verification. Anthropic v5 is held because retained history ends at v3 and v4 is missing. The broader AI-equity selloff v8 is held because v7 and its earlier prerequisite chain are absent. Neither story is renamed, reset to v1 or renumbered. Their quoted market details are not approved through this metadata edition.",
+        "The previous published cutoff is 19 November 11:52:55 SGT. Later source editions at 15:54:32, 20:26:41 and 20 November 00:05:19 were visible during source discovery but were not imported or independently reviewed as complete editions in this execution. This update covers only the newest selected report and does not fill those intervals or older gaps.",
+        "Selected articles retain verified original publication date 19 November only. Distinct original and revision clocks are unresolved; displayed headers are not converted into original timestamps. Development times remain null and selected freshness labels are conservatively catch-up. AMD’s 8% fall is a historical intraday observation, not a verified close. Disputed allegations, the short position, Reuters verification limit and AMD response are retained.",
+        "The CNY15bn figure describes an approved programme and potential 2027 issuance, not a completed sale. The approximate US$2.25bn equivalent is Reuters context, not live FX. No coupon, issuance yield, maturity, executed SGD/CHF rate, matched Treasury move over 10bp, new rate-expectations shift or confirmed default is inferred.",
+        "Metadata is a preview only. Full-detail publication remains held: the approved process has no hourly channel, constructs day-only identities and lacks exact hourly full-report card/search links. The complete original body, sections A-F, all four stories, table, figures, five-source register and emphasis are retained privately. Approved V3 completeness, rights clearance for missing assets and desktop/mobile review are not attested.",
+        "The source advertises Reuters-Hourly-Report-20261119T193231Z.json, 26577 bytes. Matching attachment retrieval and checksum verification remain unavailable in this execution; no asset completeness is attested. Runtime and private storage details remain outside public report content.",
+        "Current public hourly history, six independent full-report records and accessible legacy daily public records were checked for overlapping selected events. No exhaustive private cross-briefing coverage is claimed. Source-schedule status was not freshly verified and remains unchanged."
+      ],
+      "sources": [
+        {
+          "url": "https://www.reuters.com/world/china/amd-shares-slide-report-says-china-links-could-invite-us-scrutiny-2026-11-19/",
+          "title": "AMD shares slide as report says China links could invite US scrutiny",
+          "published_at": null,
+          "published_date": "2026-11-19",
+          "publication_precision": "date",
+          "verification_url": "https://www.streetinsider.com/Reuters/AMD%2Bshares%2Bslide%2Bas%2Breport%2Bsays%2BChina%2Blinks%2Bcould%2Binvite%2BUS%2Bscrutiny/27375288.html"
+        },
+        {
+          "url": "https://www.reuters.com/world/canadas-national-bank-plans-regular-panda-bond-issuance-as-ottawa-beijing-ties-2026-11-19/",
+          "title": "Canada's National Bank plans regular panda bond issuance as Ottawa-Beijing ties improve",
+          "published_at": null,
+          "published_date": "2026-11-19",
+          "publication_precision": "date",
+          "verification_url": "https://www.marketscreener.com/news/canada-s-national-bank-plans-regular-panda-bond-issuance-as-ottawa-beijing-ties-improve--ce785ed2dc8fff2c"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261119-AMD-HUNTERBROOK-CHINA-FIRMWARE-ALLEGATIONS",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "US / CHINA / SINGAPORE / AMD / SEMICONDUCTORS / EXPORT CONTROLS",
+          "headline": "AMD falls after disputed Hunterbrook allegations about China-linked server firmware",
+          "body": "Reuters reported AMD shares down 8% on 19 November after Hunterbrook Media alleged newer AMD firmware appeared in servers from blacklisted IEIT Systems and related suppliers, including Singapore-based Kaytus. Hunterbrook Capital disclosed a short position in AMD. Reuters could not independently verify the allegations. AMD disputed the account, saying it misrepresented its practices and relationships and that the company complies with applicable US export-control rules. The share move is a historical Reuters observation with no individually verified quote clock, not a closing-price or regulatory-finding claim.",
+          "analysis": "An allegation by an interested short seller is distinct from a proven export-control breach. Independent findings and the company response matter for valuation risk.",
+          "watch_next": "AMD disclosures and any actual Commerce Department action. No breach is presumed.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/china/amd-shares-slide-report-says-china-links-could-invite-us-scrutiny-2026-11-19/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261119-NATIONAL-BANK-CANADA-CNY-PANDA-BOND-PLAN",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "CANADA / CHINA / PBOC / CNY / PANDA BONDS / BANK FUNDING",
+          "headline": "National Bank of Canada plans regular panda funding after a CNY15bn programme approval",
+          "body": "A National Bank of Canada executive told Reuters it could issue up to CNY15 billion of Chinese onshore panda bonds in 2027 and intends to become a regular issuer. He said the PBoC had most recently approved a CNY15 billion programme. Reuters gave an approximate US$2.25 billion equivalent; this is a source conversion, not a new executable FX quote. The programme approval and potential funding amount do not establish a completed bond sale. No coupon, issuance yield, market yield, maturity or attributable currency move was verified.",
+          "analysis": "Access to another funding market may diversify borrowing, while actual terms, credit spreads and currency management determine its economics.",
+          "watch_next": "Confirmed issue dates, pricing, tenors and use of proceeds.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/canadas-national-bank-plans-regular-panda-bond-issuance-as-ottawa-beijing-ties-2026-11-19/"
+          ],
+          "development_at": null
+        }
+      ]
+    },
     {
       "id": "reuters-20261119T115255-SGT",
       "window_start": "2026-11-19T07:40:16+08:00",
