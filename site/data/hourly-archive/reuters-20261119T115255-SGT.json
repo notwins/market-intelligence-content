@@ -1,0 +1,167 @@
+{
+  "id": "reuters-20261119T115255-SGT",
+  "window_start": "2026-11-19T07:40:16+08:00",
+  "cutoff": "2026-11-19T11:52:55+08:00",
+  "report_at": "2026-11-19T11:56:57+08:00",
+  "coverage": "partial",
+  "original_url": null,
+  "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+  "summary": "Six reviewed Reuters previews cover Riyadh missile damage, IMF inflation remarks, Australian jobs and FX, BoJ consumption testimony, a Binance-linked asset freeze and Hormuz oil flows. Four new events and two retained-ID follow-ups. Full-detail publication remains held.",
+  "limitations": [
+    "Targeted partial source scan from 19 November 07:40:16 to 11:52:55 SGT, with discovery overlap from 07:25:16. Completion is 11:56:57 SGT. Prior uncovered intervals remain open; no complete-scan cutoff is established or advanced.",
+    "The original contains six stories: four new and two follow-ups, with one new story labelled breaking and one older Binance catch-up. All six previews were independently checked in Reuters-attributed copies. Original publication versus revision clocks remain unresolved; sources retain verified date precision only. Development times are null and all selected freshness labels are conservatively catch-up. The breaking badge is not imported without a verified event time.",
+    "BoJ v2 connects to retained v1 and adds consumption/yen reasoning. Binance v2 retains the producer and existing post-heist ID with v1 preserved; the legal freeze is the new development, not repetition of expansion plans, prior losses or frozen totals. Riyadh missile debris is distinct from the earlier pipeline drone claim. Hormuz-flow reporting is distinct from retained individual vessel casualties; background EIA stocks are not promoted as a new release.",
+    "No new oil shutdown, attributable default, matched four-hour Treasury move above 10bp, consensus surprise, executable quote or SGD/CHF movement is inferred. Oil futures observations retain 19 November 10:37 SGT and US dollars per barrel. Australian FX/index quote clocks remain unspecified. IMF remarks and BoJ guidance are not policy-rate decisions; frozen crypto is not recovered funds.",
+    "Metadata is a preview only. Full-detail publication remains held: prepare_research_bundle.py has no hourly channel, constructs day-only identities, and the reader lacks an exact hourly companion card/search link. Routine publication does not change that infrastructure. The entire original body, sections A-F, six stories, handoff table, figures, sources and emphasis are retained in a private held HTML/checklist; approved V3 completeness and desktop/mobile visual review are not attested.",
+    "The original advertises Reuters-Hourly-Report-20261119T035255Z.json, 38043 bytes. Its matching download is unavailable in the signed-in source view, which shows older responses after reload; the advertised checksum is not independently verified. No asset completeness is attested. Producer Library retention failure does not establish public publication or complete scan coverage.",
+    "Current hourly history, independent full reports and accessible legacy daily records were checked for duplicate facts. No exhaustive private cross-briefing review is claimed where those sources were older or truncated. Existing source_schedule state was not freshly verified and is unchanged."
+  ],
+  "sources": [
+    {
+      "url": "https://www.reuters.com/world/middle-east/houthi-missile-threat-towards-riyadh-causes-damage-saudi-led-coalition-says-2026-11-19/",
+      "title": "Houthi missile threat towards Riyadh causes damage, Saudi-led coalition says",
+      "published_at": null,
+      "published_date": "2026-11-19",
+      "publication_precision": "date",
+      "verification_url": "https://www.streetinsider.com/Reuters/Houthi%2Bmissile%2Bthreat%2Btowards%2BRiyadh%2Bcauses%2Bdamage,%2BSaudi-led%2Bcoalition%2Bsays/27371744.html"
+    },
+    {
+      "url": "https://www.reuters.com/world/global-inflation-calls-monetary-policy-tightening-many-economies-imf-head-says-2026-11-19/",
+      "title": "Global inflation calls for monetary policy tightening in many economies, IMF head says",
+      "published_at": null,
+      "published_date": "2026-11-19",
+      "publication_precision": "date",
+      "verification_url": "https://sa.marketscreener.com/news/global-inflation-calls-for-monetary-policy-tightening-in-many-economies-imf-head-says-ce785eddde8af325"
+    },
+    {
+      "url": "https://www.reuters.com/world/africa/us-dollar-hovers-near-19-month-high-aussie-falls-after-soft-jobs-data-2026-11-19/",
+      "title": "US dollar hovers near 19-month high, Aussie falls after soft jobs data",
+      "published_at": null,
+      "published_date": "2026-11-19",
+      "publication_precision": "date",
+      "verification_url": "https://au.marketscreener.com/news/us-dollar-hovers-near-19-month-high-aussie-falls-after-soft-jobs-data-ce785eddde88f02d"
+    },
+    {
+      "url": "https://www.reuters.com/markets/us/boj-governor-ueda-says-financial-conditions-loose-despite-rate-hikes-2026-11-19/",
+      "title": "BOJ chief offers upbeat view on consumption despite recent weakness",
+      "published_at": null,
+      "published_date": "2026-11-19",
+      "publication_precision": "date",
+      "verification_url": "https://au.investing.com/news/economy-news/boj-chief-offers-upbeat-view-on-consumption-despite-recent-weakness-4782012"
+    },
+    {
+      "url": "https://www.reuters.com/business/binance-says-it-has-court-order-get-back-crypto-frozen-after-63-billion-heist-2026-11-18/",
+      "title": "UAE court orders freeze on crypto tokens stolen from Binance wallets",
+      "published_at": null,
+      "published_date": "2026-11-18",
+      "publication_precision": "date",
+      "verification_url": "https://new.streetinsider.com/Reuters/UAE%2Bcourt%2Borders%2Bfreeze%2Bon%2Bcrypto%2Btokens%2Bstolen%2Bfrom%2BBinance%2Bwallets/27369327.html"
+    },
+    {
+      "url": "https://www.reuters.com/business/energy/oil-prices-steady-supply-surplus-softens-sentiment-though-gulf-war-supports-2026-11-19/",
+      "title": "Oil prices steady as supply surplus softens sentiment though Gulf war supports",
+      "published_at": null,
+      "published_date": "2026-11-19",
+      "publication_precision": "date",
+      "verification_url": "https://in.marketscreener.com/news/oil-prices-steady-as-supply-surplus-softens-sentiment-though-gulf-war-supports-ce785eddde8af323"
+    }
+  ],
+  "stories": [
+    {
+      "story_id": "R-20261119-HOUTHI-RIYADH-MISSILE-DEBRIS-DAMAGE",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "SAUDI ARABIA / GEOPOLITICS / OIL",
+      "headline": "Saudi coalition reports debris and material damage following a Houthi missile threat toward Riyadh",
+      "body": "The Saudi-led coalition said it dealt with a Houthi missile threat towards Riyadh. Initial assessment found fallen debris and material damage, with the extent still being assessed; civil defence later said the danger had passed. This is a new damage confirmation, separate from the retained earlier drone-launch claim against the East-West pipeline. No new oil-facility shutdown, export-volume loss or directly attributable oil-price move was established. The precise attack time is not independently verified.",
+      "analysis": "Physical security risks can rise without a confirmed loss of oil supply. Damage assessment and operating status must be checked separately.",
+      "watch_next": "Official damage findings, energy operations and verified shipping disruption.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/middle-east/houthi-missile-threat-towards-riyadh-causes-damage-saudi-led-coalition-says-2026-11-19/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261119-IMF-GEORGIEVA-INFLATION-47-TIGHTENING",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "GLOBAL / IMF / INFLATION / CENTRAL BANKS",
+      "headline": "IMF chief cites 4.7% global inflation and calls for tighter policy in many economies",
+      "body": "At the APEC summit in Shenzhen, IMF Managing Director Kristalina Georgieva said energy-supply shocks and artificial-intelligence demand were accelerating global inflation to 4.7%. She called for monetary-policy tightening in many economies. The figure is her cited assessment, with no independently established new consensus-surprise comparison in this report. The remarks are not an individual central-bank rate decision, and no statement-specific Treasury, FX or futures movement was verified.",
+      "analysis": "Energy and demand pressures may complicate policy even where activity weakens; national decisions remain distinct from IMF advice.",
+      "watch_next": "Dated inflation releases, central-bank decisions and actual market-implied rate changes.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/global-inflation-calls-monetary-policy-tightening-many-economies-imf-head-says-2026-11-19/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261119-AU-OCT-EMPLOYMENT-AUD-LOW",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "AUSTRALIA / EMPLOYMENT / FX / UST",
+      "headline": "AUD/USD reaches a 10-month low after a second monthly employment decline",
+      "body": "Reuters reported October Australian employment falling for a second consecutive month and unemployment reaching a five-year high. AUD/USD touched 0.6692, its lowest since January, while the dollar index was around 103.81 in early Asian trading. These are historical intraday observations with individual quote clocks unestablished. Separately, US 10-year yields fell about 4 basis points overnight to 5.06% after a solid 20-year auction. That is not a verified greater-than-10bp matched four-hour move, nor proof of equivalent USD/SGD or USD/CHF changes.",
+      "analysis": "Different labour and inflation conditions can lead to diverging currency and interest-rate paths.",
+      "watch_next": "Australian jobs revisions, RBA guidance and actual SGD/CHF quotes and hedging costs.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/africa/us-dollar-hovers-near-19-month-high-aussie-falls-after-soft-jobs-data-2026-11-19/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261118-BOJ-UEDA-HIKES-JGB-PURCHASES",
+      "version": 2,
+      "status": "follow-up",
+      "freshness": "catch-up",
+      "topic": "JAPAN / BOJ / CONSUMPTION / JPY / JGB",
+      "headline": "Ueda treats weak third-quarter consumption as temporary while retaining a tightening outlook",
+      "body": "Ueda said the third-quarter consumption decline was within BoJ expectations and reflected living costs and bad weather. He expects rising nominal wages and easing inflation to support spending, while warning that persistent yen weakness could broaden inflation and hurt real incomes. Reuters reported his continued support for rate increases because financial conditions remain loose. These are new explanations of consumption and currency risks, not a new policy-rate decision. No testimony-specific JPY or JGB-yield move was established.",
+      "analysis": "A temporary spending slowdown can coexist with medium-term inflation concerns and a tightening outlook.",
+      "watch_next": "Wages, domestic spending, yen-related import costs and the December policy meeting.",
+      "earlier": "Retained v1 at the 18 November 11:54:15 SGT cutoff covered Ueda backing further hikes and his position on bond purchases. This development adds consumption and yen-risk reasoning.",
+      "source_urls": [
+        "https://www.reuters.com/markets/us/boj-governor-ueda-says-financial-conditions-loose-despite-rate-hikes-2026-11-19/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261118-BINANCE-POST-HEIST-FIVE-ASIAN-MARKETS",
+      "version": 2,
+      "status": "follow-up",
+      "freshness": "catch-up",
+      "topic": "UAE / BINANCE / CRYPTO / CYBER RISK / COURTS",
+      "headline": "Abu Dhabi court requires 18 companies to maintain freezes on Binance-linked stolen assets",
+      "body": "Reuters reviewed court documents requiring 18 companies, including Circle and World Liberty Financial, to maintain freezes on assets linked to the 29 October Binance theft of US$6.3 billion. The companies are not accused of wrongdoing. A further hearing is scheduled for 1 December. Previously reported US$2.85 billion frozen or intercepted is background, not a new recovery total. A freeze prevents movement; it does not establish that funds have been returned. This 18 November article is an older eligible catch-up discovery.",
+      "analysis": "Court restrictions can support recovery work while remaining distinct from actual returned funds or completed reimbursement.",
+      "watch_next": "The 1 December hearing, verified asset returns and custody-security improvements.",
+      "earlier": "Retained v1 at the 18 November 16:10:10 SGT cutoff concerned post-theft Asian expansion plans. The producer retains that same ID for this substantive new legal step in the post-heist story.",
+      "source_urls": [
+        "https://www.reuters.com/business/binance-says-it-has-court-order-get-back-crypto-frozen-after-63-billion-heist-2026-11-18/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261119-OIL-HORMUZ-NEAR-PREWAR-FLOWS",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "GULF / OIL / HORMUZ / SHIPPING / SUPPLY",
+      "headline": "Reuters reports Hormuz crude shipments near pre-war levels while security risks persist",
+      "body": "Reuters reported crude shipments through Hormuz returning to roughly pre-war levels, easing some supply concerns despite regional attacks. At 02:37 GMT on 19 November (10:37 SGT), Brent futures were US$92.12 per barrel, up 0.18%, and WTI US$83.17, down 0.11%. These are historical observations, not live quotes. The article also repeated the EIA crude-inventory increase of 3.4 million barrels for the week ended 13 November; it is background, not a new release in this window. No exact flow-recovery date or single-cause attribution for the small price changes was established.",
+      "analysis": "Improved aggregate flows can coexist with physical threats, insurance costs and further interruption risk.",
+      "watch_next": "Actual tanker flows, export routes, insurance costs and confirmed disruptions.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/business/energy/oil-prices-steady-supply-surplus-softens-sentiment-though-gulf-war-supports-2026-11-19/"
+      ],
+      "development_at": null
+    }
+  ]
+}
