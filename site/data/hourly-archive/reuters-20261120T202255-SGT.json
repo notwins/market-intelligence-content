@@ -1,0 +1,163 @@
+{
+  "id": "reuters-20261120T202255-SGT",
+  "report_at": "2026-11-20T20:29:57+08:00",
+  "cutoff": "2026-11-20T20:22:55+08:00",
+  "window_start": "2026-11-20T15:41:39+08:00",
+  "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+  "coverage": "partial",
+  "original_url": null,
+  "summary": "Five reviewed previews cover Alphabet’s priced Canadian bond offering, UK–EU summit agreements, Chinese cloud constraints, updated Indian equity flows and an Australian AI data-centre planning dispute. UK–EU and India reuse retained event histories. The Saudi port-threat follow-up and full-detail edition remain held.",
+  "limitations": [
+    "Targeted partial source coverage from 20 November 15:41:39 to 20:22:55 SGT, with discovery overlap from 15:26:39. The handoff records generation at 20:29:57 SGT; END UPDATE repeats the cutoff. Earlier gaps remain open and last_complete_cutoff is not advanced.",
+    "Five previews are selected from six source stories. Semantic review connects the UK–EU agreement and India flow update to their retained v1 event histories as v2 follow-ups, rather than creating duplicate events under the producer’s newer aliases. Three other distinct events are initial versions.",
+    "The Saudi Red Sea port-threat v2 is held because its required southern-Saudi-interception v1 is not retained. The separate retained Riyadh-debris event is not a substitute predecessor. No port closure, production outage or exact oil-price snapshot is inferred.",
+    "Reuters-attributed copies establish publication dates but do not consistently resolve original publication versus revision clocks. Sources retain date precision, null published_at and updated_at, and null development_at. Selected items are conservatively catch-up, not breaking. Later display quote widgets are excluded.",
+    "Alphabet pricing on 19 November and scheduled settlement on 24 November are distinct; coupons, maturities, issuance yields and spreads are omitted. Cloud forecasts and potential capacity cuts are distinct from actual quarterly growth. India monthly flows, weekly returns, daily returns and closing levels remain separate.",
+    "The UK–EU announcement does not establish completed implementation or realised annual benefits. Ratification, technical steps and unresolved arrangements remain relevant. Australian submissions are not binding rejection; 1.44GW is planned computing load, not built capacity.",
+    "Metadata is only a preview. Full-detail publication remains held: the approved route lacks an hourly channel, stable time-aware identities and matching discoverable full-report links. All original sections A–F, six stories, eight-source register, table, figures and emphasis remain retained privately. Approved full-report completeness and desktop/mobile review are not attested.",
+    "The complete source body and source register were retrieved. The matching JSON attachment is advertised but could not be retrieved from the loaded signed-in source UI in this execution; its advertised size and checksum are not represented as independently verified. No replacement scan or source prompt was sent.",
+    "Retained hourly history, six independent public report records and available legacy daily research were checked for overlap. The latest earnings research already contains Alibaba’s 53% quarterly growth; it is context, not relabelled new earnings. The new cloud preview is explicitly a later Reuters discussion of earlier company remarks. No exhaustive private cross-briefing coverage is claimed. Source schedule status was not freshly verified and remains unchanged."
+  ],
+  "sources": [
+    {
+      "url": "https://www.reuters.com/business/alphabet-aims-raise-419-billion-canadian-debt-offering-2026-11-20/",
+      "title": "Alphabet raises $4.19 billion in Canadian bond offering",
+      "published_at": null,
+      "published_date": "2026-11-20",
+      "publication_precision": "date",
+      "verification_url": "https://ca.marketscreener.com/news/alphabet-raises-4-19-billion-in-canadian-bond-offering-ce785ed3d889ff21"
+    },
+    {
+      "url": "https://www.reuters.com/world/uk/uk-eu-reset-deal-agreed-downing-street-says-2026-11-20/",
+      "title": "UK-EU reset deal agreed, Downing Street says",
+      "published_at": null,
+      "published_date": "2026-11-20",
+      "publication_precision": "date",
+      "verification_url": "https://uk.marketscreener.com/news/uk-eu-reset-deal-agreed-downing-street-says-ce785ed3d98df221"
+    },
+    {
+      "url": "https://www.reuters.com/world/uk/britain-eu-set-agree-reset-but-divisions-persist-2026-11-20/",
+      "title": "Britain and EU launch reset with food and youth mobility deals",
+      "published_at": null,
+      "published_date": "2026-11-20",
+      "publication_precision": "date",
+      "verification_url": "https://live.euronext.com/en/financial-news/britain-and-eu-launch-reset-food-and-youth-mobility-deals"
+    },
+    {
+      "url": "https://www.reuters.com/business/retail-consumer/us-ai-chip-curbs-hit-china-tech-stocks-spur-self-sufficiency-push-2026-11-20/",
+      "title": "US AI chip curbs hit China tech stocks, spur self-sufficiency push",
+      "published_at": null,
+      "published_date": "2026-11-20",
+      "publication_precision": "date",
+      "verification_url": "https://www.investing.com/news/stock-market-news/us-ai-chip-curbs-hit-china-tech-stocks-spur-selfsufficiency-push-5040932"
+    },
+    {
+      "url": "https://www.reuters.com/world/india/indian-stocks-seen-falling-nine-month-highs-asia-market-rout-deepens-2026-11-20/",
+      "title": "Indian shares rise for fourth straight week as AI rout deepens",
+      "published_at": null,
+      "published_date": "2026-11-20",
+      "publication_precision": "date",
+      "verification_url": "https://au.marketscreener.com/news/indian-shares-rise-for-fourth-straight-week-as-ai-rout-deepens-ce785ed3d98df62d"
+    },
+    {
+      "url": "https://www.reuters.com/world/asia-pacific/anthropics-australian-data-centre-overwhelmingly-opposed-by-residents-2026-11-20/",
+      "title": "Anthropic's Australian data centre overwhelmingly opposed by residents",
+      "published_at": null,
+      "published_date": "2026-11-20",
+      "publication_precision": "date",
+      "verification_url": "https://www.streetinsider.com/Reuters/Anthropics%2BAustralian%2Bdata%2Bcentre%2Boverwhelmingly%2Bopposed%2Bby%2Bresidents/27377911.html"
+    },
+    {
+      "url": "https://www.reuters.com/business/environment/what-are-uk-eu-carbon-markets-what-does-linking-them-mean-2026-11-20/",
+      "title": "What are the UK and EU carbon markets and what does linking them mean?",
+      "published_at": null,
+      "published_date": "2026-11-20",
+      "publication_precision": "date",
+      "verification_url": "https://in.marketscreener.com/news/what-are-the-uk-and-eu-carbon-markets-and-what-does-linking-them-mean-ce785ed3d889ff26"
+    }
+  ],
+  "stories": [
+    {
+      "story_id": "R-20261120-ALPHABET-CAD6BN-SENIOR-UNSECURED-BONDS",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "US / CANADA / ALPHABET / BONDS / AI FUNDING",
+      "headline": "Alphabet prices C$6bn of Canadian bonds; settlement remains scheduled for 24 November",
+      "body": "Reuters reported a C$6 billion four-tranche senior unsecured offering, approximately US$4.19 billion at its cited conversion. Pricing occurred on 19 November; settlement is scheduled for 24 November. Expected proceeds after underwriting discounts and before expenses are about C$5.97 billion. Moody’s rated the notes Aa2/stable and S&P AA+/stable. General corporate purposes may include debt repayment. This is a priced transaction, not proof that settlement has occurred. Individual coupons, maturities, issuance yields and spreads are not supplied here; no attributable stock, bond-spread or CAD response was verified.",
+      "analysis": "Funding access and AI investment needs are relevant to credit analysis, while borrowing cost and cash-flow capacity require the actual terms.",
+      "watch_next": "Final tranche terms, settlement confirmation, funding costs and cash flow.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/business/alphabet-aims-raise-419-billion-canadian-debt-offering-2026-11-20/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261116-UK-BURNHAM-EU-RESET-SUMMIT",
+      "version": 2,
+      "status": "follow-up",
+      "freshness": "catch-up",
+      "topic": "UK / EU / TRADE / CARBON MARKETS / YOUTH MOBILITY",
+      "headline": "UK–EU reset progresses from summit aims to announced agreements, with implementation still ahead",
+      "body": "Downing Street said negotiations had concluded and timelines were agreed for food-trade rules, youth mobility and linking emissions trading systems. Reuters also reported a proposed three-year youth stay and Britain’s estimate of up to £5.1 billion in annual economic benefits from easier food trade. These are proposed arrangements and projected benefits, not realised savings. Carbon-market linking still requires technical and legal work and ratification before border-carbon exemptions can apply. Outstanding tuition-fee and regulatory differences remain relevant. No agreement-specific GBP, gilt or equity response was established.",
+      "analysis": "An announced agreement is a substantive advance from negotiating aims, while legal approval and implementation determine the eventual business impact.",
+      "watch_next": "The final joint statement, ratification, implementation dates and unresolved conditions.",
+      "earlier": "Retained v1 covered advance Brexit-reassessment remarks and negotiating aims before the 20 November summit; it did not establish a new agreement. This update adds Downing Street’s announcement and implementation limits.",
+      "source_urls": [
+        "https://www.reuters.com/world/uk/uk-eu-reset-deal-agreed-downing-street-says-2026-11-20/",
+        "https://www.reuters.com/world/uk/britain-eu-set-agree-reset-but-divisions-persist-2026-11-20/",
+        "https://www.reuters.com/business/environment/what-are-uk-eu-carbon-markets-what-does-linking-them-mean-2026-11-20/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261120-CHINA-ALIBABA-TENCENT-US-AI-CURBS-CLOUD-OUTLOOK",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "CHINA / US / ALIBABA / TENCENT / CLOUD / AI CONTROLS",
+      "headline": "Reuters examines cloud-growth constraints from US chip rules; earlier company remarks remain catch-up context",
+      "body": "Reuters’ 20 November report draws on company earnings calls earlier in the week. Alibaba anticipated cloud growth of 30%–45% next year versus 53% in its latest quarter, while retaining its longer-term external-cloud revenue ambition. It warned that computing-capacity plans could be reduced. Tencent said inference-led cloud services were largely insulated, but next-generation model development could slow. Forecast growth, actual quarterly growth and possible capacity changes are different measures. This is not fresh guidance issued at the report cutoff or a newly verified policy decision. No four-hour price reaction was isolated.",
+      "analysis": "Access to computing capacity can affect product development and future revenue, but a constraint or forecast is not a confirmed operating loss.",
+      "watch_next": "Export licences, domestic-chip supply, future company guidance and operating cash flow.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/business/retail-consumer/us-ai-chip-curbs-hit-china-tech-stocks-spur-self-sufficiency-push-2026-11-20/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261116-INDIA-RECORD-FOREIGN-EQUITY-INFLOWS",
+      "version": 2,
+      "status": "follow-up",
+      "freshness": "catch-up",
+      "topic": "INDIA / EQUITIES / FOREIGN FLOWS / REGIONAL ROTATION",
+      "headline": "India’s November equity inflows reach US$12.21bn as benchmarks complete another positive week",
+      "body": "Reuters reported foreign net investment of US$12.21 billion in Indian equities so far in November. The Nifty 50 and Sensex gained 2.6% and 2.9% over the week; each rose about 1.1% on Friday, closing at 25,800.6 and 83,919.71. The inflow total is month-to-date, the index gains are weekly and daily, and the levels are Friday closes. They are neither four-hour flows nor live quotations. The updated flow total and completed week substantively extend the retained rotation story. No related USD/SGD quotation was verified.",
+      "analysis": "Regional markets can diverge during a selloff, while concentration, valuation and currency risks remain and flows can reverse.",
+      "watch_next": "Subsequent net flows, earnings, valuations and rupee conditions.",
+      "earlier": "Retained v1 reported US$8.94 billion in November foreign equity purchases and separate equity-plus-bond flows. The new equity-only total is US$12.21 billion; prior records and their dates remain unchanged.",
+      "source_urls": [
+        "https://www.reuters.com/world/india/indian-stocks-seen-falling-nine-month-highs-asia-market-rout-deepens-2026-11-20/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261120-ANTHROPIC-AUSTRALIA-144GW-DATACENTRE-OBJECTIONS",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "AUSTRALIA / ANTHROPIC / DATA CENTRES / POWER / PLANNING",
+      "headline": "Proposed 1.44GW Anthropic-linked Australian data centre faces 595 objections or delay requests",
+      "body": "Reuters reviewed a filing for the proposed Western Downs Digital Park in Queensland, with Anthropic as anchor tenant. Of nearly 600 submissions, 595 opposed the plan or sought delay, two supported it and one was neutral. Concerns covered water, power demand and prices, roads, noise and housing. The planned computing load is 1.44 gigawatts. Developer Zerra DC said it was expanding community engagement; Anthropic declined comment. Submissions are not binding and do not establish project rejection. Planned capacity is not completed operating capacity. No project-specific share-price or credit response was verified.",
+      "analysis": "Power availability, planning approval and local acceptance can affect AI investment timing and the conversion of commitments into cash flow.",
+      "watch_next": "Planning decisions, revised community proposals, grid arrangements, financing and construction.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/asia-pacific/anthropics-australian-data-centre-overwhelmingly-opposed-by-residents-2026-11-20/"
+      ],
+      "development_at": null
+    }
+  ]
+}
