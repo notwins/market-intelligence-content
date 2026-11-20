@@ -1,0 +1,185 @@
+{
+  "id": "reuters-20261121T042940-SGT",
+  "window_start": "2026-11-20T23:37:27+08:00",
+  "cutoff": "2026-11-21T04:29:40+08:00",
+  "report_at": "2026-11-21T04:33:29+08:00",
+  "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+  "original_url": null,
+  "coverage": "partial",
+  "summary": "Six verified Reuters previews cover Nvidia accounting scrutiny, a Hormuz tanker fire, Cook/Bessent policy views, ECB nominations, financial-vendor cyber incidents and Russian attacks on Ukrainian infrastructure. The global AI-selloff v13 follow-up is held for missing predecessor history. Full-detail publication remains held.",
+  "limitations": [
+    "Partial source review for 20 November 23:37:27 to 21 November 04:29:40 SGT, with discovery overlap from 23:22:27. The original completed report ends at 04:33:29 SGT. No exhaustive Reuters scan or complete historical coverage cutoff is established; earlier gaps remain open.",
+    "Six version-one previews are selected from seven source stories. AI selloff R-20261116-US-AI-SEMICONDUCTOR-SELL-OFF v13 is held because v12 and its predecessor chain are absent from retained public history. Its equity rotation and daily UST yield moves are not split into new events or relabelled four-hour changes.",
+    "Accessible Reuters-attributed syndication verifies selected substantive claims and source dates. Publication clocks differ from some producer labels and their original/revision precision is not consistently established. Sources retain date precision with null exact publication/update/development timestamps. All selected stories are conservatively catch-up; no breaking claim is added. The 19 November vendor incident and earlier 20 November Ukraine attack are explicitly older discoveries.",
+    "The SEC accounting focus is distinct from older Nvidia investigation background and does not establish wrongdoing. The 20 November tanker incident is distinct from the retained 16 November Tara Gas attack; projectile and mine accounts remain disputed. Cook and Bessent remarks are not a new Fed decision, and ECB nominations remain subject to confirmation. Vendor incidents do not establish payment-network compromise. Ukraine casualty and attack counts retain attribution and verification limits.",
+    "Metadata and quick-read are previews only. The complete original sections A–F, seven stories, two tables, comparisons, numeric blocks, analysis, ten-source register and meaningful emphasis are retained privately. Full-detail publication remains held: the approved process has no hourly channel, stable time-aware identity for multiple same-day editions or discoverable exact full-report links. Completeness, approved V3 presentation, rights and desktop/mobile review are not attested.",
+    "The complete source response and source register were read. The advertised matching JSON attachment was not retrieved or checksum-verified; signed-in browser attachment access timed out. No source prompt or substitute scan was sent.",
+    "Existing hourly versions, all seven independent public reports and the accessible legacy daily register were checked for overlap. Selected event facts were not found there; this is not an exhaustive comparison with unavailable private cross-briefings. Producer schedule status was not freshly verified and remains unchanged."
+  ],
+  "sources": [
+    {
+      "url": "https://www.reuters.com/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/",
+      "title": "Nvidia's accounting is a focus of US SEC investigation, sources say",
+      "published_at": null,
+      "published_date": "2026-11-20",
+      "publication_precision": "date",
+      "verification_url": "https://www.investing.com/news/economy-news/exclusiveus-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-5042460"
+    },
+    {
+      "url": "https://www.reuters.com/world/middle-east/fire-reported-tanker-after-projectile-strike-off-oman-ukmto-says-2026-11-20/",
+      "title": "Tanker catches fire after projectile strike near Strait of Hormuz, UKMTO says",
+      "published_at": null,
+      "published_date": "2026-11-20",
+      "publication_precision": "date",
+      "verification_url": "https://new.streetinsider.com/Reuters/Tanker%2Bcatches%2Bfire%2Bafter%2Bprojectile%2Bstrike%2Bnear%2BStrait%2Bof%2BHormuz,%2BUKMTO%2Bsays/27380571.html"
+    },
+    {
+      "url": "https://www.reuters.com/business/feds-cook-says-rate-hikes-needed-lower-high-inflation-2026-11-20/",
+      "title": "Fed's Cook says rate hikes needed to lower high inflation",
+      "published_at": null,
+      "published_date": "2026-11-20",
+      "publication_precision": "date",
+      "verification_url": "https://www.investing.com/news/economy-news/feds-cook-says-rate-hikes-needed-to-lower-high-inflation-5042321"
+    },
+    {
+      "url": "https://www.reuters.com/business/feds-cook-says-central-bank-watching-ai-industry-financing-2026-11-20/",
+      "title": "Fed's Cook says central bank watching AI industry financing",
+      "published_at": null,
+      "published_date": "2026-11-20",
+      "publication_precision": "date",
+      "verification_url": "https://www.investing.com/news/economy-news/feds-cook-says-central-bank-watching-ai-industry-financing-5042385"
+    },
+    {
+      "url": "https://www.reuters.com/business/bessent-advocates-lower-fed-rate-hike-cites-energy-shock-2026-11-20/",
+      "title": "Bessent advocates lower Fed rate hike, cites energy shock",
+      "published_at": null,
+      "published_date": "2026-11-20",
+      "publication_precision": "date",
+      "verification_url": "https://d2233.cms.socastsrm.com/2026/11/20/bessent-advocates-lower-fed-rate-hike-cites-energy-shock/"
+    },
+    {
+      "url": "https://www.reuters.com/business/finance/france-germany-take-key-ecb-roles-with-spain-set-presidency-2026-11-20/",
+      "title": "France, Germany to take key ECB roles, with Spain set for presidency",
+      "published_at": null,
+      "published_date": "2026-11-20",
+      "publication_precision": "date",
+      "verification_url": "https://www.investing.com/news/economic-indicators/france-germany-to-take-key-ecb-roles-with-spain-set-for-presidency-5042345"
+    },
+    {
+      "url": "https://www.reuters.com/legal/government/jpmorgan-says-third-party-vendors-targeted-cyberattack-2026-11-19/",
+      "title": "JPMorgan, Visa, Mastercard say third-party vendors targeted in cyberattack",
+      "published_at": null,
+      "published_date": "2026-11-19",
+      "publication_precision": "date",
+      "verification_url": "https://new.streetinsider.com/Reuters/JPMorgan,%2BVisa,%2BMastercard%2Bsay%2Bthird-party%2Bvendors%2Btargeted%2Bin%2Bcyberattack/27373799.html"
+    },
+    {
+      "url": "https://www.reuters.com/world/europe/fire-broke-out-ukraines-kyiv-after-missile-strike-mayor-says-2026-11-20/",
+      "title": "Eight killed in Ukraine as Russia hits back after Crimea bridge attacks",
+      "published_at": null,
+      "published_date": "2026-11-20",
+      "publication_precision": "date",
+      "verification_url": "https://www.investing.com/news/commodities-news/eight-killed-in-ukraine-as-russia-hits-back-after-crimea-bridge-attacks-5041652"
+    }
+  ],
+  "stories": [
+    {
+      "story_id": "R-20261120-US-SEC-NVIDIA-ACCOUNTING-INQUIRY",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "US / NVIDIA / SEC / AI / SINGAPORE / GOVERNANCE",
+      "headline": "Reuters identifies accounting focus in SEC inquiry into Nvidia",
+      "body": "Reuters, citing two people briefed on the matter, reported that SEC enforcement staff were examining potential Nvidia accounting issues. The SEC declined comment; Nvidia had not responded at publication. Reuters could not establish the inquiry's start or precise scope. Identifying the accounting focus is distinct from the earlier reported existence of a probe or California subpoena. The report discusses Singapore-related geographic revenue disclosure. An investigation does not establish wrongdoing. No isolated price effect is supplied.",
+      "analysis": "Reporting controls and customer geography merit scrutiny; allegations and proven findings remain different.",
+      "watch_next": "SEC filings, Nvidia disclosures, audit developments and formal enforcement decisions.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261120-HORMUZ-TANKER-FIRE-PROJECTILE-UKMTO",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "GULF / OMAN / HORMUZ / OIL / SHIPPING RISK",
+      "headline": "Tanker fire near Hormuz prompts conflicting accounts of the cause",
+      "body": "UKMTO reported that an outbound tanker caught fire after an unknown projectile strike eight nautical miles north of Khasab, Oman, on 20 November. No casualties or environmental impact were reported. Iran's Revolutionary Guards separately claimed a mine caused the fire. These accounts are not reconciled. This is separate from the retained 16 November Tara Gas incident. No incident-specific oil-price change or new sustained closure was verified.",
+      "analysis": "Shipping and insurance risk can rise without evidence of a measured production loss.",
+      "watch_next": "Independent incident findings, tanker movements, insurance costs and confirmed disruption.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/middle-east/fire-reported-tanker-after-projectile-strike-off-oman-ukmto-says-2026-11-20/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261120-FED-COOK-BESSENT-RATE-DEBATE-AI-FINANCING",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "FED / US RATES / INFLATION / AI / CREDIT",
+      "headline": "Cook urges tighter Fed policy and scrutiny of AI financing; Bessent opposes a large hike",
+      "body": "Fed Governor Lisa Cook argued that policy was insufficiently restrictive to restore the 2% inflation goal. Reuters cited the existing 3.75%–4.00% policy range, not a new decision. Separately, she flagged fast-growing, complex and opaque AI financing arrangements. Treasury Secretary Scott Bessent argued against a 50bp hike in light of the energy shock. These are different public views, not an FOMC vote or a verified change in market-implied probabilities. No matched-time market reaction was established.",
+      "analysis": "Inflation persistence and financing complexity have separate implications for duration and credit risk.",
+      "watch_next": "FOMC communications, inflation data, data-centre financing and debt-service capacity.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/business/feds-cook-says-rate-hikes-needed-lower-high-inflation-2026-11-20/",
+        "https://www.reuters.com/business/feds-cook-says-central-bank-watching-ai-industry-financing-2026-11-20/",
+        "https://www.reuters.com/business/bessent-advocates-lower-fed-rate-hike-cites-energy-shock-2026-11-20/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261120-ECB-BOARD-FR-DE-ES-NOMINATIONS",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "EURO AREA / ECB / FRANCE / GERMANY / SPAIN / POLICY",
+      "headline": "France nominates Laurence Boone as Reuters outlines prospective ECB leadership changes",
+      "body": "France nominated Laurence Boone to the ECB executive board. Reuters reported that Spain's Pablo Hernández de Cos was on track to succeed Christine Lagarde and that Germany's Markus Brunnermeier was likely to become chief economist. The nominations remain subject to confirmation. These personnel developments are not an ECB interest-rate decision. No directly attributable euro, Bund or bank-share move was established.",
+      "analysis": "Leadership can influence policy discussions, while formal appointments and actual decisions determine outcomes.",
+      "watch_next": "Confirmation processes, official ECB announcements and policy positions.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/business/finance/france-germany-take-key-ecb-roles-with-spain-set-presidency-2026-11-20/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261119-US-BANK-PAYMENT-VENDOR-CYBERATTACK",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "US / JPMORGAN / VISA / MASTERCARD / CYBER RISK",
+      "headline": "JPMorgan, Visa and Mastercard report third-party vendor cyber incidents",
+      "body": "Reuters reported on 19 November that third-party providers linked to JPMorgan, Visa and Mastercard were targeted. JPMorgan said marketing data might include customer names and email addresses. Visa said its systems and payments data were unaffected; Mastercard said its payment network was unaffected. Reuters could not authenticate the claimed stolen datasets in full. The report does not establish core-network compromise or customer financial losses. This is an older eligible discovery, not new coverage of the full intervening period.",
+      "analysis": "Vendor dependence creates operational and data-protection exposure even when core networks remain unaffected.",
+      "watch_next": "Verified exposure scope, customer notifications and regulatory responses.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/legal/government/jpmorgan-says-third-party-vendors-targeted-cyberattack-2026-11-19/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261120-RUSSIA-UKRAINE-RETALIATORY-INFRASTRUCTURE-STRIKES",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "UKRAINE / RUSSIA / GEOPOLITICS / ENERGY / INFRASTRUCTURE",
+      "headline": "Reuters reports deadly Russian infrastructure strikes after Crimean Bridge attacks",
+      "body": "Reuters reported eight deaths in Russian attacks on Ukrainian infrastructure on 20 November. President Volodymyr Zelenskiy said more than 400 drones and over 110 missiles were launched. Energy, railway and bridge damage was reported; Reuters could not independently confirm all accounts. This attack is distinct from the previously retained Crimean Bridge strike. No directly attributable oil, gold, FX or Treasury move was verified. It is an older eligible discovery.",
+      "analysis": "Damage raises humanitarian and economic costs; battlefield claims and independently confirmed outcomes remain separate.",
+      "watch_next": "Verified damage, repairs, further escalation and substantive diplomatic agreements.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/europe/fire-broke-out-ukraines-kyiv-after-missile-strike-mayor-says-2026-11-20/"
+      ],
+      "development_at": null
+    }
+  ]
+}
