@@ -2,13 +2,134 @@
   "schema_version": 1,
   "source_name": "Reuters Hourly News",
   "source_url": null,
-  "publisher_checked_at": "2026-11-20T05:57:59+08:00",
+  "publisher_checked_at": "2026-11-20T18:45:21+08:00",
   "last_complete_cutoff": null,
   "source_schedule": {
     "status": "Active",
     "checked_at": "2026-11-03T18:21:21+08:00"
   },
   "editions": [
+    {
+      "id": "reuters-20261120T154139-SGT",
+      "window_start": "2026-11-20T12:18:23+08:00",
+      "cutoff": "2026-11-20T15:41:39+08:00",
+      "report_at": "2026-11-20T15:46:34+08:00",
+      "coverage": "partial",
+      "original_url": null,
+      "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+      "summary": "Four reviewed Reuters previews cover TSMC’s source-reported China manufacturing restrictions, UK borrowing, UK retail sales and Taiwan’s suspected influence accounts with Meta’s response. The Asian AI-selloff v11 is held for missing prerequisite history. Full-detail publication remains held.",
+      "limitations": [
+        "Targeted partial source scan for 20 November 12:18:23–15:41:39 SGT, with discovery overlap from 12:03:23. The original handoff table gives report generation as 15:46:34 SGT; END UPDATE repeats the earlier cutoff. Previous gaps remain open and no fully complete scan cutoff is advanced.",
+        "The source contains four new stories and one follow-up. Four independently checked new previews were selected. TSMC is an older 19 November catch-up discovery. AI-equity selloff v11 is held because its v10 predecessor and earlier chain are not retained publicly; no fresh ID, reset to v1 or invented numbering is used. Its rolling regional market figures are not promoted as independently verified final closes in this edition.",
+        "The previous published cutoff is 20 November 03:32:31 SGT. Source editions at 08:09:40 and 12:18:23 were visible during discovery but were not imported or independently reviewed as complete editions in this execution. This latest selected report does not fill those intervals or the earlier backlog.",
+        "The producer records original-publication minute labels, but this execution independently establishes date precision from Reuters-attributed copies without resolving every original/revision clock. Sources use null published_at, verified dates and no inferred clock from URL or update headers. Development times are null and selected freshness is conservatively catch-up. Later syndication revisions are not treated as new developments beyond the source cutoff.",
+        "October borrowing, April–September revisions, April–October cumulative borrowing and the March OBR profile remain distinct. Retail monthly and annual comparisons remain distinct. These are fiscal and sales surprises, not inflation or employment surprises or new policy decisions. No matched UST move above 10bp, executable SGD/CHF quote or confirmed default is inferred.",
+        "Taiwan officials’ influence allegations, separate AI-video claims, Meta’s removal statement and its denial of election-related posts by those accounts are preserved together. China’s longstanding denial is not presented as a new response. No verified market reaction or semiconductor production loss is inferred. TSMC restrictions remain source-reported affected-order guidance, with company compliance comments and verification limits.",
+        "Metadata is a preview only. Full-detail publication remains held. All original sections A-F, five stories, tables, figures, source links and emphasis are retained privately, with omitted public items explicitly accounted for. Approved completeness and desktop/mobile visual review are not attested; no full report is claimed from these previews.",
+        "The matching original Reuters-Hourly-Report-20261120T074139Z.json, advertised as 24272 bytes, has not been retrieved or checksum-verified in this execution. Full-report publication also lacks an approved hourly channel, time-aware stable edition identity and an exact companion reader/card/search link. Those prerequisites require separate implementation; routine publication leaves the UI and content infrastructure unchanged.",
+        "Public hourly history, six independent full-report records and accessible legacy daily records were checked for overlapping selected events; numeric coincidences in older chart arrays are not treated as news duplicates. No exhaustive private cross-briefing coverage is claimed. The producer’s public schedule state was not freshly verified and remains unchanged."
+      ],
+      "sources": [
+        {
+          "url": "https://www.reuters.com/world/china/tsmc-tightens-china-ai-chip-curbs-new-us-rules-close-manufacturing-loophole-2026-11-19/",
+          "title": "TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say",
+          "published_at": null,
+          "published_date": "2026-11-19",
+          "publication_precision": "date",
+          "verification_url": "https://uk.marketscreener.com/news/tsmc-tightens-china-ai-chip-curbs-as-new-us-rules-close-manufacturing-loophole-sources-say-ce785ed2db88f224"
+        },
+        {
+          "url": "https://www.reuters.com/world/uk/uk-borrowing-beats-forecasts-healeys-deficit-picture-improves-2026-11-20/",
+          "title": "UK borrowing beats forecasts as Healey's deficit picture improves",
+          "published_at": null,
+          "published_date": "2026-11-20",
+          "publication_precision": "date",
+          "verification_url": "https://ae.marketscreener.com/news/uk-borrowing-beats-forecasts-as-healey-s-deficit-picture-improves-ce785ed2d080f52d"
+        },
+        {
+          "url": "https://www.reuters.com/world/uk/uk-retail-sales-rise-07-october-beating-forecasts-2026-11-20/",
+          "title": "UK retail sales beat forecasts after government tells households to stock up",
+          "published_at": null,
+          "published_date": "2026-11-20",
+          "publication_precision": "date",
+          "verification_url": "https://new.streetinsider.com/Reuters/UK%2Bretail%2Bsales%2Bbeat%2Bforecasts%2Bafter%2Bgovernment%2Btells%2Bhouseholds%2Bto%2Bstock%2Bup/27378038.html"
+        },
+        {
+          "url": "https://www.reuters.com/world/china/taiwan-tells-meta-thousands-china-linked-accounts-seek-influence-elections-2026-11-20/",
+          "title": "Taiwan tells Meta thousands of China-linked accounts seek to influence elections",
+          "published_at": null,
+          "published_date": "2026-11-20",
+          "publication_precision": "date",
+          "verification_url": "https://ae.marketscreener.com/news/taiwan-tells-meta-thousands-of-china-linked-accounts-seek-to-influence-elections-ce785ed2d18af327"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261119-TSMC-CHINA-ADVANCED-FOUNDRY-EXPORT-CONTROLS",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "TAIWAN / TSMC / CHINA / SEMICONDUCTORS / EXPORT CONTROLS",
+          "headline": "Sources say TSMC halts affected advanced Chinese chip orders without US licences",
+          "body": "Two people told Reuters that TSMC instructed affected Chinese customers’ orders at 16 nanometres and below to halt unless US export licences were obtained. Guidance generally limits those designers to older 28nm and 40nm processes without high-bandwidth memory or advanced packaging. The report links this to US rules effective 19 November that removed a prior compliance route. TSMC said it would comply with applicable regulations; Reuters could not independently verify all earlier manufacturing arrangements. This is an older 19 November catch-up discovery. No report-specific share-price or FX move was established.",
+          "analysis": "Licence and customer-screening requirements may constrain advanced-chip access and complicate supply chains; source-reported guidance is distinct from verified customer-by-customer outcomes.",
+          "watch_next": "Licences, affected orders and confirmed production or customer changes.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/china/tsmc-tightens-china-ai-chip-curbs-new-us-rules-close-manufacturing-loophole-2026-11-19/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261120-UK-OCT-PUBLIC-BORROWING-BEATS-FORECAST",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "UK / FISCAL / BORROWING / GILTS / CREDIT",
+          "headline": "UK October borrowing is £17bn versus £18bn forecast; earlier months revised down",
+          "body": "ONS figures reported by Reuters put October public-sector net borrowing at £17 billion, below the £18 billion Reuters-poll median. April–September 2026/27 borrowing was revised down £3.6 billion, largely on stronger tax receipts. Cumulative April–October borrowing was £111.3 billion, still £3.3 billion above the OBR’s March forecast profile. These are separate monthly, revision and seven-month cumulative measures. Gilt futures briefly fell after the data but were broadly little changed; no precise quote clock or magnitude was established.",
+          "analysis": "The release offers limited fiscal relief while cumulative borrowing remains above the earlier forecast path; it does not resolve longer-term funding pressures.",
+          "watch_next": "Gilt auctions, later borrowing revisions and financing costs.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/uk/uk-borrowing-beats-forecasts-healeys-deficit-picture-improves-2026-11-20/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261120-UK-OCT-RETAIL-SALES-SURPRISE",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "UK / RETAIL SALES / CONSUMPTION / BOE",
+          "headline": "UK October retail volumes rise 0.7%, exceeding every Reuters-poll forecast",
+          "body": "UK retail sales volumes increased 0.7% in October from September, Reuters reported, beating every forecast in its economist poll. Annual volume growth rose to 2.3% from September’s 0.4%; that comparison is year on year, distinct from the monthly gain. The ONS cited demand for long-life supermarket groceries after government preparedness advice, alongside stronger clothing sales. No retail-release-specific sterling or gilt-yield move was verified. This is a sales-data surprise, not an inflation release, employment surprise or new BoE rate decision.",
+          "analysis": "Stockpiling can temporarily boost measured demand, so the release does not by itself establish a lasting acceleration in household consumption.",
+          "watch_next": "November spending, inflation, wages and BoE guidance.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/uk/uk-retail-sales-rise-07-october-beating-forecasts-2026-11-20/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261120-TAIWAN-META-SUSPECTED-ELECTION-INFLUENCE-ACCOUNTS",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "TAIWAN / CHINA / META / ELECTIONS / INFORMATION SECURITY",
+          "headline": "Taiwan flags nearly 2,700 suspected influence accounts; Meta gives a different account",
+          "body": "Taiwanese officials and internal reports described nearly 2,700 accounts flagged to Meta ahead of the 28 November local elections as suspected China-linked influence activity. Officials separately cited AI-generated political videos. Meta said it removed flagged low-quality fake accounts, but said none of those accounts had posted election-related material and most had no followers. Beijing has long rejected election-interference accusations; its Taiwan Affairs Office did not respond to Reuters on this report. The allegations and platform response remain distinct. No attributable TWD or semiconductor-share reaction was established.",
+          "analysis": "Information-security allegations add political uncertainty without proving an immediate production disruption or independently establishing every claimed influence link.",
+          "watch_next": "Independent evidence, election developments and platform enforcement disclosures.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/china/taiwan-tells-meta-thousands-china-linked-accounts-seek-influence-elections-2026-11-20/"
+          ],
+          "development_at": null
+        }
+      ]
+    },
     {
       "id": "reuters-20261120T033231-SGT",
       "window_start": "2026-11-20T00:05:19+08:00",
