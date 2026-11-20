@@ -2,13 +2,109 @@
   "schema_version": 1,
   "source_name": "Reuters Hourly News",
   "source_url": null,
-  "publisher_checked_at": "2026-11-20T21:22:53+08:00",
+  "publisher_checked_at": "2026-11-21T00:22:34+08:00",
   "last_complete_cutoff": null,
   "source_schedule": {
     "status": "Active",
     "checked_at": "2026-11-03T18:21:21+08:00"
   },
   "editions": [
+    {
+      "id": "reuters-20261120T233727-SGT",
+      "window_start": "2026-11-20T20:22:55+08:00",
+      "cutoff": "2026-11-20T23:37:27+08:00",
+      "report_at": "2026-11-20T23:42:52+08:00",
+      "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+      "original_url": null,
+      "coverage": "partial",
+      "summary": "Three verified Reuters previews cover Singapore/Malaysia sanctions-compliance scrutiny, Qatar’s announced German investment pledge and euro-area consumer confidence. The Anthropic IPO and global-equity follow-ups are held for missing prerequisite history. Full-detail publication remains held.",
+      "limitations": [
+        "Partial targeted source review for 20 November 20:22:55–23:37:27 SGT, with overlap from 20:07:55. Handoff generation is 23:42:52 SGT; END UPDATE repeats the cutoff. This does not establish exhaustive Reuters coverage or close earlier gaps. Last complete scan cutoff remains unverified.",
+        "Three initial-event previews are selected from five source stories. Anthropic IPO v7 is held because required v6 and intervening history are absent; public retained versions reach v3. Global AI-equity selloff v12 is held because v11 and its prior chain are absent. Neither event is renamed or reset to version one.",
+        "The NVDA/Alphabet valuation comparison, broader liquidation estimates and weekly Treasury-yield scenario belong to the held global-equity event. They are not split into new stories or presented as a verified move during this reporting window. Underwriters’ additional-share proceeds remain part of the held IPO chain.",
+        "Accessible Reuters-attributed copies establish publication dates but do not consistently distinguish original publication and revision clocks from the producer’s minute labels. Sources retain verified date-only precision and null exact publication/update/development timestamps. Selected freshness is conservatively catch-up because precise event timing is unresolved; no breaking label is added.",
+        "Sanctions-compliance meetings and official statements are distinct from a new MAS rule or a finding against a named Singapore bank. Qatar’s additional investment pledge is not disbursed cash, project financing or revenue; Reuters’ USD equivalent is not an executable FX rate. Euro-area and EU survey levels, point changes and forecast comparisons remain separate.",
+        "Metadata is a preview only. Full-detail publication remains held because the approved route does not support an hourly channel, stable time-aware edition identity and discoverable exact full-report links. Original sections A–F, five stories, two tables, figures, six-source register and emphasis are retained privately. Approved completeness, rights and desktop/mobile visual review are not attested.",
+        "The original complete source response and source register were retrieved. Its advertised matching JSON was not retrievable from the loaded signed-in source view during this run; advertised byte size and checksum remain unverified. No substitute scan or prompt to the producer was sent.",
+        "Retained hourly history, seven independent public reports and the accessible legacy daily register were inspected for overlap with the three selected developments. No matching selected event was found; no exhaustive private briefing coverage is claimed. Producer schedule status was not freshly verified and remains unchanged."
+      ],
+      "sources": [
+        {
+          "url": "https://www.reuters.com/world/asia-pacific/us-treasury-presses-singapore-malaysia-iran-sanctions-compliance-2026-11-20/",
+          "title": "US Treasury presses Singapore and Malaysia on Iran sanctions compliance",
+          "published_at": null,
+          "published_date": "2026-11-20",
+          "publication_precision": "date",
+          "verification_url": "https://www.investing.com/news/economy-news/us-treasury-presses-singapore-and-malaysia-on-iran-sanctions-compliance-5042015"
+        },
+        {
+          "url": "https://www.reuters.com/world/middle-east/germanys-merz-says-qatar-pledged-15-billion-investments-2026-11-20/",
+          "title": "Germany's Merz says Qatar pledged €15 billion in investments",
+          "published_at": null,
+          "published_date": "2026-11-20",
+          "publication_precision": "date",
+          "verification_url": "https://www.devdiscourse.com/article/international/4010041-germanys-merz-says-qatar-pledged-15-billion-in-investments"
+        },
+        {
+          "url": "https://www.reuters.com/markets/europe/euro-zone-consumer-confidence-rises-169-november-2026-11-20/",
+          "title": "Euro zone consumer confidence rises to -16.9 in November",
+          "published_at": null,
+          "published_date": "2026-11-20",
+          "publication_precision": "date",
+          "verification_url": "https://hk.marketscreener.com/news/euro-zone-consumer-confidence-rises-to-16-9-in-november-ce785ed3da88f62c"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261120-US-TREASURY-SG-MY-IRAN-SANCTIONS-COMPLIANCE",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "SINGAPORE / MALAYSIA / US TREASURY / IRAN / BANKING / SANCTIONS",
+          "headline": "US Treasury raises Iran-sanctions compliance risks with Singapore and Malaysian authorities",
+          "body": "Reuters reported that US Treasury officials met government authorities in Singapore and Malaysia during the week to warn about Iran-sanctions evasion risks. Officials urged attention to front companies and higher-risk maritime, aviation and procurement networks, including risks for banks and law firms. Singapore said it was committed to preventing misuse of corporate vehicles and strengthening financial and maritime vigilance. The report does not establish a new MAS rule or a violation by a particular Singapore bank. No attributable USD/SGD, CHF, oil-price or bank-credit-spread movement was verified.",
+          "analysis": "Cross-border financing and corporate-ownership links can create compliance exposure; the report is a risk-development update rather than a finding of wrongdoing by a named bank.",
+          "watch_next": "Official sanctions designations, regulator statements and documented enforcement actions.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/asia-pacific/us-treasury-presses-singapore-malaysia-iran-sanctions-compliance-2026-11-20/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261120-QATAR-GERMANY-15BN-INVESTMENT-PLEDGE",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "GERMANY / QATAR / INVESTMENT / AI / SEMICONDUCTORS / DEFENCE",
+          "headline": "Merz reports an additional €15bn Qatari investment pledge for Germany",
+          "body": "Chancellor Friedrich Merz said Qatar pledged an additional €15 billion of investment in Germany as cooperation deepened in defence and technology, including AI, semiconductors and aviation. Reuters supplied an approximate US$16.5 billion equivalent; that conversion is not an executable FX quotation. This is an announced pledge, not evidence of cash disbursement, signed project financing, completed investment or recognised company revenue. No announcement-specific euro, Bund-yield or equity response was established.",
+          "analysis": "The pledge could support future capital investment, while specific contracts, project funding and execution determine the realised economic effect.",
+          "watch_next": "Named recipients, contracts, financing terms, project milestones and actual disbursement.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/middle-east/germanys-merz-says-qatar-pledged-15-billion-investments-2026-11-20/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261120-EURO-AREA-NOV-CONSUMER-CONFIDENCE-SURPRISE",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "EURO AREA / EU / MACRO / CONSUMER CONFIDENCE",
+          "headline": "Euro-area November confidence improves to −16.9, beating the −18.0 Reuters forecast",
+          "body": "The European Commission’s November flash estimate put euro-area consumer confidence at −16.9, compared with −17.9 in October and a Reuters-poll expectation of −18.0. The euro-area improvement was 1.0 point. Across the wider EU, confidence rose 0.8 points to −16.5. Euro-area and EU readings are separate survey measures, expressed as levels and point changes rather than percentage returns. Confidence remains negative. This is a flash sentiment indicator, not realised household consumption, an inflation or employment release, or an ECB policy decision. No synchronized EUR or Bund reaction was verified.",
+          "analysis": "A better-than-expected survey can inform the demand outlook, but confirmation requires actual spending and other activity data.",
+          "watch_next": "Final survey detail, business surveys, retail spending and ECB communications.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/markets/europe/euro-zone-consumer-confidence-rises-169-november-2026-11-20/"
+          ],
+          "development_at": null
+        }
+      ]
+    },
     {
       "id": "reuters-20261120T202255-SGT",
       "report_at": "2026-11-20T20:29:57+08:00",
