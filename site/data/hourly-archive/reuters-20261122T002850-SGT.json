@@ -1,0 +1,118 @@
+{
+  "id": "reuters-20261122T002850-SGT",
+  "report_at": "2026-11-22T00:31:37+08:00",
+  "cutoff": "2026-11-22T00:28:50+08:00",
+  "window_start": "2026-11-21T20:15:00+08:00",
+  "coverage": "partial",
+  "original_url": null,
+  "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+  "summary": "Four verified previews cover the EU-Indonesia trade signing, further Hormuz tanker reports, quantified EU budget and digital-tax proposals, and Qatar-Tehran talks. Two follow-ups connect to retained v1 history. Full-detail publication remains held.",
+  "limitations": [
+    "Partial targeted report for 21 November 20:15:00 to 22 November 00:28:50 SGT, completed 00:31:37. Discovery overlap began at 20:00 on 21 November. This does not establish exhaustive Reuters wire coverage or fill earlier missing editions and retrieval gaps. The last complete source-scan cutoff remains unestablished.",
+    "All four source developments are represented as metadata previews: two initial versions and two connected follow-ups. Hormuz v2 retains the Friday fire v1 and adds Saturday reports; it does not assert two distinct vessels. EU budget v2 retains France's earlier objection and adds quantified proposals. Existing unrelated held version chains, including Anthropic, are unchanged.",
+    "Selected facts were independently checked in Reuters-attributed reporting. Original 21 November publication dates are verified, but accessible publication/update clocks differ from the source-register minute labels. Exact publication, revision and development timestamps remain null. The Qatar visit occurred Friday night, 20 November, so this newly reviewed report is conservatively marked catch-up; the source had labelled its Saturday disclosure in-window.",
+    "Trade signing is not entry into force; early-2027 implementation and EUR650m annual savings are expectations. The budget and 3% digital levy are proposals, not enacted law. EUR40bn and EUR180.6bn reductions use different baselines. Tanker accounts and Iran's mine claim remain unresolved. Diplomatic talks do not establish a ceasefire or reopened shipping route. No attributable market reaction or executable FX/security quote is supplied.",
+    "These are metadata previews only. The complete original visible response, matching 24,470-byte JSON attachment with verified SHA-256, full dashboard markdown, client draft, tables, figures, source links and emphasis are retained privately. Full detail remains held: the approved process lacks an hourly channel, time-aware same-day edition identity and discoverable exact full-report link. No approved complete V3 desktop/mobile publication or missing chart/data reconstruction is claimed.",
+    "No new verified matched-period UST move exceeding 10bp, inflation/employment surprise, central-bank expectation change, SNB sight-deposit movement, recession-probability revision or confirmed default is established by this partial report. Producer schedule state is preserved because it was not directly checked."
+  ],
+  "sources": [
+    {
+      "url": "https://www.reuters.com/markets/commodities/eu-indonesia-sign-trade-deal-after-10-years-negotiations-2026-11-21/",
+      "title": "EU and Indonesia sign trade deal after 10 years of negotiations",
+      "published_at": null,
+      "published_date": "2026-11-21",
+      "publication_precision": "date",
+      "verification_url": "https://www.thejakartapost.com/business/2026/11/21/indonesia-eu-sign-trade-deal-after-10-years-of-negotiations"
+    },
+    {
+      "url": "https://www.reuters.com/business/energy/tanker-hit-by-unknown-projectile-near-omans-khasab-ukmto-says-2026-11-21/",
+      "title": "UK maritime agency reports two tanker incidents near Oman; Iran says vessel hit mine east of Hormuz",
+      "published_at": null,
+      "published_date": "2026-11-21",
+      "publication_precision": "date",
+      "verification_url": "https://www.brecorder.com/news/40450111/uk-maritime-agency-reports-two-tanker-incidents-near-oman-iran-says-vessel-hit-mine-east-of-hormuz"
+    },
+    {
+      "url": "https://www.reuters.com/markets/us/eu-leaders-chair-proposes-new-cuts-eu-2028-2034-budget-draft-suggests-digital-2026-11-21/",
+      "title": "EU leaders' chair proposes new cuts to EU 2028-2034 budget draft, suggests digital tax",
+      "published_at": null,
+      "published_date": "2026-11-21",
+      "publication_precision": "date",
+      "verification_url": "https://www.streetinsider.com/Reuters/EU%2Bleaders%2Bchair%2Bproposes%2Bnew%2Bcuts%2Bto%2BEU%2B2028-2034%2Bbudget%2Bdraft%2C%2Bsuggests%2Bdigital%2Btax/27382906.html"
+    },
+    {
+      "url": "https://www.reuters.com/world/middle-east/qatari-delegation-visits-tehran-talks-iranian-official-says-2026-11-21/",
+      "title": "Qatari delegation visits Tehran for talks, Iranian official says",
+      "published_at": null,
+      "published_date": "2026-11-21",
+      "publication_precision": "date",
+      "verification_url": "https://new.streetinsider.com/Reuters/Qatari%2Bdelegation%2Bvisits%2BTehran%2Bfor%2Btalks%2C%2BIranian%2Bofficial%2Bsays/27382929.html"
+    }
+  ],
+  "stories": [
+    {
+      "story_id": "R-20261121-EU-INDONESIA-TRADE-DEAL-SIGNED",
+      "version": 1,
+      "status": "new",
+      "freshness": "current",
+      "topic": "EUROPEAN UNION / INDONESIA / ASEAN / TRADE / TARIFFS",
+      "headline": "EU and Indonesia sign trade agreements; implementation still requires approval",
+      "body": "Reuters reported that the EU and Indonesia signed comprehensive trade and investment-protection agreements after ten years of negotiations. Planned tariff removal covers more than 90% of products, including EU vehicles facing Indonesian duties as high as 50%. Estimated annual duty savings for EU exporters are EUR650m. Negotiations initially concluded in September 2025; European Parliament consent and internal procedures remain before expected early-2027 implementation. Signing is distinct from entry into force, and estimated tariff savings are not realised corporate profit. No directly attributable equity, bond or currency reaction was verified.",
+      "analysis": "Trade diversification could support exporters and regional supply chains while increasing competition; realised benefits depend on ratification and implementation.",
+      "watch_next": "European Parliament consent, Indonesian approvals and the final effective date.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/markets/commodities/eu-indonesia-sign-trade-deal-after-10-years-negotiations-2026-11-21/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261120-HORMUZ-TANKER-FIRE-PROJECTILE-UKMTO",
+      "version": 2,
+      "status": "follow-up",
+      "freshness": "catch-up",
+      "topic": "GULF / OMAN / STRAIT OF HORMUZ / OIL / SHIPPING / INSURANCE",
+      "headline": "Saturday tanker reports extend the retained Hormuz shipping-security story",
+      "body": "Reuters reported UKMTO accounts of a Saturday tanker stern strike 11 nautical miles north of Khasab and an engine-room strike 17 nautical miles east. Whether the two reports concern the same vessel was unresolved. No casualties were reported; environmental effects remained unknown. Iran separately claimed a mine strike, which Reuters could neither independently verify nor link to a specific UKMTO incident. These Saturday reports extend the retained Friday fire story, without establishing a new production outage or another confirmed waterway closure. No incident-specific oil-price move was verified.",
+      "analysis": "Further incidents add uncertainty for shipping, insurance and energy logistics; reported attacks and measured supply losses remain different facts.",
+      "watch_next": "Vessel identities, confirmed damage, maritime notices and tanker movements.",
+      "earlier": "Retained v1 covered the separate 20 November tanker fire eight nautical miles north of Khasab and competing projectile/mine accounts. This v2 adds Saturday reports at different locations; it does not revise the earlier event into a new vessel count.",
+      "source_urls": [
+        "https://www.reuters.com/business/energy/tanker-hit-by-unknown-projectile-near-omans-khasab-ukmto-says-2026-11-21/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261121-EU-2028-2034-BUDGET-FRANCE-OBJECTION",
+      "version": 2,
+      "status": "follow-up",
+      "freshness": "current",
+      "topic": "EUROPEAN UNION / FRANCE / ANTONIO COSTA / FISCAL POLICY / TECHNOLOGY / DIGITAL TAX",
+      "headline": "EU budget follow-up adds proposed EUR40bn reduction and 3% digital levy",
+      "body": "Reuters detailed Antonio Costa's proposed 2028-2034 budget of EUR1.582tn: EUR40bn below October's draft and EUR180.6bn below the initial Commission plan. These use different baselines. A proposed 3% levy on qualifying digital advertising, intermediation and user-data turnover has potential equity implications for Google (Alphabet), Microsoft, Meta Platforms, Apple Inc. and Amazon. Leaders plan talks on 26-27 November and seek agreement in December. Unanimous agreement remains necessary; neither the budget nor tax is approved. No attributable euro, Bund or technology-share reaction was verified.",
+      "analysis": "The proposed budget path and digital-tax exposure could affect future investment and technology profitability, subject to the final design and approval.",
+      "watch_next": "The 26-27 November summit, levy scope and unanimous agreement.",
+      "earlier": "Retained v1 described France's objection to the EU budget draft over agricultural income support. This v2 adds quantified budget comparisons and a digital-tax proposal, while preserving the earlier objection and its date.",
+      "source_urls": [
+        "https://www.reuters.com/markets/us/eu-leaders-chair-proposes-new-cuts-eu-2028-2034-budget-draft-suggests-digital-2026-11-21/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261121-QATAR-TEHRAN-DIPLOMATIC-VISIT",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "QATAR / IRAN / GULF / DIPLOMACY / ENERGY / MARITIME SECURITY",
+      "headline": "Iranian official reports Qatar delegation talks in Tehran; no agreement established",
+      "body": "Reuters reported an Iranian deputy foreign minister's account of a delegation from Qatar holding talks in Tehran on Friday night, 20 November. He said mediator contacts continued in person and virtually. The Saturday report is a newly reviewed disclosure about an earlier meeting; its precise event time is unverified. Diplomatic contact does not establish a signed settlement or confirmed reopening of shipping routes. No directly attributable oil, FX or bond-market response was verified.",
+      "analysis": "The meeting provides a potential diplomatic channel during regional shipping concerns; significance depends on subsequent verifiable commitments.",
+      "watch_next": "Joint statements, formal proposals and confirmed shipping conditions.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/middle-east/qatari-delegation-visits-tehran-talks-iranian-official-says-2026-11-21/"
+      ],
+      "development_at": null
+    }
+  ]
+}
