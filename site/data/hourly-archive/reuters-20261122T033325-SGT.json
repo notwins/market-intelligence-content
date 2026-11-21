@@ -1,0 +1,70 @@
+{
+  "id": "reuters-20261122T033325-SGT",
+  "report_at": "2026-11-22T03:36:49+08:00",
+  "cutoff": "2026-11-22T03:33:25+08:00",
+  "window_start": "2026-11-22T00:28:50+08:00",
+  "coverage": "partial",
+  "original_url": null,
+  "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+  "summary": "Two verified catch-up previews cover Jensen Huang's public Senate testimony agreement and unresolved COP31 negotiations. Bitcoin v3 is held for its missing predecessor chain. Full-detail publication remains held.",
+  "limitations": [
+    "Partial targeted source report for 22 November 00:28:50-03:33:25 SGT, completed 03:36:49 SGT, with discovery overlap from 00:13:50. All selected developments were published before the prior cutoff and are catch-up discoveries, not breaking news. No separately timed material new development after 00:28:50 was established. Earlier coverage gaps remain open.",
+    "Two initial-version previews are selected from three source stories. Bitcoin R-20261121-BITCOIN-56813-68-RISK-OFF v3 requires missing public v2 and v1 and is held without renaming the event, resetting its version or republishing its historical prices. Older held chains remain unresolved.",
+    "Material selected facts were independently checked in Reuters-attributed syndication. Original calendar publication dates are verified: 20 November for the hearing agreement and 21 November for COP31. Displayed publication/update clocks differ across syndication and the source register; original publication minutes, revisions and exact development times remain null.",
+    "Agreeing to testify is not a misconduct finding or a verified earnings impact; the Senate hearing date remains unconfirmed. The separate 1 December House interview and the original 3 December Senate request are different dates. COP31 draft language and the proposed US$120bn target are negotiating positions, not enacted commitments, current funding reductions or a confirmed final summit failure.",
+    "These are metadata previews only. The entire original response, matching 20,507-byte JSON attachment with verified SHA-256, dashboard markdown, all three structured stories, tables, comparisons, client draft, source register and emphasis are retained privately. Full detail remains held because the approved process lacks an hourly channel, time-aware same-day edition identity and exact full-report reader link. No complete approved V3 desktop/mobile rendering is claimed.",
+    "No new matched-period US Treasury move exceeding 10bp, CPI/employment surprise, Fed/MAS/SNB expectation change, SNB sight-deposit shift, recession-probability revision or confirmed default was established by this partial report. Last complete source-scan cutoff is not advanced. Producer schedule state is preserved because it was not directly checked."
+  ],
+  "sources": [
+    {
+      "url": "https://www.reuters.com/world/us/former-nvidia-ceo-huang-agreed-testify-public-us-senate-hearing-senators-aide-2026-11-20/",
+      "title": "Former Nvidia CEO Huang agreed to testify at public US Senate hearing, senator's aide says",
+      "published_at": null,
+      "published_date": "2026-11-20",
+      "publication_precision": "date",
+      "verification_url": "https://finance.yahoo.com/news/former-nvidia-ceo-huang-agreed-185919409.html"
+    },
+    {
+      "url": "https://www.reuters.com/sustainability/cop/cop31-climate-summit-risks-failure-talks-go-deep-into-overtime-2026-11-21/",
+      "title": "COP31 climate summit risks failure as talks go deep into overtime",
+      "published_at": null,
+      "published_date": "2026-11-21",
+      "publication_precision": "date",
+      "verification_url": "https://www.streetinsider.com/Reuters/COP31%2Bclimate%2Bsummit%2Brisks%2Bfailure%2Bas%2Btalks%2Bgo%2Bdeep%2Binto%2Bovertime/27382924.html"
+    }
+  ],
+  "stories": [
+    {
+      "story_id": "R-20261120-NVDA-HUANG-SENATE-TESTIMONY-AGREEMENT",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "UNITED STATES / NVIDIA / JENSEN HUANG / AI / GOVERNANCE / EXPORT COMPLIANCE",
+      "headline": "Former Nvidia CEO Jensen Huang agrees to public Senate testimony; date unconfirmed",
+      "body": "Reuters reported on 20 November that an aide to Senator Tim Scott said former Nvidia CEO Jensen Huang agreed to testify at a public US Senate hearing. Lawmakers are examining China-related allegations and questions concerning advanced AI-chip exports. Scott's office did not confirm a hearing date; its original request named 3 December. A separate closed-door interview with three House committees was planned for 1 December. Huang's spokesperson declined comment. Agreement to testify is not a finding of misconduct, and the public hearing date remains unconfirmed. No directly attributable Nvidia share-price or earnings impact was verified.",
+      "analysis": "Testimony may clarify governance and export-compliance questions; allegations, committee findings and measured financial effects remain distinct.",
+      "watch_next": "Confirmed public hearing date, the separate House interview, official testimony and company disclosures.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/us/former-nvidia-ceo-huang-agreed-testify-public-us-senate-hearing-senators-aide-2026-11-20/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261121-COP31-OVERTIME-NO-DEAL-RISK",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "COP31 / TURKEY / EUROPEAN UNION / CLIMATE / ENERGY TRANSITION / CLIMATE FINANCE",
+      "headline": "COP31 negotiations run into overtime with fossil-fuel and climate-finance divisions unresolved",
+      "body": "Reuters reported on 21 November that negotiators from nearly 200 countries remained divided at COP31 in Antalya, Turkey, after the scheduled Friday conclusion. Disputes concerned fossil-fuel transition language and support for poorer countries adapting to climate change. Thursday's draft removed earlier fossil-fuel references and a proposed US$120bn adaptation-finance target. EU climate commissioner Wopke Hoekstra warned that no agreement remained possible. This describes a negotiating draft and unresolved talks, not an adopted agreement, a realised funding cut or a confirmed final summit failure. No directly attributable oil-price, carbon-market, bond-yield or FX move was verified.",
+      "analysis": "Unresolved climate finance and energy-transition provisions create longer-term policy uncertainty; their investment implications depend on the eventual agreed text and implementation.",
+      "watch_next": "Final negotiating text, any confirmed agreement, adaptation-finance provisions and fossil-fuel language.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/sustainability/cop/cop31-climate-summit-risks-failure-talks-go-deep-into-overtime-2026-11-21/"
+      ],
+      "development_at": null
+    }
+  ]
+}
