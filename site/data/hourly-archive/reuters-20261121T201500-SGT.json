@@ -1,0 +1,143 @@
+{
+  "id": "reuters-20261121T201500-SGT",
+  "report_at": "2026-11-21T20:17:17+08:00",
+  "cutoff": "2026-11-21T20:15:00+08:00",
+  "window_start": "2026-11-21T15:50:16+08:00",
+  "coverage": "partial",
+  "original_url": null,
+  "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+  "summary": "Five verified previews cover the MPS-Intesa offer assessment, proposed Spanish bank-levy extension, French EU-budget objection, EU waste-export restrictions and an unproven US insider-trading case. Anthropic v8 is held for its missing predecessor chain. Full-detail publication remains held.",
+  "limitations": [
+    "Partial targeted source report for 21 November 15:50:16-20:15:00 SGT, with discovery overlap from 15:35:16. The source handoff table explicitly records generation at 20:17:17 SGT and the signed-in response is stamped 20:17; END UPDATE repeats the 20:15 cutoff. Report completion is taken from the generation field rather than treating that repeated cutoff as completion.",
+    "Five initial-version metadata previews are selected from six source stories. EU waste-export and Singapore extradition reports are older catch-up discoveries. Anthropic R-20261118-ANTHROPIC-IPO-RETAIL-LEVERAGED-ETFS v8 requires absent public v7 and is held without renaming or resetting it. Earlier missing editions and version gaps remain unresolved.",
+    "Reuters-attributed syndication verifies the selected material facts and original calendar dates. Exact original publication minutes, revision timestamps and individually timed developments were not independently established, so those fields remain null. Displayed updated clocks and dates embedded in URLs do not supply missing precision.",
+    "The MPS fairness assessment is not a completed takeover or unconditional endorsement. Spain bank-tax receipts are projected and cabinet approval is pending. EU budget objections are negotiating positions. Waste-export restrictions have category/destination conditions, including exceptions in the wider 2027 framework. US criminal charges are allegations, not convictions. No new attributable selected-story market reaction is established.",
+    "This is not an exhaustive Reuters wire scan or a complete no-news result. No last complete source-scan cutoff is established or advanced. No verified matched-period Treasury threshold, inflation/employment surprise, SNB shift, recession-probability change or credit default is supplied by this partial report.",
+    "These are preview metadata only. The complete original visible response, all six source-register entries, figures, explanations, comparisons, scenario discussion and emphasis are retained privately. Full detail remains held because the approved process lacks an hourly channel, time-aware same-day edition identity and discoverable exact full-report link. The matching original JSON attachment could not be recovered as a verified local file; no attachment hash or complete asset inventory is attested. No complete V3 desktop/mobile publication approval is claimed.",
+    "Producer schedule state is unchanged because it was not directly verified. Retrieval and publication do not change source observation dates or establish executable FX or security quotations."
+  ],
+  "sources": [
+    {
+      "url": "https://www.reuters.com/business/finance/intesa-launches-cash-share-offer-monte-dei-paschi-mps-says-2026-11-21/",
+      "title": "MPS says Intesa's bid financially fair but does not fully reflect prospective value",
+      "published_at": null,
+      "published_date": "2026-11-21",
+      "publication_precision": "date",
+      "verification_url": "https://www.aol.com/articles/intesa-launches-cash-share-offer-081606000.html"
+    },
+    {
+      "url": "https://www.reuters.com/business/finance/spain-extend-banking-tax-fund-housing-policies-pm-says-2026-11-21/",
+      "title": "Spain to extend banking tax to fund housing policies, PM says",
+      "published_at": null,
+      "published_date": "2026-11-21",
+      "publication_precision": "date",
+      "verification_url": "https://new.streetinsider.com/Reuters/Spain%2Bto%2Bextend%2Bbanking%2Btax%2Bto%2Bfund%2Bhousing%2Bpolicies%2C%2BPM%2Bsays/27382887.html"
+    },
+    {
+      "url": "https://www.reuters.com/world/latest-eu-budget-proposal-is-very-disappointing-french-presidency-says-2026-11-21/",
+      "title": "Latest EU budget proposal is very disappointing, French presidency says",
+      "published_at": null,
+      "published_date": "2026-11-21",
+      "publication_precision": "date",
+      "verification_url": "https://www.aol.com/articles/latest-eu-budget-proposal-very-111347000.html"
+    },
+    {
+      "url": "https://www.reuters.com/business/environment/eu-ban-plastic-waste-exports-non-oecd-takes-effect-2026-11-20/",
+      "title": "EU ban on plastic waste exports to non-OECD takes effect",
+      "published_at": null,
+      "published_date": "2026-11-20",
+      "publication_precision": "date",
+      "verification_url": "https://malaysia.news.yahoo.com/eu-ban-plastic-waste-exports-142905676.html"
+    },
+    {
+      "url": "https://www.reuters.com/legal/government/singaporean-extradited-face-us-charges-over-global-insider-trading-scheme-2026-11-20/",
+      "title": "Singaporean extradited to face US charges over global insider trading scheme",
+      "published_at": null,
+      "published_date": "2026-11-20",
+      "publication_precision": "date",
+      "verification_url": "https://new.streetinsider.com/Reuters/Singaporean%2Bextradited%2Bto%2Bface%2BUS%2Bcharges%2Bover%2Bglobal%2Binsider%2Btrading%2Bscheme/27382598.html"
+    }
+  ],
+  "stories": [
+    {
+      "story_id": "R-20261121-INTESA-MPS-34-5BN-TENDER-BOARD-RESPONSE",
+      "version": 1,
+      "status": "new",
+      "freshness": "current",
+      "topic": "ITALY / EUROPE / INTESA SANPAOLO / MONTE DEI PASCHI / MEDIOBANCA / BANKS / MERGERS AND ACQUISITIONS",
+      "headline": "MPS judges Intesa Sanpaolo offer financially fair while disputing its share of future value",
+      "body": "Reuters reported MPS's qualified assessment of Intesa Sanpaolo's EUR34.5bn (about US$38bn) takeover offer. Advisers judged the improved price fair as of 18 November, but MPS said it did not fully capture prospective value from its Mediobanca acquisition. The board unanimously approved the position after a director resigned amid disagreement. The shareholder tender phase starts Tuesday, 24 November. This assessment is distinct from approval or completion of the acquisition. No directly attributable share-price or credit-spread movement was verified.",
+      "analysis": "Banking consolidation still faces valuation, distribution-of-benefits and execution questions; an assessment of financial fairness does not settle them.",
+      "watch_next": "Tender participation from 24 November, revised terms and regulatory decisions.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/business/finance/intesa-launches-cash-share-offer-monte-dei-paschi-mps-says-2026-11-21/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261121-SPAIN-BANK-LEVY-2027-HOUSING",
+      "version": 1,
+      "status": "new",
+      "freshness": "current",
+      "topic": "SPAIN / PEDRO SANCHEZ / SANTANDER / BBVA / CAIXABANK / BANKS / TAX / HOUSING / FISCAL POLICY",
+      "headline": "Spain proposes a 2027 bank-levy extension to support housing",
+      "body": "Reuters reported that Prime Minister Pedro Sanchez plans cabinet approval on Tuesday for extending Spain's banking levy through 2027. He estimated EUR1.4bn in tax receipts for social housing, tenant tax incentives and home renovation. The levy spans 1%-7% of net interest income and commissions by lending-income volume; the 7% tier mainly affects Santander, BBVA and CaixaBank. These are proposed policy and anticipated tax receipts, not confirmed collections or a realised banking loss. No attributable bank-share, bond-spread or euro movement was established.",
+      "analysis": "An extension could affect bank earnings and retained capital, while its final legal scope and implementation remain material.",
+      "watch_next": "Cabinet decision, final scope and actual revenue collection.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/business/finance/spain-extend-banking-tax-fund-housing-policies-pm-says-2026-11-21/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261121-EU-2028-2034-BUDGET-FRANCE-OBJECTION",
+      "version": 1,
+      "status": "new",
+      "freshness": "current",
+      "topic": "EUROPEAN UNION / FRANCE / ANTONIO COSTA / FISCAL POLICY / AGRICULTURE / BUDGET NEGOTIATIONS",
+      "headline": "France rejects the current EU 2028-2034 budget negotiating proposal",
+      "body": "Reuters reported that the French presidency rejected European Council President Antonio Costa's latest proposal for the EU's 2028-2034 budget as an inadequate basis for agreement. France highlighted insufficient agricultural support and protection of farmers' incomes. The budget funds policies including farming, industry, technology and research. This is a negotiating position on future spending, not an approved reduction or a new monetary-policy decision. No directly attributable sovereign-spread, Bund-yield or euro movement was verified.",
+      "analysis": "Prolonged negotiations could affect the allocation and timing of future EU spending; the draft remains subject to agreement.",
+      "watch_next": "Revised text, other member-state positions and eventual budget agreement.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/latest-eu-budget-proposal-is-very-disappointing-french-presidency-says-2026-11-21/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261121-EU-PLASTIC-WASTE-NON-OECD-EXPORT-BAN",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "EUROPEAN UNION / MALAYSIA / INDONESIA / VIETNAM / TRADE / ENVIRONMENT / RECYCLING / REGULATION",
+      "headline": "EU plastic-waste export restrictions take effect for non-OECD destinations",
+      "body": "Reuters reported on 20 November that the EU prohibition on plastic-waste exports to non-OECD destinations takes effect on 21 November, alongside tighter scrutiny of OECD shipments. Malaysia, Indonesia and Vietnam are among the affected destination countries. Reuters cited 1.5 million metric tonnes of total EU plastic-waste exports annually; that is not the volume sent to those three countries alone. Wider non-OECD waste-export restrictions are scheduled for 21 May 2027, with conditional exceptions under the regulation. No attributable FX or listed-recycler price move was verified.",
+      "analysis": "Regional recyclers may face supply and compliance changes; the legal change does not establish a measured loss or investment return.",
+      "watch_next": "Customs enforcement, destination trade flows and recycler supply adjustments.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/business/environment/eu-ban-plastic-waste-exports-non-oecd-takes-effect-2026-11-20/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261120-SINGAPORE-US-INSIDER-TRADING-EXTRADITION",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "SINGAPORE / UNITED STATES / SECURITIES / INSIDER TRADING / REGULATORY AND LEGAL / COMPLIANCE",
+      "headline": "Singaporean extradited to face United States insider-trading charges; allegations remain unproven",
+      "body": "Reuters reported on 20 November that a Singaporean appeared in Boston federal court after extradition to face securities-fraud and money-laundering charges. A Singapore court ruling preceded the extradition. Prosecutors allege an insider-trading network used confidential corporate and acquisition information from 2016 to 2024, including tips from bankers and corporate insiders. His lawyer said he would plead not guilty. Arraignment is scheduled for 16 December. These are charges, not convictions; the report does not establish misconduct by a specific Singapore bank. No attributable market-price or credit-spread reaction was verified.",
+      "analysis": "The case illustrates cross-border enforcement and protection of confidential corporate information without establishing the allegations as proven facts.",
+      "watch_next": "Court proceedings and confirmed regulatory findings.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/legal/government/singaporean-extradited-face-us-charges-over-global-insider-trading-scheme-2026-11-20/"
+      ],
+      "development_at": null
+    }
+  ]
+}
