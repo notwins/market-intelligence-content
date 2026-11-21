@@ -1,0 +1,119 @@
+{
+  "id": "reuters-20261121T155016-SGT",
+  "report_at": "2026-11-21T15:53:00+08:00",
+  "cutoff": "2026-11-21T15:50:16+08:00",
+  "window_start": "2026-11-21T12:20:07+08:00",
+  "coverage": "partial",
+  "original_url": null,
+  "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+  "summary": "Four verified catch-up previews cover Chinese red-chip listing access, SK Hynix–Kioxia ownership plans, proposed SEBI disclosure changes and Vietnam land-law reform. Bitcoin v2 is held for its missing predecessor. Full-detail publication remains held.",
+  "limitations": [
+    "Partial targeted source report for 21 November 12:20:07–15:50:16 SGT, completed 15:53:00. Discovery overlap began 12:05:07. Every selected story is an older catch-up discovery; no separately timed material new Reuters development after the previous cutoff was established. This is not a complete no-news scan.",
+    "The previous public feed cutoff was 07:33:39 SGT. The intervening producer report ending 12:20:07 is not imported by this edition; that retrieval/publication gap and older historical gaps remain open. No last complete source-scan cutoff is established or advanced.",
+    "Four initial-version previews are selected from five source stories. Bitcoin R-20261121-BITCOIN-56813-68-RISK-OFF v2 lacks retained public v1; it is held without an alias, event split or version reset. Its historical prices are not republished here.",
+    "Material selected facts were checked in attributed Reuters syndication. Original publication dates are verified but source-register minute labels differ from accessible publication clocks; exact publication, revision and development timestamps are null. No precision is inferred from URL dates, revised headers or current quote widgets.",
+    "CSRC guidance is source-reported and distinct from an official universal prohibition. Approval counts compare 2026 so far with full-year 2025. The Kioxia transaction concerns shares in an investment vehicle, an indirect holding and a planned December conversion, not a completed takeover or new debt issuance. SEBI changes remain proposed and cited inflows/outflows cover different cumulative periods. Vietnam law approval is distinct from its 1 July 2027 effective date and later project outcomes.",
+    "These are metadata previews only. The original complete visible response, source register, explanations, numeric comparisons and meaningful emphasis are retained privately. Full detail remains held: the approved process has no hourly channel, time-aware same-day edition identity or discoverable exact full-report link. The advertised original JSON attachment download also could not be completed in the available signed-in browser. Full completeness, assets, rights and desktop/mobile V3 review are not attested.",
+    "No new verified matched-period Treasury threshold, inflation/employment surprise, SNB movement, recession-probability revision or corporate default is established by this partial report. No executable SGD/CHF FX quotations or attributable selected-story market moves are supplied. Producer schedule status is unchanged because it was not independently verified."
+  ],
+  "sources": [
+    {
+      "url": "https://www.reuters.com/world/beijing-bar-young-red-chip-firms-listing-outside-mainland-china-sources-say-2026-11-20/",
+      "title": "Exclusive: Beijing to bar young red-chip firms from listing outside mainland China, sources say",
+      "published_at": null,
+      "published_date": "2026-11-20",
+      "publication_precision": "date",
+      "verification_url": "https://www.investing.com/news/stock-market-news/exclusivebeijing-to-bar-young-redchip-firms-from-listing-outside-mainland-china-sources-say-5040979"
+    },
+    {
+      "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-become-top-shareholder-rival-kioxia-after-bond-conversion-2026-11-20/",
+      "title": "SK Hynix to become top shareholder in rival Kioxia after bond conversion",
+      "published_at": null,
+      "published_date": "2026-11-20",
+      "publication_precision": "date",
+      "verification_url": "https://www.marketscreener.com/news/sk-hynix-to-become-top-shareholder-in-rival-kioxia-after-bond-conversion-ce785ed3d988f020"
+    },
+    {
+      "url": "https://www.reuters.com/legal/government/indias-markets-regulator-proposes-removing-additional-disclosure-requirements-2026-11-20/",
+      "title": "India moves to relax strict offshore fund disclosure rules to attract foreign capital",
+      "published_at": null,
+      "published_date": "2026-11-20",
+      "publication_precision": "date",
+      "verification_url": "https://in.marketscreener.com/news/latest/India-moves-to-relax-strict-offshore-fund-disclosure-rules-to-attract-foreign-capital-13426339/"
+    },
+    {
+      "url": "https://www.reuters.com/world/asia-pacific/vietnam-passes-law-speed-up-land-expropriation-priority-projects-2026-11-21/",
+      "title": "Vietnam passes law to speed up land expropriation for priority projects",
+      "published_at": null,
+      "published_date": "2026-11-21",
+      "publication_precision": "date",
+      "verification_url": "https://hk.marketscreener.com/news/vietnam-passes-law-to-speed-up-land-expropriation-for-priority-projects-ce785ed3df8af325"
+    }
+  ],
+  "stories": [
+    {
+      "story_id": "R-20261120-CHINA-REDCHIP-OFFSHORE-IPO-RESTRICTIONS",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "CHINA / HONG KONG / IPO / CAPITAL MARKETS / TECHNOLOGY",
+      "headline": "Reuters sources describe tighter Hong Kong initial public offering access for newer Chinese red-chip firms",
+      "body": "Reuters reported confidential CSRC instructions requiring red-chip companies established after the 2023 offshore-listing rules to relocate their incorporation to mainland China before listing abroad. These offshore holding structures are used by Chinese businesses seeking overseas capital, including Hong Kong initial public offerings. The regulator had not responded. Reuters and law-firm data counted six red-chip approvals in 2026 so far versus 50 in 2025. Those are approval counts for different year-to-date/full-year periods, not amounts raised. This is a 20 November catch-up discovery, not a confirmed universal listing ban or a newly enacted rule at this cutoff. No directly attributable share-price or currency movement was verified.",
+      "analysis": "Redomiciliation may complicate financing and investor exits; confidential instructions and a publicly confirmed rule remain distinct.",
+      "watch_next": "Official CSRC clarification, eligibility decisions and the Hong Kong IPO pipeline.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/beijing-bar-young-red-chip-firms-listing-outside-mainland-china-sources-say-2026-11-20/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261120-SK-HYNIX-KIOXIA-BOND-CONVERSION-STAKE",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "SOUTH KOREA / JAPAN / SK HYNIX / KIOXIA / SEMICONDUCTORS / CORPORATE OWNERSHIP",
+      "headline": "SK Hynix plans an indirect 14.1% Kioxia holding through a December bond conversion",
+      "body": "Reuters reported that SK Hynix, one of the memory chipmakers, plans to convert investment-vehicle bonds into 129,000 common shares and buy another 1,001 shares in that vehicle from Bain Capital. The December transaction would produce an indirect Kioxia holding of about 14.1%, making SK Hynix its largest indirect shareholder. SK Hynix said management participation would remain limited and it had no current plan for further Kioxia share purchases or sales. The share counts refer to the vehicle, not newly issued Kioxia shares. This is an earlier 20 November development; conversion is planned, not verified as completed. No transaction-specific market move was isolated.",
+      "analysis": "A planned debt-to-ownership conversion differs from new borrowing or a completed takeover; governance constraints still matter.",
+      "watch_next": "December execution, ownership rights and NAND memory demand and pricing.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/asia-pacific/sk-hynix-become-top-shareholder-rival-kioxia-after-bond-conversion-2026-11-20/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261120-INDIA-SEBI-OFFSHORE-FUND-DISCLOSURE-RELAXATION",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "INDIA / SEBI / FOREIGN FUNDS / DISCLOSURE / EQUITIES / CAPITAL FLOWS",
+      "headline": "SEBI proposes removing extra offshore-fund disclosures; existing ownership rules remain relevant",
+      "body": "Reuters reported that SEBI proposed removing additional offshore-fund disclosures introduced in 2023, including rules for funds with over half their Indian assets concentrated in one corporate group. The proposal followed investor complaints about compliance costs; existing beneficial-ownership and anti-money-laundering obligations remain relevant. Reuters cited nearly US$50bn of foreign equity selling from January 2025 through October 2026 and close to US$12bn of November inflows so far. These are different cumulative periods, not same-window flows or proof that the proposal caused the inflows. It is a 20 November catch-up proposal, not a final enacted rule. No attributable INR or equity reaction was verified.",
+      "analysis": "Lower administrative costs could support investment while increasing the importance of transparency and concentration oversight.",
+      "watch_next": "Consultation responses, final SEBI decisions and subsequent foreign flows.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/legal/government/indias-markets-regulator-proposes-removing-additional-disclosure-requirements-2026-11-20/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261121-VIETNAM-PRIORITY-PROJECT-LAND-EXPROPRIATION-LAW",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "VIETNAM / LAND LAW / INFRASTRUCTURE / PROPERTY / PROJECT EXECUTION",
+      "headline": "Vietnam approves land legislation for faster infrastructure projects from July 2027",
+      "body": "Reuters reported parliamentary approval of land-law changes effective 1 July 2027. For eligible projects, an expropriation decision may precede compensation-plan approval if no resettlement is needed and plans have been disclosed publicly. Covered cases include nationally important projects, urgent public investment and cases where more than 75% of affected land users consent. Reuters also described stronger resettlement safeguards, livelihood support and vocational training. The law has been approved but its future effective date and implementation conditions remain material. This is an earlier 21 November catch-up discovery; no project completion, investment return or attributable share-price/FX move was established.",
+      "analysis": "Faster project preparation can coexist with landowner disputes and implementation risk; consent thresholds and compensation safeguards are not optional.",
+      "watch_next": "Detailed implementation rules, compensation practice and actual project execution.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/asia-pacific/vietnam-passes-law-speed-up-land-expropriation-priority-projects-2026-11-21/"
+      ],
+      "development_at": null
+    }
+  ]
+}
