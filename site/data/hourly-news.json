@@ -2,13 +2,158 @@
   "schema_version": 1,
   "source_name": "Reuters Hourly News",
   "source_url": null,
-  "publisher_checked_at": "2026-11-21T05:19:26+08:00",
+  "publisher_checked_at": "2026-11-21T08:24:07+08:00",
   "last_complete_cutoff": null,
   "source_schedule": {
     "status": "Active",
     "checked_at": "2026-11-03T18:21:21+08:00"
   },
   "editions": [
+    {
+      "id": "reuters-20261121T073339-SGT",
+      "window_start": "2026-11-21T04:29:40+08:00",
+      "cutoff": "2026-11-21T07:33:39+08:00",
+      "report_at": "2026-11-21T07:37:38+08:00",
+      "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+      "original_url": null,
+      "coverage": "partial",
+      "summary": "Five verified Reuters previews cover Oracle funding confirmation, new Iran-related OFAC designations, Chinese sovereign-dollar bond pricing, CrowdStrike–Zscaler talks and a rejected Pure Lithium government-stake proposal. AI-selloff v14 and US–China diplomacy v3 follow-ups are held for missing predecessor history. Full-detail publication remains held.",
+      "limitations": [
+        "Partial targeted review for 21 November 04:29:40–07:33:39 SGT, with discovery overlap from 04:14:40. The source completed at 07:37:38 SGT. No exhaustive Reuters scan or last complete historical cutoff is established; earlier coverage gaps remain unresolved.",
+        "Five version-one previews are selected from seven source stories. AI-equity selloff R-20261116-US-AI-SEMICONDUCTOR-SELL-OFF v14 lacks retained public v13 and its chain. US–China diplomacy R-20261119-APEC-TRUMP-XI-PUTIN-LEADERS-TALKS v3 lacks public v2 and its chain. Neither is renamed, renumbered or split into another new event.",
+        "The held selloff includes US closing indices, semiconductor and Anthropic moves, daily Treasury declines and the scenario-threshold confirmation. Daily or closing observations are not four-hour moves or live prices. Earlier threshold flags are not presented as a separate new trigger.",
+        "Five selected source articles were independently reviewed through attributed Reuters syndication. Accessible publication clocks differ from some source-register minute labels or lack consistent original/revision precision; only verified publication dates are retained. Exact publication/update/development times are null and selected freshness is conservatively catch-up. No breaking claim is added. China issuance is an older discovery; Pure Lithium concerns newly disclosed July/August negotiations, not a completed November takeover.",
+        "Oracle funding availability is a company assertion distinct from new cash receipt, completed capacity and realised earnings. The earlier capital raise and prior bond terms are background. China issue size, orders, investor allocation, initial spread guidance and final relative spread are different measures; flat to UST does not mean zero yield. Named OFAC designations differ from earlier compliance warnings. CrowdStrike–Zscaler negotiations are not a signed deal.",
+        "The source dashboard gives approximate Zscaler market value around US$32bn while the accessible Reuters copy reports around US$33.5bn; that metric is withheld from this preview rather than silently reconciled. Original and attachment values remain in the private checklist. Verified after-hours percentage snapshots are retained with unverified individual quote times.",
+        "Metadata and quick-read are previews only. Full original response and checksum-verified matching JSON, all sections, seven versioned stories, supporting detail, numeric comparisons, source links and emphasis are retained privately. Full detail remains held because the approved process has no hourly channel, stable time-aware same-day identity or discoverable exact full-report links. Complete V3, rights and desktop/mobile approval are not attested.",
+        "The matching original JSON attachment was retrieved from the signed-in source UI and its 33,968-byte SHA-256 was verified privately. It contains additional full-dashboard closing figures beyond the visible response. Those missing-chain figures remain held; no plot is reconstructed from incomplete chart data. Private runtime and Library information is excluded from this public feed.",
+        "Hourly history, seven independent full reports and the accessible legacy daily register were checked for semantic overlap. Prior Oracle funding expectations and issued debt terms are background; the current confirmation is distinct. No exhaustive private cross-briefing coverage is claimed. Producer schedule status remains unchanged because no fresh status verification was made."
+      ],
+      "sources": [
+        {
+          "url": "https://www.reuters.com/business/oracle-says-openai-infrastructure-deal-is-fully-funded-after-final-capital-raise-2026-11-20/",
+          "title": "Oracle says OpenAI infrastructure deal is fully funded after final capital raise",
+          "published_at": null,
+          "published_date": "2026-11-20",
+          "publication_precision": "date",
+          "verification_url": "https://new.streetinsider.com/Reuters/Oracle%2Bsays%2BOpenAI%2Binfrastructure%2Bdeal%2Bis%2Bfully%2Bfunded%2Bafter%2Bfinal%2Bcapital%2Braise/27382455.html"
+        },
+        {
+          "url": "https://www.reuters.com/world/middle-east/us-treasury-sanctions-iranian-trustees-collecting-oil-revenues-2026-11-20/",
+          "title": "US Treasury sanctions Iranian 'trustees' collecting oil revenues",
+          "published_at": null,
+          "published_date": "2026-11-20",
+          "publication_precision": "date",
+          "verification_url": "https://www.investing.com/news/economy-news/us-treasury-sanctions-iranian-trustees-collecting-oil-revenues-5042737"
+        },
+        {
+          "url": "https://www.reuters.com/markets/asia/chinas-2-billion-bond-draws-large-orders-prices-line-with-us-treasuries-2026-11-20/",
+          "title": "China's $2 billion bond draws large orders, prices in line with US Treasuries",
+          "published_at": null,
+          "published_date": "2026-11-20",
+          "publication_precision": "date",
+          "verification_url": "https://www.marketscreener.com/news/china-s-2-billion-bond-draws-large-orders-prices-in-line-with-us-treasuries-ce785ed2de8eff20"
+        },
+        {
+          "url": "https://www.reuters.com/legal/litigation/crowdstrike-talks-acquire-zscaler-source-says-2026-11-20/",
+          "title": "CrowdStrike in talks to acquire Zscaler, sources say",
+          "published_at": null,
+          "published_date": "2026-11-20",
+          "publication_precision": "date",
+          "verification_url": "https://www.investing.com/news/stock-market-news/crowdstrike-in-talks-to-acquire-zscaler-sources-say-5042720"
+        },
+        {
+          "url": "https://www.reuters.com/world/china/lutnick-asked-battery-startup-pure-lithium-accept-us-takeover-documents-source-2026-11-20/",
+          "title": "Lutnick asked battery startup Pure Lithium to accept US takeover, documents and source say",
+          "published_at": null,
+          "published_date": "2026-11-20",
+          "publication_precision": "date",
+          "verification_url": "https://www.marketscreener.com/news/lutnick-asked-battery-startup-pure-lithium-to-accept-us-takeover-documents-and-source-say-ce785ed3dc8ff022"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261120-ORACLE-OPENAI-INFRASTRUCTURE-FUNDING-CONFIRMED",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "ORACLE / OPENAI / AI INFRASTRUCTURE / FINANCING / CREDIT",
+          "headline": "Oracle confirms funding for OpenAI infrastructure contract after earlier capital raise",
+          "body": "Oracle said its OpenAI infrastructure contract was fully funded and vendor financing was in place following an earlier-month US$20bn capital raise, approximately US$10bn each in debt and equity. Its plan includes 4.5GW of additional US data-centre capacity beyond Abilene. Oracle said Abilene was nearly complete and its next large Texas campus fully permitted. Reuters reported shares up as much as 3.3% after hours, with no independently established quote time. The new development is funding confirmation; earlier capital-raise and bond-pricing background is not reissued as new cash. Company statements are not independently guaranteed project outcomes.",
+          "analysis": "Funding availability, construction, debt service, contracted revenue and free cash flow are different measures.",
+          "watch_next": "Actual expenditure, financing terms, equipment deliveries and operating cash generation.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/oracle-says-openai-infrastructure-deal-is-fully-funded-after-final-capital-raise-2026-11-20/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261120-US-TREASURY-IRAN-OIL-TRUSTEES-OFAC-DESIGNATIONS",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "US TREASURY / OFAC / IRAN / SANCTIONS / FINANCIAL COMPLIANCE",
+          "headline": "US Treasury designates four alleged Iranian oil-revenue trustees",
+          "body": "Reuters reported that the US Treasury imposed sanctions on four Iranian individuals it accused of collecting international oil-sale proceeds for Tehran. They were added to OFAC's Specially Designated Nationals list. Treasury allegations included oil brokerage involving independent Chinese refiners and aircraft-parts procurement for sanctioned Mahan Air. These named designations are distinct from the earlier compliance warnings to Singapore and Malaysia; the article does not identify a Singapore bank as a violator. No attributable currency, oil-price or bank-credit movement was verified.",
+          "analysis": "Named designations add a concrete compliance development; allegations and findings against unrelated institutions must remain separate.",
+          "watch_next": "Official identifiers, linked entities and subsequent regulatory or enforcement announcements.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/middle-east/us-treasury-sanctions-iranian-trustees-collecting-oil-revenues-2026-11-20/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261120-CHINA-2BN-USD-SOVEREIGN-ISSUE-UST-FLAT",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "CHINA / USD / SOVEREIGN BONDS / CREDIT / NEW ISSUANCE",
+          "headline": "China's US$2bn three-year dollar bond prices flat to comparable Treasuries",
+          "body": "Reuters reported more than US$72bn of orders for China's US$2bn three-year sovereign dollar bond, which priced at the yield of comparable US Treasuries versus initial guidance of a 25bp premium. More than 590 investors placed orders. Central banks and sovereign wealth funds received 59% of the allocation versus 26% in the prior-year sale. Reuters described subsequent spread tightening inside the Treasury curve but supplied no synchronized executable yield here. This is an older eligible discovery. The final zero premium is a relative spread, not a zero absolute yield, coupon or yield on a different Treasury tenor.",
+          "analysis": "Demand for scarce sovereign dollar paper is distinct from actual secondary liquidity and future credit performance.",
+          "watch_next": "Matched-tenor spreads, available trading liquidity and subsequent sovereign issuance.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/markets/asia/chinas-2-billion-bond-draws-large-orders-prices-line-with-us-treasuries-2026-11-20/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261120-CRWD-ZS-ACQUISITION-TALKS",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "CROWDSTRIKE / ZSCALER / CYBERSECURITY / MERGERS AND ACQUISITIONS",
+          "headline": "CrowdStrike and Zscaler reportedly discuss a combination; no agreed transaction",
+          "body": "Reuters, citing two people familiar with the matter, reported ongoing talks for CrowdStrike to acquire Zscaler. Discussions could end without agreement, and neither company had immediately commented. Reuters reported Zscaler shares up 17% and CrowdStrike shares down 8% in Friday after-hours trading. These are historical snapshots with exact quote times unverified, not executable prices. No purchase price, signed agreement or financing package was established. The source dashboard's approximate Zscaler market value differs from the accessible revised Reuters copy and is omitted from this preview.",
+          "analysis": "A possible combination would join endpoint protection and cloud-network security; deal execution and financing remain uncertain.",
+          "watch_next": "Company announcements, transaction terms, funding and competition review.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/legal/litigation/crowdstrike-talks-acquire-zscaler-source-says-2026-11-20/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261120-US-PURE-LITHIUM-REJECTS-GOVERNMENT-MAJORITY-STAKE",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "US / HOWARD LUTNICK / INDUSTRIAL POLICY / BATTERIES / GOVERNMENT EQUITY",
+          "headline": "Reuters discloses rejected US government majority-stake proposal for Pure Lithium",
+          "body": "Documents and a source reviewed by Reuters describe Commerce Secretary Howard Lutnick seeking a 51% government stake in Pure Lithium during July negotiations tied to manufacturing support. The private startup rejected the request, and Commerce rejected its 9.9% alternative in August. Reuters newly reported the unsuccessful negotiations in November. This was not an executed acquisition, completed nationalisation or confirmed funding receipt. No attributable listed-share, bond-yield or currency movement was verified.",
+          "analysis": "Ownership demands can affect private fundraising and control; a rejected proposal has different consequences from an executed investment.",
+          "watch_next": "Formal policy changes and signed financing or ownership agreements.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/china/lutnick-asked-battery-startup-pure-lithium-accept-us-takeover-documents-source-2026-11-20/"
+          ],
+          "development_at": null
+        }
+      ]
+    },
     {
       "id": "reuters-20261121T042940-SGT",
       "window_start": "2026-11-20T23:37:27+08:00",
