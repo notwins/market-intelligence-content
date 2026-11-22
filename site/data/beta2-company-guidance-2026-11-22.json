@@ -168,6 +168,24 @@
         }
       ]
     },
+    "857 HK": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "guidance",
+          "date": "2026-05",
+          "source": "https://www.petrochina.com.cn/ptr/ndbg/202605/c734755cc9764eb5ba8628aac4e3230c/files/c7e4f2a5e9aa4c9eacafb02ff2367d78.pdf#page=37",
+          "metrics": {
+            "cash": [
+              [
+                "Group capital expenditure",
+                "CNY 279.4bn"
+              ]
+            ]
+          }
+        }
+      ]
+    },
     "941 HK": {
       "years": [
         {
@@ -476,6 +494,46 @@
               ]
             ]
           }
+        }
+      ]
+    },
+    "CVX US": {
+      "years": [
+        {
+          "year": 2030,
+          "kind": "scenario",
+          "date": "2025-11-12",
+          "source": "https://www.chevron.com/newsroom/2025/q4/chevron-outlines-plan-for-sustained-cash-flow-growth-at-investor-day/",
+          "metrics": {
+            "cash": [
+              [
+                "Adjusted free cash flow growth through 2030",
+                "More than 10% per year"
+              ]
+            ],
+            "earnings": [
+              [
+                "Earnings per share growth through 2030",
+                "More than 10% per year"
+              ]
+            ]
+          },
+          "note": "Assumes USD 70 per barrel Brent."
+        },
+        {
+          "year": 2030,
+          "kind": "target",
+          "date": "2025-11-12",
+          "source": "https://www.chevron.com/newsroom/2025/q4/chevron-outlines-plan-for-sustained-cash-flow-growth-at-investor-day/",
+          "metrics": {
+            "cash": [
+              [
+                "Annual capital expenditure",
+                "USD 18–21bn"
+              ]
+            ]
+          },
+          "period": "2026–2030 plan"
         }
       ]
     },
@@ -993,6 +1051,24 @@
     "LRCX US": {
       "source": "https://www.sec.gov/Archives/edgar/data/707549/000070754926000052/lrcx_exhibitx991xq1x2027.htm",
       "years": []
+    },
+    "MA US": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "guidance",
+          "date": "2026-10-29",
+          "source": "https://investor.mastercard.com/files/content_files/3Q26-Mastercard-Earnings-Presentation.pdf#page=14",
+          "metrics": {
+            "revenue": [
+              [
+                "GAAP net revenue growth",
+                "Low teens"
+              ]
+            ]
+          }
+        }
+      ]
     },
     "META US": {
       "years": [
@@ -1966,6 +2042,28 @@
               [
                 "Adjusted EPS",
                 "At least USD 20.50"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "UOB SP": {
+      "years": [
+        {
+          "year": 2027,
+          "kind": "guidance",
+          "date": "2026-11-04",
+          "source": "https://www.uobgroup.com/investor-relations/assets/pdfs/investor/financial/2026/cfo-slides-3q-2026.pdf",
+          "metrics": {
+            "revenue": [
+              [
+                "Net interest income",
+                "Higher than 2026"
+              ],
+              [
+                "Fee income growth",
+                "Mid to high single digits"
               ]
             ]
           }
