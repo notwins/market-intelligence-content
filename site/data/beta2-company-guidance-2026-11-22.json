@@ -114,6 +114,22 @@
     "KEP SP": "KEP SP"
   },
   "companies": {
+    "1288 HK": {
+      "source": "https://www.abchina.com/en/investor-relations/performance-reports/quarterly-reports/qurep/202610/W020261030573198036817.pdf",
+      "years": []
+    },
+    "1398 HK": {
+      "source": "https://www.icbc-ltd.com/ICBCLtd/Investor%20Relations/Financial%20Information/Financial%20Reports/",
+      "years": []
+    },
+    "3988 HK": {
+      "source": "https://www.boc.cn/english/investor/a_r/frp/202610/t20261030_25701536.html",
+      "years": []
+    },
+    "600519 CH": {
+      "source": "https://static.cninfo.com.cn/finalpage/2026-10-31/1225649896.PDF",
+      "years": []
+    },
     "700 HK": {
       "source": "https://www.tencent.com/wp-content/uploads/2026/11/Tencent-Announces-2026-Third-Quarter-Results.pdf",
       "years": []
@@ -186,6 +202,10 @@
         }
       ]
     },
+    "939 HK": {
+      "source": "https://tool.ccb.com/eng/attachDir/2026/10/2026103017360842922.pdf",
+      "years": []
+    },
     "941 HK": {
       "years": [
         {
@@ -229,6 +249,48 @@
     "AMAT US": {
       "source": "https://investors.appliedmaterials.com/node/29886/pdf",
       "years": []
+    },
+    "AMD US": {
+      "years": [
+        {
+          "year": 2030,
+          "kind": "target",
+          "date": "2025-11-11",
+          "source": "https://newsroom.amd.com/news/amd-unveils-strategy-to-lead-the-1-trillion-compu/",
+          "metrics": {
+            "revenue": [
+              [
+                "Company revenue CAGR",
+                "More than 35%"
+              ],
+              [
+                "Data center revenue CAGR",
+                "More than 60%"
+              ],
+              [
+                "Data center AI revenue CAGR",
+                "More than 80%"
+              ],
+              [
+                "Embedded and Client and Gaming revenue CAGR",
+                "More than 10%"
+              ]
+            ],
+            "earnings": [
+              [
+                "Non-GAAP operating margin",
+                "More than 35%"
+              ],
+              [
+                "Non-GAAP EPS",
+                "More than USD 20"
+              ]
+            ]
+          },
+          "period": "3–5 year financial model",
+          "note": "Horizon measured from the November 2025 Financial Analyst Day."
+        }
+      ]
     },
     "AMGN US": {
       "years": [
@@ -276,6 +338,62 @@
               [
                 "Cash capital expenditure",
                 "Around USD 220bn"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "ANET US": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "guidance",
+          "date": "2026-11-03",
+          "source": "https://s21.q4cdn.com/861911615/files/doc_financials/2026/q3/Arista_Supplemental_Presentation_2027_Outlook.pdf",
+          "metrics": {
+            "revenue": [
+              [
+                "Group revenue growth",
+                "Around 48%"
+              ]
+            ],
+            "earnings": [
+              [
+                "Non-GAAP operating margin",
+                "Around 48.8%"
+              ]
+            ]
+          }
+        },
+        {
+          "year": 2027,
+          "kind": "guidance",
+          "date": "2026-11-03",
+          "source": "https://s21.q4cdn.com/861911615/files/doc_financials/2026/q3/Arista_Supplemental_Presentation_2027_Outlook.pdf",
+          "metrics": {
+            "revenue": [
+              [
+                "Group revenue",
+                "Around USD 18.5bn"
+              ],
+              [
+                "Group revenue growth",
+                "38%–40%"
+              ],
+              [
+                "AI fabric revenue target",
+                "Around USD 7bn"
+              ],
+              [
+                "Campus revenue target",
+                "Around USD 2bn"
+              ]
+            ],
+            "earnings": [
+              [
+                "Non-GAAP operating margin",
+                "Around 49%"
               ]
             ]
           }
@@ -394,6 +512,39 @@
       "source": "https://www.alibabagroup.com/en-US/document-2060147792046718976",
       "years": []
     },
+    "BAC US": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "guidance",
+          "date": "2026-10-14",
+          "source": "https://investor.bankofamerica.com/events-and-presentations/events/detail/20261014-q3-2026-bank-of-america-earnings-conference-call",
+          "metrics": {
+            "revenue": [
+              [
+                "Net interest income growth",
+                "Around 8%"
+              ]
+            ]
+          }
+        },
+        {
+          "year": 2027,
+          "kind": "guidance",
+          "date": "2026-10-14",
+          "source": "https://investor.bankofamerica.com/events-and-presentations/events/detail/20261014-q3-2026-bank-of-america-earnings-conference-call",
+          "metrics": {
+            "revenue": [
+              [
+                "Net interest income growth",
+                "At least 8%"
+              ]
+            ]
+          },
+          "note": "Management’s October outlook assumed three 25-basis-point rate increases through June 2027."
+        }
+      ]
+    },
     "BHP LN": {
       "years": [
         {
@@ -438,6 +589,210 @@
             ]
           },
           "period": "FY 2029–2031"
+        }
+      ]
+    },
+    "BRK/B US": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "guidance",
+          "date": "2026-11",
+          "source": "https://www.sec.gov/Archives/edgar/data/75594/000108131626000026/bhe-20260930.htm",
+          "metrics": {
+            "cash": [
+              [
+                "Berkshire Hathaway Energy capital expenditure",
+                "USD 11.221bn"
+              ]
+            ]
+          },
+          "note": "Applies to the energy subsidiary. Excludes non-cash items."
+        },
+        {
+          "year": 2026,
+          "kind": "guidance",
+          "date": "2026-11",
+          "source": "https://www.berkshirehathaway.com/qtrly/3rdqtr26.pdf#page=50",
+          "metrics": {
+            "cash": [
+              [
+                "Combined energy and railroad subsidiary capital expenditure",
+                "Around USD 4.7bn"
+              ]
+            ]
+          },
+          "period": "FY 2026 (fourth quarter)",
+          "note": "Covers BHE and BNSF spending for the rest of the year."
+        }
+      ]
+    },
+    "C US": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "guidance",
+          "date": "2026-10-13",
+          "source": "https://www.citigroup.com/rcs/citigpa/storage/public/Earnings/Q32026/2026psqtr3rslt.pdf",
+          "metrics": {
+            "earnings": [
+              [
+                "Return on tangible common equity",
+                "Above 11%"
+              ]
+            ],
+            "revenue": [
+              [
+                "Net interest income growth excluding Markets",
+                "Mid to high 6% range"
+              ],
+              [
+                "Non-interest revenue excluding Markets",
+                "Growth expected"
+              ]
+            ]
+          }
+        },
+        {
+          "year": 2027,
+          "kind": "target",
+          "date": "2026-10-13",
+          "source": "https://www.citigroup.com/rcs/citigpa/storage/public/Earnings/Q32026/2026psqtr3rslt.pdf",
+          "metrics": {
+            "earnings": [
+              [
+                "Return on tangible common equity excluding notable items",
+                "11%–13%"
+              ]
+            ]
+          }
+        },
+        {
+          "year": 2028,
+          "kind": "target",
+          "date": "2026-10-13",
+          "source": "https://www.citigroup.com/rcs/citigpa/storage/public/Earnings/Q32026/2026psqtr3rslt.pdf",
+          "metrics": {
+            "earnings": [
+              [
+                "Return on tangible common equity excluding notable items",
+                "11%–13%"
+              ]
+            ]
+          },
+          "note": "Management aims for the upper end of the range in 2028."
+        },
+        {
+          "year": 2028,
+          "kind": "target",
+          "date": "2026-10-13",
+          "source": "https://www.citigroup.com/rcs/citigpa/storage/public/Earnings/Q32026/2026psqtr3rslt.pdf",
+          "metrics": {
+            "revenue": [
+              [
+                "Revenue CAGR excluding Legacy Franchises and reconciling items",
+                "Mid-single digits"
+              ]
+            ]
+          },
+          "period": "FY 2025–2028 CAGR"
+        },
+        {
+          "year": 2031,
+          "kind": "target",
+          "date": "2026-10",
+          "source": "https://www.citigroup.com/global/investors/quarterly-earnings/faqs",
+          "metrics": {
+            "earnings": [
+              [
+                "Return on tangible common equity",
+                "14%–15%"
+              ]
+            ]
+          },
+          "period": "FY 2029–2031",
+          "note": "Medium-term ambition."
+        }
+      ]
+    },
+    "CAT US": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "guidance",
+          "date": "2026-10-29",
+          "source": "https://s25.q4cdn.com/358376879/files/content_files/3Q2026-Transcript-FINAL_PM.pdf",
+          "metrics": {
+            "revenue": [
+              [
+                "Sales and revenue growth",
+                "Mid to high teens"
+              ]
+            ],
+            "cash": [
+              [
+                "Capital expenditure",
+                "Around USD 3.3bn"
+              ],
+              [
+                "Machinery, Power & Energy free cash flow",
+                "Upper half of USD 6–15bn annual target range"
+              ]
+            ],
+            "earnings": [
+              [
+                "Adjusted operating margin excluding tariff recoveries",
+                "Near the lower end of the applicable target range"
+              ]
+            ]
+          }
+        },
+        {
+          "year": 2030,
+          "kind": "target",
+          "date": "2025-11-04",
+          "source": "https://s25.q4cdn.com/358376879/files/doc_events/2025/11-4-25-Investor-Day-Transcript.pdf#page=11",
+          "metrics": {
+            "revenue": [
+              [
+                "Sales and revenue CAGR, 2024–2030",
+                "5%–7%"
+              ],
+              [
+                "Annual services revenue target",
+                "USD 30bn"
+              ]
+            ],
+            "cash": [
+              [
+                "Machinery, Power & Energy annual free cash flow target range",
+                "USD 6–15bn"
+              ]
+            ]
+          },
+          "note": "The cash flow range applies to different demand and margin levels."
+        }
+      ]
+    },
+    "CICT SP": {
+      "source": "https://investor.cict.com.sg/newsroom/20261029_070044_C38U_3PQVW1J3DJO49A76.1.pdf",
+      "years": []
+    },
+    "COST US": {
+      "years": [
+        {
+          "year": 2027,
+          "kind": "guidance",
+          "date": "2026-10",
+          "source": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm",
+          "metrics": {
+            "cash": [
+              [
+                "Capital expenditure",
+                "Around USD 7.5bn"
+              ]
+            ]
+          }
         }
       ]
     },
@@ -748,6 +1103,10 @@
         }
       ]
     },
+    "GS US": {
+      "source": "https://www.goldmansachs.com/investor-relations/financials/10q/2026/third-quarter-2026-10-q.pdf",
+      "years": []
+    },
     "HD US": {
       "years": [
         {
@@ -961,6 +1320,39 @@
         }
       ]
     },
+    "KEP SP": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "target",
+          "date": "2026-10",
+          "source": "https://www.keppel.com/media/keppels-business-update-for-3q--9m-2026/",
+          "metrics": {
+            "cash": [
+              [
+                "Additional asset sales targeted for completion by year-end",
+                "Around SGD 600m"
+              ]
+            ]
+          },
+          "note": "Value of planned completions after the nine-month update."
+        },
+        {
+          "year": 2030,
+          "kind": "target",
+          "date": "2026-04",
+          "source": "https://www.keppel.com/annualreport2025/chairman-statement/",
+          "metrics": {
+            "cash": [
+              [
+                "Non-core portfolio divestments",
+                "Target to monetise substantially by year-end"
+              ]
+            ]
+          }
+        }
+      ]
+    },
     "KO US": {
       "years": [
         {
@@ -1070,6 +1462,10 @@
         }
       ]
     },
+    "MC FP": {
+      "source": "https://www.lvmh.com/en/publications/continued-growth-in-the-third-quarter-of-2026",
+      "years": []
+    },
     "META US": {
       "years": [
         {
@@ -1133,6 +1529,29 @@
               ]
             ]
           }
+        }
+      ]
+    },
+    "MS US": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "target",
+          "date": "2026-04",
+          "source": "https://www.morganstanley.com/content/dam/msdotcom/en/about-us-2026ams/2026_Shareholder_Letter.pdf#page=12",
+          "metrics": {
+            "earnings": [
+              [
+                "Firm return on tangible common equity",
+                "20%"
+              ],
+              [
+                "Wealth Management pre-tax margin",
+                "30%"
+              ]
+            ]
+          },
+          "period": "Long-term financial objectives"
         }
       ]
     },
@@ -1263,6 +1682,30 @@
     "NVDA US": {
       "source": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
       "years": []
+    },
+    "OR FP": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "guidance",
+          "date": "2026-10-22",
+          "source": "https://www.loreal-finance.com/eng/press-release/sales-30-september-2026",
+          "metrics": {
+            "revenue": [
+              [
+                "Sales",
+                "Management expects growth"
+              ]
+            ],
+            "earnings": [
+              [
+                "Profit",
+                "Management expects growth"
+              ]
+            ]
+          }
+        }
+      ]
     },
     "ORCL US": {
       "years": [
@@ -1551,6 +1994,25 @@
         }
       ]
     },
+    "RY US": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "target",
+          "date": "2026-03",
+          "source": "https://www.rbc.com/investor-relations/_assets-custom/pdf/2026-Proxy-Circular.pdf",
+          "metrics": {
+            "earnings": [
+              [
+                "Diluted EPS CAGR",
+                "At least 7%"
+              ]
+            ]
+          },
+          "period": "Medium term (3- and 5-year horizons)"
+        }
+      ]
+    },
     "SAP GY": {
       "years": [
         {
@@ -1802,6 +2264,10 @@
       "source": "https://news.samsung.com/global/samsung-electronics-announces-third-quarter-2026-results",
       "years": []
     },
+    "SPCX US": {
+      "source": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026066880/spcx-20260930.htm",
+      "years": []
+    },
     "ST SP": {
       "years": [
         {
@@ -1850,6 +2316,107 @@
               ]
             ]
           }
+        }
+      ]
+    },
+    "TD CN": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "target",
+          "date": "2025-09",
+          "source": "https://www.td.com/content/dam/tdcom/canada/about-td/investor-day/investor-day-2025/full-presentation-td-investor-day-2025-en.pdf#page=47",
+          "metrics": {
+            "earnings": [
+              [
+                "Adjusted EPS growth",
+                "6%–8%"
+              ],
+              [
+                "Adjusted return on equity",
+                "Around 13%"
+              ]
+            ]
+          },
+          "period": "FY 2026"
+        },
+        {
+          "year": 2029,
+          "kind": "target",
+          "date": "2025-09",
+          "source": "https://www.td.com/content/dam/tdcom/canada/about-td/investor-day/investor-day-2025/full-presentation-td-investor-day-2025-en.pdf#page=47",
+          "metrics": {
+            "earnings": [
+              [
+                "Adjusted EPS growth",
+                "7%–10%"
+              ],
+              [
+                "Adjusted return on equity",
+                "Around 16%"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "TMO US": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "guidance",
+          "date": "2026-10-21",
+          "source": "https://ir.thermofisher.com/investors/news-events/news/news-details/2026/Thermo-Fisher-Scientific-Reports-Third-Quarter-2026-Results/default.aspx",
+          "metrics": {
+            "revenue": [
+              [
+                "Revenue",
+                "USD 47.7–48.2bn"
+              ],
+              [
+                "Organic revenue growth",
+                "4%"
+              ]
+            ],
+            "cash": [
+              [
+                "Free cash flow",
+                "USD 7.0–7.5bn"
+              ],
+              [
+                "Net capital expenditure",
+                "USD 1.9–2.0bn"
+              ]
+            ],
+            "earnings": [
+              [
+                "Adjusted EPS",
+                "USD 25.13–25.43"
+              ]
+            ]
+          },
+          "note": "Management’s outlook from the third-quarter earnings call."
+        },
+        {
+          "year": 2027,
+          "kind": "target",
+          "date": "2026-05-20",
+          "source": "https://ir.thermofisher.com/investors/news-events/news/news-details/2026/Thermo-Fisher-Scientific-Highlights-Industry-Leadership-Growth-Outlook-and-Long-Term-Value-Creation-at-2026-Investor-Day/default.aspx",
+          "metrics": {
+            "revenue": [
+              [
+                "Organic revenue CAGR",
+                "7%"
+              ]
+            ],
+            "earnings": [
+              [
+                "Adjusted EPS growth",
+                "Low teens"
+              ]
+            ]
+          },
+          "period": "Long-term financial outlook"
         }
       ]
     },
@@ -2158,6 +2725,10 @@
           "note": "Cumulative surplus cash flow assumes USD 65 per barrel real Brent."
         }
       ]
+    },
+    "YZJSGD SP": {
+      "source": "https://links.sgx.com/FileOpen/YZJSH_3Q2026%20Results%20Presentation_%20Final.ashx?App=Announcement&FileID=910807",
+      "years": []
     }
   }
 }
