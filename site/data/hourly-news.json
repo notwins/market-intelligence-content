@@ -2,13 +2,83 @@
   "schema_version": 1,
   "source_name": "Reuters Hourly News",
   "source_url": null,
-  "publisher_checked_at": "2026-11-22T20:25:02+08:00",
+  "publisher_checked_at": "2026-11-23T01:26:20+08:00",
   "last_complete_cutoff": null,
   "source_schedule": {
     "status": "Active",
     "checked_at": "2026-11-03T18:21:21+08:00"
   },
   "editions": [
+    {
+      "id": "reuters-20261123T002215-SGT",
+      "window_start": "2026-11-22T19:48:29+08:00",
+      "cutoff": "2026-11-23T00:22:15+08:00",
+      "report_at": "2026-11-23T00:26:07+08:00",
+      "coverage": "partial",
+      "original_url": null,
+      "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+      "summary": "Two newly reviewed Reuters stories cover China’s planned margin-financing requirement reduction and a suspected attack on a Russian vessel at Benghazi. Nvidia’s accounting inquiry and Cook’s comments are already retained; the source’s S&P 500 follow-up remains held for missing predecessor history.",
+      "limitations": [
+        "Partial targeted Reuters review for 22 November 19:48:29 to 23 November 00:22:15 SGT. Earlier uncovered intervals remain open; no complete-wire audit or new last_complete_cutoff is established.",
+        "Not republished: Nvidia accounting focus and Cook’s hawkish comments use the same Reuters articles and substantive facts already retained in the 21 November 04:29:40 SGT edition. Existing stable story IDs and versions remain unchanged; source aliases are not new events.",
+        "Held: source US equity sell-off v15. Its claimed immediate predecessor v14 is absent from retained public history. The later version is not renamed, reset to v1 or represented as a recovered chain. Friday price observations are not new Sunday trading.",
+        "Only verified original publication dates of 22 November are recorded for the selected sources. Carrier publication/update headers differ from the source report; original Reuters minute and exact development/update times are not independently established.",
+        "China’s reduction takes effect on 30 November; it is not evidence of already executed borrowing. Earlier share declines are not treated as a reaction to Sunday’s announcement. Libya attribution remains suspected, casualty counts are incomplete and port-restoration timing differs between Reuters carriers.",
+        "No new contemporaneous FX quotation, matched-period Treasury-yield shock, numerical policy-expectation trigger or corporate default is established. Accessible daily/full-research feeds were checked, while older or inaccessible original briefings limit comprehensive cross-channel comparisons."
+      ],
+      "sources": [
+        {
+          "url": "https://www.reuters.com/world/chinese-exchanges-ease-margin-trading-requirements-aid-stock-markets-2026-11-22/",
+          "title": "Chinese exchanges ease margin trading requirements to aid stock markets",
+          "published_at": null,
+          "published_date": "2026-11-22",
+          "publication_precision": "date",
+          "verification_url": "https://ca.marketscreener.com/news/chinese-exchanges-ease-margin-trading-requirements-to-aid-stock-markets-ce785ed3d18df725"
+        },
+        {
+          "url": "https://www.reuters.com/world/middle-east/libyas-eastern-government-suspects-drone-attack-caused-explosion-russian-ship-2026-11-22/",
+          "title": "Libya’s eastern government suspects drone attack caused explosion on Russian ship",
+          "published_at": null,
+          "published_date": "2026-11-22",
+          "publication_precision": "date",
+          "verification_url": "https://www.marketscreener.com/news/libya-s-eastern-government-suspects-drone-attack-caused-explosion-on-russian-ship-ce785ed3d18df22c"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261122-CHINA-EXCHANGES-MARGIN-100-TO-80",
+          "version": 1,
+          "status": "new",
+          "freshness": "current",
+          "topic": "CHINA / EQUITIES / MARGIN FINANCING / LEVERAGE",
+          "headline": "China’s exchanges announce minimum margin ratio cut to 80% from 100%, effective 30 November",
+          "body": "Reuters reported that China’s Shanghai, Shenzhen and Beijing exchanges announced a minimum margin-financing ratio reduction from 100% to 80%, effective 30 November 2026. Shanghai and Shenzhen also planned fee cuts, while Shenzhen proposed ChiNext market-making rules. Reuters cited outstanding margin loans of roughly CNY2.2tn versus a late-June CNY3tn peak. These are dated outstanding balances, not new lending or realised investment returns. The lower requirement permits greater borrowing to buy shares against equivalent collateral; implementation is still ahead. No attributable post-announcement share-price or FX response was verified.",
+          "analysis": "More financing capacity may support liquidity while increasing leverage and forced-selling risk.",
+          "watch_next": "30 November implementation, margin balances, market breadth and volatility.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/chinese-exchanges-ease-margin-trading-requirements-aid-stock-markets-2026-11-22/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261122-LIBYA-BENGHAZI-RUSSIAN-VESSEL-DRONE-SUSPECTED",
+          "version": 1,
+          "status": "new",
+          "freshness": "current",
+          "topic": "LIBYA / RUSSIA / MARITIME SECURITY / GEOPOLITICAL RISK",
+          "headline": "Libyan authorities suspect drone attack behind Russian vessel explosion at Benghazi",
+          "body": "Reuters reported that Libya’s eastern-based government cited preliminary findings pointing to a suspected drone attack on a Russian vessel at Benghazi naval base. Medical sources reported injuries and no known deaths; the number and nationalities of injured people were not established. No one had claimed responsibility and attribution remained unresolved. A later Reuters carrier said normal port operations had resumed, while an earlier copy described resumption as conditional on fire control; the exact restoration time is not established here. No verified wider commercial-shipping disruption or attributable oil, freight or bond-market movement was supplied.",
+          "analysis": "The incident raises maritime-security concerns without establishing responsibility or a broader commercial-supply interruption.",
+          "watch_next": "Official investigation, vessel damage, confirmed attribution and any operational restrictions.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/middle-east/libyas-eastern-government-suspects-drone-attack-caused-explosion-russian-ship-2026-11-22/"
+          ],
+          "development_at": null
+        }
+      ]
+    },
     {
       "id": "reuters-20261122T194829-SGT",
       "window_start": "2026-11-22T16:19:51+08:00",
