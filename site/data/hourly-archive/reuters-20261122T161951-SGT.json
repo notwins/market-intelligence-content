@@ -1,0 +1,92 @@
+{
+  "id": "reuters-20261122T161951-SGT",
+  "window_start": "2026-11-22T11:46:13+08:00",
+  "cutoff": "2026-11-22T16:19:51+08:00",
+  "report_at": "2026-11-22T16:24:50+08:00",
+  "coverage": "partial",
+  "original_url": null,
+  "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+  "summary": "Catch-up edition: two newly recovered Reuters disclosures cover Citi’s risk-weighted-asset error and Bayer’s court-approved Roundup settlement. A connected Commerzbank takeover follow-up adds higher 2026 profit guidance. None is breaking news or a verified market move during this window.",
+  "limitations": [
+    "Targeted, partial Reuters review for 22 November 11:46:13–16:19:51 SGT. All selected developments predate this window and are labelled catch-up. No exhaustive wire scan or successful complete no-news result is claimed.",
+    "Older reporting gaps remain open and last_complete_cutoff is unchanged. No newly timed material development after the preceding cutoff was established by this targeted source.",
+    "The source report assigned a separate first-version ID to the UniCredit agreement. Existing public history already contains that agreement in takeover v2; the later profit-guidance fact is connected to the original retained event as v3. No repeated agreement is counted as new.",
+    "Bayer and Commerzbank publication minutes differ between the source report and accessible Reuters syndication headers. Only the independently verified original publication calendar dates are retained; separate update times and exact development times remain unknown.",
+    "Citi’s US$35bn figure describes a risk-weighted-asset understatement, not an established trading loss. Bayer’s US$7.25bn approval is not evidence that every claim has been settled or paid. Commerzbank’s EUR3.5bn is expected 2026 net profit, not actual earnings.",
+    "No new event-specific FX, yield, credit-spread or equity-price move is established. Historical share moves in the source are not treated as current. Cross-channel checking used the available public daily and full-research feeds; inaccessible or older producer material limits comprehensive deduplication."
+  ],
+  "sources": [
+    {
+      "url": "https://www.reuters.com/business/citi-incorrectly-booked-trades-underestimated-risky-assets-by-35-billion-sources-2026-11-19/",
+      "title": "Exclusive: Citi underestimated risky assets by $35 billion after incorrectly recording trades, sources say",
+      "published_at": "2026-11-20T07:38:00+08:00",
+      "verification_url": "https://www.streetinsider.com/Reuters/Exclusive-Citi%C2%A0incorrectly%2Bbooked%2Btrades%2C%2Bunderestimated%C2%A0risky%2Bassets%2Bby%2B%2435%2Bbillion%2C%2Bsources%2Bsay/27377736.html"
+    },
+    {
+      "url": "https://www.reuters.com/legal/government/missouri-judge-approves-bayers-725-billion-roundup-settlement-2026-11-20/",
+      "title": "Missouri judge approves Bayer’s $7.25 billion Roundup settlement",
+      "published_at": null,
+      "published_date": "2026-11-20",
+      "publication_precision": "date",
+      "verification_url": "https://www.investing.com/news/stock-market-news/missouri-judge-approves-bayers-725-billion-roundup-settlement-5042643"
+    },
+    {
+      "url": "https://www.reuters.com/business/finance/commerzbank-ceo-raises-2026-profit-outlook-unicredit-takeover-nears-2026-11-20/",
+      "title": "Commerzbank CEO raises 2026 profit outlook as UniCredit takeover nears",
+      "published_at": null,
+      "published_date": "2026-11-20",
+      "publication_precision": "date",
+      "verification_url": "https://www.investing.com/news/stock-market-news/commerzbank-ceo-raises-2026-profit-outlook-as-unicredit-takeover-nears-5041313"
+    }
+  ],
+  "stories": [
+    {
+      "story_id": "R-20261120-CITI-EUROPEAN-TRADING-RWA-35BN-ERROR",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "US / UK / CITIGROUP / BANK CAPITAL / RISK CONTROLS",
+      "headline": "Citigroup reportedly understated European trading-unit risk-weighted assets by US$35bn",
+      "body": "Reuters reported that incorrectly recorded trades and use of a risk model not approved for the relevant transactions understated risk-weighted assets by about US$35 billion at a European trading subsidiary. Citi said it identified and resolved the modelling issue in summer 2026, completed remediation and injected capital to restore the subsidiary’s buffers. Citi said regulatory minimums remained met throughout. Reuters could not establish whether the adjustment was already reflected in the bank’s reported RWA. This is a recovered earlier banking disclosure, not a newly verified trading loss or realised outflow. No attributable Citigroup share-price or credit-spread move was verified.",
+      "analysis": "Risk-weighted assets determine capital requirements. The issue concerns model approval, data controls and supervisory confidence; the US$35bn amount is not an established trading loss.",
+      "watch_next": "Regulatory findings, RWA clarifications and remediation milestones.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/business/citi-incorrectly-booked-trades-underestimated-risky-assets-by-35-billion-sources-2026-11-19/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261120-BAYER-ROUNDUP-725BN-SETTLEMENT-COURT-APPROVAL",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "GERMANY / US / BAYER / LITIGATION / CREDIT",
+      "headline": "Missouri court approves Bayer’s US$7.25bn Roundup settlement; some cases remain",
+      "body": "Reuters reported a Missouri court ruling that approved Bayer’s US$7.25 billion settlement intended to resolve nearly all current and future US Roundup claims. Bayer had faced about 65,000 claims in state and federal courts. The settlement excludes some pending federal lawsuits; Bayer said about 200 of those cases were still being litigated. Court approval does not establish that all claims are resolved or all payments have occurred. This earlier court development is labelled catch-up; no contemporaneous Bayer equity or bond-price reaction was verified.",
+      "analysis": "Approval reduces a major source of legal uncertainty while payment timing, implementation and remaining liabilities still matter for creditors and shareholders.",
+      "watch_next": "Settlement implementation, payment commitments, remaining cases and further court proceedings.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/legal/government/missouri-judge-approves-bayers-725-billion-roundup-settlement-2026-11-20/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261116-UNICREDIT-COMMERZBANK-EU-US-APPROVAL",
+      "version": 3,
+      "status": "follow-up",
+      "freshness": "catch-up",
+      "topic": "EUROPE / GERMANY / UNICREDIT / COMMERZBANK / BANKS / M&A / PROFIT GUIDANCE",
+      "headline": "Commerzbank raises expected 2026 net profit to EUR3.5bn as retained takeover story advances",
+      "body": "Reuters reported that Commerzbank CEO Bettina Orlopp raised expected 2026 net profit to EUR3.5 billion from a previous forecast of at least EUR3.4 billion. These are full-year forecasts, not reported actual earnings. Her remarks followed the German government’s agreement with UniCredit and welcomed clarity on Frankfurt headquarters and listing. The combined bank’s strategy remained to be worked out. The takeover agreement itself is already covered in retained v2; this catch-up follow-up adds the later profit-guidance development. No price reaction during this report window was verified.",
+      "analysis": "Higher guidance changes the target bank’s expected earnings baseline. Ownership transfer, integration strategy, employment and capital-allocation risks remain separate execution questions.",
+      "watch_next": "Confirmed profit results, the combined strategy, treatment of Germany’s stake and closing milestones.",
+      "earlier": "Retained v1 covered EU/US approvals on 16 November. Retained v2 at the 19 November 07:40:16 SGT cutoff covered the broad German political agreement. That agreement is context here, not a new event.",
+      "source_urls": [
+        "https://www.reuters.com/business/finance/commerzbank-ceo-raises-2026-profit-outlook-unicredit-takeover-nears-2026-11-20/"
+      ],
+      "development_at": null
+    }
+  ]
+}
