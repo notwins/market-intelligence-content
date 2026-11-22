@@ -1,0 +1,92 @@
+{
+  "id": "reuters-20261122T194829-SGT",
+  "window_start": "2026-11-22T16:19:51+08:00",
+  "cutoff": "2026-11-22T19:48:29+08:00",
+  "report_at": "2026-11-22T19:51:58+08:00",
+  "coverage": "partial",
+  "original_url": null,
+  "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+  "summary": "Two reviewed Reuters stories cover SNB inflation comments and Thailand’s proposed rare-earth chemical export controls; a connected Bahrain follow-up adds a wider casualty update. The Thailand item is catch-up. COP31 and Anthropic source items remain withheld for timing and missing-history checks.",
+  "limitations": [
+    "Targeted, partial Reuters review for 22 November 16:19:51–19:48:29 SGT. Earlier uncovered intervals remain open; this is not a full-wire audit and last_complete_cutoff is unchanged.",
+    "Held: source COP31 v3. The accessible Reuters carrier displayed the closing account at 19:57 SGT, after this report’s 19:48:29 cutoff and 19:51:58 completion. The source used an earlier article’s original timestamp; availability of the substantive revision by cutoff could not be independently verified. Retained COP31 v2 remains unchanged.",
+    "Held: source Anthropic IPO v9. Public history retains only v1–v3; v4–v8, including the claimed immediate predecessor v8, are missing. The later version is not renamed or reset, and the missing chain is not represented as recovered.",
+    "Thailand is an older catch-up discovery. Its article minute differs between the source report and Reuters syndication; only the verified 22 November publication date is recorded. Proposed controls and talks are not an implemented export ban.",
+    "Bahrain’s original article date remains 21 November; its exact later Reuters update and casualty timing are unverified. The wider injuries are not established as occurring at the industrial facility, so no correction of the earlier site-specific account is claimed.",
+    "SNB comments are not a rate decision or a quantified futures repricing. No event-specific FX move, greater-than-10bp matched-period UST move, new default or verified market-price shock is supplied. Public daily/full-research feeds were checked; inaccessible or older source material limits comprehensive cross-channel comparisons."
+  ],
+  "sources": [
+    {
+      "url": "https://www.reuters.com/business/finance/snb-closely-watching-second-round-inflation-effects-vice-chairman-tells-paper-2026-11-22/",
+      "title": "SNB closely watching for second-round inflation effects, vice chairman tells paper",
+      "published_at": "2026-11-22T16:24:00+08:00",
+      "verification_url": "https://malaysia.news.yahoo.com/snb-closely-watching-second-round-082426438.html"
+    },
+    {
+      "url": "https://www.reuters.com/sustainability/climate-energy/thailand-plans-block-exports-chemicals-used-myanmar-rare-earth-mining-2026-11-22/",
+      "title": "Thailand plans to block exports of chemicals used in Myanmar rare earth mining",
+      "published_at": null,
+      "published_date": "2026-11-22",
+      "publication_precision": "date",
+      "verification_url": "https://uk.marketscreener.com/news/thailand-plans-to-block-exports-of-chemicals-used-in-myanmar-rare-earth-mining-ce785ed3d18bf523"
+    },
+    {
+      "url": "https://www.reuters.com/world/middle-east/bahrain-warns-residents-potential-threat-iran-conflict-persists-2026-11-21/",
+      "title": "Bahrain says Iran strikes industrial facility as air defences intercept attacks",
+      "published_at": null,
+      "published_date": "2026-11-21",
+      "publication_precision": "date",
+      "verification_url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/22/bahrain-warns-residents-of-potential-threat-as-iran-conflict-persists"
+    }
+  ],
+  "stories": [
+    {
+      "story_id": "R-20261122-SNB-INFLATION-SECOND-ROUND-MARTIN",
+      "version": 1,
+      "status": "new",
+      "freshness": "current",
+      "topic": "SWITZERLAND / SNB / CHF / INFLATION / UBS",
+      "headline": "SNB watches second-round inflation effects ahead of December decision",
+      "body": "Reuters reported that SNB Vice Chairman Antoine Martin said the Swiss National Bank was monitoring potential second-round effects from faster inflation. Swiss annual inflation rose to 1.5% in October from 1% in September, exceeding expectations and increasing expectations of a December rate rise. Martin reiterated the franc’s safe-haven role and the SNB’s support for the Swiss government proposal requiring UBS to fully capitalise foreign subsidiaries. These are interview comments, policy expectations and a capital proposal; no announced change to the policy rate, enacted capital rule or event-specific USD/CHF or CHF/SGD movement was established.",
+      "analysis": "CHF-funded investments and floating-rate financing are sensitive to future policy and currency changes. The comments do not establish that an existing loan rate has changed.",
+      "watch_next": "December SNB decision, inflation expectations, CHF forwards, contractual loan resets and UBS capital legislation.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/business/finance/snb-closely-watching-second-round-inflation-effects-vice-chairman-tells-paper-2026-11-22/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261122-THAILAND-MYANMAR-RARE-EARTH-CHEMICAL-EXPORT-PLAN",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "THAILAND / MYANMAR / CHINA / RARE EARTHS / EXPORT RESTRICTIONS",
+      "headline": "Thailand plans controls on chemicals used in Myanmar rare-earth mining",
+      "body": "Reuters reported that Thailand plans to restrict shipments of chemicals used for rare-earth mining in Myanmar amid concerns about polluted rivers crossing into northern Thailand. The deputy prime minister did not provide detailed restrictions. Thailand, China and Myanmar planned talks for 24–26 November 2026. The report was available before this window and is labelled catch-up. A proposed restriction and planned talks do not establish an implemented ban, quantified supply loss or a verified rare-earth, semiconductor-share or FX price response.",
+      "analysis": "Controls on mining inputs could affect regional rare-earth supply chains, but the scope, implementation and actual production effects remain unquantified.",
+      "watch_next": "Official export-control details, implementation dates, the trilateral talks and confirmed production effects.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/sustainability/climate-energy/thailand-plans-block-exports-chemicals-used-myanmar-rare-earth-mining-2026-11-22/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261121-BAHRAIN-IRAN-AERIAL-ATTACK-INDUSTRIAL-FIRE",
+      "version": 2,
+      "status": "follow-up",
+      "freshness": "current",
+      "topic": "BAHRAIN / IRAN / GULF SECURITY / ENERGY / SHIPPING",
+      "headline": "Bahrain reports two injuries in wider Iranian attacks; industrial-site link remains unverified",
+      "body": "An updated Reuters account reported Bahrain’s Interior Ministry statement that two people were injured during the previous day’s Iranian attacks, with one critically injured and the other stable. Reuters did not establish that these injuries occurred at the industrial facility covered by the earlier fire report. The wider casualty update therefore does not establish a correction to the earlier site-specific no-injury account. The exact Reuters revision and injury times remain unknown. No attributable oil-production loss, shipping interruption, insurance-price or bond-market movement was verified.",
+      "analysis": "The casualty update adds evidence of Gulf security risk without proving an energy-supply interruption or market-price shock.",
+      "watch_next": "Official incident-site clarification, shipping-safety notices and independently confirmed operational disruption.",
+      "earlier": "Retained v1 at the 22 November 08:09:28 SGT cutoff reported an industrial-facility fire and no injuries initially reported at that site. This follow-up concerns casualties in the wider attacks.",
+      "source_urls": [
+        "https://www.reuters.com/world/middle-east/bahrain-warns-residents-potential-threat-iran-conflict-persists-2026-11-21/"
+      ],
+      "development_at": null
+    }
+  ]
+}
