@@ -1,0 +1,67 @@
+{
+  "id": "reuters-20261122T114613-SGT",
+  "report_at": "2026-11-22T11:48:10+08:00",
+  "cutoff": "2026-11-22T11:46:13+08:00",
+  "window_start": "2026-11-22T08:09:28+08:00",
+  "coverage": "partial",
+  "original_url": null,
+  "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+  "summary": "Two Reuters-confirmed updates: China opposed US restrictions on Chinese telecom providers’ direct access to US phone numbers and warned of possible countermeasures; Australia rejected a US budget-office warning about the impact of AUKUS submarine transfers on the US Navy fleet. No directly attributable FX, bond-yield or equity response was established.",
+  "limitations": [
+    "Targeted, partial Reuters coverage for 22 November 08:09:28–11:46:13 SGT. This is not an exhaustive wire scan. Older missing reporting intervals are not recovered and the last complete cutoff is unchanged.",
+    "China’s Sunday government response is distinct from the US FCC vote on 19 November. The threat of countermeasures is not an announced or implemented retaliation.",
+    "China article publication minute differed across accessible Reuters syndication listings; original publication is recorded only to the verified 22 November calendar date. Exact event-development time and any separate update time remain unknown.",
+    "Australia’s A$368 billion AUKUS commitment spans three decades; the figure is not a new borrowing announcement. The US Congressional Budget Office’s warning and Australia’s denial are competing assessments, not confirmed fleet losses.",
+    "No matched-period price move, FX move, yield change or new default was verified. Earnings, elections and credit editions were not exhaustively cross-reviewed."
+  ],
+  "sources": [
+    {
+      "url": "https://www.reuters.com/world/china-opposes-us-fcc-ban-chinese-telecoms-direct-access-us-phone-numbers-2026-11-22/",
+      "title": "China opposes US FCC ban on Chinese telecoms' direct access to US phone numbers",
+      "published_at": null,
+      "published_date": "2026-11-22",
+      "publication_precision": "date",
+      "verification_url": "https://ca.marketscreener.com/news/china-opposes-us-fcc-ban-on-chinese-telecoms-direct-access-to-us-phone-numbers-ce785ed3d188f625"
+    },
+    {
+      "url": "https://www.reuters.com/world/asia-pacific/australia-criticises-us-congressional-budget-office-over-aukus-comments-2026-11-22/",
+      "title": "Australia criticises US Congressional Budget Office over AUKUS comments",
+      "published_at": "2026-11-22T08:33:00+08:00",
+      "verification_url": "https://www.streetinsider.com/Reuters/Australia%2Bcriticises%2BUS%2BCongressional%2BBudget%2BOffice%2Bover%2BAUKUS%2Bcomments/27382984.html"
+    }
+  ],
+  "stories": [
+    {
+      "story_id": "R-20261122-CHINA-FCC-US-TELECOM-NUMBER-BAN-OPPOSITION",
+      "version": 1,
+      "status": "new",
+      "freshness": "current",
+      "topic": "CHINA / US / TELECOMS / TRADE RESTRICTIONS",
+      "headline": "China opposes US phone-number restriction on Chinese telecom firms; warns of countermeasures",
+      "body": "Reuters reported that China’s commerce ministry opposed the US FCC vote to block Chinese telecom companies from direct access to US phone numbers. The November 19 FCC decision affected China Mobile, China Telecom, China Unicom and certain internet-based telephone providers. Beijing urged Washington to reverse the move and warned it could take necessary countermeasures; no specific new Chinese measure was announced.",
+      "analysis": "The new development is China’s response, not the earlier FCC vote. Further restrictions could increase regulatory friction for cross-border telecom services, but this statement does not establish retaliatory action or market-price effects.",
+      "watch_next": "Any concrete Chinese countermeasure, US FCC implementation details and affected company disclosures.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/china-opposes-us-fcc-ban-chinese-telecoms-direct-access-us-phone-numbers-2026-11-22/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261122-AUSTRALIA-AUKUS-CBO-SUBMARINE-FLEET-DISPUTE",
+      "version": 1,
+      "status": "new",
+      "freshness": "current",
+      "topic": "AUSTRALIA / US / AUKUS / DEFENCE / PUBLIC SPENDING",
+      "headline": "Australia disputes US budget office warning over AUKUS submarine transfers",
+      "body": "Reuters reported that Australian Defence Minister Richard Marles rejected a Congressional Budget Office assessment that sales of Virginia-class submarines to Australia could reduce the US Navy’s attack-submarine fleet through 2060. Marles said the AUKUS programme remained on track and US production was increasing. The programme envisages US-commanded submarine rotations from 2027 and transfers around 2030; Australia has committed A$368 billion over about three decades, including investment in US and British production facilities.",
+      "analysis": "The disagreement highlights submarine production capacity and delivery risk. The multidecade AUKUS commitment is not a newly issued bond or an immediate funding requirement, and Reuters did not establish a related bond or FX-market move.",
+      "watch_next": "US submarine construction output, CBO or government clarification, programme milestones and revised delivery schedules.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/asia-pacific/australia-criticises-us-congressional-budget-office-over-aukus-comments-2026-11-22/"
+      ],
+      "development_at": null
+    }
+  ]
+}
