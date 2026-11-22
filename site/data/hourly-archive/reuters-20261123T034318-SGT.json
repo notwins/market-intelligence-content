@@ -1,0 +1,119 @@
+{
+  "id": "reuters-20261123T034318-SGT",
+  "window_start": "2026-11-23T00:22:15+08:00",
+  "cutoff": "2026-11-23T03:43:18+08:00",
+  "report_at": "2026-11-23T03:46:25+08:00",
+  "coverage": "partial",
+  "original_url": null,
+  "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+  "summary": "Three new Reuters developments cover Poland’s missile identification, a Houthi claim concerning Rabigh refinery and conditional Tata Steel asset sales. A connected Nvidia follow-up adds Bessent’s account of direct government questions to company leadership. Claims, approvals, historical incident dates and verified outcomes remain distinct.",
+  "limitations": [
+    "Partial targeted source review for 23 November 00:22:15–03:43:18 SGT. This is a provisional interval since the preceding report, not a verified fully complete scan boundary. Earlier uncovered periods remain open and last_complete_cutoff is unchanged.",
+    "Only the verified original publication date of 22 November is recorded for the selected Reuters articles; exact original Reuters minutes and later revision times are not independently established. In particular the Tata carrier’s publication stamp differs from the source report’s earlier original-time claim.",
+    "Poland’s underlying airspace incident occurred on Friday, 20 November. The newly reported finding identifies the objects as missiles; it does not establish a new incursion within this window or a NATO military response.",
+    "The Rabigh item is a Houthi attack claim. Damage, refinery downtime, production loss and attributable oil or freight-price moves remain unconfirmed. Petro Rabigh, Saudi Aramco and Sumitomo Chemical are contextual subjects, not evidence of a quantified company loss.",
+    "Nvidia v2 connects to retained v1 under the same stable story ID. Direct government questions and an internal board review are not findings of misconduct, new sanctions, confirmed lost revenue or a verified share-price reaction.",
+    "Tata Steel’s consideration, component valuations and Reuters USD equivalent describe announced conditional transactions, not received cash, realised earnings or executed debt repayment. The USD conversion is not an executable FX quote. A separate potential acquisition of APL Apollo remains unconfirmed.",
+    "Accessible current daily/full-research feeds were checked; inaccessible or older original briefing material limits comprehensive cross-channel comparison. No newly verified matched-period UST shock, policy-expectation trigger, SNB sight-deposit change, recession forecast revision or corporate default is supplied."
+  ],
+  "sources": [
+    {
+      "url": "https://www.reuters.com/world/three-russian-missiles-flew-into-poland-friday-prosecutors-say-2026-11-22/",
+      "title": "Three Russian missiles flew into Poland Friday, prosecutors say",
+      "published_at": null,
+      "published_date": "2026-11-22",
+      "publication_precision": "date",
+      "verification_url": "https://www.streetinsider.com/Reuters/Three%2BRussian%2Bmissiles%2Bflew%2Binto%2BPoland%2BFriday%2C%2Bprosecutors%2Bsay/27383053.html"
+    },
+    {
+      "url": "https://www.reuters.com/world/middle-east/yemens-houthis-say-they-attacked-saudi-rabigh-oil-refinery-2026-11-22/",
+      "title": "Yemen’s Houthis say they attacked Saudi Rabigh oil refinery",
+      "published_at": null,
+      "published_date": "2026-11-22",
+      "publication_precision": "date",
+      "verification_url": "https://www.streetinsider.com/Reuters/Yemens%2BHouthis%2Bsay%2Bthey%2Battacked%2BSaudi%2BRabigh%2Boil%2Brefinery/27383058.html"
+    },
+    {
+      "url": "https://www.reuters.com/world/china/us-seeks-answers-nvidias-sale-chips-china-bessent-says-2026-11-22/",
+      "title": "US seeks answers on Nvidia’s sale of chips to China, Bessent says",
+      "published_at": null,
+      "published_date": "2026-11-22",
+      "publication_precision": "date",
+      "verification_url": "https://www.streetinsider.com/Reuters/US%2Bseeks%2Banswers%2Bon%2BNvidias%2Bsale%2Bof%2Bchips%2Bto%2BChina%2C%2BBessent%2Bsays/27383057.html"
+    },
+    {
+      "url": "https://www.reuters.com/world/india/tata-steel-nears-deal-acquire-majority-stake-apl-apollo-tubes-moneycontrol-2026-11-22/",
+      "title": "Tata Steel to sell tubes business, Tata Steel Colors stake to APL Apollo for up to $3 billion",
+      "published_at": null,
+      "published_date": "2026-11-22",
+      "publication_precision": "date",
+      "verification_url": "https://in.marketscreener.com/news/tata-steel-to-sell-tubes-business-tata-steel-colors-stake-to-apl-apollo-for-up-to-3-billion-ce785ed3d18cf126"
+    }
+  ],
+  "stories": [
+    {
+      "story_id": "R-20261122-POLAND-RUSSIAN-KH101-MISSILES-CONFIRMED",
+      "version": 1,
+      "status": "new",
+      "freshness": "current",
+      "topic": "POLAND / RUSSIA / NATO / SECURITY RISK",
+      "headline": "Polish prosecutors identify all three Friday airspace incursions as Russian Kh-101 missiles",
+      "body": "Reuters reported Sunday findings from Polish prosecutors identifying all three objects that entered Poland’s airspace on Friday, 20 November, as Russian Kh-101 missiles. Preliminary debris examination replaced earlier suggestions that one object might have been a drone. NATO’s North Atlantic Council was due to discuss the violation on Monday, 23 November. The new development is the prosecutors’ identification, not a newly occurring Friday incursion. No NATO military response or attributable market-price movement was established.",
+      "analysis": "Confirmed missile identification adds a security watchpoint while formal allied decisions and measured market effects remain separate.",
+      "watch_next": "Monday’s NATO meeting, further Polish findings and official allied measures.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/three-russian-missiles-flew-into-poland-friday-prosecutors-say-2026-11-22/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261122-HOUTHI-CLAIMS-RABIGH-REFINERY-STRIKE",
+      "version": 1,
+      "status": "new",
+      "freshness": "current",
+      "topic": "SAUDI ARABIA / YEMEN / OIL / REFINING / PETRO RABIGH / SAUDI ARAMCO / SUMITOMO CHEMICAL",
+      "headline": "Houthis claim Rabigh refinery strike; physical damage and production loss remain unconfirmed",
+      "body": "Reuters reported that Yemen’s Iran-aligned Houthis claimed a direct hit on Saudi Arabia’s Rabigh refinery on the Red Sea coast. Reuters had no indication of damage, if any, and Saudi authorities had not immediately commented. Rabigh includes the Petro Rabigh refining and petrochemical complex developed by Saudi Aramco and Japan’s Sumitomo Chemical. The claim does not establish physical damage, a refinery outage or lost production. No attributable oil-price, refining-margin or shipping-cost movement was verified.",
+      "analysis": "A confirmed outage could affect supply, but an unverified claim cannot be treated as an actual operational loss.",
+      "watch_next": "Official Saudi and Petro Rabigh statements, operating status and independently verified market reactions.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/middle-east/yemens-houthis-say-they-attacked-saudi-rabigh-oil-refinery-2026-11-22/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261120-NVDA-HUANG-SENATE-TESTIMONY-AGREEMENT",
+      "version": 2,
+      "status": "follow-up",
+      "freshness": "current",
+      "topic": "US / CHINA / NVIDIA / NVDA / SCOTT BESSENT / JENSEN HUANG / AI / EXPORT COMPLIANCE",
+      "headline": "Bessent says US officials directly sought Nvidia export-compliance answers from management and directors",
+      "body": "Reuters reported that US Treasury Secretary Scott Bessent said officials had contacted Nvidia’s temporary management, lead directors and lawyers about chip sales to China and responsibility for export compliance. He said Nvidia’s board was reviewing what happened. This is a substantive government-contact development following the retained agreement by former CEO Jensen Huang to testify, rather than a repeated announcement of that hearing. The questions do not establish misconduct, a new penalty or a quantified business loss. No Sunday Nvidia share-price response attributable to these remarks was established.",
+      "analysis": "Direct questions about compliance responsibilities add scrutiny; allegations, board findings and financial effects remain distinct.",
+      "watch_next": "Nvidia’s response, board conclusions, official compliance disclosures and confirmed Senate hearing arrangements.",
+      "earlier": "Retained v1 at the 22 November 03:33:25 SGT cutoff recorded Huang’s agreement to public Senate testimony, with its date unconfirmed. That predecessor remains unchanged; this v2 adds Bessent’s description of direct contact with company leadership.",
+      "source_urls": [
+        "https://www.reuters.com/world/china/us-seeks-answers-nvidias-sale-chips-china-bessent-says-2026-11-22/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261122-TATA-STEEL-APL-APOLLO-TUBES-COLORS-SALE",
+      "version": 1,
+      "status": "new",
+      "freshness": "current",
+      "topic": "INDIA / TATA STEEL / APL APOLLO TUBES / MERGERS AND ACQUISITIONS / CREDIT",
+      "headline": "Tata Steel announces conditional tubes and Colors sales to APL Apollo for up to INR280bn",
+      "body": "Reuters reported that India’s Tata Steel agreed conditional cash transactions with APL Apollo Tubes worth up to INR280 billion, about US$3.02 billion at Reuters’ stated conversion. The tubes business consideration is up to INR117 billion; Tata Steel Colors was valued at INR163 billion, covering Tata Steel’s full direct and indirect 100% holding. The agreements depend on each other and require regulatory approvals and other conditions before simultaneous closing. Announced consideration is not cash already received or debt already repaid. Separate speculation about Tata Steel acquiring control of APL Apollo was unconfirmed. No post-announcement equity or credit-market response was verified.",
+      "analysis": "Potential cash proceeds may change financing flexibility, but completion, actual proceeds and use of funds determine the effect.",
+      "watch_next": "Regulatory clearance, simultaneous completion, actual proceeds, financing and subsequent leverage disclosures.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/india/tata-steel-nears-deal-acquire-majority-stake-apl-apollo-tubes-moneycontrol-2026-11-22/"
+      ],
+      "development_at": null
+    }
+  ]
+}
