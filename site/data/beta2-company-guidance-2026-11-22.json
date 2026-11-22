@@ -1,0 +1,1825 @@
+{
+  "version": 1,
+  "asOf": "22 Nov 2026",
+  "listings": {
+    "AAPL US": "AAPL US",
+    "NVDA US": "NVDA US",
+    "MSFT US": "MSFT US",
+    "GOOG US": "GOOG US",
+    "GOOGL US": "GOOG US",
+    "AMZN US": "AMZN US",
+    "TSM US": "TSM US",
+    "SPCX US": "SPCX US",
+    "TSLA US": "TSLA US",
+    "META US": "META US",
+    "AVGO US": "AVGO US",
+    "LLY US": "LLY US",
+    "BRK/B US": "BRK/B US",
+    "BRK/A US": "BRK/B US",
+    "SKHY US": "SKHY US",
+    "WMT US": "WMT US",
+    "SMSN LI": "SMSN LI",
+    "MU US": "MU US",
+    "JPM US": "JPM US",
+    "V US": "V US",
+    "AMD US": "AMD US",
+    "XOM US": "XOM US",
+    "JNJ US": "JNJ US",
+    "ASML NA": "ASML US",
+    "ASML US": "ASML US",
+    "MA US": "MA US",
+    "ABBV US": "ABBV US",
+    "COST US": "COST US",
+    "700 HK": "700 HK",
+    "CVX US": "CVX US",
+    "1398 HK": "1398 HK",
+    "601398 CH": "1398 HK",
+    "PLTR US": "PLTR US",
+    "KO US": "KO US",
+    "CSCO US": "CSCO US",
+    "ROP SW": "ROP SW",
+    "1288 HK": "1288 HK",
+    "601288 CH": "1288 HK",
+    "PG US": "PG US",
+    "857 HK": "857 HK",
+    "601857 CH": "857 HK",
+    "MRK US": "MRK US",
+    "ORCL US": "ORCL US",
+    "UNH US": "UNH US",
+    "939 HK": "939 HK",
+    "601939 CH": "939 HK",
+    "BAC US": "BAC US",
+    "HD US": "HD US",
+    "NOVN SW": "NOVN SW",
+    "GE US": "GE US",
+    "PM US": "PM US",
+    "INTC US": "INTC US",
+    "3988 HK": "3988 HK",
+    "601988 CH": "3988 HK",
+    "SHELL NA": "SHEL LN",
+    "SHEL LN": "SHEL LN",
+    "AMAT US": "AMAT US",
+    "HSBA LN": "HSBA LN",
+    "5 HK": "HSBA LN",
+    "MS US": "MS US",
+    "SAP GY": "SAP GY",
+    "AZN LN": "AZN LN",
+    "PANW US": "PANW US",
+    "LRCX US": "LRCX US",
+    "RY US": "RY US",
+    "CAT US": "CAT US",
+    "7203 JP": "7203 JP",
+    "TXN US": "TXN US",
+    "RTX US": "RTX US",
+    "600519 CH": "600519 CH",
+    "GS US": "GS US",
+    "NESN SW": "NESN SW",
+    "OR FP": "OR FP",
+    "WFC US": "WFC US",
+    "NFLX US": "NFLX US",
+    "8306 JP": "8306 JP",
+    "TMO US": "TMO US",
+    "BABA US": "BABA US",
+    "9988 HK": "BABA US",
+    "AMGN US": "AMGN US",
+    "DELL US": "DELL US",
+    "CRWD US": "CRWD US",
+    "IBM US": "IBM US",
+    "LIN US": "LIN US",
+    "SIE GY": "SIE GY",
+    "GEV US": "GEV US",
+    "941 HK": "941 HK",
+    "AXP US": "AXP US",
+    "MC FP": "MC FP",
+    "TTE FP": "TTE FP",
+    "GILD US": "GILD US",
+    "ARM US": "ARM US",
+    "ANET US": "ANET US",
+    "C US": "C US",
+    "BHP LN": "BHP LN",
+    "TD CN": "TD CN",
+    "BHP AU": "BHP LN",
+    "ITX SM": "ITX SM",
+    "SHOP CN": "SHOP US",
+    "SHOP US": "SHOP US",
+    "DBS SP": "DBS SP",
+    "ST SP": "ST SP",
+    "UOB SP": "UOB SP",
+    "STE SP": "STE SP",
+    "SGX SP": "SGX SP",
+    "SIA SP": "SIA SP",
+    "WIL SP": "WIL SP",
+    "CICT SP": "CICT SP",
+    "YZJSGD SP": "YZJSGD SP",
+    "KEP SP": "KEP SP"
+  },
+  "companies": {
+    "700 HK": {
+      "source": "https://www.tencent.com/wp-content/uploads/2026/11/Tencent-Announces-2026-Third-Quarter-Results.pdf",
+      "years": []
+    },
+    "7203 JP": {
+      "years": [
+        {
+          "year": 2027,
+          "kind": "guidance",
+          "date": "2026-11",
+          "source": "https://global.toyota/pages/global_toyota/ir/financial-results/2027_2q_summary_en.pdf#page=2",
+          "metrics": {
+            "revenue": [
+              [
+                "Sales revenue",
+                "JPY 53.5tn"
+              ]
+            ],
+            "earnings": [
+              [
+                "Operating income",
+                "JPY 3.9tn"
+              ],
+              [
+                "Net income attributable to Toyota",
+                "JPY 3.57tn"
+              ],
+              [
+                "Basic EPS",
+                "JPY 299.95"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "AAPL US": {
+      "source": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
+      "years": []
+    },
+    "ABBV US": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "guidance",
+          "date": "2026-10",
+          "source": "https://investors.abbvie.com/news-releases/news-release-details/abbvie-reports-third-quarter-2026-financial-results",
+          "metrics": {
+            "earnings": [
+              [
+                "Adjusted diluted EPS",
+                "USD 13.95–13.99"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "AMAT US": {
+      "source": "https://investors.appliedmaterials.com/node/29886/pdf",
+      "years": []
+    },
+    "AMGN US": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "guidance",
+          "date": "2026-11-03",
+          "source": "https://investors.amgen.com/news-releases/news-release-details/amgen-reports-third-quarter-2026-financial-results",
+          "metrics": {
+            "revenue": [
+              [
+                "Total revenue",
+                "USD 38.9–39.7bn"
+              ]
+            ],
+            "cash": [
+              [
+                "Capital expenditure",
+                "Around USD 2.6bn"
+              ]
+            ],
+            "earnings": [
+              [
+                "GAAP EPS",
+                "USD 18.34–19.28"
+              ],
+              [
+                "Non-GAAP EPS",
+                "USD 22.90–23.70"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "AMZN US": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "guidance",
+          "date": "2026-10",
+          "source": "https://ir.aboutamazon.com/files/doc_earnings/2026/q3/earnings-result/AMZN-Q3-2026-Earnings-Release.pdf",
+          "metrics": {
+            "cash": [
+              [
+                "Cash capital expenditure",
+                "Around USD 220bn"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "ARM US": {
+      "source": "https://investors.arm.com/static-files/0b5baa2e-fc47-4d05-b724-e49de7bd4356",
+      "years": []
+    },
+    "ASML US": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "guidance",
+          "date": "2026-10-14",
+          "source": "https://www.investor.asml.com/news-releases/news-release-details/asml-reports-eu11.7-billion-total-net-sales-and-eu5.0-billion-net-income-q3-2026",
+          "metrics": {
+            "revenue": [
+              [
+                "Total net sales",
+                "EUR 44–45bn"
+              ]
+            ]
+          }
+        },
+        {
+          "year": 2030,
+          "kind": "scenario",
+          "date": "2026-02",
+          "source": "https://investor.asml.com/annual-reports/2025/financials",
+          "metrics": {
+            "revenue": [
+              [
+                "Annual revenue opportunity",
+                "Approximately EUR 44–60bn"
+              ]
+            ]
+          },
+          "note": "The range reflects different market and lithography scenarios."
+        }
+      ]
+    },
+    "AXP US": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "guidance",
+          "date": "2026-10",
+          "source": "https://www.sec.gov/Archives/edgar/data/4962/000000496226000405/q326exhibit991.htm",
+          "metrics": {
+            "revenue": [
+              [
+                "Revenue growth",
+                "+10%"
+              ]
+            ],
+            "earnings": [
+              [
+                "GAAP EPS",
+                "USD 18.30–18.60"
+              ],
+              [
+                "Adjusted EPS",
+                "USD 17.60–17.90"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "AZN LN": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "guidance",
+          "date": "2026-11",
+          "source": "https://www.astrazeneca.com/media-centre/press-releases/2026/9m-and-q3-2026-results.html",
+          "metrics": {
+            "revenue": [
+              [
+                "Total revenue growth at constant exchange rates",
+                "Mid to high single digits"
+              ]
+            ],
+            "earnings": [
+              [
+                "Core EPS growth at constant exchange rates",
+                "Low double digits"
+              ]
+            ]
+          }
+        },
+        {
+          "year": 2030,
+          "kind": "target",
+          "date": "2026-02",
+          "source": "https://www.astrazeneca.com/content/dam/az/Investor_Relations/annual-report-2025/pdf/AstraZeneca_AR_2025.pdf",
+          "metrics": {
+            "revenue": [
+              [
+                "Total revenue",
+                "USD 80bn"
+              ]
+            ]
+          },
+          "note": "Risk-adjusted company ambition."
+        }
+      ]
+    },
+    "BABA US": {
+      "source": "https://www.alibabagroup.com/en-US/document-2060147792046718976",
+      "years": []
+    },
+    "BHP LN": {
+      "years": [
+        {
+          "year": 2027,
+          "kind": "guidance",
+          "date": "2026-08-18",
+          "source": "https://www.bhp.com/-/media/documents/media/reports-and-presentations/2026/260818_bhpresultsfortheyearended30june2026_exchangerelease.pdf",
+          "metrics": {
+            "cash": [
+              [
+                "Capital and exploration expenditure",
+                "Around USD 11bn"
+              ]
+            ]
+          }
+        },
+        {
+          "year": 2028,
+          "kind": "guidance",
+          "date": "2026-08-18",
+          "source": "https://www.bhp.com/-/media/documents/media/reports-and-presentations/2026/260818_bhpresultsfortheyearended30june2026_exchangerelease.pdf",
+          "metrics": {
+            "cash": [
+              [
+                "Capital and exploration expenditure",
+                "Around USD 11bn"
+              ]
+            ]
+          }
+        },
+        {
+          "year": 2031,
+          "kind": "target",
+          "date": "2026-08-18",
+          "source": "https://www.bhp.com/-/media/documents/media/reports-and-presentations/2026/260818_bhpresultsfortheyearended30june2026_exchangerelease.pdf",
+          "metrics": {
+            "cash": [
+              [
+                "Average annual capital and exploration expenditure",
+                "Around USD 11bn"
+              ]
+            ]
+          },
+          "period": "FY 2029–2031"
+        }
+      ]
+    },
+    "CRWD US": {
+      "years": [
+        {
+          "year": 2027,
+          "kind": "guidance",
+          "date": "2026-08-26",
+          "source": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000029/crwd-20260826xex991.htm",
+          "metrics": {
+            "revenue": [
+              [
+                "Total revenue",
+                "USD 5,991.1–6,011.1m"
+              ]
+            ],
+            "earnings": [
+              [
+                "Non-GAAP operating income",
+                "USD 1,497.2–1,508.4m"
+              ],
+              [
+                "Non-GAAP diluted EPS",
+                "USD 1.25–1.26"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "CSCO US": {
+      "years": [
+        {
+          "year": 2027,
+          "kind": "guidance",
+          "date": "2026-11-12",
+          "source": "https://investor.cisco.com/news/news-details/2026/CISCO-REPORTS-FIRST-QUARTER-EARNINGS/default.aspx",
+          "metrics": {
+            "revenue": [
+              [
+                "Revenue",
+                "USD 74.8–75.8bn"
+              ]
+            ],
+            "earnings": [
+              [
+                "GAAP EPS",
+                "USD 4.38–4.44"
+              ],
+              [
+                "Non-GAAP EPS",
+                "USD 5.47–5.53"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "DBS SP": {
+      "years": [
+        {
+          "year": 2027,
+          "kind": "guidance",
+          "date": "2026-11-05",
+          "source": "https://www.dbs.com/iwov-resources/images/investors/quarterly-financials/2026/3Q26_media_transcript.pdf",
+          "metrics": {
+            "revenue": [
+              [
+                "Net interest income",
+                "Management expects growth"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "DELL US": {
+      "years": [
+        {
+          "year": 2027,
+          "kind": "guidance",
+          "date": "2026-09-01",
+          "source": "https://investors.delltechnologies.com/sec-filings/all-sec-filings/content/0001571996-26-000039/exhibit991earnings8kq2fy27.htm",
+          "metrics": {
+            "revenue": [
+              [
+                "Total revenue",
+                "USD 192.0bn"
+              ],
+              [
+                "AI-optimized server revenue",
+                "USD 74.0bn"
+              ]
+            ],
+            "earnings": [
+              [
+                "GAAP diluted EPS",
+                "USD 24.37"
+              ],
+              [
+                "Non-GAAP diluted EPS",
+                "USD 25.50"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "GE US": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "guidance",
+          "date": "2026-11-19",
+          "source": "https://www.geaerospace.com/news/investor-relations/ir-updates/brain-recap-questions-answered",
+          "metrics": {
+            "cash": [
+              [
+                "Free cash flow",
+                "USD 9.1–9.4bn"
+              ]
+            ]
+          }
+        },
+        {
+          "year": 2027,
+          "kind": "guidance",
+          "date": "2026-11-19",
+          "source": "https://www.geaerospace.com/news/investor-relations/ir-updates/brain-recap-questions-answered",
+          "metrics": {
+            "revenue": [
+              [
+                "Commercial services revenue growth",
+                "Low double digits, or around USD 3.5–4.0bn of growth"
+              ]
+            ],
+            "cash": [
+              [
+                "Free cash flow conversion",
+                "Over 100%"
+              ]
+            ],
+            "earnings": [
+              [
+                "Group operating margin",
+                "Similar to 2026"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "GEV US": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "guidance",
+          "date": "2026-10-28",
+          "source": "https://www.gevernova.com/sites/default/files/gev_webcast_pressrelease_10282026.pdf",
+          "metrics": {
+            "revenue": [
+              [
+                "Revenue",
+                "USD 46.5–47.5bn"
+              ]
+            ],
+            "cash": [
+              [
+                "Free cash flow",
+                "USD 16–17bn"
+              ]
+            ],
+            "earnings": [
+              [
+                "Adjusted EBITDA margin",
+                "13.5%–14.5%"
+              ]
+            ]
+          }
+        },
+        {
+          "year": 2028,
+          "kind": "target",
+          "date": "2026-01-28",
+          "source": "https://www.gevernova.com/sites/default/files/gev_webcast_pressrelease_01282026.pdf",
+          "metrics": {
+            "revenue": [
+              [
+                "Revenue",
+                "USD 56bn"
+              ]
+            ],
+            "cash": [
+              [
+                "Cumulative free cash flow, 2025–2028",
+                "At least USD 24bn"
+              ]
+            ],
+            "earnings": [
+              [
+                "Adjusted EBITDA margin",
+                "20%"
+              ]
+            ]
+          },
+          "note": "The free cash flow target covers four years."
+        }
+      ]
+    },
+    "GILD US": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "guidance",
+          "date": "2026-10-29",
+          "source": "https://www.gilead.com/news/news-details/2026/gilead-sciences-announces-third-quarter-2026-financial-results",
+          "metrics": {
+            "revenue": [
+              [
+                "Product sales",
+                "USD 31.0–31.3bn"
+              ]
+            ],
+            "earnings": [
+              [
+                "GAAP diluted loss per share",
+                "USD 4.05–4.40"
+              ],
+              [
+                "Non-GAAP diluted loss per share",
+                "USD 0.85–1.20"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "GOOG US": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "guidance",
+          "date": "2026-10",
+          "source": "https://abc.xyz/investor/events/event-details/2026/2026-Q3-Earnings-Call-2026-Ujou16CTw9/default.aspx",
+          "metrics": {
+            "cash": [
+              [
+                "Capital expenditure",
+                "USD 195–205bn"
+              ]
+            ]
+          }
+        },
+        {
+          "year": 2027,
+          "kind": "guidance",
+          "date": "2026-10",
+          "source": "https://abc.xyz/investor/events/event-details/2026/2026-Q3-Earnings-Call-2026-Ujou16CTw9/default.aspx",
+          "metrics": {
+            "cash": [
+              [
+                "Capital expenditure",
+                "Expected to rise significantly"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "HD US": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "guidance",
+          "date": "2026-11-17",
+          "source": "https://ir.homedepot.com/news-releases/2026/11-17-2026-110221331",
+          "metrics": {
+            "revenue": [
+              [
+                "Total sales growth",
+                "Around +4.5%"
+              ],
+              [
+                "Comparable sales growth",
+                "Around +1.4%"
+              ]
+            ],
+            "cash": [
+              [
+                "Capital expenditure",
+                "Around 2.5% of total sales"
+              ]
+            ],
+            "earnings": [
+              [
+                "Diluted EPS growth",
+                "Around +1.5%"
+              ],
+              [
+                "Adjusted diluted EPS growth",
+                "Around +2.0%"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "HSBA LN": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "guidance",
+          "date": "2026-10-27",
+          "source": "https://www.hsbc.com/investors/results-and-announcements/all-reporting/3q-2026-quick-read",
+          "metrics": {
+            "revenue": [
+              [
+                "Banking net interest income",
+                "At least USD 46bn"
+              ]
+            ]
+          }
+        },
+        {
+          "year": 2026,
+          "kind": "target",
+          "date": "2026-10-27",
+          "source": "https://www.hsbc.com/investors/results-and-announcements/all-reporting/3q-2026-quick-read",
+          "metrics": {
+            "revenue": [
+              [
+                "Revenue growth at constant currency, excluding notable items",
+                "Year-on-year growth targeted"
+              ]
+            ],
+            "earnings": [
+              [
+                "Return on tangible equity, excluding notable items",
+                "At least 17%"
+              ]
+            ]
+          }
+        },
+        {
+          "year": 2027,
+          "kind": "target",
+          "date": "2026-10-27",
+          "source": "https://www.hsbc.com/investors/results-and-announcements/all-reporting/3q-2026-quick-read",
+          "metrics": {
+            "revenue": [
+              [
+                "Revenue growth at constant currency, excluding notable items",
+                "Year-on-year growth targeted"
+              ]
+            ],
+            "earnings": [
+              [
+                "Return on tangible equity, excluding notable items",
+                "At least 17%"
+              ]
+            ]
+          }
+        },
+        {
+          "year": 2028,
+          "kind": "target",
+          "date": "2026-10-27",
+          "source": "https://www.hsbc.com/investors/results-and-announcements/all-reporting/3q-2026-quick-read",
+          "metrics": {
+            "revenue": [
+              [
+                "Revenue growth at constant currency, excluding notable items",
+                "+5%"
+              ]
+            ],
+            "earnings": [
+              [
+                "Return on tangible equity, excluding notable items",
+                "At least 17%"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "IBM US": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "guidance",
+          "date": "2026-10-21",
+          "source": "https://newsroom.ibm.com/2026-10-21-IBM-RELEASES-THIRD-QUARTER-RESULTS",
+          "metrics": {
+            "revenue": [
+              [
+                "Revenue growth at constant currency",
+                "+4% to +5%"
+              ]
+            ],
+            "cash": [
+              [
+                "Change in free cash flow",
+                "Increase of more than USD 1bn"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "ITX SM": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "guidance",
+          "date": "2026-09",
+          "source": "https://www.inditex.com/itxcomweb/api/media/9a5d8f92-9d99-4499-9e1b-a72919ac3657/Transcript1HResults.pdf",
+          "metrics": {
+            "cash": [
+              [
+                "Ordinary capital expenditure",
+                "Around EUR 2.3bn"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "JNJ US": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "guidance",
+          "date": "2026-10",
+          "source": "https://investor.jnj.com/investor-news/news-details/2026/Johnson--Johnson-reports-Q3-2026-results-raises-2026-guidance/default.aspx",
+          "metrics": {
+            "revenue": [
+              [
+                "Reported sales",
+                "USD 101.0–101.4bn"
+              ],
+              [
+                "Adjusted operational sales growth",
+                "+6.4% to +6.8%"
+              ]
+            ],
+            "earnings": [
+              [
+                "Adjusted diluted EPS",
+                "USD 11.05–11.15"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "JPM US": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "guidance",
+          "date": "2026-10-13",
+          "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026069523/jpm-20260930.htm",
+          "metrics": {
+            "revenue": [
+              [
+                "Net interest income",
+                "Around USD 106.2bn"
+              ],
+              [
+                "Net interest income excluding Markets",
+                "Around USD 97.2bn"
+              ]
+            ]
+          },
+          "note": "Market dependent."
+        }
+      ]
+    },
+    "KO US": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "guidance",
+          "date": "2026-10-27",
+          "source": "https://investors.coca-colacompany.com/news-events/press-releases/detail/1176/coca-cola-reports-third-quarter-2026-results-and-raises-full-year-guidance",
+          "metrics": {
+            "revenue": [
+              [
+                "Organic revenue growth",
+                "At least +5%"
+              ]
+            ],
+            "cash": [
+              [
+                "Free cash flow",
+                "At least USD 13.0bn"
+              ],
+              [
+                "Operating cash flow",
+                "At least USD 15.2bn"
+              ],
+              [
+                "Capital expenditure",
+                "Around USD 2.2bn"
+              ]
+            ],
+            "earnings": [
+              [
+                "Comparable EPS growth",
+                "At least +11%"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "LIN US": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "guidance",
+          "date": "2026-10-29",
+          "source": "https://www.sec.gov/Archives/edgar/data/1707925/000165495426009199/lin_ex991.htm",
+          "metrics": {
+            "cash": [
+              [
+                "Capital expenditure",
+                "USD 5.5–6.0bn"
+              ]
+            ],
+            "earnings": [
+              [
+                "Adjusted diluted EPS",
+                "USD 17.82–17.92"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "LLY US": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "guidance",
+          "date": "2026-10-29",
+          "source": "https://investor.lilly.com/node/55191",
+          "metrics": {
+            "revenue": [
+              [
+                "Revenue",
+                "USD 91–92bn"
+              ]
+            ],
+            "earnings": [
+              [
+                "Non-GAAP EPS",
+                "USD 35–36"
+              ]
+            ]
+          },
+          "note": "EPS includes the impact of third-quarter acquired research and development charges."
+        }
+      ]
+    },
+    "LRCX US": {
+      "source": "https://www.sec.gov/Archives/edgar/data/707549/000070754926000052/lrcx_exhibitx991xq1x2027.htm",
+      "years": []
+    },
+    "META US": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "guidance",
+          "date": "2026-10",
+          "source": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx",
+          "metrics": {
+            "cash": [
+              [
+                "Capital expenditure, including finance lease principal",
+                "USD 135–145bn"
+              ]
+            ],
+            "earnings": [
+              [
+                "Reality Labs operating loss",
+                "USD 18–19bn"
+              ],
+              [
+                "Operating income excluding Q3 legal charge",
+                "Higher than 2025"
+              ]
+            ]
+          }
+        },
+        {
+          "year": 2027,
+          "kind": "guidance",
+          "date": "2026-10",
+          "source": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx",
+          "metrics": {
+            "earnings": [
+              [
+                "Reality Labs operating loss",
+                "Around USD 15bn"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "MRK US": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "guidance",
+          "date": "2026-10",
+          "source": "https://www.merck.com/news/merck-co-inc-rahway-n-j-usa-announces-third-quarter-2026-financial-results-highlights-multiple-milestones-advancing-broad-diverse-pipeline/",
+          "metrics": {
+            "revenue": [
+              [
+                "Worldwide sales",
+                "USD 66.8–67.3bn"
+              ]
+            ],
+            "earnings": [
+              [
+                "Non-GAAP EPS",
+                "USD 2.77–2.82"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "MSFT US": {
+      "years": [
+        {
+          "year": 2027,
+          "kind": "guidance",
+          "date": "2026-10",
+          "source": "https://www.microsoft.com/en-us/Investor/events/fy-2027/earnings-fy-2027-q1",
+          "metrics": {
+            "cash": [
+              [
+                "Free cash flow",
+                "Expected to remain positive"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "NESN SW": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "guidance",
+          "date": "2026-10-22",
+          "source": "https://www.nestle.com/media/pressreleases/allpressreleases/nine-month-sales-2026",
+          "metrics": {
+            "revenue": [
+              [
+                "Organic sales growth",
+                "+3% to +4%"
+              ]
+            ],
+            "cash": [
+              [
+                "Free cash flow",
+                "More than CHF 9bn"
+              ]
+            ],
+            "earnings": [
+              [
+                "Underlying trading operating profit margin",
+                "Higher than 2025"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "NFLX US": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "guidance",
+          "date": "2026-10-20",
+          "source": "https://ir.netflix.net/files/doc_financials/2026/q3/FINAL-Q3-26-Shareholder-Letter.pdf",
+          "metrics": {
+            "revenue": [
+              [
+                "Total revenue",
+                "USD 51.1bn"
+              ]
+            ],
+            "cash": [
+              [
+                "Free cash flow",
+                "Around USD 12.0bn"
+              ]
+            ],
+            "earnings": [
+              [
+                "Operating margin",
+                "31.5%"
+              ],
+              [
+                "Operating income growth",
+                "At least +20%"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "NOVN SW": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "guidance",
+          "date": "2026-10",
+          "source": "https://www.novartis.com/news/media-releases/novartis-delivered-sales-growth-and-core-margin-expansion-q3-raised-fy-core-operating-income-guidance",
+          "metrics": {
+            "revenue": [
+              [
+                "Net sales growth at constant currency",
+                "Low single-digit growth"
+              ]
+            ],
+            "earnings": [
+              [
+                "Core operating income growth at constant currency",
+                "Flat to low single-digit growth"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "NVDA US": {
+      "source": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+      "years": []
+    },
+    "ORCL US": {
+      "years": [
+        {
+          "year": 2027,
+          "kind": "guidance",
+          "date": "2026-10-28",
+          "source": "https://investor.oracle.com/investor-news/news-details/2026/Oracle-Investor-Day-2026-Accelerating-Value-Creation/default.aspx",
+          "metrics": {
+            "revenue": [
+              [
+                "Total revenue",
+                "At least USD 90bn"
+              ]
+            ],
+            "earnings": [
+              [
+                "Non-GAAP EPS",
+                "USD 8.10"
+              ]
+            ]
+          }
+        },
+        {
+          "year": 2028,
+          "kind": "target",
+          "date": "2026-10-28",
+          "source": "https://investor.oracle.com/investor-news/news-details/2026/Oracle-Investor-Day-2026-Accelerating-Value-Creation/default.aspx",
+          "metrics": {
+            "cash": [
+              [
+                "Free cash flow",
+                "Positive in the second half"
+              ]
+            ]
+          },
+          "period": "FY 2028 (second half)"
+        },
+        {
+          "year": 2029,
+          "kind": "target",
+          "date": "2026-10-28",
+          "source": "https://investor.oracle.com/investor-news/news-details/2026/Oracle-Investor-Day-2026-Accelerating-Value-Creation/default.aspx",
+          "metrics": {
+            "cash": [
+              [
+                "Free cash flow",
+                "At least USD 30bn"
+              ]
+            ]
+          }
+        },
+        {
+          "year": 2030,
+          "kind": "target",
+          "date": "2026-10-28",
+          "source": "https://investor.oracle.com/investor-news/news-details/2026/Oracle-Investor-Day-2026-Accelerating-Value-Creation/default.aspx",
+          "metrics": {
+            "revenue": [
+              [
+                "Total revenue",
+                "At least USD 225bn"
+              ],
+              [
+                "Revenue CAGR from FY 2026",
+                "More than 35%"
+              ]
+            ],
+            "earnings": [
+              [
+                "Non-GAAP EPS",
+                "At least USD 21"
+              ],
+              [
+                "Non-GAAP operating margin",
+                "At least 40%"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "PANW US": {
+      "years": [
+        {
+          "year": 2027,
+          "kind": "guidance",
+          "date": "2026-11-18",
+          "source": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-reports-fiscal-first-quarter-2027-financial",
+          "metrics": {
+            "revenue": [
+              [
+                "Total revenue",
+                "USD 14.52–14.57bn"
+              ]
+            ],
+            "cash": [
+              [
+                "Adjusted free cash flow margin",
+                "38.0%"
+              ]
+            ],
+            "earnings": [
+              [
+                "Non-GAAP diluted EPS",
+                "USD 4.26–4.30"
+              ],
+              [
+                "Non-GAAP operating margin",
+                "29.5%"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "PG US": {
+      "years": [
+        {
+          "year": 2027,
+          "kind": "guidance",
+          "date": "2026-10",
+          "source": "https://us.pg.com/newsroom/news-releases/PG-Announces-Fiscal-Year-2027-First-Quarter-Results/",
+          "metrics": {
+            "revenue": [
+              [
+                "Net sales growth",
+                "+2% to +4%"
+              ],
+              [
+                "Organic sales growth",
+                "+1% to +3%"
+              ]
+            ],
+            "cash": [
+              [
+                "Free cash flow productivity",
+                "85%–90%"
+              ],
+              [
+                "Capital expenditure",
+                "4.5%–5.5% of net sales"
+              ]
+            ],
+            "earnings": [
+              [
+                "Diluted net EPS growth",
+                "+1% to +5%"
+              ],
+              [
+                "Core EPS",
+                "USD 6.89–7.11"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "PLTR US": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "guidance",
+          "date": "2026-11",
+          "source": "https://investors.palantir.com/files/Palantir%20-%20Q3%202026%20Business%20Update.pdf",
+          "metrics": {
+            "revenue": [
+              [
+                "Revenue",
+                "USD 8.530–8.534bn"
+              ],
+              [
+                "US commercial revenue",
+                "More than USD 3.559bn"
+              ]
+            ],
+            "cash": [
+              [
+                "Adjusted free cash flow",
+                "USD 4.8–5.0bn"
+              ]
+            ],
+            "earnings": [
+              [
+                "Adjusted operating income",
+                "USD 5.245–5.249bn"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "PM US": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "guidance",
+          "date": "2026-10",
+          "source": "https://www.pmi.com/media-center/press-releases/press-details?newsId=30486",
+          "metrics": {
+            "revenue": [
+              [
+                "Organic net revenue growth",
+                "+5% to +7%"
+              ]
+            ],
+            "cash": [
+              [
+                "Operating cash flow",
+                "Around USD 13.5bn"
+              ],
+              [
+                "Capital expenditure",
+                "USD 1.4–1.6bn"
+              ]
+            ],
+            "earnings": [
+              [
+                "Reported diluted EPS",
+                "USD 7.11–7.26"
+              ],
+              [
+                "Adjusted diluted EPS",
+                "USD 8.29–8.44"
+              ],
+              [
+                "Organic operating income growth",
+                "+7% to +9%"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "ROP SW": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "guidance",
+          "date": "2026-10-22",
+          "source": "https://www.roche.com/investors/updates/inv-update-2026-10-22",
+          "metrics": {
+            "revenue": [
+              [
+                "Group sales growth at constant exchange rates",
+                "Mid-single-digit growth"
+              ]
+            ],
+            "earnings": [
+              [
+                "Core EPS growth at constant exchange rates",
+                "High-single-digit growth"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "RTX US": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "guidance",
+          "date": "2026-10-20",
+          "source": "https://www.rtx.com/news/news-center/2026/10/20/rtx-reports-q3-2026-results",
+          "metrics": {
+            "revenue": [
+              [
+                "Adjusted sales",
+                "USD 97.0–97.5bn"
+              ]
+            ],
+            "cash": [
+              [
+                "Free cash flow",
+                "USD 9.0–9.2bn"
+              ]
+            ],
+            "earnings": [
+              [
+                "Adjusted EPS",
+                "USD 7.65–7.75"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "SAP GY": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "guidance",
+          "date": "2026-10-21",
+          "source": "https://www.sap.com/docs/download/investors/2026/sap-2026-q3-presentation.pdf",
+          "metrics": {
+            "revenue": [
+              [
+                "Total revenue growth at constant currency",
+                "Similar to 2025 growth of +10.6%"
+              ],
+              [
+                "Cloud revenue at constant currency",
+                "Toward the upper end of EUR 25.8–26.2bn"
+              ],
+              [
+                "Cloud and software revenue at constant currency",
+                "Toward the upper end of EUR 36.3–36.8bn"
+              ]
+            ],
+            "cash": [
+              [
+                "Free cash flow",
+                "Around EUR 10bn"
+              ]
+            ],
+            "earnings": [
+              [
+                "Non-IFRS operating profit at constant currency",
+                "EUR 11.8–12.2bn"
+              ]
+            ]
+          }
+        },
+        {
+          "year": 2027,
+          "kind": "guidance",
+          "date": "2026-10-21",
+          "source": "https://www.sap.com/docs/download/investors/2026/sap-2026-q3-presentation.pdf",
+          "metrics": {
+            "revenue": [
+              [
+                "Total revenue growth at constant currency",
+                "Expected to accelerate from 2026"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "SGX SP": {
+      "years": [
+        {
+          "year": 2027,
+          "kind": "guidance",
+          "date": "2026-08",
+          "source": "https://investorrelations.sgx.com/static-files/dcbd5905-9373-4dc9-80f5-8dbff6b8d584#page=8",
+          "metrics": {
+            "revenue": [
+              [
+                "Segment outlook",
+                "Broad-based growth across operating segments"
+              ]
+            ],
+            "cash": [
+              [
+                "Capital expenditure",
+                "Around SGD 100m"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "SHEL LN": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "target",
+          "date": "2025-03-25",
+          "source": "https://www.shell.com/news-and-insights/newsroom/news-and-media-releases/2025/shell-accelerates-strategy-to-deliver-more-value-with-less-emissions.html",
+          "metrics": {
+            "cash": [
+              [
+                "Annual cash capital expenditure",
+                "USD 20–22bn"
+              ]
+            ]
+          }
+        },
+        {
+          "year": 2027,
+          "kind": "target",
+          "date": "2025-03-25",
+          "source": "https://www.shell.com/news-and-insights/newsroom/news-and-media-releases/2025/shell-accelerates-strategy-to-deliver-more-value-with-less-emissions.html",
+          "metrics": {
+            "cash": [
+              [
+                "Annual cash capital expenditure",
+                "USD 20–22bn"
+              ]
+            ]
+          }
+        },
+        {
+          "year": 2028,
+          "kind": "target",
+          "date": "2025-03-25",
+          "source": "https://www.shell.com/news-and-insights/newsroom/news-and-media-releases/2025/shell-accelerates-strategy-to-deliver-more-value-with-less-emissions.html",
+          "metrics": {
+            "cash": [
+              [
+                "Annual cash capital expenditure",
+                "USD 20–22bn"
+              ]
+            ]
+          }
+        },
+        {
+          "year": 2030,
+          "kind": "target",
+          "date": "2025-03-25",
+          "source": "https://www.shell.com/news-and-insights/newsroom/news-and-media-releases/2025/shell-accelerates-strategy-to-deliver-more-value-with-less-emissions.html",
+          "metrics": {
+            "cash": [
+              [
+                "Free cash flow per share growth through 2030",
+                "More than 10% per year"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "SIE GY": {
+      "years": [
+        {
+          "year": 2027,
+          "kind": "guidance",
+          "date": "2026-11",
+          "source": "https://press.siemens.com/global/en/pressrelease/outstanding-fiscal-2026-performance-industrial-ai-drive-future-growth",
+          "metrics": {
+            "revenue": [
+              [
+                "Comparable revenue growth",
+                "+9% to +11%"
+              ]
+            ],
+            "earnings": [
+              [
+                "EPS before purchase price allocation",
+                "EUR 10.20–10.80"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "SKHY US": {
+      "source": "https://news.skhynix.com/en/q3-2026-business-results/",
+      "years": []
+    },
+    "SMSN LI": {
+      "source": "https://news.samsung.com/global/samsung-electronics-announces-third-quarter-2026-results",
+      "years": []
+    },
+    "STE SP": {
+      "years": [
+        {
+          "year": 2029,
+          "kind": "target",
+          "date": "2025-03-18",
+          "source": "https://www.stengg.com/getContentAsset/72edd537-07a8-4063-9028-5cfc1e824a99/dfc3d011-8f63-43f6-9ed8-4b444333a1d0/ST-Engineering-2025-Investor-Day-Presentation.pdf",
+          "metrics": {
+            "revenue": [
+              [
+                "Group revenue",
+                "SGD 17bn"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "TSM US": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "guidance",
+          "date": "2026-10-15",
+          "source": "https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf",
+          "metrics": {
+            "revenue": [
+              [
+                "Revenue growth in USD",
+                "Around +44%"
+              ]
+            ],
+            "cash": [
+              [
+                "Capital budget",
+                "USD 60–64bn"
+              ]
+            ]
+          }
+        },
+        {
+          "year": 2028,
+          "kind": "target",
+          "date": "2026-10-15",
+          "source": "https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf",
+          "metrics": {
+            "cash": [
+              [
+                "Combined capital expenditure, 2026–2028",
+                "Significantly above the preceding three years"
+              ]
+            ]
+          },
+          "period": "FY 2026–2028"
+        }
+      ]
+    },
+    "TTE FP": {
+      "years": [
+        {
+          "year": 2027,
+          "kind": "target",
+          "date": "2026-09-28",
+          "source": "https://totalenergies.com/newsroom/presentation-strategie-et-perspectives-2026-501175/?lang=eng",
+          "metrics": {
+            "cash": [
+              [
+                "Annual net investment",
+                "USD 14–17bn"
+              ]
+            ]
+          },
+          "note": "The company stated the same annual investment range for 2027–2032."
+        },
+        {
+          "year": 2028,
+          "kind": "target",
+          "date": "2026-09-28",
+          "source": "https://totalenergies.com/newsroom/presentation-strategie-et-perspectives-2026-501175/?lang=eng",
+          "metrics": {
+            "cash": [
+              [
+                "Annual net investment",
+                "USD 14–17bn"
+              ]
+            ]
+          },
+          "note": "The company stated the same annual investment range for 2027–2032."
+        },
+        {
+          "year": 2029,
+          "kind": "target",
+          "date": "2026-09-28",
+          "source": "https://totalenergies.com/newsroom/presentation-strategie-et-perspectives-2026-501175/?lang=eng",
+          "metrics": {
+            "cash": [
+              [
+                "Annual net investment",
+                "USD 14–17bn"
+              ]
+            ]
+          },
+          "note": "The company stated the same annual investment range for 2027–2032."
+        },
+        {
+          "year": 2030,
+          "kind": "target",
+          "date": "2026-09-28",
+          "source": "https://totalenergies.com/newsroom/presentation-strategie-et-perspectives-2026-501175/?lang=eng",
+          "metrics": {
+            "cash": [
+              [
+                "Annual net investment",
+                "USD 14–17bn"
+              ],
+              [
+                "Free cash flow growth from 2025 at the same price assumptions",
+                "USD 10bn"
+              ]
+            ]
+          },
+          "note": "The company stated the same annual investment range for 2027–2032."
+        },
+        {
+          "year": 2031,
+          "kind": "target",
+          "date": "2026-09-28",
+          "source": "https://totalenergies.com/newsroom/presentation-strategie-et-perspectives-2026-501175/?lang=eng",
+          "metrics": {
+            "cash": [
+              [
+                "Annual net investment",
+                "USD 14–17bn"
+              ]
+            ]
+          },
+          "note": "The company stated the same annual investment range for 2027–2032."
+        },
+        {
+          "year": 2032,
+          "kind": "target",
+          "date": "2026-09-28",
+          "source": "https://totalenergies.com/newsroom/presentation-strategie-et-perspectives-2026-501175/?lang=eng",
+          "metrics": {
+            "cash": [
+              [
+                "Annual net investment",
+                "USD 14–17bn"
+              ]
+            ]
+          },
+          "note": "The company stated the same annual investment range for 2027–2032."
+        }
+      ]
+    },
+    "UNH US": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "guidance",
+          "date": "2026-10-13",
+          "source": "https://www.unitedhealthgroup.com/newsroom/2026/2026-10-13-uhg-reports-third-quarter-2026-results.html",
+          "metrics": {
+            "earnings": [
+              [
+                "GAAP EPS",
+                "At least USD 19.50"
+              ],
+              [
+                "Adjusted EPS",
+                "At least USD 20.50"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "WMT US": {
+      "years": [
+        {
+          "year": 2027,
+          "kind": "guidance",
+          "date": "2026-11-19",
+          "source": "https://stock.walmart.com/sec-filings/all-sec-filings/content/0000104169-26-000168/earningsreleasefy27q3.htm",
+          "metrics": {
+            "revenue": [
+              [
+                "Net sales growth at constant currency",
+                "+4.9% to +5.2%"
+              ]
+            ],
+            "cash": [
+              [
+                "Capital expenditure",
+                "Around 4.0% of net sales"
+              ]
+            ],
+            "earnings": [
+              [
+                "Adjusted operating income growth at constant currency",
+                "+8.0% to +8.6%"
+              ],
+              [
+                "Adjusted EPS",
+                "USD 2.84–2.89"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "XOM US": {
+      "years": [
+        {
+          "year": 2030,
+          "kind": "scenario",
+          "date": "2025-12-09",
+          "source": "https://corporate.exxonmobil.com/news/news-releases/2025/1209-exxonmobil-raises-2030-plan-transformation",
+          "metrics": {
+            "cash": [
+              [
+                "Cash flow growth from 2024 at constant prices and margins",
+                "USD 35bn"
+              ],
+              [
+                "Cumulative surplus cash flow through 2030",
+                "Around USD 145bn"
+              ]
+            ],
+            "earnings": [
+              [
+                "Earnings growth from 2024 at constant prices and margins",
+                "USD 25bn"
+              ]
+            ]
+          },
+          "note": "Cumulative surplus cash flow assumes USD 65 per barrel real Brent."
+        }
+      ]
+    }
+  }
+}
