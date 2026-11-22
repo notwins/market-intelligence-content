@@ -150,6 +150,42 @@
         }
       ]
     },
+    "8306 JP": {
+      "years": [
+        {
+          "year": 2027,
+          "kind": "target",
+          "date": "2026-11-13",
+          "source": "https://www.mufg.jp/dam/pressrelease/2026/pdf/news-20261113-001_en.pdf",
+          "metrics": {
+            "earnings": [
+              [
+                "Net profit attributable to owners of the parent, Japanese GAAP",
+                "JPY 2.8tn"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "941 HK": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "guidance",
+          "date": "2026-04-23",
+          "source": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0423/2026042300752.pdf",
+          "metrics": {
+            "cash": [
+              [
+                "Capital expenditure",
+                "Around CNY 136.6bn"
+              ]
+            ]
+          }
+        }
+      ]
+    },
     "AAPL US": {
       "source": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
       "years": []
@@ -264,6 +300,10 @@
           "note": "The range reflects different market and lithography scenarios."
         }
       ]
+    },
+    "AVGO US": {
+      "source": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-third-quarter-fiscal-year-2026-financial",
+      "years": []
     },
     "AXP US": {
       "years": [
@@ -790,6 +830,10 @@
         }
       ]
     },
+    "INTC US": {
+      "source": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000188/q326earningsrelease.htm",
+      "years": []
+    },
     "ITX SM": {
       "years": [
         {
@@ -1028,6 +1072,24 @@
               [
                 "Free cash flow",
                 "Expected to remain positive"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "MU US": {
+      "years": [
+        {
+          "year": 2027,
+          "kind": "guidance",
+          "date": "2026-10",
+          "source": "https://www.sec.gov/Archives/edgar/data/723125/000072312526000023/mu-20260903.htm",
+          "metrics": {
+            "cash": [
+              [
+                "Capital expenditure net of government incentives",
+                "About USD 25bn in the first half, with higher spending in the second half"
               ]
             ]
           }
@@ -1549,6 +1611,89 @@
         }
       ]
     },
+    "SHOP US": {
+      "source": "https://www.sec.gov/Archives/edgar/data/1594805/000159480526000067/exhibit991pressreleaseq320.htm",
+      "years": []
+    },
+    "SIA SP": {
+      "years": [
+        {
+          "year": 2027,
+          "kind": "guidance",
+          "date": "2026-11-11",
+          "source": "https://www.singaporeair.com/content/dam/sia/web-assets/pdfs/about-us/information-for-investors/financial-results/slide-q2fy2627.pdf#page=24",
+          "metrics": {
+            "cash": [
+              [
+                "Group capital expenditure",
+                "SGD 3.6bn"
+              ]
+            ]
+          },
+          "period": "FY 2026/27"
+        },
+        {
+          "year": 2028,
+          "kind": "guidance",
+          "date": "2026-11-11",
+          "source": "https://www.singaporeair.com/content/dam/sia/web-assets/pdfs/about-us/information-for-investors/financial-results/slide-q2fy2627.pdf#page=24",
+          "metrics": {
+            "cash": [
+              [
+                "Group capital expenditure",
+                "SGD 4.6bn"
+              ]
+            ]
+          },
+          "period": "FY 2027/28"
+        },
+        {
+          "year": 2029,
+          "kind": "guidance",
+          "date": "2026-11-11",
+          "source": "https://www.singaporeair.com/content/dam/sia/web-assets/pdfs/about-us/information-for-investors/financial-results/slide-q2fy2627.pdf#page=24",
+          "metrics": {
+            "cash": [
+              [
+                "Group capital expenditure",
+                "SGD 4.7bn"
+              ]
+            ]
+          },
+          "period": "FY 2028/29"
+        },
+        {
+          "year": 2030,
+          "kind": "guidance",
+          "date": "2026-11-11",
+          "source": "https://www.singaporeair.com/content/dam/sia/web-assets/pdfs/about-us/information-for-investors/financial-results/slide-q2fy2627.pdf#page=24",
+          "metrics": {
+            "cash": [
+              [
+                "Group capital expenditure",
+                "SGD 3.6bn"
+              ]
+            ]
+          },
+          "period": "FY 2029/30"
+        },
+        {
+          "year": 2031,
+          "kind": "guidance",
+          "date": "2026-11-11",
+          "source": "https://www.singaporeair.com/content/dam/sia/web-assets/pdfs/about-us/information-for-investors/financial-results/slide-q2fy2627.pdf#page=24",
+          "metrics": {
+            "cash": [
+              [
+                "Group capital expenditure",
+                "SGD 2.0bn"
+              ]
+            ]
+          },
+          "period": "FY 2030/31"
+        }
+      ]
+    },
     "SIE GY": {
       "years": [
         {
@@ -1581,6 +1726,39 @@
       "source": "https://news.samsung.com/global/samsung-electronics-announces-third-quarter-2026-results",
       "years": []
     },
+    "ST SP": {
+      "years": [
+        {
+          "year": 2027,
+          "kind": "guidance",
+          "date": "2026-11-13",
+          "source": "https://links.sgx.com/1.0.0/corporate-announcements/1D8EOJF2E7S58W81/911337_5.%20%20H1FY27-slides.pdf#page=16",
+          "metrics": {
+            "cash": [
+              [
+                "Total capital expenditure",
+                "SGD 3.0bn"
+              ],
+              [
+                "Core capital expenditure",
+                "SGD 1.8bn"
+              ],
+              [
+                "Growth capital expenditure",
+                "SGD 1.2bn"
+              ]
+            ],
+            "earnings": [
+              [
+                "Operating company EBIT growth",
+                "Mid to high single digits"
+              ]
+            ]
+          },
+          "note": "The company expects SGD 0.7bn of growth capex to be funded by external partners and customer advances."
+        }
+      ]
+    },
     "STE SP": {
       "years": [
         {
@@ -1593,6 +1771,24 @@
               [
                 "Group revenue",
                 "SGD 17bn"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "TSLA US": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "guidance",
+          "date": "2026-10",
+          "source": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026066775/tsla-20260930.htm",
+          "metrics": {
+            "cash": [
+              [
+                "Capital expenditure",
+                "More than USD 20bn"
               ]
             ]
           }
@@ -1736,6 +1932,24 @@
         }
       ]
     },
+    "TXN US": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "guidance",
+          "date": "2026-10-23",
+          "source": "https://investor.ti.com/static-files/b862a18d-c3ee-4f08-ba4d-583019cdd4f8",
+          "metrics": {
+            "cash": [
+              [
+                "Capital expenditure",
+                "USD 2–3bn"
+              ]
+            ]
+          }
+        }
+      ]
+    },
     "UNH US": {
       "years": [
         {
@@ -1757,6 +1971,32 @@
           }
         }
       ]
+    },
+    "V US": {
+      "source": "https://www.sec.gov/Archives/edgar/data/1403161/000140316126000126/q42026earningsrelease.htm",
+      "years": []
+    },
+    "WFC US": {
+      "years": [
+        {
+          "year": 2026,
+          "kind": "guidance",
+          "date": "2026-10-13",
+          "source": "https://www.sec.gov/Archives/edgar/data/72971/000007297126000318/ex993-wellsfargo3q26pres.htm",
+          "metrics": {
+            "revenue": [
+              [
+                "Net interest income",
+                "Around USD 50bn"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "WIL SP": {
+      "source": "https://links.sgx.com/1.0.0/corporate-announcements/O7NC24QQGCBVQ487/",
+      "years": []
     },
     "WMT US": {
       "years": [
