@@ -1,0 +1,143 @@
+{
+  "id": "reuters-20261122T080928-SGT",
+  "report_at": "2026-11-22T08:11:56+08:00",
+  "cutoff": "2026-11-22T08:09:28+08:00",
+  "window_start": "2026-11-22T03:33:25+08:00",
+  "coverage": "partial",
+  "original_url": null,
+  "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+  "summary": "Five verified previews cover Bahrain industrial damage, a connected COP31 revised-text follow-up, the German strike call, the Sparta II fire and further UN autonomous-weapons talks. Three are catch-up discoveries. Full-detail publication remains held.",
+  "limitations": [
+    "Partial targeted source report for 22 November 03:33:25-08:09:28 SGT, completed 08:11:56, with discovery overlap from 03:18:25. Earlier coverage gaps remain open; this does not establish exhaustive Reuters coverage or a completed source-scan cutoff.",
+    "All five source developments are represented: four initial-version previews and COP31 v2 connected to retained v1. Bahrain, Sparta II and UN weapons talks are older catch-up discoveries. Missing older Bitcoin and Anthropic version chains remain unresolved; no event was renamed or renumbered to hide a gap.",
+    "Material facts were independently checked in Reuters-attributed syndication. Original calendar publication dates are verified as 21 November; original publication minutes, rolling revisions and exact development timestamps remain null. Displayed publication/update clocks vary across outlets. The source classifies the German call and COP31 follow-up within this window; precise original publication clocks were not independently established.",
+    "Bahrain's industrial site was not identified; separate military-target claims are not independently established here. Industrial damage is not a measured crude-production loss. Ukrainian responsibility for the Sparta II strike remains an attributed assessment, not a verified conclusion. Temporary restrictions do not establish a wider shipping closure.",
+    "The German 23,000 figure concerns a planned Monday strike call, not actual turnout or production loss; Friday's 12,300 is a separate reported observation. A 5% union demand and the employer's 20-month/July-2028 proposal are distinct negotiating positions. COP31 objection and approval times are plans, not adoption. The UN weapons compromise is not an enacted ban or binding treaty.",
+    "These are metadata previews only. The complete original response and matching 24,029-byte JSON attachment with verified SHA-256, all five structured stories, full dashboard, client draft, tables, figures, source register and meaningful emphasis are retained privately. Full detail remains held because the approved process lacks an hourly channel, time-aware same-day identity and exact full-report reader link. No complete approved V3 desktop/mobile rendering is claimed.",
+    "No newly verified matched-period US Treasury move over 10bp, inflation/employment surprise, central-bank expectations shift, SNB sight-deposit change, recession-probability revision or confirmed default was established by this partial review. No last complete cutoff is advanced. Producer schedule state is retained because it was not directly checked."
+  ],
+  "sources": [
+    {
+      "url": "https://www.reuters.com/world/middle-east/bahrain-warns-residents-potential-threat-iran-conflict-persists-2026-11-21/",
+      "title": "Bahrain says Iranian attack hits industrial facility as air defences intercept attacks",
+      "published_at": null,
+      "published_date": "2026-11-21",
+      "publication_precision": "date",
+      "verification_url": "https://www.streetinsider.com/Reuters/Bahrain%2Bsays%2BIranian%2Battack%2Bhits%2Bindustrial%2Bfacility%2C%2Bcauses%2Bfire/27382964.html"
+    },
+    {
+      "url": "https://www.reuters.com/sustainability/cop/cop31-climate-talks-close-final-deal-says-summit-president-2026-11-21/",
+      "title": "COP31 climate talks close to final deal, says summit president",
+      "published_at": null,
+      "published_date": "2026-11-21",
+      "publication_precision": "date",
+      "verification_url": "https://www.devdiscourse.com/article/international/4010477-cop31-climate-talks-close-to-final-deal-says-summit-president"
+    },
+    {
+      "url": "https://www.reuters.com/business/world-at-work/german-car-shipyard-workers-set-strike-ig-metall-union-extends-walkout-2026-11-21/",
+      "title": "German car and shipyard workers set to strike as IG Metall union extends walkout",
+      "published_at": null,
+      "published_date": "2026-11-21",
+      "publication_precision": "date",
+      "verification_url": "https://www.aol.com/articles/german-car-shipyard-workers-set-230212000.html"
+    },
+    {
+      "url": "https://www.reuters.com/world/russia-says-cargo-vessel-struck-by-drones-finland-says-it-is-fire-its-waters-2026-11-21/",
+      "title": "Russian cargo ship ablaze in Baltic Sea after drone strike, crew evacuates",
+      "published_at": null,
+      "published_date": "2026-11-21",
+      "publication_precision": "date",
+      "verification_url": "https://new.streetinsider.com/Reuters/Russian%2Bcargo%2Bship%2Bablaze%2Bin%2BBaltic%2BSea%2Bafter%2Bdrone%2Bstrike%2C%2Bcrew%2Bevacuates/27382900.html"
+    },
+    {
+      "url": "https://www.reuters.com/world/states-agree-to-un-talks-aiming-regulate-killer-robots-by-2028-2026-11-21/",
+      "title": "States agree to UN talks aiming to regulate 'killer robots' by 2028",
+      "published_at": null,
+      "published_date": "2026-11-21",
+      "publication_precision": "date",
+      "verification_url": "https://www.brecorder.com/news/amp/40450103"
+    }
+  ],
+  "stories": [
+    {
+      "story_id": "R-20261121-BAHRAIN-IRAN-AERIAL-ATTACK-INDUSTRIAL-FIRE",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "BAHRAIN / IRAN / GULF SECURITY / INDUSTRIAL INFRASTRUCTURE / SHIPPING / INSURANCE",
+      "headline": "Bahrain reports industrial-facility fire after Iranian attack; no injuries reported",
+      "body": "Reuters reported Bahrain's statement that an Iranian attack struck and damaged a civilian industrial facility on Saturday, 21 November, causing a fire but no injuries. Civil Defence teams were fighting the blaze. The interior ministry did not identify the site, its location or the nature of the facility. Bahrain also reported intercepting Iranian aerial attacks. This is distinct from a verified oil-production loss or closure of an energy export route. Separate military-target claims were not independently established here. No directly attributable Brent, WTI, currency or credit-spread move was verified.",
+      "analysis": "Further Gulf incidents could increase shipping and insurance uncertainty; actual production and logistics effects require independent confirmation.",
+      "watch_next": "Official site identification, damage assessment, shipping notices and any confirmed production interruption.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/middle-east/bahrain-warns-residents-potential-threat-iran-conflict-persists-2026-11-21/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261121-COP31-OVERTIME-NO-DEAL-RISK",
+      "version": 2,
+      "status": "follow-up",
+      "freshness": "current",
+      "topic": "COP31 / TURKEY / AUSTRALIA / GLOBAL POLICY / CLIMATE FINANCE / ENERGY TRANSITION",
+      "headline": "COP31 revised text moves toward an approval session; final adoption remains unconfirmed",
+      "body": "Reuters reported a new COP31 package put forward by Australia and Turkey after talks continued into Sunday. Summit president Murat Kurum expressed confidence that parties could agree; the revised text followed consultations on fossil fuels and adaptation finance. Delegations were given until 03:00 GMT (11:00 SGT) on 22 November to object, with a session scheduled for 06:00 GMT (14:00 SGT) to begin approval. These are planned procedural deadlines, not confirmation that approval occurred. No final agreement or attributable oil, carbon-credit, FX or bond-price response was verified at this report's 08:09:28 SGT cutoff.",
+      "analysis": "A compromise could clarify longer-term climate-finance and energy-policy expectations; its effects depend on final adopted language and implementation.",
+      "watch_next": "Objections, whether the planned session proceeds, final adopted wording and specified financing commitments.",
+      "earlier": "Retained v1 at the 03:33:25 SGT cutoff described deadlock over fossil-fuel provisions and climate finance. This v2 adds revised text and planned objection/approval times without treating them as an adopted deal.",
+      "source_urls": [
+        "https://www.reuters.com/sustainability/cop/cop31-climate-talks-close-final-deal-says-summit-president-2026-11-21/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261121-GERMANY-IGMETALL-23K-STRIKE-EXPANSION",
+      "version": 1,
+      "status": "new",
+      "freshness": "current",
+      "topic": "GERMANY / IG METALL / MERCEDES-BENZ / MEYER WERFT / SIEMENS GAMESA / INDUSTRIALS / WAGES",
+      "headline": "IG Metall plans a Monday 24-hour walkout for 23,000 workers at 19 companies",
+      "body": "Reuters reported IG Metall's call for another 24-hour strike on Monday, 23 November, involving 23,000 workers at 19 northern German companies. Named businesses include Mercedes-Benz, Meyer Werft and Siemens Gamesa. The union said about 12,300 employees took part in Friday's action. It seeks a 5% pay rise; employers proposed no permanent increase for the first 20 months and 1.3% from July 2028. The Monday figure is a strike call, not observed participation; wage demands and employer offers are not an agreed settlement. No quantified production loss or directly attributable share-price, Bund-yield or euro move was verified.",
+      "analysis": "A prolonged dispute could affect production schedules, supply chains and labour costs; a proposed walkout alone does not establish a measured inflation surprise.",
+      "watch_next": "Actual Monday participation, factory disruptions, revised offers and negotiations.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/business/world-at-work/german-car-shipyard-workers-set-strike-ig-metall-union-extends-walkout-2026-11-21/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261121-BALTIC-SPARTA-II-DRONE-FIRE-FINLAND",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "RUSSIA / FINLAND / SWEDEN / ESTONIA / NATO / MARITIME SECURITY / SHIPPING",
+      "headline": "Sparta II fire reaches Finnish waters; crew evacuates and temporary restrictions follow",
+      "body": "Reuters reported that the Russian cargo ship Sparta II caught fire after a drone strike in the Gulf of Finland and drifted into Finnish waters on 21 November. Its 16-member crew evacuated. Finland imposed temporary aviation and maritime restrictions, while Swedish aircraft and an Estonian vessel assisted the response. Finnish officials considered Ukrainian responsibility likely, but definitive attribution was not established. The incident does not establish a wider closure of Baltic shipping. No event-specific sovereign-yield, oil-price or freight-rate movement was verified.",
+      "analysis": "A maritime incident spilling into NATO waters adds risks of escalation, rescue complications and transport disruption; the scale depends on confirmed damage and restrictions.",
+      "watch_next": "Confirmed attribution, vessel recovery, environmental conditions, restrictions and official responses.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/russia-says-cargo-vessel-struck-by-drones-finland-says-it-is-fire-its-waters-2026-11-21/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261121-UN-AUTONOMOUS-WEAPONS-2028-TALKS",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "UNITED NATIONS / DEFENCE / ARTIFICIAL INTELLIGENCE / AUTONOMOUS WEAPONS / INTERNATIONAL RULES",
+      "headline": "UN talks set a path toward possible autonomous-weapons rules by 2028; no binding ban adopted",
+      "body": "Reuters reported that UN talks in Geneva ended with a pledge for further discussions to develop rules for lethal autonomous weapons within two years. Around 100 countries supported legally binding limits, while major arms-producing countries including the United States, Russia and Israel opposed that approach. The compromise left the legal status of future measures unresolved. This is a negotiating path toward possible rules by 2028, not an enacted global ban or binding treaty. No directly attributable defence-sector, AI-equity or credit-market price movement was verified.",
+      "analysis": "Future rules could affect defence AI governance and procurement, but their scope, enforceability and timing remain unsettled.",
+      "watch_next": "Formal negotiating roadmap, proposed restrictions and whether major military powers support binding obligations.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/states-agree-to-un-talks-aiming-regulate-killer-robots-by-2028-2026-11-21/"
+      ],
+      "development_at": null
+    }
+  ]
+}
