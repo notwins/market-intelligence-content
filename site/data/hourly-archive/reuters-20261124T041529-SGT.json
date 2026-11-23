@@ -1,0 +1,95 @@
+{
+  "id": "reuters-20261124T041529-SGT",
+  "report_at": "2026-11-24T04:17:15+08:00",
+  "cutoff": "2026-11-24T04:15:29+08:00",
+  "window_start": "2026-11-23T23:38:56+08:00",
+  "coverage": "partial",
+  "summary": "New Iran sanctions advance retained compliance warnings; Raizen funding is expected near its target; Brazil revises 2027 growth and inflation forecasts. Three disconnected follow-ups remain withheld. Metadata previews only; the full detailed report remains held.",
+  "limitations": [
+    "Partial targeted review for 23 November 23:38:56–24 November 04:15:29 SGT, with discovery overlap from 23 November 23:23:56 SGT. Earlier uncovered intervals remain open; no fully complete scan cutoff is established.",
+    "Three reviewed metadata previews are included. The full detailed dashboard remains held: the approved report process supports day-based earnings/credit/policy/standalone identities, not an hourly channel with exact-cutoff immutable identities and discoverable full-edition card/search links. This preview is not full-detail publication.",
+    "The Fed-pricing follow-up v2 and Bank of Israel follow-up v2 are withheld because their required v1 predecessors are not retained in public history. Anthropic v10 is withheld because the connected public chain stops at v3. No event is renamed or later version renumbered to bypass these gaps.",
+    "Selected Reuters original publication dates of 23 November are independently verified through attributed syndication. Exact original publication minutes, subsequent revisions and market quotation times are not independently established; carrier timestamps are not substituted for original Reuters times.",
+    "Iran-sanctions v2 connects to retained v1 at the 20 November 23:37:27 SGT cutoff. The source dashboard’s reference to an intervening 23 November report does not replace that actual public predecessor. Network links and global potential activity do not establish wrongdoing by a named Singapore institution.",
+    "Raizen funding remains prospective. Brazil’s 2027 figures are forecasts; historical BRL depreciation covers a different period and is not a measured announcement reaction. No new executable FX quote or CHF borrowing rate is supplied.",
+    "Current hourly history and accessible retained research records were checked for event duplication; original daily briefing bodies were not refreshed in this run, so exhaustive daily-channel comparison remains limited. Catch-up discovery and selected previews do not fill old coverage gaps."
+  ],
+  "original_url": null,
+  "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+  "sources": [
+    {
+      "url": "https://www.reuters.com/business/finance/us-imposes-sanctions-dozens-linked-irans-shadow-banking-networks-2026-11-23/",
+      "title": "US imposes sanctions on dozens linked to Iran's shadow banking networks",
+      "published_at": null,
+      "published_date": "2026-11-23",
+      "publication_precision": "date",
+      "verification_url": "https://www.investing.com/news/stock-market-news/us-imposes-sanctions-on-dozens-linked-to-irans-shadow-banking-networks-5046278"
+    },
+    {
+      "url": "https://www.reuters.com/business/energy/brazils-raizen-capitalization-plan-close-near-top-target-range-sources-say-2026-11-23/",
+      "title": "Brazil's Raizen capitalization plan to close near top of target range, sources say",
+      "published_at": null,
+      "published_date": "2026-11-23",
+      "publication_precision": "date",
+      "verification_url": "https://live.euronext.com/en/financial-news/brazils-raizen-capitalization-plan-close-near-top-target-range-sources-say"
+    },
+    {
+      "url": "https://www.reuters.com/world/americas/brazil-cuts-2027-gdp-forecast-raises-inflation-outlook-remains-more-upbeat-than-2026-11-23/",
+      "title": "Brazil cuts 2027 GDP forecast, raises inflation outlook but remains more upbeat than market",
+      "published_at": null,
+      "published_date": "2026-11-23",
+      "publication_precision": "date",
+      "verification_url": "https://www.investing.com/news/economy-news/brazil-cuts-2027-gdp-forecast-raises-inflation-outlook-but-remains-more-upbeat-than-market-5046207"
+    }
+  ],
+  "stories": [
+    {
+      "story_id": "R-20261120-US-TREASURY-SG-MY-IRAN-SANCTIONS-COMPLIANCE",
+      "version": 2,
+      "status": "follow-up",
+      "freshness": "current",
+      "topic": "SINGAPORE / HONG KONG / UAE / US TREASURY / FINCEN / IRAN / BANKING / SANCTIONS",
+      "headline": "US sanctions add a concrete development to retained Iran-compliance warnings",
+      "body": "Reuters reported new US sanctions on dozens of people and entities linked to alleged Iranian shadow banking. FinCEN identified nearly US$15bn of potentially related global financial activity from January 2025 through August 2026, including connections through businesses in Singapore, Hong Kong and the UAE across oil, shipping and investment. That figure is global potential activity, not a Singapore-only total or a finding against a particular Singapore bank. No attributable SGD or bank-share reaction was established.",
+      "analysis": "New designations require counterparty review; allegations and network connections do not establish wrongdoing by unrelated institutions.",
+      "watch_next": "Formal designation identifiers and regulatory guidance.",
+      "earlier": "Retained v1 at the 20 November 23:37:27 SGT cutoff covered US Treasury compliance warnings to Singapore and Malaysia. This v2 adds sanctions and the dated FinCEN analysis, rather than repeating those warnings.",
+      "source_urls": [
+        "https://www.reuters.com/business/finance/us-imposes-sanctions-dozens-linked-irans-shadow-banking-networks-2026-11-23/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261123-RAIZEN-CAPITALIZATION-NEAR-UPPER-RANGE",
+      "version": 1,
+      "status": "new",
+      "freshness": "current",
+      "topic": "BRAZIL / RAIZEN / SHELL / COSAN / CORPORATE CREDIT / RESTRUCTURING",
+      "headline": "Sources expect Raizen capital raising near its upper target; proceeds remain unconfirmed",
+      "body": "Reuters sources expected the capital raising in Brazil’s Raizen debt restructuring to finish near its upper BRL39.8bn target, which includes a BRL3.5bn commitment from investor Shell plc. Co-founder Rubens Ometto might withhold additional investment, potentially diluting his ownership. The report describes expected funding and commitments, not confirmed receipt of the full target or a completed restructuring. No attributable bond-price or credit-spread movement was established.",
+      "analysis": "Final funding and debt terms determine liquidity and potential recoveries; a target is not an assured outcome.",
+      "watch_next": "Subscription results, cash actually received and post-restructuring debt.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/business/energy/brazils-raizen-capitalization-plan-close-near-top-target-range-sources-say-2026-11-23/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261123-BRAZIL-2027-GROWTH-INFLATION-FORECAST-REVISION",
+      "version": 1,
+      "status": "new",
+      "freshness": "current",
+      "topic": "BRAZIL / GDP / INFLATION / BRL / ECONOMIC FORECASTS / SOVEREIGN CREDIT",
+      "headline": "Brazil lowers its 2027 growth forecast to 1.8% and lifts inflation forecast to 4.5%",
+      "body": "Reuters reported Brazil’s Finance Ministry cutting its 2027 gross domestic product growth forecast from 2.3% to 1.8% and raising its inflation projection from 3.8% to 4.5%. Private economists in the central-bank survey expected 1.0% growth and 5.1% inflation for 2027. Borrowing costs and weaker growth drivers shaped the revision. These are forecasts for the same year, not realised growth or CPI. Reuters’s nearly 20% real depreciation refers to performance against USD since the previous month’s election, not a reaction isolated to this announcement.",
+      "analysis": "Weaker forecast growth alongside higher forecast inflation can complicate debt service and policy choices.",
+      "watch_next": "Budget revisions, central-bank guidance and financing conditions.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/americas/brazil-cuts-2027-gdp-forecast-raises-inflation-outlook-remains-more-upbeat-than-2026-11-23/"
+      ],
+      "development_at": null
+    }
+  ]
+}
