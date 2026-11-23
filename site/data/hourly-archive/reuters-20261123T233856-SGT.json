@@ -1,0 +1,95 @@
+{
+  "id": "reuters-20261123T233856-SGT",
+  "window_start": "2026-11-23T19:38:53+08:00",
+  "cutoff": "2026-11-23T23:38:56+08:00",
+  "report_at": "2026-11-23T23:45:19+08:00",
+  "coverage": "partial",
+  "original_url": null,
+  "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+  "summary": "US flash PMI slows but remains expansionary; CrowdStrike’s signed Zscaler agreement advances retained talks; historical hedge-fund losses accompany reduced leverage. Nvidia’s disconnected version chain and independently unverified Braskem figures remain withheld. This metadata is a preview; the full detailed report remains held.",
+  "limitations": [
+    "Partial targeted review for 23 November 19:38:53–23:38:56 SGT, with discovery overlap from 19:23:53. This interval is provisional; earlier uncovered periods remain open and the last fully completed scan cutoff stays unverified.",
+    "This is a metadata preview of three reviewed developments, not the complete detailed dashboard. The full companion is held: the approved publication contract lacks hourly, exact-cutoff immutable identities and corresponding full-report card/search links. No full detailed edition is claimed.",
+    "The source Nvidia follow-up is withheld because its v17 predecessor v16 is not retained in public history. It has not been renamed or renumbered to bypass the chain. Its market-reaction figures and short-dated-yield observation are not included in these selected previews.",
+    "Braskem’s proposed restructuring story is withheld because a complete eligible Reuters article body was not independently recovered in this publishing review. Headline discovery and the producer’s narrative alone do not verify its material financial figures.",
+    "Original publication dates of 23 November are verified for the selected Reuters reports. Exact original Reuters publication minutes and subsequent revision times were not independently established; displayed carrier times are not substituted for original timestamps.",
+    "CrowdStrike’s signed transaction is reconciled to retained talks v1 as follow-up v2 under the canonical stable event ID. The source producer’s separate new-story ID is not used to duplicate that underlying event. Closing-date shorthand and exact intraday quote times remain unverified.",
+    "Hedge-fund performance refers to the week ended 20 November and November-to-date data, not this four-hour interval. Catch-up discoveries do not fill earlier coverage gaps. Public hourly history and accessible research/search feeds were checked; unavailable original daily bodies limit exhaustive cross-channel reconciliation."
+  ],
+  "sources": [
+    {
+      "url": "https://www.reuters.com/world/us/us-business-activity-growth-eases-further-november-survey-shows-2026-11-23/",
+      "title": "US business activity growth eases further in November, survey shows",
+      "published_at": null,
+      "published_date": "2026-11-23",
+      "publication_precision": "date",
+      "verification_url": "https://www.streetinsider.com/Reuters/US%2Bbusiness%2Bactivity%2Bgrowth%2Beases%2Bfurther%2Bin%2BNovember%2C%2Bsurvey%2Bshows/27385559.html"
+    },
+    {
+      "url": "https://www.reuters.com/legal/transactional/crowdstrike-buy-zscaler-439-billion-2026-11-23/",
+      "title": "CrowdStrike snaps up Zscaler in $44 billion deal as cyber threats mount",
+      "published_at": null,
+      "published_date": "2026-11-23",
+      "publication_precision": "date",
+      "verification_url": "https://new.streetinsider.com/Reuters/CrowdStrike%2Bmakes%2B%2444%2Bbillion%2Bdeal%2Bfor%2BZscaler%2Bas%2Bcyber%2Bthreats%2Bmount/27383633.html"
+    },
+    {
+      "url": "https://www.reuters.com/world/china/hedge-funds-post-worst-week-since-april-2025-sparks-defensive-shift-2026-11-23/",
+      "title": "Hedge funds post worst week since April 2025, sparks defensive shift",
+      "published_at": null,
+      "published_date": "2026-11-23",
+      "publication_precision": "date",
+      "verification_url": "https://www.kitco.com/news/off-the-wire/2026-11-23/hedge-funds-post-worst-week-april-2025-sparks-defensive-shift"
+    }
+  ],
+  "stories": [
+    {
+      "story_id": "R-20261123-US-FLASH-PMI-NOV-SLOWDOWN",
+      "version": 1,
+      "status": "new",
+      "freshness": "current",
+      "topic": "US / S&P GLOBAL / PMI / FED / GROWTH / INFLATION",
+      "headline": "US flash PMI slows to 54.6 in November while remaining above the expansion threshold",
+      "body": "Reuters reported S&P Global’s November flash composite PMI at 54.6, down from October’s final 55.9. Services eased to 54.7 from 56.1 and manufacturing to 54.5 from 54.9. Readings above 50 indicate expansion. New business softened while input-cost pressures remained elevated. S&P Global’s economist said the surveys pointed to about 3% annualised fourth-quarter GDP growth; this is a survey-based indication, not an official GDP result. No Reuters consensus comparison or directly attributable FX or Treasury-yield response was established.",
+      "analysis": "Slower expansion alongside persistent price pressure complicates the policy outlook; a diffusion index is neither GDP growth nor an inflation rate.",
+      "watch_next": "Subsequent inflation, employment and Federal Reserve communications.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/us/us-business-activity-growth-eases-further-november-survey-shows-2026-11-23/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261120-CRWD-ZS-ACQUISITION-TALKS",
+      "version": 2,
+      "status": "follow-up",
+      "freshness": "catch-up",
+      "topic": "US / CROWDSTRIKE / CRWD / ZSCALER / ZS / CYBERSECURITY / MERGERS AND ACQUISITIONS",
+      "headline": "CrowdStrike agrees to a US$43.9bn all-stock Zscaler acquisition, advancing retained talks",
+      "body": "Reuters reported an agreed US$43.9 billion all-stock acquisition of Zscaler by CrowdStrike. Zscaler holders would receive 1.135 CrowdStrike shares per share, implying roughly a 34% premium to the previous close; existing CrowdStrike owners would hold about 84% of the combined company. Reuters described Zscaler rising more than 20% and CrowdStrike falling nearly 7% in premarket trading, with exact quote minutes unverified. These are historical snapshots. The transaction remains subject to closing and competition review. The source dashboard’s conflicting fiscal/calendar completion shorthand is omitted pending confirmation. This is an older uncovered development discovered in the present report.",
+      "analysis": "An agreed stock transaction adds integration, valuation and approval risks; an announced value is not completed funding or a guaranteed recovery.",
+      "watch_next": "Definitive filings, shareholder and regulatory approvals, exchange terms and the confirmed closing timetable.",
+      "earlier": "Retained v1, reported at the 21 November 07:33:39 SGT cutoff, described acquisition talks without an agreed price or signed transaction. This v2 adds the signed agreement and terms under the same stable event ID; it does not repeat those talks as a new event.",
+      "source_urls": [
+        "https://www.reuters.com/legal/transactional/crowdstrike-buy-zscaler-439-billion-2026-11-23/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261123-HEDGE-FUNDS-WEEK-20NOV-DELEVERAGING",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "GLOBAL / HEDGE FUNDS / JPMORGAN / GOLDMAN SACHS / NVIDIA / AI / EQUITIES / LEVERAGE",
+      "headline": "Hedge funds cut equity exposure after losses in the week ended 20 November",
+      "body": "Reuters cited JPMorgan’s client note reporting global hedge-fund losses exceeding 3% in the week ended 20 November and average November losses of 4%. Separately, Goldman Sachs analysed 1,001 funds and reported aggressive cuts in equity exposure and leverage, with equity long/short net exposure around April 2025 levels, the lowest since before COVID. Managers rotated away from AI-related investments toward financials, consumer discretionary and industrials. These are historical portfolio observations published before the preceding report cutoff, not price movements in the current four-hour window. No fund insolvency, corporate default or confirmed margin call is established.",
+      "analysis": "Position reductions can amplify volatility; an aggregate loss or reduced leverage does not by itself establish forced liquidation or insolvency.",
+      "watch_next": "Verified funding stress, financing haircuts, subsequent exposure data and credit spreads.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/china/hedge-funds-post-worst-week-since-april-2025-sparks-defensive-shift-2026-11-23/"
+      ],
+      "development_at": null
+    }
+  ]
+}
