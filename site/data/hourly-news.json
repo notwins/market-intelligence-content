@@ -2,13 +2,188 @@
   "schema_version": 1,
   "source_name": "Reuters Hourly News",
   "source_url": null,
-  "publisher_checked_at": "2026-11-24T19:15:20+08:00",
+  "publisher_checked_at": "2026-11-24T21:54:15+08:00",
   "last_complete_cutoff": null,
   "source_schedule": {
     "status": "Active",
     "checked_at": "2026-11-03T18:21:21+08:00"
   },
   "editions": [
+    {
+      "id": "reuters-20261124T195413-SGT",
+      "report_at": "2026-11-24T19:56:17.291050+08:00",
+      "cutoff": "2026-11-24T19:54:13+08:00",
+      "window_start": "2026-11-24T16:12:40+08:00",
+      "coverage": "partial",
+      "summary": "TSMC’s conditional Texas proposal, Japan’s draft fiscal guidelines, Brazil’s lower-house fiscal approval, German Ifo confidence, the FCA’s AI-agent warning and Dollar Tree’s annual guidance increase. Six previews; Anthropic’s disconnected follow-up and repeated India background remain held. Full detail remains held.",
+      "limitations": [
+        "Partial targeted source coverage for 24 November 16:12:40–19:54:13 SGT, with discovery overlap from 15:57:40. Earlier uncovered intervals remain outstanding; the last fully completed scan cutoff is not established.",
+        "Six reviewed metadata previews are included. These previews are not the complete detailed dashboard. The full version remains held because the approved report process has no hourly channel, time-aware immutable identity for multiple daily editions, or matching full-edition card/search-link support.",
+        "Anthropic follow-up v11 is withheld because required retained predecessor v10 is absent; the public event chain currently ends at v3. The event is not renamed and its later version is not renumbered to bypass that gap.",
+        "The Indian corporate-financing catch-up is withheld from this edition’s previews because the same planned INR250bn issuance was already covered in the earlier 24 November credit briefing. No new material development was established; the source’s November yield decline is not presented as a new four-hour move.",
+        "Eligible attributed Reuters bodies verified the selected stories and original publication dates. Exact original Reuters minutes, subsequent revision times and synchronous quote times were not independently verified; later carrier headers do not become original publication timestamps. Date-only precision is retained.",
+        "The Dollar Tree preview includes only the independently verified annual guidance change. The retrieved Reuters body did not establish the producer’s exact quarterly revenue/comparison, tariff-refund EPS benefit or approximately 7% premarket reaction; those fields remain withheld.",
+        "A later FCA syndication revision included a company response after the source cutoff. That later response and associated newer context are not added to this edition. The selected core regulatory warning was already present in the completed source report.",
+        "The Brazil savings figure is a prospective 2027 improvement, TSMC spending remains proposed, Japan’s guidelines remain draft, and Ifo values are index levels. Historical Brazilian currency performance is not attributed solely to this legislation. No executable FX quote or borrowing rate is supplied.",
+        "Current hourly history, retained research records, the original daily earnings body and available credit/policy bodies were checked for overlap. The credit body is truncated and no current policy edition was available, so exhaustive cross-channel reconciliation is not claimed. Complete original hourly text and the checksum-matched attachment are retained privately with the visual/data checklist."
+      ],
+      "original_url": null,
+      "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+      "sources": [
+        {
+          "url": "https://www.reuters.com/business/tsmc-unit-seeks-texas-property-tax-limit-proposed-226-billion-chip-making-2026-11-24/",
+          "title": "TSMC unit seeks Texas property tax limit for proposed $22.6 billion chip making facility",
+          "published_at": null,
+          "published_date": "2026-11-24",
+          "publication_precision": "date",
+          "updated_at": null,
+          "verification_url": "https://www.investing.com/news/stock-market-news/tsmc-unit-seeks-texas-property-tax-limit-for-proposed-226-billion-chip-making-facility-5047345"
+        },
+        {
+          "url": "https://www.reuters.com/markets/asia/japan-vows-sustainable-finances-boj-independence-budget-guideline-2026-11-24/",
+          "title": "Japan vows sustainable finances and BOJ independence in budget guideline",
+          "published_at": null,
+          "published_date": "2026-11-24",
+          "publication_precision": "date",
+          "updated_at": null,
+          "verification_url": "https://piqmarkets.com/reuters/japan-vows-sustainable-finances-and-boj-independence-in-budget-guideline-2026-11-24-09-08-12"
+        },
+        {
+          "url": "https://www.reuters.com/world/americas/brazil-lower-house-approves-government-backed-fiscal-package-2026-11-24/",
+          "title": "Brazil lower house approves government-backed fiscal package",
+          "published_at": null,
+          "published_date": "2026-11-24",
+          "publication_precision": "date",
+          "updated_at": null,
+          "verification_url": "https://www.investing.com/news/economy-news/brazil-lower-house-approves-governmentbacked-fiscal-package-5047506"
+        },
+        {
+          "url": "https://www.reuters.com/world/europe/german-ifo-business-sentiment-rises-november-2026-11-24/",
+          "title": "German Ifo business sentiment rises for the seventh consecutive month",
+          "published_at": null,
+          "published_date": "2026-11-24",
+          "publication_precision": "date",
+          "updated_at": null,
+          "verification_url": "https://www.esmmagazine.com/retail/german-ifo-business-sentiment-rises-for-the-seventh-consecutive-month-326777"
+        },
+        {
+          "url": "https://www.reuters.com/business/finance/ai-agents-could-trigger-financial-regulation-tech-firms-uk-watchdog-says-2026-11-24/",
+          "title": "AI agents could trigger financial regulation for tech firms, UK watchdog says",
+          "published_at": null,
+          "published_date": "2026-11-24",
+          "publication_precision": "date",
+          "updated_at": null,
+          "verification_url": "https://sa.marketscreener.com/news/ai-agents-could-trigger-financial-regulation-for-tech-firms-uk-watchdog-says-ce7851dbd98cf02c"
+        },
+        {
+          "url": "https://www.reuters.com/business/retail-consumer/dollar-tree-raises-annual-profit-forecast-2026-11-24/",
+          "title": "Dollar Tree raises annual profit forecast",
+          "published_at": null,
+          "published_date": "2026-11-24",
+          "publication_precision": "date",
+          "updated_at": null,
+          "verification_url": "https://www.investing.com/news/stock-market-news/dollar-tree-raises-annual-profit-forecast-5047718"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261124-TSMC-TEXAS-226BN-FAB-TAX-APPLICATION",
+          "version": 1,
+          "status": "new",
+          "freshness": "current",
+          "topic": "TAIWAN / US / TSMC / SEMICONDUCTORS",
+          "headline": "TSMC seeks tax relief for a proposed US$22.6bn Texas semiconductor facility",
+          "body": "A unit of Taiwan Semiconductor Manufacturing (TSMC) sought Texas tax relief for a potential US$22.6bn chipmaking facility. Its proposed production would use 2nm or more advanced technology, while Arizona remains an alternative location. The tax concession is a condition of the site decision; this is a proposal rather than committed capital expenditure or completed capacity. No project-specific share-price reaction was verified.",
+          "analysis": "Incentives and site economics can affect future capital requirements; an application alone does not establish committed spending or production.",
+          "watch_next": "Tax approval, final site selection, committed funding and the eventual investment schedule.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/tsmc-unit-seeks-texas-property-tax-limit-proposed-226-billion-chip-making-2026-11-24/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261124-JAPAN-FY2027-BUDGET-BOJ-INDEPENDENCE",
+          "version": 1,
+          "status": "new",
+          "freshness": "current",
+          "topic": "JAPAN / BOJ / FISCAL POLICY",
+          "headline": "Japan draft budget guideline backs fiscal sustainability and BOJ autonomy",
+          "body": "Japan released draft guidelines for the fiscal year beginning April 2027, supporting sustainable public finances and the Bank of Japan’s monetary-policy independence. The document did not specify a new-debt issuance ceiling. Selected economic-security spending would use bridging bonds repaid from BOJ ETF-sale proceeds and managed separately from the stated fiscal targets. No directly attributable yen or JGB yield move was established.",
+          "analysis": "Separate accounting for bridging bonds does not remove their financing needs. Final issuance plans and investor demand remain relevant to bond supply.",
+          "watch_next": "The final budget, issuance plans and BOJ decisions; distinguish prior ETF-sale policy from a new announcement.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/markets/asia/japan-vows-sustainable-finances-boj-independence-budget-guideline-2026-11-24/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261124-BRAZIL-FISCAL-PACKAGE-HOUSE-APPROVAL",
+          "version": 1,
+          "status": "new",
+          "freshness": "current",
+          "topic": "BRAZIL / SOVEREIGN CREDIT / FISCAL POLICY",
+          "headline": "Brazil lower house approves fiscal package; presidential signature remains pending",
+          "body": "Brazil’s lower house approved a fiscal package that had already passed the Senate. The measures effectively limit annual spending growth to 2%, with potential improvement of up to BRL60bn in 2027, equivalent to about US$10.02bn at the article’s conversion. Presidential signature is still required. Reuters reported gross government debt at 82.9% of GDP and roughly 19% real depreciation since late October; these are historical context rather than an isolated legislative-market reaction.",
+          "analysis": "Projected savings are not realised revenue or a completed reduction in debt. Implementation and further fiscal measures will determine the result.",
+          "watch_next": "Presidential signature, implementation, realised savings and debt sustainability.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/americas/brazil-lower-house-approves-government-backed-fiscal-package-2026-11-24/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261124-GERMANY-IFO-NOV-906",
+          "version": 1,
+          "status": "new",
+          "freshness": "current",
+          "topic": "GERMANY / ECONOMIC DATA / IFO",
+          "headline": "German Ifo confidence rises for a seventh month, with an uneven sector recovery",
+          "body": "Germany’s November Ifo business-climate index reached 90.6, against a revised October reading of 90.1 and a Reuters-poll forecast of 90.5. These are index levels, not growth percentages. Services and trade improved, while manufacturing and construction weakened. The confidence reading does not itself establish a broad earnings recovery, and no directly attributable Bund-yield or euro move was verified.",
+          "analysis": "Improving aggregate sentiment can coexist with weak sectors; the breadth of activity matters alongside the headline reading.",
+          "watch_next": "Detailed third-quarter GDP data on 25 November and evidence of broader sector improvement.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/europe/german-ifo-business-sentiment-rises-november-2026-11-24/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261124-UK-FCA-AI-AGENT-REGULATED-SERVICES",
+          "version": 1,
+          "status": "new",
+          "freshness": "current",
+          "topic": "UK / FCA / ARTIFICIAL INTELLIGENCE / FINANCIAL REGULATION",
+          "headline": "UK FCA warns AI-agent providers to assess financial-services authorisation",
+          "body": "Britain’s Financial Conduct Authority warned technology providers to determine whether their artificial intelligence (AI) agents offer regulated financial services and engage with regulators where appropriate. A technology-provider label does not exempt activities such as financial promotions, advice or payments from the applicable rules. The reviewed warning did not name a particular company. No attributable equity or credit-price reaction was established.",
+          "analysis": "Automation changes delivery, while licensing, consumer protection and controls still require assessment. The warning is not a newly enacted blanket AI ban.",
+          "watch_next": "Regulatory guidance, authorisation arrangements and the protections available to consumers.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/finance/ai-agents-could-trigger-financial-regulation-tech-firms-uk-watchdog-says-2026-11-24/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261124-DLTR-Q3-REVENUE-GUIDANCE-RAISE",
+          "version": 1,
+          "status": "new",
+          "freshness": "current",
+          "topic": "US / DOLLAR TREE / RETAIL / EARNINGS GUIDANCE",
+          "headline": "Dollar Tree raises FY2026 adjusted EPS outlook to US$8.05–8.25",
+          "body": "US discount retailer Dollar Tree raised its fiscal 2026 guidance for adjusted earnings per share to US$8.05–8.25, compared with its previous US$7.70–8.05 range. Reuters linked the outlook to demand from shoppers seeking lower-priced essentials ahead of the holiday season. These are annual management forecasts, not reported quarterly EPS. Additional numerical fields from the producer report remain withheld as detailed in this edition’s coverage limits.",
+          "analysis": "A higher annual forecast supports the demand narrative, while actual margins and recurring profitability still need separate review.",
+          "watch_next": "Holiday demand, operating margins and subsequent guidance; do not substitute live site quote widgets for a dated Reuters reaction.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/retail-consumer/dollar-tree-raises-annual-profit-forecast-2026-11-24/"
+          ],
+          "development_at": null
+        }
+      ]
+    },
     {
       "id": "reuters-20261124T161240-SGT",
       "report_at": "2026-11-24T16:14:43+08:00",
