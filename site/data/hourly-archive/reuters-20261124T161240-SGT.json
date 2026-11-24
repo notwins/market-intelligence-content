@@ -1,0 +1,96 @@
+{
+  "id": "reuters-20261124T161240-SGT",
+  "report_at": "2026-11-24T16:14:43+08:00",
+  "cutoff": "2026-11-24T16:12:40+08:00",
+  "window_start": "2026-11-24T11:37:31+08:00",
+  "coverage": "partial",
+  "summary": "Sanofi agrees a prospective US$41bn Insmed acquisition; MSCI’s clarification advances retained Indonesia-risk coverage; Volkswagen begins wage talks amid strike risk. Two disconnected follow-ups and unverified Equinor contract details remain held. These are previews; the full detailed report remains held.",
+  "limitations": [
+    "Partial targeted review for 24 November 11:37:31–16:12:40 SGT, with overlap from 11:22:31. The intervening unpublished source intervals after the retained 04:15:29 cutoff and older coverage gaps remain outstanding; last_complete_cutoff is not established.",
+    "Three metadata previews are included. The complete detailed dashboard remains held because the approved full-report process lacks an hourly channel, exact-cutoff immutable identities for multiple same-day editions, and matching full-edition card/search links. Metadata is not the full report.",
+    "The AI-market follow-up v19 and Fed-pricing follow-up v4 are withheld because their required connected public predecessors v18 and v3 are absent. No event has been renamed or later version renumbered to bypass missing history. Their market/yield/probability figures are not published in these previews.",
+    "Equinor’s gas-contract story is held: Reuters headline/date were located, but an accessible complete eligible Reuters article body was not recovered. Producer text, third-party AI summaries and a primary-company headline alone are not treated as independent verification of all contract quantities and terms.",
+    "Selected Reuters original publication dates of 24 November are verified through attributed syndication. Exact original Reuters minutes, subsequent revision times and quote times were not independently established. Later carrier update headers do not become original publication times; only facts already present in the completed source are selected.",
+    "MSCI is reconciled to retained Indonesia-risk v1 as canonical follow-up v2, avoiding a second event ID. Market observations use different historical baselines and do not establish a causal reaction to the clarification.",
+    "Sanofi closing, EPS contribution and cost benefits remain forecasts or proposed outcomes. Volkswagen’s 2026 core-brand margin is an outlook, compared with a different year’s actual result. No new executable USD/SGD, USD/CHF or CHF/SGD quote or CHF borrowing rate is supplied.",
+    "Current hourly history and retained research records were checked for event overlap. Original daily briefing bodies were not freshly retrieved, limiting exhaustive cross-channel reconciliation. The full original text and matching attachment are retained privately with source charts/tables and explicit holds."
+  ],
+  "original_url": null,
+  "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+  "sources": [
+    {
+      "url": "https://www.reuters.com/legal/litigation/sanofi-acquire-insmed-41-billion-deal-2026-11-24/",
+      "title": "Sanofi to buy US drugmaker Insmed for $41 billion in biggest deal under CEO Garijo",
+      "published_at": null,
+      "published_date": "2026-11-24",
+      "publication_precision": "date",
+      "verification_url": "https://www.rte.ie/news/business/2026/1124/1600405-sanofi-to-buy-insmed/"
+    },
+    {
+      "url": "https://www.reuters.com/world/asia-pacific/msci-says-no-decision-made-indonesia-market-downgrade-proposal-2026-11-24/",
+      "title": "MSCI denies softer stance on Indonesia's market status, review ongoing",
+      "published_at": null,
+      "published_date": "2026-11-24",
+      "publication_precision": "date",
+      "verification_url": "https://www.asiaone.com/asia/msci-denies-softer-stance-indonesias-market-status-review-ongoing"
+    },
+    {
+      "url": "https://www.reuters.com/business/world-at-work/volkswagen-confronts-union-over-costs-face-strike-threat-2026-11-24/",
+      "title": "Volkswagen confronts union over costs in face of strike threat",
+      "published_at": null,
+      "published_date": "2026-11-24",
+      "publication_precision": "date",
+      "verification_url": "https://www.investing.com/news/stock-market-news/volkswagen-confronts-union-over-costs-in-face-of-strike-threat-5047119"
+    }
+  ],
+  "stories": [
+    {
+      "story_id": "R-20261124-SANOFI-INSMED-41BN-ACQUISITION",
+      "version": 1,
+      "status": "new",
+      "freshness": "current",
+      "topic": "FRANCE / US / SANOFI / INSMED / PHARMACEUTICALS / ACQUISITION / CORPORATE CREDIT",
+      "headline": "Sanofi agrees US$41bn Insmed acquisition, with closing and earnings benefits still prospective",
+      "body": "Reuters reported French drugmaker Sanofi agreeing to buy Insmed for US$41bn in cash at US$175 per share, about 17.5% above its last closing price. The pharmaceuticals acquisition is expected to close in the first half of 2027 and contribute positively to earnings per share by end-2028. Management projects annual cost benefits exceeding US$500m. These are proposed transaction terms and projected benefits, not completed funding or realised earnings. No attributable share-price or credit-spread movement was verified for this preview.",
+      "analysis": "Financing, integration and approval risks matter separately from headline deal value; projected savings do not establish realised cash flow.",
+      "watch_next": "Final financing, approvals, completion and post-acquisition leverage.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/legal/litigation/sanofi-acquire-insmed-41-billion-deal-2026-11-24/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261117-INDONESIA-MSCI-RUPIAH-POLITICAL-RISK",
+      "version": 2,
+      "status": "follow-up",
+      "freshness": "current",
+      "topic": "INDONESIA / MSCI / EQUITIES / EMERGING MARKETS / INDEX CLASSIFICATION / CAPITAL FLOWS",
+      "headline": "MSCI denies softening its Indonesia reclassification proposal; the review remains open",
+      "body": "Reuters reported MSCI rejecting claims that it had signalled a softer stance on moving Indonesia from emerging-market to standalone status. The proposal remains under consultation, ending 30 April 2027, with a decision expected by 30 June 2027. Indonesia’s benchmark was reported 0.3% higher in Tuesday trading, yet nearly 10% below its level before the October warning and over 40% below the late-January review level. These are different historical comparison periods; exact quotation time is unknown. Reclassification and associated passive-fund selling remain conditional.",
+      "analysis": "Index eligibility can affect investment flows independently of company fundamentals. A consultation is not a completed downgrade or guaranteed outflow.",
+      "watch_next": "Ownership transparency, consultation feedback and the final classification decision.",
+      "earlier": "Retained v1 at the 17 November 16:04:53 SGT cutoff described rupiah weakness and potential MSCI reclassification risk. This v2 adds MSCI’s new clarification and explicit consultation timetable under that stable event ID; the source’s separate new-story ID is not used to duplicate the event.",
+      "source_urls": [
+        "https://www.reuters.com/world/asia-pacific/msci-says-no-decision-made-indonesia-market-downgrade-proposal-2026-11-24/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261124-VW-WAGE-TALKS-STRIKE-RISK",
+      "version": 1,
+      "status": "new",
+      "freshness": "current",
+      "topic": "GERMANY / VOLKSWAGEN / AUTOS / WAGES / LABOUR / CORPORATE CREDIT",
+      "headline": "Volkswagen opens wage talks seeking cost cuts as strike risk approaches",
+      "body": "Reuters reported Volkswagen beginning German wage negotiations while seeking pay freezes for 2027 and 2028, longer working hours at unchanged pay and benefit reductions. Strikes could start on 1 January 2027; they are not established as having begun. Reuters contrasted an expected core VW operating margin of no more than 1% for 2026 with 5.9% in 2024. The 2026 figure is an estimate for the core brand, not a final result or the entire group’s margin. No attributable equity-price or bond-spread reaction was verified.",
+      "analysis": "Lower costs may support future profitability, while industrial action can disrupt production and cash generation.",
+      "watch_next": "Negotiating outcomes, strike decisions, operating cash flow and updated profitability guidance.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/business/world-at-work/volkswagen-confronts-union-over-costs-face-strike-threat-2026-11-24/"
+      ],
+      "development_at": null
+    }
+  ]
+}
