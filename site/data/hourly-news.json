@@ -2,13 +2,86 @@
   "schema_version": 1,
   "source_name": "Reuters Hourly News",
   "source_url": null,
-  "publisher_checked_at": "2026-11-26T00:11:13+08:00",
+  "publisher_checked_at": "2026-11-26T04:16:38+08:00",
   "last_complete_cutoff": null,
   "source_schedule": {
     "status": "Active",
     "checked_at": "2026-11-03T18:21:21+08:00"
   },
   "editions": [
+    {
+      "id": "reuters-20261126T034057-SGT",
+      "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+      "report_at": "2026-11-26T03:42:39+08:00",
+      "cutoff": "2026-11-26T03:40:57+08:00",
+      "window_start": "2026-11-25T23:36:34+08:00",
+      "coverage": "partial",
+      "summary": "AI corporate-credit stress and October US new-home sales. Two reviewed catch-up previews; six disconnected follow-ups remain withheld. Earlier coverage gaps remain open. The full detailed report remains held.",
+      "limitations": [
+        "Partial targeted source coverage for 25 November 23:36:34–26 November 03:40:57 SGT; discovery overlap begins at 23:21:34 and the primary window is 02:40:57–03:40:57. Earlier coverage gaps remain open; no complete-scan cutoff is established.",
+        "Two independently reviewed catch-up metadata previews are included. They are not the full detailed dashboard. The full report remains held because the approved process lacks an hourly channel, exact-cutoff immutable identities for multiple reports per day, and matching full-edition card/search links.",
+        "Six follow-ups remain withheld because their retained predecessor versions are absent: Nvidia governance v7 requires v6; Fed/Beige Book v8 requires v7; AI equity/sovereign-bond v26 requires v25; tariff-response v3 requires v2; gold v3 requires v2; Venezuela debt v2 requires v1. Original IDs and versions remain retained privately, without renaming or renumbering.",
+        "Original Reuters pages were unavailable directly to this publisher. Attributed Reuters syndication bodies were inspected in the signed-in browser. Original publication dates are retained as 25 November; displayed carrier minute headers are not substituted for independently verified original Reuters times. Exact revisions and individual credit-market quote times remain unavailable.",
+        "The AI-credit preview concerns a newly reported cross-company CDS/default-risk development; the 17 November retained neocloud financing analysis remains earlier context, not a new issuance or current quote. CDS spreads, market yields and model-implied probabilities are distinct measures.",
+        "The complete 18,404-character generated source body, checksum-matched original JSON and supplied mechanism SVG are retained privately. Source-supplied held-story figures and unavailable native chart assets are not approved for public release. Full-detail completeness and desktop/mobile visual approval have not been granted.",
+        "All 65 retained hourly editions and eight public research records were reviewed for overlap, alongside available original 25-Nov earnings and credit reports. Fresh policy source and exhaustive source-side backlog were not available in this execution; no claim is made that earlier missing coverage has been filled."
+      ],
+      "original_url": null,
+      "sources": [
+        {
+          "url": "https://www.reuters.com/business/media-telecom/global-markets-ai-cds-urgent-2026-11-25/",
+          "title": "Jensen Huang's second coming offers little relief to AI credits",
+          "published_at": null,
+          "published_date": "2026-11-25",
+          "publication_precision": "date",
+          "updated_at": null,
+          "verification_url": "https://www.marketscreener.com/news/ai-credit-default-swap-spreads-widen-ce7851dbdf81f127"
+        },
+        {
+          "url": "https://www.reuters.com/business/us-new-home-sales-surge-10-month-high-october-2026-11-25/",
+          "title": "US new home sales surge to 10-month high in October",
+          "published_at": null,
+          "published_date": "2026-11-25",
+          "publication_precision": "date",
+          "updated_at": null,
+          "verification_url": "https://new.streetinsider.com/Reuters/US%2Bnew%2Bhome%2Bsales%2Bsurge%2Bto%2B10-month%2Bhigh%2Bin%2BOctober/27400059.html"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261125-AI-CREDIT-CDS-DISTRESS",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "US / NVIDIA / COREWEAVE / ORACLE / SOFTBANK / ALPHABET / SPACEX / AI / CORPORATE CREDIT / CDS",
+          "headline": "AI credit stress spreads across borrowers as CoreWeave bond yields approach 18%",
+          "body": "For corporate bond investors, Reuters reported five-year CDS spreads of 1,314 basis points for CoreWeave, 501 for SoftBank Group and 356 for Oracle. CoreWeave, Oracle, Alphabet and SpaceX reached record CDS levels over the previous two trading sessions. Nvidia-backed CoreWeave’s 2031 bond yield approached 18%, its 2030 bonds reached record lows, and SoftBank shares fell 14%. Reuters cited a market-implied five-year default probability of 68% for CoreWeave. Individual quote times and the substantive revision time were unavailable. These recovered historical observations are not live prices, issuance yields or confirmed defaults.",
+          "analysis": "Credit protection prices and bond yields indicate financing concerns beyond equity valuations. A market-implied probability depends on pricing and modelling assumptions; it does not establish that a default will occur.",
+          "watch_next": "Refinancing access, free cash flow, collateral values and credit spreads.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/media-telecom/global-markets-ai-cds-urgent-2026-11-25/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261125-US-OCT-NEW-HOME-SALES-701K",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "US / HOUSING / MORTGAGES / MACRO / CREDIT",
+          "headline": "US October new-home sales rise 14.2% as builders cut prices",
+          "body": "Reuters reported October new single-family home sales rising 14.2% month on month to a seasonally adjusted annual rate of 701,000 units. Median new-home prices fell 3.2% year on year to US$391,300, while the prior week’s average 30-year fixed mortgage rate was 7.28%. The sales rate is annualised, rather than the number of houses actually sold during October; the mortgage rate refers to a different weekly period. Builders’ discounts supported transactions. No isolated market reaction was established. This is a recovered 25 November report, with exact original publication minutes and development time unestablished independently.",
+          "analysis": "Discount-supported sales growth does not by itself establish a broad housing recovery. Sales volumes, selling prices and mortgage borrowing costs measure different conditions.",
+          "watch_next": "Housing inventory, construction permits and mortgage rates.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/us-new-home-sales-surge-10-month-high-october-2026-11-25/"
+          ],
+          "development_at": null
+        }
+      ]
+    },
     {
       "id": "reuters-20261125T233634-SGT",
       "report_at": "2026-11-25T23:38:22+08:00",
