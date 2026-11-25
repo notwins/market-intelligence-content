@@ -1,0 +1,74 @@
+{
+  "id": "reuters-20261125T233634-SGT",
+  "report_at": "2026-11-25T23:38:22+08:00",
+  "cutoff": "2026-11-25T23:36:34+08:00",
+  "window_start": "2026-11-25T19:49:13+08:00",
+  "coverage": "partial",
+  "summary": "Swiss franc safe-haven strength and Bailey’s conditional UK inflation outlook. Two reviewed dated previews; four disconnected follow-ups remain withheld. Earlier coverage gaps remain open. The full detailed report remains held.",
+  "limitations": [
+    "Partial targeted source coverage for 25 November 19:49:13–23:36:34 SGT, with discovery overlap from 19:34:13 and a primary window from 22:36:34. Earlier gaps remain outstanding; a complete-scan cutoff is not established.",
+    "Two independently reviewed metadata previews are included. They are not the full detailed dashboard. The detailed version remains held because the approved full-report process has no hourly channel, exact-cutoff immutable identities for multiple editions per day, or corresponding full-edition card/search links.",
+    "Four follow-ups remain withheld because their required retained predecessors are absent: the Section 301 tariff proposal v2 needs v1, Fed/PCE/GDP update v7 needs v6, AI equity selloff v25 needs v24, and oil update v4 needs v3. Their source IDs and versions are retained privately and are not renamed or renumbered.",
+    "Original publication dates were independently verified as 25 November. Exact original Reuters publication minutes and substantive revision times were not independently established. Date-only precision is retained; a later carrier header is not an original publication time.",
+    "The CHF item is labelled catch-up because its exact development and quote times are unavailable. Later syndication corroborates the identical observations already present in the completed source; no subsequent market values or new context are added. These are historical reference observations, not executable live quotes.",
+    "The US Treasury figure is a two-year/five-year spread comparison with last month, not a greater-than-10bp movement in an individual yield. CHF/SGD direction and current financing costs were not established.",
+    "The Bailey statement is conditional on energy prices and preserves the November 5 forecast’s mid-2027 horizon. The Reuters refile clarifies that energy prices fell in recent weeks; no official replacement forecast or rate decision is inferred.",
+    "All retained hourly editions, eight public research records and the available original 25-Nov earnings and credit reports were checked for overlap. A current policy report was unavailable in this execution, so exhaustive cross-channel reconciliation is not claimed. The complete source body and checksum-matched original JSON are retained privately; held figures and graphics are not approved for publication."
+  ],
+  "original_url": null,
+  "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+  "sources": [
+    {
+      "url": "https://www.reuters.com/world/africa/dollar-takes-breather-ahead-us-data-fed-path-aussie-jumps-cpi-2026-11-25/",
+      "title": "Dollar boosted by safety bid as stocks tumble",
+      "published_at": null,
+      "published_date": "2026-11-25",
+      "publication_precision": "date",
+      "updated_at": null,
+      "verification_url": "https://live.euronext.com/en/financial-news/global-risk-mood-lifts-dollar-ahead-inflation-data"
+    },
+    {
+      "url": "https://www.reuters.com/world/uk/boes-bailey-sees-lower-inflation-peak-if-energy-prices-stabilise-2026-11-25/",
+      "title": "BoE's Bailey sees lower inflation peak if energy prices stabilise",
+      "published_at": null,
+      "published_date": "2026-11-25",
+      "publication_precision": "date",
+      "updated_at": null,
+      "verification_url": "https://malaysia.news.yahoo.com/boes-bailey-sees-lower-inflation-145706525.html"
+    }
+  ],
+  "stories": [
+    {
+      "story_id": "R-20261125-CHF-SAFE-HAVEN-FX-RISK-OFF",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "SWITZERLAND / CHF / USD / FX / UST",
+      "headline": "Swiss franc gains against the dollar as risk aversion supports safe-haven demand",
+      "body": "Reuters reported USD/CHF down 0.55% to 0.831, while the dollar index rose 0.12% to 103.97. It also reported the US five-year minus two-year Treasury spread near 2 basis points, versus a high around 27 basis points last month. Exact quote and substantive revision times were unavailable, so these are dated recovered observations rather than a confirmed move within the report window. Curve-spread compression is distinct from a move in any single Treasury yield.",
+      "analysis": "CHF strength against USD does not establish CHF/SGD direction. A lower borrowing interest rate does not remove currency risk.",
+      "watch_next": "Actual CHF/SGD and USD/CHF quotations, SNB guidance and currency exposure.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/africa/dollar-takes-breather-ahead-us-data-fed-path-aussie-jumps-cpi-2026-11-25/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261125-BOE-BAILEY-ENERGY-INFLATION-PEAK",
+      "version": 1,
+      "status": "new",
+      "freshness": "current",
+      "topic": "UK / BOE / ANDREW BAILEY / GBP / INFLATION",
+      "headline": "Bailey says stable energy prices could lower the projected UK inflation peak",
+      "body": "Bank of England Governor Andrew Bailey told lawmakers that inflation could peak below the roughly 5% level projected for mid-2027 in the Bank’s 5 November forecast, if international energy prices stabilise after recent declines. He also described a more resilient economy and a labour market that had stopped loosening. These were conditional remarks, rather than a newly issued official numerical forecast or a monetary-policy decision. No isolated sterling or gilt reaction was established.",
+      "analysis": "Lower energy costs could improve the inflation outlook, while resilient demand and employment remain separate policy considerations. The remarks do not confirm an imminent rate cut.",
+      "watch_next": "Updated Bank of England forecasts, energy prices and policy communications.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/uk/boes-bailey-sees-lower-inflation-peak-if-energy-prices-stabilise-2026-11-25/"
+      ],
+      "development_at": null
+    }
+  ]
+}
