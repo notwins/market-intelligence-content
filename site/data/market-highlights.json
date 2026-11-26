@@ -1,0 +1,745 @@
+{
+  "schema_version": 1,
+  "through": "2026-11-26T08:00:00+08:00",
+  "entries": [
+    {
+      "id": "R-20261125-AI-CREDIT-CDS-DISTRESS",
+      "version": 1,
+      "headline": "AI credit stress spreads across borrowers as CoreWeave bond yields approach 18%",
+      "href": "https://www.reuters.com/business/media-telecom/global-markets-ai-cds-urgent-2026-11-25/",
+      "topic": "US / NVIDIA / COREWEAVE / ORACLE / SOFTBANK / ALPHABET / SPACEX / AI / CORPORATE CREDIT / CDS",
+      "cutoff": "2026-11-26T03:40:57+08:00",
+      "published": "2026-11-25",
+      "selected": "2026-11-26T08:00:00+08:00",
+      "reasons": [
+        "Credit stress",
+        "Bonds and credit",
+        "Watchlist · NVDA, GOOGL",
+        "Company financing"
+      ],
+      "score": 36
+    },
+    {
+      "id": "R-20261125-BOE-BAILEY-ENERGY-INFLATION-PEAK",
+      "version": 1,
+      "headline": "Bailey says stable energy prices could lower the projected UK inflation peak",
+      "href": "https://www.reuters.com/world/uk/boes-bailey-sees-lower-inflation-peak-if-energy-prices-stabilise-2026-11-25/",
+      "topic": "UK / BOE / ANDREW BAILEY / GBP / INFLATION",
+      "cutoff": "2026-11-25T23:36:34+08:00",
+      "published": "2026-11-25",
+      "selected": "2026-11-26T08:00:00+08:00",
+      "reasons": [
+        "Global rates"
+      ],
+      "score": 6
+    },
+    {
+      "id": "R-20261124-VW-WAGE-TALKS-STRIKE-RISK",
+      "version": 1,
+      "headline": "Volkswagen opens wage talks seeking cost cuts as strike risk approaches",
+      "href": "https://www.reuters.com/business/world-at-work/volkswagen-confronts-union-over-costs-face-strike-threat-2026-11-24/",
+      "topic": "GERMANY / VOLKSWAGEN / AUTOS / WAGES / LABOUR / CORPORATE CREDIT",
+      "cutoff": "2026-11-24T16:12:40+08:00",
+      "published": "2026-11-24",
+      "selected": "2026-11-24T20:00:00+08:00",
+      "reasons": [
+        "Major companies"
+      ],
+      "score": 7
+    },
+    {
+      "id": "R-20261124-SANOFI-INSMED-41BN-ACQUISITION",
+      "version": 1,
+      "headline": "Sanofi agrees US$41bn Insmed acquisition, with closing and earnings benefits still prospective",
+      "href": "https://www.reuters.com/legal/litigation/sanofi-acquire-insmed-41-billion-deal-2026-11-24/",
+      "topic": "FRANCE / US / SANOFI / INSMED / PHARMACEUTICALS / ACQUISITION / CORPORATE CREDIT",
+      "cutoff": "2026-11-24T16:12:40+08:00",
+      "published": "2026-11-24",
+      "selected": "2026-11-24T20:00:00+08:00",
+      "reasons": [
+        "Major companies"
+      ],
+      "score": 7
+    },
+    {
+      "id": "R-20261123-HEDGE-FUNDS-WEEK-20NOV-DELEVERAGING",
+      "version": 1,
+      "headline": "Hedge funds cut equity exposure after losses in the week ended 20 November",
+      "href": "https://www.reuters.com/world/china/hedge-funds-post-worst-week-since-april-2025-sparks-defensive-shift-2026-11-23/",
+      "topic": "GLOBAL / HEDGE FUNDS / JPMORGAN / GOLDMAN SACHS / NVIDIA / AI / EQUITIES / LEVERAGE",
+      "cutoff": "2026-11-23T23:38:56+08:00",
+      "published": "2026-11-23",
+      "selected": "2026-11-24T08:00:00+08:00",
+      "reasons": [
+        "Watchlist · NVDA"
+      ],
+      "score": 8
+    },
+    {
+      "id": "R-20261120-CRWD-ZS-ACQUISITION-TALKS",
+      "version": 2,
+      "headline": "CrowdStrike agrees to a US$43.9bn all-stock Zscaler acquisition, advancing retained talks",
+      "href": "https://www.reuters.com/legal/transactional/crowdstrike-buy-zscaler-439-billion-2026-11-23/",
+      "topic": "US / CROWDSTRIKE / CRWD / ZSCALER / ZS / CYBERSECURITY / MERGERS AND ACQUISITIONS",
+      "cutoff": "2026-11-23T23:38:56+08:00",
+      "published": "2026-11-23",
+      "selected": "2026-11-24T08:00:00+08:00",
+      "reasons": [
+        "Major companies"
+      ],
+      "score": 7
+    },
+    {
+      "id": "R-20261120-NVDA-HUANG-SENATE-TESTIMONY-AGREEMENT",
+      "version": 2,
+      "headline": "Bessent says US officials directly sought Nvidia export-compliance answers from management and directors",
+      "href": "https://www.reuters.com/world/china/us-seeks-answers-nvidias-sale-chips-china-bessent-says-2026-11-22/",
+      "topic": "US / CHINA / NVIDIA / NVDA / SCOTT BESSENT / JENSEN HUANG / AI / EXPORT COMPLIANCE",
+      "cutoff": "2026-11-23T03:43:18+08:00",
+      "published": "2026-11-22",
+      "selected": "2026-11-23T08:00:00+08:00",
+      "reasons": [
+        "Watchlist · NVDA"
+      ],
+      "score": 8
+    },
+    {
+      "id": "R-20261122-HOUTHI-CLAIMS-RABIGH-REFINERY-STRIKE",
+      "version": 1,
+      "headline": "Houthis claim Rabigh refinery strike; physical damage and production loss remain unconfirmed",
+      "href": "https://www.reuters.com/world/middle-east/yemens-houthis-say-they-attacked-saudi-rabigh-oil-refinery-2026-11-22/",
+      "topic": "SAUDI ARABIA / YEMEN / OIL / REFINING / PETRO RABIGH / SAUDI ARAMCO / SUMITOMO CHEMICAL",
+      "cutoff": "2026-11-23T03:43:18+08:00",
+      "published": "2026-11-22",
+      "selected": "2026-11-23T08:00:00+08:00",
+      "reasons": [
+        "Major companies"
+      ],
+      "score": 7
+    },
+    {
+      "id": "R-20261122-SNB-INFLATION-SECOND-ROUND-MARTIN",
+      "version": 1,
+      "headline": "SNB watches second-round inflation effects ahead of December decision",
+      "href": "https://www.reuters.com/business/finance/snb-closely-watching-second-round-inflation-effects-vice-chairman-tells-paper-2026-11-22/",
+      "topic": "SWITZERLAND / SNB / CHF / INFLATION / UBS",
+      "cutoff": "2026-11-22T19:48:29+08:00",
+      "published": "2026-11-22T16:24:00+08:00",
+      "selected": "2026-11-22T20:00:00+08:00",
+      "reasons": [
+        "Fed, SNB or MAS policy"
+      ],
+      "score": 10
+    },
+    {
+      "id": "R-20261120-CITI-EUROPEAN-TRADING-RWA-35BN-ERROR",
+      "version": 1,
+      "headline": "Citigroup reportedly understated European trading-unit risk-weighted assets by US$35bn",
+      "href": "https://www.reuters.com/business/citi-incorrectly-booked-trades-underestimated-risky-assets-by-35-billion-sources-2026-11-19/",
+      "topic": "US / UK / CITIGROUP / BANK CAPITAL / RISK CONTROLS",
+      "cutoff": "2026-11-22T16:19:51+08:00",
+      "published": "2026-11-20T07:38:00+08:00",
+      "selected": "2026-11-22T20:00:00+08:00",
+      "reasons": [
+        "Major companies"
+      ],
+      "score": 7
+    },
+    {
+      "id": "R-20261120-BAYER-ROUNDUP-725BN-SETTLEMENT-COURT-APPROVAL",
+      "version": 1,
+      "headline": "Missouri court approves Bayer’s US$7.25bn Roundup settlement; some cases remain",
+      "href": "https://www.reuters.com/legal/government/missouri-judge-approves-bayers-725-billion-roundup-settlement-2026-11-20/",
+      "topic": "GERMANY / US / BAYER / LITIGATION / CREDIT",
+      "cutoff": "2026-11-22T16:19:51+08:00",
+      "published": "2026-11-20",
+      "selected": "2026-11-22T20:00:00+08:00",
+      "reasons": [
+        "Major companies"
+      ],
+      "score": 7
+    },
+    {
+      "id": "R-20261116-UNICREDIT-COMMERZBANK-EU-US-APPROVAL",
+      "version": 3,
+      "headline": "Commerzbank raises expected 2026 net profit to EUR3.5bn as retained takeover story advances",
+      "href": "https://www.reuters.com/business/finance/commerzbank-ceo-raises-2026-profit-outlook-unicredit-takeover-nears-2026-11-20/",
+      "topic": "EUROPE / GERMANY / UNICREDIT / COMMERZBANK / BANKS / M&A / PROFIT GUIDANCE",
+      "cutoff": "2026-11-22T16:19:51+08:00",
+      "published": "2026-11-20",
+      "selected": "2026-11-22T20:00:00+08:00",
+      "reasons": [
+        "Major companies"
+      ],
+      "score": 7
+    },
+    {
+      "id": "R-20261120-SK-HYNIX-KIOXIA-BOND-CONVERSION-STAKE",
+      "version": 1,
+      "headline": "SK Hynix plans an indirect 14.1% Kioxia holding through a December bond conversion",
+      "href": "https://www.reuters.com/world/asia-pacific/sk-hynix-become-top-shareholder-rival-kioxia-after-bond-conversion-2026-11-20/",
+      "topic": "SOUTH KOREA / JAPAN / SK HYNIX / KIOXIA / SEMICONDUCTORS / CORPORATE OWNERSHIP",
+      "cutoff": "2026-11-21T15:50:16+08:00",
+      "published": "2026-11-20",
+      "selected": "2026-11-21T20:00:00+08:00",
+      "reasons": [
+        "Bonds and credit",
+        "Major companies"
+      ],
+      "score": 15
+    },
+    {
+      "id": "R-20261120-CHINA-2BN-USD-SOVEREIGN-ISSUE-UST-FLAT",
+      "version": 1,
+      "headline": "China's US$2bn three-year dollar bond prices flat to comparable Treasuries",
+      "href": "https://www.reuters.com/markets/asia/chinas-2-billion-bond-draws-large-orders-prices-line-with-us-treasuries-2026-11-20/",
+      "topic": "CHINA / USD / SOVEREIGN BONDS / CREDIT / NEW ISSUANCE",
+      "cutoff": "2026-11-21T07:33:39+08:00",
+      "published": "2026-11-20",
+      "selected": "2026-11-21T08:00:00+08:00",
+      "reasons": [
+        "Treasury markets",
+        "Bonds and credit"
+      ],
+      "score": 17
+    },
+    {
+      "id": "R-20261120-ALPHABET-CAD6BN-SENIOR-UNSECURED-BONDS",
+      "version": 1,
+      "headline": "Alphabet prices C$6bn of Canadian bonds; settlement remains scheduled for 24 November",
+      "href": "https://www.reuters.com/business/alphabet-aims-raise-419-billion-canadian-debt-offering-2026-11-20/",
+      "topic": "US / CANADA / ALPHABET / BONDS / AI FUNDING",
+      "cutoff": "2026-11-20T20:22:55+08:00",
+      "published": "2026-11-20",
+      "selected": "2026-11-21T08:00:00+08:00",
+      "reasons": [
+        "Watchlist · GOOGL",
+        "Company financing"
+      ],
+      "score": 16
+    },
+    {
+      "id": "R-20261120-FED-COOK-BESSENT-RATE-DEBATE-AI-FINANCING",
+      "version": 1,
+      "headline": "Cook urges tighter Fed policy and scrutiny of AI financing; Bessent opposes a large hike",
+      "href": "https://www.reuters.com/business/feds-cook-says-rate-hikes-needed-lower-high-inflation-2026-11-20/",
+      "topic": "FED / US RATES / INFLATION / AI / CREDIT",
+      "cutoff": "2026-11-21T04:29:40+08:00",
+      "published": "2026-11-20",
+      "selected": "2026-11-21T08:00:00+08:00",
+      "reasons": [
+        "Fed, SNB or MAS policy"
+      ],
+      "score": 10
+    },
+    {
+      "id": "R-20261120-US-SEC-NVIDIA-ACCOUNTING-INQUIRY",
+      "version": 1,
+      "headline": "Reuters identifies accounting focus in SEC inquiry into Nvidia",
+      "href": "https://www.reuters.com/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/",
+      "topic": "US / NVIDIA / SEC / AI / SINGAPORE / GOVERNANCE",
+      "cutoff": "2026-11-21T04:29:40+08:00",
+      "published": "2026-11-20",
+      "selected": "2026-11-21T08:00:00+08:00",
+      "reasons": [
+        "Watchlist · NVDA"
+      ],
+      "score": 8
+    },
+    {
+      "id": "R-20261120-CHINA-ALIBABA-TENCENT-US-AI-CURBS-CLOUD-OUTLOOK",
+      "version": 1,
+      "headline": "Reuters examines cloud-growth constraints from US chip rules; earlier company remarks remain catch-up context",
+      "href": "https://www.reuters.com/business/retail-consumer/us-ai-chip-curbs-hit-china-tech-stocks-spur-self-sufficiency-push-2026-11-20/",
+      "topic": "CHINA / US / ALIBABA / TENCENT / CLOUD / AI CONTROLS",
+      "cutoff": "2026-11-20T20:22:55+08:00",
+      "published": "2026-11-20",
+      "selected": "2026-11-21T08:00:00+08:00",
+      "reasons": [
+        "Watchlist · BABA"
+      ],
+      "score": 8
+    },
+    {
+      "id": "R-20261119-TSMC-CHINA-ADVANCED-FOUNDRY-EXPORT-CONTROLS",
+      "version": 1,
+      "headline": "Sources say TSMC halts affected advanced Chinese chip orders without US licences",
+      "href": "https://www.reuters.com/world/china/tsmc-tightens-china-ai-chip-curbs-new-us-rules-close-manufacturing-loophole-2026-11-19/",
+      "topic": "TAIWAN / TSMC / CHINA / SEMICONDUCTORS / EXPORT CONTROLS",
+      "cutoff": "2026-11-20T15:41:39+08:00",
+      "published": "2026-11-19",
+      "selected": "2026-11-20T20:00:00+08:00",
+      "reasons": [
+        "Watchlist · TSM"
+      ],
+      "score": 8
+    },
+    {
+      "id": "R-20261119-AMD-HUNTERBROOK-CHINA-FIRMWARE-ALLEGATIONS",
+      "version": 1,
+      "headline": "AMD falls after disputed Hunterbrook allegations about China-linked server firmware",
+      "href": "https://www.reuters.com/world/china/amd-shares-slide-report-says-china-links-could-invite-us-scrutiny-2026-11-19/",
+      "topic": "US / CHINA / SINGAPORE / AMD / SEMICONDUCTORS / EXPORT CONTROLS",
+      "cutoff": "2026-11-20T03:32:31+08:00",
+      "published": "2026-11-19",
+      "selected": "2026-11-20T08:00:00+08:00",
+      "reasons": [
+        "Watchlist · AMD"
+      ],
+      "score": 8
+    },
+    {
+      "id": "R-20261118-BOJ-UEDA-HIKES-JGB-PURCHASES",
+      "version": 2,
+      "headline": "Ueda treats weak third-quarter consumption as temporary while retaining a tightening outlook",
+      "href": "https://www.reuters.com/markets/us/boj-governor-ueda-says-financial-conditions-loose-despite-rate-hikes-2026-11-19/",
+      "topic": "JAPAN / BOJ / CONSUMPTION / JPY / JGB",
+      "cutoff": "2026-11-19T11:52:55+08:00",
+      "published": "2026-11-19",
+      "selected": "2026-11-19T20:00:00+08:00",
+      "reasons": [
+        "Global rates"
+      ],
+      "score": 6
+    },
+    {
+      "id": "R-20261118-FED-OCTOBER-FOMC-MINUTES-HAWKISH-DISSENT",
+      "version": 1,
+      "headline": "New October Fed minutes disclose conditional debate over larger hikes; policy rate unchanged",
+      "href": "https://www.reuters.com/business/fed-policymakers-focused-inflation-risks-october-with-some-seeing-need-bigger-2026-11-18/",
+      "topic": "FED / UST / INFLATION / MONETARY POLICY",
+      "cutoff": "2026-11-19T03:59:46+08:00",
+      "published": "2026-11-18",
+      "selected": "2026-11-19T08:00:00+08:00",
+      "reasons": [
+        "Fed, SNB or MAS policy"
+      ],
+      "score": 10
+    },
+    {
+      "id": "R-20261118-FED-WALLER-AGGRESSIVE-INFLATION-RESPONSE",
+      "version": 1,
+      "headline": "Waller urges a half-point December hike or clearer guidance for faster tightening",
+      "href": "https://www.reuters.com/markets/us/waller-says-cnbc-fed-needs-get-more-aggressive-inflation-response-2026-11-18/",
+      "topic": "US / Fed / central banks / rates / inflation / UST / Waller",
+      "cutoff": "2026-11-19T00:29:53+08:00",
+      "published": "2026-11-18",
+      "selected": "2026-11-19T08:00:00+08:00",
+      "reasons": [
+        "Fed, SNB or MAS policy"
+      ],
+      "score": 10
+    },
+    {
+      "id": "R-20261118-US-TIC-SEPT-FOREIGN-UST-HOLDINGS",
+      "version": 1,
+      "headline": "September foreign Treasury holdings fall to US$9.241tn; custody stocks differ from transaction flows",
+      "href": "https://www.reuters.com/markets/us/foreign-holdings-us-treasuries-dip-sept-china-holdings-hit-2008-low-data-show-2026-11-18/",
+      "topic": "US / CHINA / JAPAN / UST / CAPITAL FLOWS",
+      "cutoff": "2026-11-19T07:40:16+08:00",
+      "published": "2026-11-18",
+      "selected": "2026-11-19T08:00:00+08:00",
+      "reasons": [
+        "Treasury markets"
+      ],
+      "score": 9
+    },
+    {
+      "id": "R-20261118-US-CONGRESS-CHINA-NVDA-MILITARY-AI-CHIPS",
+      "version": 1,
+      "headline": "US-China commission alleges military demand for advanced chips; no new shipment established",
+      "href": "https://www.reuters.com/world/china/china-seeks-advanced-nvidia-chips-ai-weapons-despite-us-curbs-report-says-2026-11-18/",
+      "topic": "US / China / Nvidia / AMD / AI / export controls / geopolitical risk",
+      "cutoff": "2026-11-19T00:29:53+08:00",
+      "published": "2026-11-18",
+      "selected": "2026-11-19T08:00:00+08:00",
+      "reasons": [
+        "Watchlist · NVDA, AMD"
+      ],
+      "score": 8
+    },
+    {
+      "id": "R-20261118-UK-CPI-OCT-2026-36-SERVICES",
+      "version": 2,
+      "headline": "Sterling reaches a one-month low as BoE hike pricing eases to roughly 80%",
+      "href": "https://www.reuters.com/world/uk/sterling-slips-one-month-low-versus-dollar-after-uk-core-inflation-steadies-2026-11-18/",
+      "topic": "UK / BoE / GBP / FX / CPI / rates",
+      "cutoff": "2026-11-19T00:29:53+08:00",
+      "published": "2026-11-18",
+      "selected": "2026-11-19T08:00:00+08:00",
+      "reasons": [
+        "Global rates"
+      ],
+      "score": 6
+    },
+    {
+      "id": "R-20261117-FED-WILLIAMS-GRADUAL-TIGHTENING",
+      "version": 1,
+      "headline": "New York Fed’s Williams favours more tightening but rejects unusually aggressive action",
+      "href": "https://www.reuters.com/business/feds-williams-still-favors-tighter-monetary-policy-says-now-is-not-time-dramatic-2026-11-17/",
+      "topic": "US / FED / RATES / MACRO / UST",
+      "cutoff": "2026-11-18T08:09:42+08:00",
+      "published": "2026-11-17",
+      "selected": "2026-11-18T20:00:00+08:00",
+      "reasons": [
+        "Fed, SNB or MAS policy"
+      ],
+      "score": 10
+    },
+    {
+      "id": "R-20261118-SAMSUNG-NEOCLOUD-MARKET-8PCT-DEBT-RISK",
+      "version": 1,
+      "headline": "Samsung puts neoclouds at about 8% of the AI market; borrower risks remain",
+      "href": "https://www.reuters.com/world/asia-pacific/samsung-electronics-downplays-concerns-about-neocloud-firms-ai-bubble-2026-11-18/",
+      "topic": "SINGAPORE / SOUTH KOREA / SAMSUNG / AI / DATA CENTRES / CREDIT",
+      "cutoff": "2026-11-18T19:54:29+08:00",
+      "published": "2026-11-18",
+      "selected": "2026-11-18T20:00:00+08:00",
+      "reasons": [
+        "Major companies"
+      ],
+      "score": 7
+    },
+    {
+      "id": "R-20261117-UBS-SWISS-CAPITAL-CURBS-REUTERS-EXCLUSIVE",
+      "version": 1,
+      "headline": "Reuters sources say UBS sees little room to soften proposed Swiss capital curbs",
+      "href": "https://www.reuters.com/business/finance/ubs-set-accept-defeat-over-swiss-capital-curbs-sources-say-2026-11-17/",
+      "topic": "SWITZERLAND / UBS / BANK CAPITAL / CREDIT",
+      "cutoff": "2026-11-18T11:54:15+08:00",
+      "published": "2026-11-17",
+      "selected": "2026-11-18T20:00:00+08:00",
+      "reasons": [
+        "Major companies"
+      ],
+      "score": 7
+    },
+    {
+      "id": "R-20261117-FED-MUSALEM-SEVERAL-RATE-HIKES-2027",
+      "version": 1,
+      "headline": "Musalem argues several Fed rate increases may be needed before spring 2027",
+      "href": "https://www.reuters.com/business/feds-musalem-us-likely-needs-several-rate-hikes-by-spring-control-inflation-2026-11-17/",
+      "topic": "US / Federal Reserve / rates / Treasury yields",
+      "cutoff": "2026-11-18T03:52:24+08:00",
+      "published": "2026-11-17",
+      "selected": "2026-11-18T08:00:00+08:00",
+      "reasons": [
+        "Fed, SNB or MAS policy",
+        "Treasury markets"
+      ],
+      "score": 19
+    },
+    {
+      "id": "R-20261117-FED-HAMMACK-TREASURY-MARKET-INTERVENTION-PRINCIPLES",
+      "version": 1,
+      "headline": "Hammack urges advance principles for temporary Treasury-market interventions",
+      "href": "https://www.reuters.com/business/fed-needs-prepare-bond-market-intervention-during-calm-times-hammack-says-2026-11-17/",
+      "topic": "US / FED / Hammack / UST / REPO / FINANCIAL STABILITY",
+      "cutoff": "2026-11-17T23:41:47+08:00",
+      "published": "2026-11-17",
+      "selected": "2026-11-18T08:00:00+08:00",
+      "reasons": [
+        "Fed, SNB or MAS policy",
+        "Treasury markets"
+      ],
+      "score": 19
+    },
+    {
+      "id": "R-20261117-NVDA-NEOCLOUD-HIGH-YIELD-CREDIT-STRESS",
+      "version": 1,
+      "headline": "Reuters analysis highlights historical financing pressure on Nvidia-linked neocloud borrowers",
+      "href": "https://www.reuters.com/business/nvidia-turmoil-marks-end-easy-money-ai-trade-2026-11-17/",
+      "topic": "US / Nvidia / CoreWeave / Nebius / AI / HIGH-YIELD CREDIT",
+      "cutoff": "2026-11-17T23:41:47+08:00",
+      "published": "2026-11-17",
+      "selected": "2026-11-18T08:00:00+08:00",
+      "reasons": [
+        "Watchlist · NVDA"
+      ],
+      "score": 8
+    },
+    {
+      "id": "R-20261117-NVDA-OPTIONS-EARNINGS-IMPLIED-MOVE",
+      "version": 1,
+      "headline": "Nvidia options imply an 8.5% move and roughly US$335bn market-value swing",
+      "href": "https://www.reuters.com/business/nvidia-shares-set-335-billion-swing-after-earnings-options-show-2026-11-17/",
+      "topic": "US / Nvidia / NVDA / OPTIONS / EARNINGS / AI",
+      "cutoff": "2026-11-17T20:17:24+08:00",
+      "published": "2026-11-17",
+      "selected": "2026-11-18T08:00:00+08:00",
+      "reasons": [
+        "Watchlist · NVDA"
+      ],
+      "score": 8
+    },
+    {
+      "id": "R-20261117-USD-19MONTH-HIGH-FEDWATCH-REPRICE",
+      "version": 1,
+      "headline": "Dollar hits a 19-month high even as the odds of a 50bp December Fed hike recede",
+      "href": "https://www.reuters.com/world/africa/us-dollar-hits-19-month-peak-fed-hike-bets-aussie-dips-2026-11-17/",
+      "topic": "US / Fed / FX / USD/CHF / JPY / AUD / rates / policy expectations",
+      "cutoff": "2026-11-17T11:50:26+08:00",
+      "published": "2026-11-17",
+      "selected": "2026-11-17T20:00:00+08:00",
+      "reasons": [
+        "Fed, SNB or MAS policy"
+      ],
+      "score": 10
+    },
+    {
+      "id": "R-20261117-JAPAN-SHORT-FRN-ISSUANCE-DEFERRED",
+      "version": 1,
+      "headline": "Japan delays planned two-year floating-rate government bond launch",
+      "href": "https://www.reuters.com/markets/asia/japan-postpone-launch-new-floating-rate-government-bonds-sources-say-2026-11-17/",
+      "topic": "Japan / MOF / JGB / bonds / duration / BoJ / issuance",
+      "cutoff": "2026-11-17T11:50:26+08:00",
+      "published": "2026-11-17",
+      "selected": "2026-11-17T20:00:00+08:00",
+      "reasons": [
+        "Global rates"
+      ],
+      "score": 6
+    },
+    {
+      "id": "R-20261116-FED-BARR-AI-FINANCIAL-STABILITY",
+      "version": 1,
+      "headline": "Fed governor warns AI agents could amplify bank runs and market disruptions",
+      "href": "https://www.reuters.com/world/feds-barr-warns-ai-risks-financial-system-2026-11-16/",
+      "topic": "US / FED / CENTRAL BANKS / AI / BANKS / FINANCIAL STABILITY / CYBERSECURITY",
+      "cutoff": "2026-11-16T21:05:11+08:00",
+      "published": "2026-11-16",
+      "selected": "2026-11-17T08:00:00+08:00",
+      "reasons": [
+        "Fed, SNB or MAS policy"
+      ],
+      "score": 10
+    },
+    {
+      "id": "R-20261116-MORGAN-STANLEY-GLOBAL-EQUITIES-MAX-OVERWEIGHT",
+      "version": 1,
+      "headline": "Morgan Stanley upgrades global equities to maximum overweight",
+      "href": "https://www.reuters.com/business/morgan-stanley-raises-global-equities-maximum-overweight-cheap-valuations-2026-11-16/",
+      "topic": "GLOBAL / US / JAPAN / EUROPE / EQUITIES / VALUATION / EARNINGS",
+      "cutoff": "2026-11-16T21:05:11+08:00",
+      "published": "2026-11-16",
+      "selected": "2026-11-17T08:00:00+08:00",
+      "reasons": [
+        "Major companies"
+      ],
+      "score": 7
+    },
+    {
+      "id": "R-20261116-MOODYS-GLOBAL-BANKS-2027-OUTLOOK",
+      "version": 1,
+      "headline": "Moodys sees stable 2027 bank credit outlook with refinancing risks",
+      "href": "https://www.reuters.com/business/finance/global-banks-set-enter-2027-strong-footing-moodys-report-says-2026-11-16/",
+      "topic": "Global banks / Moodys / Credit",
+      "cutoff": "2026-11-16T16:41:34+08:00",
+      "published": "2026-11-16",
+      "selected": "2026-11-16T20:00:00+08:00",
+      "reasons": [
+        "Credit stress",
+        "Bonds and credit"
+      ],
+      "score": 20
+    },
+    {
+      "id": "R-20261116-SK-HYNIX-CHIP-SUPPLIER-SUPPORT",
+      "version": 1,
+      "headline": "SK Hynix announces supplier support and shared testing facility",
+      "href": "https://www.reuters.com/world/asia-pacific/sk-hynix-spend-1-billion-over-five-years-support-chip-suppliers-2026-11-16/",
+      "topic": "South Korea / Semiconductors / AI",
+      "cutoff": "2026-11-16T12:16:39+08:00",
+      "published": "2026-11-16",
+      "selected": "2026-11-16T20:00:00+08:00",
+      "reasons": [
+        "Major companies"
+      ],
+      "score": 7
+    },
+    {
+      "id": "R-20261116-BOJ-TAKATA-UEDA-INFLATION-RATES",
+      "version": 1,
+      "headline": "Takata urges earlier tightening; Ueda wage comments released",
+      "href": "https://www.reuters.com/markets/currencies/bojs-takata-calls-swift-hike-rates-good-position-2026-11-16/",
+      "topic": "Japan / BoJ / JPY / Rates",
+      "cutoff": "2026-11-16T16:41:34+08:00",
+      "published": "2026-11-16",
+      "selected": "2026-11-16T20:00:00+08:00",
+      "reasons": [
+        "Global rates"
+      ],
+      "score": 6
+    },
+    {
+      "id": "R-20261115-FED-SCHMID-INFLATION-AI-DEMAND",
+      "version": 1,
+      "headline": "Fed Schmid says inflation remains too high and policy can restrain AI-linked demand",
+      "href": "https://www.reuters.com/world/us/fed-has-some-work-do-inflation-kc-fed-chief-says-2026-11-15/",
+      "topic": "US / Fed / Inflation / AI demand",
+      "cutoff": "2026-11-16T03:46:33+08:00",
+      "published": "2026-11-15",
+      "selected": "2026-11-16T08:00:00+08:00",
+      "reasons": [
+        "Fed, SNB or MAS policy"
+      ],
+      "score": 10
+    },
+    {
+      "id": "R-20261115-ULA-VULCAN-AMAZON-LEO-LAUNCH-FAILURE",
+      "version": 1,
+      "headline": "ULA Vulcan launch failure destroys 40 Amazon Leo satellites",
+      "href": "https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/",
+      "topic": "US / Amazon / Boeing / Lockheed Martin / Space",
+      "cutoff": "2026-11-16T07:50:59+08:00",
+      "published": "2026-11-15",
+      "selected": "2026-11-16T08:00:00+08:00",
+      "reasons": [
+        "Watchlist · AMZN"
+      ],
+      "score": 8
+    },
+    {
+      "id": "R-20261114-FED-COLLINS-GRADUAL-TIGHTENING-PATH",
+      "version": 1,
+      "headline": "Fed's Collins favours gradual hikes and sees a potentially higher rate path",
+      "href": "https://www.reuters.com/business/feds-collins-says-gradual-rate-hikes-best-manage-economic-risks-2026-11-14/",
+      "topic": "US / Fed / UST / Funding",
+      "cutoff": "2026-11-15T04:16:57+08:00",
+      "published": "2026-11-14",
+      "selected": "2026-11-15T08:00:00+08:00",
+      "reasons": [
+        "Fed, SNB or MAS policy"
+      ],
+      "score": 10
+    },
+    {
+      "id": "R-20261114-ITALY-META-ANDROID-PRIVACY-FINE",
+      "version": 1,
+      "headline": "Italy fines Meta EUR805 million over Android gallery access",
+      "href": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
+      "topic": "Italy / Europe / Meta / Regulation",
+      "cutoff": "2026-11-14T23:49:08+08:00",
+      "published": "2026-11-14",
+      "selected": "2026-11-15T08:00:00+08:00",
+      "reasons": [
+        "Watchlist · META"
+      ],
+      "score": 8
+    },
+    {
+      "id": "R-20261111-ALPHABET-SGD-HKD-BOND-PLANS",
+      "version": 1,
+      "headline": "Alphabet explores SGD and HKD borrowing",
+      "href": "https://www.reuters.com/world/china/alphabet-eyes-3-billion-hong-kong-singapore-bond-sale-sources-say-2026-11-11/",
+      "topic": "Singapore / Alphabet / SGD bonds",
+      "cutoff": "2026-11-11T19:46:04+08:00",
+      "published": "2026-11-11",
+      "selected": "2026-11-11T20:00:00+08:00",
+      "reasons": [
+        "Watchlist · GOOGL",
+        "Company financing"
+      ],
+      "score": 16
+    },
+    {
+      "id": "R-20261111-PBOC-Q3-MONETARY-POLICY-REPORT-SUPPORT",
+      "version": 1,
+      "headline": "PBoC reiterates monetary support",
+      "href": "https://www.reuters.com/world/asia-pacific/chinas-central-bank-vows-step-up-policy-support-economy-2026-11-11/",
+      "topic": "China / PBoC / FX",
+      "cutoff": "2026-11-11T19:46:04+08:00",
+      "published": "2026-11-11",
+      "selected": "2026-11-11T20:00:00+08:00",
+      "reasons": [
+        "Global rates"
+      ],
+      "score": 6
+    },
+    {
+      "id": "R-20261103-META-USD15B-BONDS",
+      "version": 2,
+      "headline": "Meta US$15bn bond offering: 2031 and 2033 tranche coupons reviewed",
+      "href": "https://www.reuters.com/technology/meta-raises-15-billion-in-five-part-us-bond-sale-2026-11-03/",
+      "topic": "rates-credit-ai-issuance",
+      "cutoff": "2026-11-04T15:02:33+08:00",
+      "published": "2026-11-03T22:50Z",
+      "selected": "2026-11-04T20:00:00+08:00",
+      "reasons": [
+        "Watchlist · META",
+        "Company financing"
+      ],
+      "score": 16
+    },
+    {
+      "id": "R-20261104-UOB-Q3-NIM-OUTLOOK",
+      "version": 1,
+      "headline": "UOB lowers full-year margin forecast after Q3 profit misses estimates",
+      "href": "https://www.reuters.com/world/asia-pacific/singapore-bank-uob-third-quarter-net-profit-more-than-doubles-year-2026-11-03/",
+      "topic": "Singapore banks / net interest margin",
+      "cutoff": "2026-11-04T17:13:54+08:00",
+      "published": "2026-11-03T23:08Z",
+      "selected": "2026-11-04T20:00:00+08:00",
+      "reasons": [
+        "Watchlist · U11.SI"
+      ],
+      "score": 8
+    },
+    {
+      "id": "R-20261104-GOOGLE-VOLUNTARY-BUYOUTS",
+      "version": 1,
+      "headline": "Google confirms June expansion of voluntary exit offers across five countries",
+      "href": "https://www.reuters.com/business/media-telecom/google-extends-voluntary-buyout-offers-employees-several-countries-2026-11-04/",
+      "topic": "Technology / staffing and AI capex",
+      "cutoff": "2026-11-04T17:13:54+08:00",
+      "published": "2026-11-04T08:32Z",
+      "selected": "2026-11-04T20:00:00+08:00",
+      "reasons": [
+        "Watchlist · GOOGL"
+      ],
+      "score": 8
+    },
+    {
+      "id": "R-20261104-ORACLE-TENCENT-LEASE-REPORT",
+      "version": 1,
+      "headline": "Reuters relays unconfirmed FT report of Oracle–Tencent US$7bn AI deal cancellation",
+      "href": "https://www.reuters.com/world/china/oracle-abandons-7-billion-tencent-ai-deal-under-trump-pressure-ft-reports-2026-11-04/",
+      "topic": "equities-ai-china-trade-restrictions",
+      "cutoff": "2026-11-04T15:02:33+08:00",
+      "published": "2026-11-04T05:21Z",
+      "selected": "2026-11-04T20:00:00+08:00",
+      "reasons": [
+        "Major companies"
+      ],
+      "score": 7
+    },
+    {
+      "id": "R-20261103-SKHYNIX-SOLIDIGM-LICENCES",
+      "version": 1,
+      "headline": "SK Hynix US chip expansion faces China export-licence obstacle",
+      "href": "https://www.reuters.com/world/china/sk-hynixs-new-york-chip-plans-hit-snag-over-us-restrictions-china-sources-say-2026-11-03/",
+      "topic": "equities_and_ai, trade_restrictions",
+      "cutoff": "2026-11-03T19:26:27Z",
+      "published": "2026-11-03T18:50Z",
+      "selected": "2026-11-04T08:00:00+08:00",
+      "reasons": [
+        "Major companies"
+      ],
+      "score": 7
+    },
+    {
+      "id": "R-20261103-ECB-NAGEL-DEC-HIKE",
+      "version": 1,
+      "headline": "Bundesbank Nagel backs likely December ECB rate hike",
+      "href": "https://www.reuters.com/business/bundesbanks-nagel-joins-ecb-chorus-backing-december-rate-hike-2026-11-03/",
+      "topic": "central_banks, rates, fx",
+      "cutoff": "2026-11-03T19:26:27Z",
+      "published": "2026-11-03T18:01Z",
+      "selected": "2026-11-04T08:00:00+08:00",
+      "reasons": [
+        "Global rates"
+      ],
+      "score": 6
+    }
+  ]
+}
