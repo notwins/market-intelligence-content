@@ -2,13 +2,161 @@
   "schema_version": 1,
   "source_name": "Reuters Hourly News",
   "source_url": null,
-  "publisher_checked_at": "2026-11-26T16:09:44+08:00",
+  "publisher_checked_at": "2026-11-26T21:26:58+08:00",
   "last_complete_cutoff": null,
   "source_schedule": {
     "status": "Active",
     "checked_at": "2026-11-03T18:21:21+08:00"
   },
   "editions": [
+    {
+      "id": "reuters-20261126T194052-SGT",
+      "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+      "report_at": "2026-11-26T19:42:58+08:00",
+      "cutoff": "2026-11-26T19:40:52+08:00",
+      "window_start": "2026-11-26T15:49:49+08:00",
+      "coverage": "partial",
+      "summary": "UK bank capital proposals, bearish SGD positioning, Norse Atlantic liquidity stress, Zodia’s data breach and proposed Adani bonds. Five reviewed catch-up previews; four disconnected follow-ups remain held. Earlier coverage gaps persist. Full detailed publication remains held.",
+      "limitations": [
+        "Partial targeted source report for 26 November 15:49:49–19:40:52 SGT. Primary window 18:40:52–19:40:52; discovery overlap starts at 15:25:52. Earlier gaps remain unresolved and no complete-scan cutoff is advanced.",
+        "Five reviewed metadata previews are included, all retaining the producer’s catch-up labels. They are previews only. Full detail remains held because the approved process lacks an hourly channel, exact-cutoff immutable identities and discoverable full-edition reader/card/search links.",
+        "Four disconnected follow-ups remain held with unchanged source identities and versions: Nvidia v10 requires v9; India flows/rates v6 requires v5; global AI/equities v29 requires v28; oil v7 requires v6. No missing predecessor history has been recovered.",
+        "Original publication dates were corroborated in Reuters-attributed syndication. Exact original publication minutes and revision timestamps were not independently established; date-only precision is retained. Explicit market observation times are separate from article publication.",
+        "The Norse source dashboard’s Thursday share-price rebound was not independently corroborated and is omitted. Wednesday’s 85% decline is dated separately. No insolvency filing or loss of Zodia custody assets is established.",
+        "The complete original report JSON was downloaded and checksum verified. Original research, source register, portable source SVG/chart data and the private source-to-output checklist are retained. Native dashboard visuals are not all portable; no full-output completeness or desktop/mobile visual approval is asserted.",
+        "Existing hourly history and eight published research records were reviewed for overlap. Fresh daily producer chats and exhaustive older source-side archives were not checked; no earlier coverage gap is implied to be filled."
+      ],
+      "original_url": null,
+      "sources": [
+        {
+          "url": "https://www.reuters.com/business/finance/bank-england-cut-capital-requirements-uk-focused-lenders-2026-11-26/",
+          "title": "Bank of England to cut capital requirements for UK-focused lenders",
+          "published_at": null,
+          "published_date": "2026-11-26",
+          "publication_precision": "date",
+          "updated_at": null,
+          "verification_url": "https://uk.marketscreener.com/news/bank-of-england-to-cut-capital-requirements-for-uk-focused-lenders-ce7851d8de80f226"
+        },
+        {
+          "url": "https://www.reuters.com/world/china/indian-rupee-bulls-return-after-18-months-rupiah-bears-tighten-grip-2026-11-26/",
+          "title": "Indian rupee bulls return after 18 months, rupiah bears tighten grip",
+          "published_at": null,
+          "published_date": "2026-11-26",
+          "publication_precision": "date",
+          "updated_at": null,
+          "verification_url": "https://in.marketscreener.com/news/indian-rupee-bulls-return-after-18-months-rupiah-bears-tighten-grip-ce7851d8de89f62c"
+        },
+        {
+          "url": "https://www.reuters.com/business/aerospace-defense/airline-norse-atlantic-suspends-flights-warns-possible-bankruptcy-2026-11-26/",
+          "title": "Airline Norse Atlantic flags bankruptcy risk as flights suspended",
+          "published_at": null,
+          "published_date": "2026-11-26",
+          "publication_precision": "date",
+          "updated_at": null,
+          "verification_url": "https://live.euronext.com/en/financial-news/airline-norse-atlantic-flags-bankruptcy-risk-flights-suspended"
+        },
+        {
+          "url": "https://www.reuters.com/business/finance/stancharts-crypto-unit-zodia-custody-suffers-security-breach-client-data-exposed-2026-11-26/",
+          "title": "StanChart’s crypto unit Zodia Custody suffers security breach, client data exposed",
+          "published_at": null,
+          "published_date": "2026-11-26",
+          "publication_precision": "date",
+          "updated_at": null,
+          "verification_url": "https://www.marketscreener.com/news/stanchart-s-crypto-unit-zodia-custody-suffers-security-breach-client-data-exposed-ce7851d8de80ff27"
+        },
+        {
+          "url": "https://www.reuters.com/world/india/indias-adani-flagship-unit-eyes-december-public-bond-sale-bankers-say-2026-11-26/",
+          "title": "India's Adani flagship unit eyes December public bond sale, bankers say",
+          "published_at": null,
+          "published_date": "2026-11-26",
+          "publication_precision": "date",
+          "updated_at": null,
+          "verification_url": "https://ae.marketscreener.com/news/india-s-adani-flagship-unit-eyes-december-public-bond-sale-bankers-say-ce7851d8dc8ef121"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261126-BOE-UK-BANK-CAPITAL-REQUIREMENTS",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "UK / BANK OF ENGLAND / PRA / BANKS / REGULATORY CAPITAL / CREDIT",
+          "headline": "Bank of England proposes lower capital requirements for UK-focused lenders",
+          "body": "Reuters reported proposed capital requirement reductions of 60 basis points for the largest domestically focused lenders and 30 basis points for major UK banks in aggregate. The wider capital-framework work implies a 50bp reduction and about £175 billion of potential lending capacity. These scopes overlap and should not be added together. The PRA will consult on Pillar 2A changes. The figures concern regulatory capital and estimated capacity, rather than a policy-rate cut or lending already delivered. No isolated market reaction was verified.",
+          "analysis": "Capital relief may expand lending capacity; implementation and borrower demand determine actual credit growth.",
+          "watch_next": "PRA consultation, final rules and individual bank capital plans.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/finance/bank-england-cut-capital-requirements-uk-focused-lenders-2026-11-26/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261126-ASIA-FX-POSITIONING-SGD-SHORT",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "SINGAPORE / MAS / SGD / INDIA / INR / INDONESIA / IDR / FX POSITIONING",
+          "headline": "Reuters survey turns bearish on SGD while INR sentiment improves",
+          "body": "A fortnightly Reuters poll of 11 respondents found bearish Singapore-dollar positioning for the first time in four months and bullish Indian-rupee positioning for the first time in 18 months. Indonesian-rupiah pessimism was the strongest since early July. The article recorded USD/IDR at 18,395 at 07:00 GMT on 26 November, or 15:00 SGT, a historical observation. It supplied no verified SGD spot quote. Survey positioning estimates are neither executed currency flows nor a change to MAS policy.",
+          "analysis": "Positioning can flag vulnerability, but actual currency prices and financing terms require separate assessment.",
+          "watch_next": "Subsequent surveys, executable USD/SGD and CHF/SGD rates, and MAS guidance.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/china/indian-rupee-bulls-return-after-18-months-rupiah-bears-tighten-grip-2026-11-26/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261126-NORSE-ATLANTIC-LIQUIDITY",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "NORWAY / NORSE ATLANTIC / AIRLINES / CREDIT / LIQUIDITY / ENERGY",
+          "headline": "Norse Atlantic suspends flights and gives a conditional bankruptcy warning",
+          "body": "Reuters reported that Norse Atlantic suspended flights on Thursday, 26 November, while seeking emergency financing. Its board intended to file for bankruptcy if urgent short-term funding could not be secured; a filing was not confirmed in the reviewed report. The carrier was discussing financing and a possible takeover without assurance of success. Wednesday’s funding warning had sent its shares down 85%. The source dashboard’s later Thursday rebound is omitted because that observation was not independently corroborated.",
+          "analysis": "Distressed share-price rebounds do not establish solvency. Flight suspension and funding availability are separate from a formal insolvency filing.",
+          "watch_next": "Emergency funding, takeover developments and any confirmed court filing.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/aerospace-defense/airline-norse-atlantic-suspends-flights-warns-possible-bankruptcy-2026-11-26/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261126-STANCHART-ZODIA-DATA-BREACH",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "UK / HONG KONG / STANDARD CHARTERED / STAN / ZODIA CUSTODY / CYBERSECURITY / DIGITAL ASSETS",
+          "headline": "Standard Chartered’s Zodia Custody reports a cybersecurity breach",
+          "body": "Standard Chartered bank’s Zodia Custody chief executive told Reuters that a security breach detected on Monday exposed some client and employee information, including names and email addresses. This preview contains no affected individuals’ details. Standard Chartered shares were reported up 2.6% on the day, without an exact quote time or an isolated breach-related reaction. The reviewed source did not establish a loss of custody assets.",
+          "analysis": "Data protection and operational resilience create risks distinct from the price of the assets held in custody.",
+          "watch_next": "Incident scope, customer notifications and remediation.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/finance/stancharts-crypto-unit-zodia-custody-suffers-security-breach-client-data-exposed-2026-11-26/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261126-ADANI-ENTERPRISES-PUBLIC-BOND-SALE",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "INDIA / ADANI ENTERPRISES / CORPORATE CREDIT / BONDS / PROPOSED ISSUANCE",
+          "headline": "Adani Enterprises considers a December public bond offering",
+          "body": "Reuters cited bankers saying Adani Enterprises was preparing a possible INR10–20 billion public bond issue, equivalent to US$108.5–217 million in the report. It could launch in the first half of December. Two-to-five-year maturities and longer bonds were being considered, with coupons and final terms unconfirmed. This describes proposed financing rather than completed borrowing, funds received or an established issuance yield. No attributable market move was verified.",
+          "analysis": "Market access matters for funding flexibility; final documents and pricing determine the actual cost and terms.",
+          "watch_next": "Final offer documents, coupon, issue price and subscription results.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/india/indias-adani-flagship-unit-eyes-december-public-bond-sale-bankers-say-2026-11-26/"
+          ],
+          "development_at": null
+        }
+      ]
+    },
     {
       "id": "reuters-20261126T154949-SGT",
       "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
