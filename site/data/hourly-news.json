@@ -2,13 +2,131 @@
   "schema_version": 1,
   "source_name": "Reuters Hourly News",
   "source_url": null,
-  "publisher_checked_at": "2026-11-27T01:24:11+08:00",
+  "publisher_checked_at": "2026-11-27T04:24:09+08:00",
   "last_complete_cutoff": null,
   "source_schedule": {
     "status": "Active",
     "checked_at": "2026-11-03T18:21:21+08:00"
   },
   "editions": [
+    {
+      "id": "reuters-20261127T040520-SGT",
+      "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+      "report_at": "2026-11-27T04:07:06+08:00",
+      "cutoff": "2026-11-27T04:05:20+08:00",
+      "window_start": "2026-11-27T00:05+08:00",
+      "coverage": "partial",
+      "summary": "ECB leadership selection, Altria’s potential Imperial cash offer and Kazakhstan–Russia AI cooperation. Three reviewed previews; five disconnected follow-ups held. Partial coverage and earlier gaps persist. Full detailed report remains held.",
+      "limitations": [
+        "Partial targeted source report with cutoff 27 November 2026 04:05:20 SGT and completion 04:07:06 SGT. Its visible window start is reported only to the minute as 00:05 SGT; primary window 03:05–04:05, with discovery overlap from 26 November 23:50. No exact start seconds are inferred.",
+        "Three reviewed metadata previews: two new events and one connected follow-up. All retain the producer’s catch-up label. Earlier coverage gaps remain and the complete-scan cutoff is not advanced.",
+        "Five source follow-ups are held because their immediate predecessors are absent: ECB guidance v2 needs v1, oil v9 needs v8, CHF v3 needs v2, tariffs v7 needs v6, and Brazil household credit v2 needs v1. The ECB leadership item reuses the retained leadership-event ID rather than creating a duplicate.",
+        "Material preview claims were corroborated in accessible Reuters-attributed syndication text. Original publication was independently established only to the date; displayed updates are not substituted for original publication times. No isolated market reaction is inferred.",
+        "Metadata cards are previews only. The complete detailed report remains held: the approved full-report process lacks an hourly channel, immutable time-aware identity and exact full-edition reader links. The original generated research text, source register and available chart/SVG data are retained privately.",
+        "The source lists an immutable JSON attachment, but this run could not retrieve or checksum-verify it because the signed-in browser could not attach. Missing visual values and full desktop/mobile presentation review also remain unresolved; the extract is not represented as a full report.",
+        "All retained hourly stories and published research records were checked for overlap. Fresh daily producer chats and exhaustive earlier source-side archives were not read. No source schedule state was freshly verified."
+      ],
+      "original_url": null,
+      "sources": [
+        {
+          "url": "https://www.reuters.com/world/europe/spains-de-cos-set-be-nominated-by-eu-leaders-new-head-ecb-2026-11-26/",
+          "title": "Spain’s De Cos to take over as ECB president from Lagarde",
+          "published_at": null,
+          "published_date": "2026-11-26",
+          "publication_precision": "date",
+          "updated_at": null,
+          "verification_url": "https://live.euronext.com/en/financial-news/spains-cos-take-over-ecb-president-lagarde"
+        },
+        {
+          "url": "https://www.reuters.com/world/uk/uks-imperial-brands-says-altria-weighs-possible-offer-2026-11-26/",
+          "title": "UK’s Imperial Brands says Altria weighs possible offer",
+          "published_at": null,
+          "published_date": "2026-11-26",
+          "publication_precision": "date",
+          "updated_at": null,
+          "verification_url": "https://sa.marketscreener.com/news/uk-s-imperial-brands-says-altria-weighs-possible-offer-ce7851d9d980f025"
+        },
+        {
+          "url": "https://www.reuters.com/markets/europe/japan-tobacco-explores-potential-deal-uks-imperial-brands-bloomberg-news-reports-2026-11-26/",
+          "title": "US Marlboro maker Altria explores Imperial cash bid, possible carve-up",
+          "published_at": null,
+          "published_date": "2026-11-26",
+          "publication_precision": "date",
+          "updated_at": null,
+          "verification_url": "https://in.marketscreener.com/quote/stock/ALTRIA-GROUP-INC-4837/news/US-Marlboro-maker-Altria-explores-Imperial-cash-bid-possible-carve-up-13539660/"
+        },
+        {
+          "url": "https://www.reuters.com/business/finance/european-stocks-rally-tech-banks-rebound-tariff-fears-ease-2026-11-26/",
+          "title": "European stocks end higher on easing tariff fears, ECB leadership continuity",
+          "published_at": null,
+          "published_date": "2026-11-26",
+          "publication_precision": "date",
+          "updated_at": null,
+          "verification_url": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-end-higher-easing-174244569.html"
+        },
+        {
+          "url": "https://www.reuters.com/business/finance/kazakhstan-boosts-ai-cooperation-with-russia-which-is-hungry-advanced-us-chips-2026-11-26/",
+          "title": "Kazakhstan boosts AI cooperation with Russia, which is hungry for advanced US chips",
+          "published_at": null,
+          "published_date": "2026-11-26",
+          "publication_precision": "date",
+          "updated_at": null,
+          "verification_url": "https://malaysia.news.yahoo.com/kazakhstan-boosts-ai-cooperation-russia-184835193.html"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261120-ECB-BOARD-FR-DE-ES-NOMINATIONS",
+          "version": 3,
+          "status": "follow-up",
+          "freshness": "catch-up",
+          "topic": "EURO AREA / ECB / SPAIN / FRANCE / GERMANY / EUR / POLICY",
+          "headline": "Euro-area countries select De Cos to succeed Lagarde at the ECB",
+          "body": "Reuters reported that euro-area countries selected Pablo Hernández de Cos to succeed Christine Lagarde as European Central Bank president. They also nominated Laurence Boone and Markus Brunnermeier for the executive board, with market operations and chief economist roles expected respectively. The candidates still face a confirmation process, with a final decision expected at the December summit. Political selection is distinct from completed formal appointment and from an interest-rate decision.",
+          "analysis": "Leadership continuity is an expectation; the ECB’s collective decision process and inflation outlook still govern monetary policy.",
+          "watch_next": "The December confirmation process and monetary-policy decision.",
+          "earlier": "Retained v1 covered prospective French, German and Spanish appointments; v2 added Dutch backing and the expected nomination process. This v3 adds political selection and the two board nominations. The producer’s De Cos alias v2 maps to this established leadership event’s v3; earlier versions remain intact.",
+          "source_urls": [
+            "https://www.reuters.com/world/europe/spains-de-cos-set-be-nominated-by-eu-leaders-new-head-ecb-2026-11-26/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261126-ALTRIA-IMPERIAL-POSSIBLE-CASH-BID",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "US / UK / ALTRIA / MO / IMPERIAL BRANDS / IMB / MERGERS AND ACQUISITIONS",
+          "headline": "Altria considers a possible cash offer for Imperial Brands",
+          "body": "Reuters reported that Altria was considering a possible all-cash offer for Imperial Brands and discussing a potential transaction involving part of Imperial’s business with another party. Imperial said it had received no approach or proposal. Reuters’s European closing report put Imperial’s session gain at 13.3%; that closing return is separate from its larger intraday rise and is not an offer price. Under UK takeover rules, Altria’s stated deadline to announce a firm offer or withdraw is 24 December 2026, subject to applicable extensions. No completed acquisition or confirmed financing was established.",
+          "analysis": "A potential acquisition raises leverage and capital-allocation questions, but its terms and funding remain unconfirmed.",
+          "watch_next": "A formal proposal, financing terms and the 24 December deadline.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/uk/uks-imperial-brands-says-altria-weighs-possible-offer-2026-11-26/",
+            "https://www.reuters.com/markets/europe/japan-tobacco-explores-potential-deal-uks-imperial-brands-bloomberg-news-reports-2026-11-26/",
+            "https://www.reuters.com/business/finance/european-stocks-rally-tech-banks-rebound-tariff-fears-ease-2026-11-26/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261126-KAZAKHSTAN-RUSSIA-AI-COOPERATION",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "KAZAKHSTAN / RUSSIA / ARTIFICIAL INTELLIGENCE / NVIDIA / NVDA / EXPORT CONTROLS",
+          "headline": "Kazakhstan advances AI cooperation with Russia",
+          "body": "Reuters reported that Kazakhstan’s President Kassym-Jomart Tokayev welcomed Russian technology companies at an AI conference in Moscow. The report connected this cooperation with Kazakhstan’s earlier AI plans and a previously announced Nvidia chip order. Freedom Holding’s US$2 billion Sovereign AI Hub plan dates to October; it is background rather than new investment committed during this report window. The reporting does not establish a new shipment, completed transaction or sanctions breach.",
+          "analysis": "Cross-border infrastructure plans warrant attention to export permissions, counterparties and actual project delivery.",
+          "watch_next": "Verified export permissions, company confirmations and project milestones.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/finance/kazakhstan-boosts-ai-cooperation-with-russia-which-is-hungry-advanced-us-chips-2026-11-26/"
+          ],
+          "development_at": null
+        }
+      ]
+    },
     {
       "id": "reuters-20261127T000526-SGT",
       "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
