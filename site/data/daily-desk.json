@@ -1,0 +1,386 @@
+{
+  "schema_version": 1,
+  "editions": [
+    {
+      "date": "2026-11-26",
+      "cutoff": "2026-11-26T15:05:55+08:00",
+      "reports": {
+        "news": {
+          "summary": "Singapore will challenge the proposed US tariff during the consultation. Taiwan shares recovered part of Wednesday’s fall, while the latest US close showed weaker tech shares and a modest gain for the Dow.",
+          "coverage": "Through 15:05 SGT. The consortium announcement at 18:00 EET on Wednesday fell at Singapore midnight. US regular-session closing observations fell at 05:00 SGT Thursday. The TAIEX figure is Thursday’s Taiwan close.",
+          "happened": [
+            "Singapore’s trade ministry said it would ask USTR to reconsider a proposed tariff of up to 20%, net of existing Section 301 duties and subject to exemptions. The ministry cited a US bilateral trade surplus of US$33bn in 2025.",
+            "An Eldridge-led consortium announced an agreement to acquire Lukoil International. The group said the upstream portfolio produces about 350,000 barrels of oil equivalent a day. The deal requires US sanctions approval, due diligence and other closing conditions.",
+            "Taiwan’s TAIEX closed at 39,151.81, up 956.38 points from 38,195.43. Thursday’s gain recovered roughly half of Wednesday’s 1,926.92-point loss.",
+            "At the Wednesday New York close, Nvidia fell 3.91% to US$149.30. The Nasdaq Composite fell 0.62% to 23,585.80 and the S&P 500 fell 0.25% to 7,182.78. The Dow rose 0.33% to 50,182.95."
+          ],
+          "key_points": [
+            "The US proposal leaves room for a 10% rate if the US and Singapore reach qualifying terms. The consultation matters for both the rate and the goods covered.",
+            "Current output from Lukoil’s portfolio measures the size of the assets. The announcement establishes a conditional agreement, with ownership transfer still pending."
+          ],
+          "watch": [
+            "Look for Singapore’s formal submission and any revisions to the US product exemptions or rate.",
+            "Watch for the US Treasury’s sanctions decision on the Lukoil deal and the consortium’s closing notice."
+          ],
+          "sources": [
+            {
+              "title": "Singapore METI · 26 November response and full statement",
+              "url": "https://www.meti.gov.sg/newsroom/meti-media-statement-on-the-office-of-the-united-states-trade-representative--ustr--s-findings-and-proposed-actions-in-section-301-investigation-into-structural-excess-capacity/"
+            },
+            {
+              "title": "USTR · 25 November proposed actions and country terms",
+              "url": "https://www.ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural"
+            },
+            {
+              "title": "Reuters via MarketScreener · Singapore response, 26 November SGT",
+              "url": "https://ca.marketscreener.com/news/singapore-very-disappointed-over-new-tariffs-urges-us-to-reconsider--ce7851d8dc8dff25"
+            },
+            {
+              "title": "Eldridge-led consortium via Business Wire · agreement and conditions",
+              "url": "https://www.sttinfo.fi/tiedote/72538179/american-led-consortium-announces-agreement-to-acquire-lukoil-internationals-global-energy-portfolio?lang=en&publisherId=58763726"
+            },
+            {
+              "title": "Taiwan Stock Exchange · daily November index observations",
+              "url": "https://www.twse.com.tw/rwd/en/afterTrading/FMTQIK?date=20261126&response=json"
+            },
+            {
+              "title": "Associated Press · 25 November US market close",
+              "url": "https://apnews.com/article/94fdb0ecb060ec65c0b02879ce0d2d09"
+            },
+            {
+              "title": "Yahoo Finance · dated Nvidia closes",
+              "url": "https://query1.finance.yahoo.com/v8/finance/chart/NVDA?interval=1d&period1=1795478400&period2=1795651200"
+            },
+            {
+              "title": "Yahoo Finance · dated Nasdaq Composite closes",
+              "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EIXIC?interval=1d&period1=1795478400&period2=1795651200"
+            },
+            {
+              "title": "Yahoo Finance · dated S&P 500 closes",
+              "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EGSPC?interval=1d&period1=1795478400&period2=1795651200"
+            },
+            {
+              "title": "Yahoo Finance · dated Dow Jones Industrial Average closes",
+              "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EDJI?interval=1d&period1=1795478400&period2=1795651200"
+            }
+          ]
+        },
+        "bonds": {
+          "summary": "S&P placed Nvidia on negative watch over governance concerns. In the Treasury market, seven-year notes sold at 4.708% and benchmark yields fell across the two- to thirty-year maturities.",
+          "coverage": "The auction and par curve are dated 25 November in the US and became available on 26 November in Singapore. The Nvidia action was checked against Reuters reporting. The latest verified ICE figures were for 24 November, before the rating news.",
+          "happened": [
+            "Reuters reported that S&P put Nvidia’s AA credit rating on CreditWatch Negative after the CEO’s departure and return raised questions about board oversight. The review was open at cutoff.",
+            "The US Treasury offered US$44bn of seven-year notes. The high yield was 4.708%, the coupon 4.625%, and bids totaled 2.43 times the amount awarded. The notes mature on 30 November 2033.",
+            "On the 25 November US par curve, the two-year yield fell 2 bp to 4.61%, the five-year fell 4 bp to 4.65%, the ten-year fell 6 bp to 4.85%, and the thirty-year fell 6 bp to 5.24%."
+          ],
+          "key_points": [
+            "A negative watch raises the possibility of a downgrade. Nvidia still carried an AA rating in the report.",
+            "The ten-year yield fell more than the two-year yield. The difference narrowed from 28 bp to 24 bp over the US session."
+          ],
+          "watch": [
+            "Follow S&P’s resolution of the watch and any Nvidia board changes it cites.",
+            "Compare the next ICE US high-yield and investment-grade observations with their 24 November levels of 372 bp and 98 bp."
+          ],
+          "sources": [
+            {
+              "title": "Reuters via StreetInsider · S&P rating action and existing AA rating",
+              "url": "https://new.streetinsider.com/Reuters/S%26P%2BGlobal%2Bplaces%2BNvidia%2Brating%2Bon%2BCreditWatch%2BNegative%2Bon%2Brising%2Bmanagement%2Band%2Bgovernance%2Brisks/27400553.html"
+            },
+            {
+              "title": "US Treasury · competitive seven-year auction result, 25 November",
+              "url": "https://www.treasurydirect.gov/instit/annceresult/press/preanre/2026/R_20261125_3.pdf"
+            },
+            {
+              "title": "US Treasury · daily par yields, November 2026",
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202611&type=daily_treasury_yield_curve"
+            },
+            {
+              "title": "ICE BofA US Corporate Index OAS via FRED",
+              "url": "https://fred.stlouisfed.org/series/BAMLC0A0CM"
+            },
+            {
+              "title": "ICE BofA US High Yield Index OAS via FRED",
+              "url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2"
+            }
+          ]
+        },
+        "earnings": {
+          "summary": "Fisher & Paykel Healthcare raised full-year guidance after a strong half in hospital care. Insurer Tower reported lower annual profit as large-event costs rose from the previous year.",
+          "coverage": "Both NZX releases appeared at 08:30 NZDT, or 03:30 SGT, on 26 November. Both periods ended 30 September. Fisher & Paykel Healthcare reported six months and Tower reported twelve. Currency is NZD.",
+          "happened": [
+            "Fisher & Paykel Healthcare reported first-half operating revenue of NZ$1.25bn, up 15%, and net profit of NZ$291.4m, up 37%. Hospital revenue rose 22% to NZ$841.5m, while homecare revenue grew 4%.",
+            "The company raised fiscal 2027 net profit guidance from NZ$525m–565m to NZ$565m–605m. Its interim dividend increased from 19 to 26 New Zealand cents per share.",
+            "Tower reported full-year profit of NZ$52m versus NZ$83.7m a year earlier. Gross written premiums rose 3% to NZ$620m. Five large events cost NZ$23.9m, compared with NZ$7.2m in the prior year."
+          ],
+          "key_points": [
+            "A NZ$23m US tariff refund helped lift Fisher & Paykel Healthcare’s gross margin to 66.4%. The company put margin excluding that refund at 64.6%.",
+            "Tower’s 10-cent final dividend comprises 6 ordinary cents and 4 special cents. Including the interim payout, the year’s dividends total 15 cents per share."
+          ],
+          "watch": [
+            "Compare Fisher & Paykel Healthcare’s second-half hospital sales and margin with its upgraded full-year guidance.",
+            "Track Tower’s large-event costs against its NZ$50m fiscal 2027 allowance when assessing the NZ$60m–70m underlying profit guidance."
+          ],
+          "sources": [
+            {
+              "title": "Fisher & Paykel Healthcare via NZX · FY2027 first-half results and guidance",
+              "url": "https://announcements.nzx.com/announcement/484444"
+            },
+            {
+              "title": "Tower via NZX · FY2026 results and dividends",
+              "url": "https://announcements.nzx.com/announcement/484447"
+            }
+          ]
+        },
+        "economy": {
+          "summary": "Korea tightened policy as it raised growth forecasts and expected inflation to stay above target. The Fed’s regional contacts reported US growth in eight districts alongside little improvement in consumer spending.",
+          "coverage": "Korean figures use the 26 November policy decision. The Fed released the Beige Book at 14:00 EST on 25 November, or 03:00 SGT Thursday. District reports are qualitative.",
+          "happened": [
+            "The Bank of Korea voted 5–2 to raise its base rate by 25 bp to 3.25%. The two dissenting members preferred 3.00%.",
+            "The bank projects GDP growth of 3.9% in 2026 and 4.1% in 2027, up from 3.3% and 2.9% in August. It cited exports and semiconductor investment. Its 2027 headline inflation forecast rose from 2.3% to 2.4%.",
+            "The Fed’s November Beige Book reported slight to moderate growth in eight districts and little change in four. Contacts described flat overall consumer spending, softer housing activity and modest manufacturing growth."
+          ],
+          "key_points": [
+            "The Korean forecasts assume that strength in semiconductors supports the domestic economy. How far that income reaches households remains an uncertainty in the bank’s outlook.",
+            "The Beige Book draws on contacts through 16 November. Its regional descriptions cover a later period than Wednesday’s US third-quarter GDP estimate and use a different method."
+          ],
+          "watch": [
+            "Track Korean core inflation against the bank’s 2.6% forecast for 2027 and watch for stronger household consumption.",
+            "Compare upcoming US spending and housing releases with the uneven conditions regional Fed contacts described."
+          ],
+          "sources": [
+            {
+              "title": "Bank of Korea · monetary policy decision and November projections",
+              "url": "https://www.bok.or.kr/eng/bbs/E0000634/view.do?nttId=11067086&menuNo=400423"
+            },
+            {
+              "title": "Federal Reserve · national summary and district evidence",
+              "url": "https://www.federalreserve.gov/monetarypolicy/files/BeigeBook_20261125.pdf"
+            },
+            {
+              "title": "Federal Reserve · November publication calendar",
+              "url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-11-25",
+      "cutoff": "2026-11-25T23:59:59+08:00",
+      "reports": {
+        "news": {
+          "summary": "USTR proposed tariffs on goods from 14 economies, including Singapore. The announcement followed a 4.80% fall in Taiwan’s TAIEX earlier in the Singapore day.",
+          "coverage": "Full Wednesday Singapore window. Reconstructed from the 16:38 edition and verified evening releases. AP reported the announced tariff proposals at 21:11 SGT. The completed US market observations are Tuesday’s New York close.",
+          "happened": [
+            "The TAIEX closed at 38,195.43, down 1,926.92 points from Tuesday’s 40,122.35. It remained above Monday’s 36,811.89.",
+            "At the 24 November New York close, Nvidia was US$155.38, down 5.86%. The Nasdaq Composite fell 1.48% to 23,733.54 and the S&P 500 fell 0.50% to 7,201.09. The Dow rose 0.85% to 50,018.70.",
+            "After AP reported that findings were imminent, USTR issued determinations on 14 of the 16 economies it investigated. For Singapore, it proposed tariffs up to 20%, net of existing Section 301 tariffs and with some exemptions. USTR deferred determinations on Mexico and Norway."
+          ],
+          "key_points": [
+            "Wednesday’s Taiwan close captures the full session. Earlier readings in Asia market coverage were intraday moves.",
+            "The US index divergence matters for a tech-heavy watchlist. The Dow finished higher on the same day the Nasdaq fell. Dell reported after that US cash session.",
+            "USTR described a possible 10% rate for Singapore if qualifying negotiations succeed. The rates were proposals at the end of Wednesday."
+          ],
+          "watch": [
+            "Track consultation submissions, product exemptions and any final US notice setting duties or effective dates.",
+            "At the next US close, compare Nvidia and the Nasdaq with the broader S&P 500 to see whether the weakness spreads."
+          ],
+          "sources": [
+            {
+              "title": "Taiwan Stock Exchange · November TAIEX closes",
+              "url": "https://www.twse.com.tw/rwd/en/afterTrading/FMTQIK?date=20261125&response=json"
+            },
+            {
+              "title": "Yahoo Finance · dated Nvidia closes, US dollars",
+              "url": "https://query1.finance.yahoo.com/v8/finance/chart/NVDA?interval=1d&period1=1795392000&period2=1795564800"
+            },
+            {
+              "title": "Yahoo Finance · Nasdaq Composite observations",
+              "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EIXIC?interval=1d&period1=1795392000&period2=1795564800"
+            },
+            {
+              "title": "Yahoo Finance · S&P 500 observations",
+              "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EGSPC?interval=1d&period1=1795392000&period2=1795564800"
+            },
+            {
+              "title": "Yahoo Finance · Dow Jones Industrial Average observations",
+              "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EDJI?interval=1d&period1=1795392000&period2=1795564800"
+            },
+            {
+              "title": "Associated Press · 24 November US market close",
+              "url": "https://apnews.com/article/6cc4e580290aadf304ee316d6d46dd81"
+            },
+            {
+              "title": "Associated Press · reporting on prospective tariff findings, 25 November SGT",
+              "url": "https://apnews.com/article/trump-tariffs-china-european-union-d97ed6f4017152ca4c18de5517db6d51"
+            },
+            {
+              "title": "US Trade Representative · original Section 301 investigation notice",
+              "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/march/ustr-initiates-section-301-investigations-relating-structural-excess-capacity-and-production"
+            },
+            {
+              "title": "Reuters via Investing.com · Asia trading and trade investigation, 25 November",
+              "url": "https://www.investing.com/news/economy-news/stocks-retreat-as-ai-rebound-stumbles-tariff-threats-loom-5049529"
+            },
+            {
+              "title": "USTR · 25 November determinations and proposed remedies for 14 economies",
+              "url": "https://www.ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural"
+            },
+            {
+              "title": "Associated Press · 25 November announcement reported at 21:11 SGT",
+              "url": "https://apnews.com/article/367083ea32f71fd7f70029ba7df66bf0"
+            }
+          ]
+        },
+        "bonds": {
+          "summary": "The US five-year auction cleared at 4.719% and Japan’s 40-year auction at 4.090%. A late FRED update showed US high-yield spreads had widened 9 bp on 24 November.",
+          "coverage": "Full Wednesday Singapore window. US Treasury figures are dated 24 November in New York. The ICE 24 November observations were posted by FRED at 09:13 CST on 25 November, or 23:13 SGT.",
+          "happened": [
+            "The US Treasury awarded about US$70bn of five-year notes with a 4.625% coupon. The notes settle on 30 November 2026 and mature on 30 November 2031.",
+            "On the 24 November US par curve, two years held at 4.63%, five years fell from 4.74% to 4.69%, ten years fell from 4.92% to 4.91%, and thirty years rose from 5.29% to 5.30%.",
+            "Japan received ¥786.5bn in competitive bids for the 40-year issue and accepted ¥299.6bn. The bond carries a 3.8% coupon and matures in March 2066.",
+            "ICE US investment-grade option-adjusted spreads widened from 97 to 98 bp and US high-yield spreads from 363 to 372 bp between the 23 and 24 November observations."
+          ],
+          "key_points": [
+            "High-yield spreads widened 9 bp after narrowing 13 bp in the preceding observation. Investment-grade spreads moved 1 bp in each direction.",
+            "The Treasury auction high and the daily five-year par benchmark come from different measurements. Measuring auction pricing against the market would require a same-time quote for the security."
+          ],
+          "watch": [
+            "Check the 25 November ICE observations when available for the reaction to the US data and trade announcements.",
+            "Compare the next trading yield on the Japanese 40-year issue with the 4.090% auction result."
+          ],
+          "sources": [
+            {
+              "title": "US Treasury · 24 November five-year auction result",
+              "url": "https://www.treasurydirect.gov/instit/annceresult/press/preanre/2026/R_20261124_3.pdf"
+            },
+            {
+              "title": "US Treasury · daily par yield curve, November 2026",
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202611&type=daily_treasury_yield_curve"
+            },
+            {
+              "title": "Japan Ministry of Finance · 25 November 40-year auction",
+              "url": "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20261125.htm"
+            },
+            {
+              "title": "ICE BofA US Corporate Index OAS via FRED · dated observations",
+              "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A0CM&cosd=2026-11-19&coed=2026-11-25"
+            },
+            {
+              "title": "ICE BofA US High Yield Index OAS via FRED · dated observations",
+              "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLH0A0HYM2&cosd=2026-11-19&coed=2026-11-25"
+            },
+            {
+              "title": "FRED · investment-grade dated observation and update time",
+              "url": "https://fred.stlouisfed.org/series/BAMLC0A0CM"
+            },
+            {
+              "title": "FRED · high-yield dated observation and update time",
+              "url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2"
+            }
+          ]
+        },
+        "earnings": {
+          "summary": "Dell’s AI server business pushed quarterly sales above twice their year-earlier level. HP grew PC revenue despite shipping fewer units, while Workday posted double-digit subscription growth. Deere’s evening release showed fiscal Q4 sales and revenue down 2% and set a profit range for the next year.",
+          "coverage": "US releases carry a 24 November date. Workday, Dell and HP SEC results filings were accepted at 05:01, 05:09 and 05:17 SGT respectively on 25 November. Dell and Workday report fiscal Q3 and HP reports fiscal Q4. Deere’s fiscal Q4 ended 1 November. Its 8-K was accepted at 19:00 SGT on 25 November.",
+          "happened": [
+            "Dell reported fiscal Q3 revenue of US$54.9bn, up 103% year on year, and GAAP diluted earnings of US$8.82 per share. The company booked US$60.2bn of AI orders and ended the quarter with a US$132.3bn AI backlog.",
+            "HP reported fiscal Q4 revenue of US$16.0bn, up 9.3%. Personal Systems revenue reached US$11.8bn, up 14%, while units fell 29%. GAAP diluted EPS held at US$0.84.",
+            "Workday reported fiscal Q3 revenue of US$2.705bn, up 11.2%. Subscription revenue reached US$2.532bn, up 12.8%, and GAAP diluted EPS increased from US$0.94 to US$0.96.",
+            "Deere reported US$12.115bn in fiscal Q4 net sales and revenues. Net income fell to US$1.051bn from US$1.065bn, and diluted EPS fell to US$3.89 from US$3.93."
+          ],
+          "key_points": [
+            "Dell’s US$132.3bn backlog describes outstanding business. Its US$54.9bn revenue is the amount recognized across the company for this quarter.",
+            "HP’s US$0.84 GAAP EPS and US$0.83 adjusted EPS each included a US$0.15 tariff-refund benefit. Adjusted EPS was 10.8% below the prior-year quarter.",
+            "Deere’s fiscal 2027 net income forecast of US$4.50bn–5.25bn includes an estimated US$250m–400m noncash pension settlement charge."
+          ],
+          "watch": [
+            "Track how much of Dell’s AI backlog becomes reported revenue and operating cash as it works toward its US$202bn fiscal-year revenue guidance.",
+            "Check whether HP’s unit declines moderate as its higher-value PC mix supports revenue.",
+            "Compare Deere’s realized equipment sales and pension charge with the assumptions in its full-year outlook."
+          ],
+          "sources": [
+            {
+              "title": "Dell Technologies · fiscal 2027 third-quarter results exhibit",
+              "url": "https://investors.delltechnologies.com/sec-filings/all-sec-filings/content/0001571996-26-000050/exhibit991earnings8kq3fy27.htm"
+            },
+            {
+              "title": "HP Inc. · fiscal 2026 fourth-quarter and full-year results",
+              "url": "https://investor.hp.com/news-events/news/news-details/2026/HP-Inc--Reports-Fiscal-2026-Full-Year-and-Fourth-Quarter-Results-Announces-Dividend-Increase/default.aspx"
+            },
+            {
+              "title": "Workday · fiscal 2027 third-quarter results",
+              "url": "https://investor.workday.com/news-and-events/press-releases/news-details/2026/Workday-Announces-Fiscal-2027-Third-Quarter-Financial-Results/default.aspx"
+            },
+            {
+              "title": "SEC · Dell filing acceptance records",
+              "url": "https://data.sec.gov/submissions/CIK0001571996.json"
+            },
+            {
+              "title": "SEC · HP filing acceptance records",
+              "url": "https://data.sec.gov/submissions/CIK0000047217.json"
+            },
+            {
+              "title": "SEC · Workday filing acceptance records",
+              "url": "https://data.sec.gov/submissions/CIK0001327811.json"
+            },
+            {
+              "title": "Deere & Company · fiscal 2026 Q4 results and fiscal 2027 forecast",
+              "url": "https://s22.q4cdn.com/253594569/files/content_files/DE-4Q26-News-Release.pdf"
+            },
+            {
+              "title": "SEC · Deere results filing acceptance records",
+              "url": "https://data.sec.gov/submissions/CIK0000315189.json"
+            }
+          ]
+        },
+        "economy": {
+          "summary": "The US raised its third-quarter growth estimate to 4.3% annualized. October US consumer prices measured by PCE rose 0.3% on the month. Earlier, Australia reported faster inflation and Germany cut its quarterly growth estimate.",
+          "coverage": "Full Wednesday Singapore window. ABS released its October CPI at 08:30 SGT. The German figures use the detailed 25 November Q3 release. BEA released its Q3 second GDP estimate and October personal income and outlays at 21:30 SGT.",
+          "happened": [
+            "Australian CPI rose 4.9% in the twelve months to October, up from 4.3% in September. Trimmed-mean annual inflation rose to 3.8% from 3.6%.",
+            "Housing prices rose 6.4% year on year and transport prices rose 10.6%. ABS identified housing as the largest contributor to annual inflation and fuel as the main driver within transport.",
+            "Destatis revised German GDP growth from 0.2% to 0.1% quarter on quarter on a price-, seasonally and calendar-adjusted basis. Fixed investment fell 1.2% and exports fell 1.0% from Q2.",
+            "BEA revised US real GDP growth to a 4.3% annualized rate in Q3 from the 3.4% advance estimate, chiefly because of higher estimates for investment and consumer spending. Q2 growth was 2.2% annualized.",
+            "October US headline and core PCE prices each rose 0.3% month on month. The twelve-month changes were 3.8% and 3.3% respectively. Nominal consumer spending rose 0.3%, while real spending edged down by less than 0.1%."
+          ],
+          "key_points": [
+            "Australia’s headline inflation accelerated by 0.6 percentage points and its trimmed mean by 0.2 points. The difference helps distinguish fuel and other sharp price moves from the underlying trend.",
+            "German household consumption rose 0.1% from Q2. Imports fell 1.4%, faster than exports, so the decline in exports alone does not establish the direction of net trade’s contribution.",
+            "Annualized US quarterly GDP growth, German quarter-on-quarter GDP growth and twelve-month inflation each use a different comparison period."
+          ],
+          "watch": [
+            "Compare the next Australian trimmed-mean reading with 3.8% to see whether the broader price pressure persists.",
+            "Watch the next monthly real spending reading for evidence that consumption growth has resumed after October’s slight decline."
+          ],
+          "sources": [
+            {
+              "title": "Australian Bureau of Statistics · October CPI, published 25 November",
+              "url": "https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/consumer-price-index-australia/oct-2026"
+            },
+            {
+              "title": "Australian Bureau of Statistics · October inflation contributors",
+              "url": "https://www.abs.gov.au/media-centre/media-releases/cpi-rose-49-year-october-2026"
+            },
+            {
+              "title": "Destatis · detailed third-quarter German national accounts",
+              "url": "https://www.destatis.de/EN/Press/2026/11/PE26_409_811.html"
+            },
+            {
+              "title": "US Bureau of Economic Analysis · prior release and next scheduled release",
+              "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026"
+            },
+            {
+              "title": "BEA · Q3 GDP second estimate, released 25 November at 08:30 EST",
+              "url": "https://www.bea.gov/sites/default/files/2026-11/gdp3q26-2nd.pdf"
+            },
+            {
+              "title": "BEA · October personal income and outlays, released 25 November at 08:30 EST",
+              "url": "https://bea.gov/news/2026/personal-income-and-outlays-october-2026"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
