@@ -1,0 +1,174 @@
+{
+  "id": "reuters-20261126T154949-SGT",
+  "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+  "report_at": "2026-11-26T15:52:02+08:00",
+  "cutoff": "2026-11-26T15:49:49+08:00",
+  "window_start": "2026-11-26T11:32:46+08:00",
+  "coverage": "partial",
+  "summary": "Regional digital payments, Singtel/Viettel connectivity, European bank consolidation, Japanese property investment, Bank of Korea voting details and systemic-bank buffers. Six reviewed previews; three disconnected follow-ups and one unresolved LME item remain held. Earlier coverage gaps persist. Full detailed publication remains held.",
+  "limitations": [
+    "Partial targeted source coverage for 26 November 11:32:46–15:49:49 SGT. Discovery overlap begins at 11:17:46; the primary window is 14:49:49–15:49:49. Earlier gaps remain open and no complete-scan cutoff is established.",
+    "Six independently reviewed metadata previews are included: four new events and two connected follow-ups. The UniCredit clearance updates the retained takeover event as v4, avoiding a second event under the source’s new alias. These are previews only. Full detail remains held because the approved process lacks an hourly channel, exact-cutoff immutable identities for multiple editions per day and matching full-edition reader/card/search links.",
+    "Three disconnected follow-ups remain held with their original identities: Nvidia server/export-control story v9 requires v8; India foreign equity flows v5 requires v4; gold v4 requires v3. Their retained predecessor chains are absent. No missing history is implied to have been recovered.",
+    "The LME aluminium preview is held because accessible Reuters syndication conflicts with the supplied original publication date and does not corroborate its later premium observation. No unsupported LME value is published.",
+    "Original publication dates are retained at date-only precision after Reuters-attributed article review. Exact original publication minutes and article revision times were not independently established. Market observation times, when explicitly stated, are distinct from publication or revision times.",
+    "The Bank of Korea follow-up keeps its producer catch-up label even though the 11:35 SGT futures observation follows the window start. The vote, projection levels and guidance are substantive additions; original article revision timing is unavailable.",
+    "The checksum-matched complete original JSON, full dashboard research, source register, available source SVGs/chart values and private checklist are retained. Native visuals are not all portable; no full-report completeness or desktop/mobile visual approval has been asserted.",
+    "All 67 retained hourly editions and eight public full-report records were checked for overlap. Available saved original 25-Nov earnings and credit reports were checked as dated context; fresh daily source chats and exhaustive older source-side archives were not checked. Existing gaps remain gaps."
+  ],
+  "original_url": null,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/world/asia-pacific/china-japan-south-korea-asean-launch-talks-digital-payments-across-borders-2026-11-26/",
+      "title": "China, Japan, South Korea and ASEAN launch talks on digital payments across borders",
+      "published_at": null,
+      "published_date": "2026-11-26",
+      "publication_precision": "date",
+      "updated_at": null,
+      "verification_url": "https://www.investing.com/news/economy-news/china-japan-south-korea-and-asean-launch-talks-on-digital-payments-across-borders-5052024"
+    },
+    {
+      "url": "https://www.reuters.com/markets/emerging/viettel-singtel-start-building-submarine-cable-linking-vietnam-singapore-2026-11-26/",
+      "title": "Viettel, Singtel start building submarine cable linking Vietnam, Singapore and Thailand",
+      "published_at": null,
+      "published_date": "2026-11-26",
+      "publication_precision": "date",
+      "updated_at": null,
+      "verification_url": "https://sa.marketscreener.com/news/viettel-singtel-start-building-submarine-cable-linking-vietnam-singapore-and-thailand-ce7851d8df89f523"
+    },
+    {
+      "url": "https://www.reuters.com/business/finance/unicredit-seeks-commerzbank-shareholder-vote-it-completes-process-take-control-2026-11-26/",
+      "title": "UniCredit seeks Commerzbank shareholder vote as it completes process to take control",
+      "published_at": null,
+      "published_date": "2026-11-26",
+      "publication_precision": "date",
+      "updated_at": null,
+      "verification_url": "https://sa.marketscreener.com/news/unicredit-seeks-commerzbank-shareholder-vote-as-it-completes-process-to-take-control-ce7851d8df88f32d"
+    },
+    {
+      "url": "https://www.reuters.com/business/japan-property-draws-global-money-easy-gains-fade-rates-rise-2026-11-26/",
+      "title": "Japan property draws global money, but easy gains fade as rates rise",
+      "published_at": null,
+      "published_date": "2026-11-26",
+      "publication_precision": "date",
+      "updated_at": null,
+      "verification_url": "https://www.investing.com/news/economy-news/analysisjapan-property-draws-global-money-but-easy-gains-fade-as-rates-rise-5052119"
+    },
+    {
+      "url": "https://www.reuters.com/markets/asia/south-koreas-central-bank-resumes-tightening-with-quarter-point-hike-2026-11-26/",
+      "title": "South Korea's central bank raises rates, upgrades 2027 growth outlook",
+      "published_at": null,
+      "published_date": "2026-11-26",
+      "publication_precision": "date",
+      "updated_at": null,
+      "verification_url": "https://www.thestar.com.my/business/business-news/2026/11/26/south-korea039s-central-bank-raises-rates-upgrades-2027-growth-outlook"
+    },
+    {
+      "url": "https://www.reuters.com/business/finance/bnp-paribas-moves-up-global-systemic-bank-list-capital-buffer-rises-2026-11-25/",
+      "title": "BNP Paribas moves up global systemic bank list, capital buffer rises",
+      "published_at": null,
+      "published_date": "2026-11-25",
+      "publication_precision": "date",
+      "updated_at": null,
+      "verification_url": "https://www.livemint.com/companies/bnp-paribas-moves-up-global-systemic-bank-list-capital-buffer-rises-11795635991423.html?openSearch=true"
+    }
+  ],
+  "stories": [
+    {
+      "story_id": "R-20261126-ASEAN3-DIGITAL-PAYMENTS-WORKING-GROUP",
+      "version": 1,
+      "status": "new",
+      "freshness": "current",
+      "topic": "ASEAN / SINGAPORE / CHINA / JAPAN / SOUTH KOREA / FX / DIGITAL PAYMENTS",
+      "headline": "ASEAN+3 creates a working group on cross-border digital payments",
+      "body": "Finance and central-bank deputies from ASEAN, China, Japan and South Korea agreed in Kyoto to establish a working group on cross-border payment connectivity and regulation of digital assets. Reuters also reported an emergency lending mechanism that took effect this month within the existing US$240 billion Chiang Mai currency-swap safety net. That amount describes an existing arrangement, rather than new funding committed at this meeting. Officials will report to ministers and central-bank governors at their May 2027 meeting in Nagoya.",
+      "analysis": "Payment interoperability may reduce transaction friction; emergency liquidity arrangements address a different risk. An agreement to coordinate is not evidence that a fully integrated payment system is operating.",
+      "watch_next": "Working-group implementation and the May 2027 ministerial meeting.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/asia-pacific/china-japan-south-korea-asean-launch-talks-digital-payments-across-borders-2026-11-26/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261126-SINGTEL-VIETTEL-SUBMARINE-CABLE",
+      "version": 1,
+      "status": "new",
+      "freshness": "current",
+      "topic": "SINGAPORE / SINGTEL / VIETTEL / VIETNAM / THAILAND / TELECOMS / DIGITAL INFRASTRUCTURE",
+      "headline": "Viettel and Singtel begin construction of a regional submarine cable",
+      "body": "Viettel said it had started construction with Singapore Telecommunications, or Singtel, on a cable connecting Vietnam, Thailand and Singapore. The planned system is about 2,500 kilometres long with design capacity of 600 terabits per second; its Vietnam–Singapore section is designed for 240 Tbps. These are project specifications, rather than current traffic volumes or realised earnings. Construction has begun, while commercial use and financial returns remain to be demonstrated. No isolated Singtel share-price response was established by this review.",
+      "analysis": "Additional connectivity could support digital infrastructure, but design capacity alone does not establish utilisation, margins or project returns.",
+      "watch_next": "Construction milestones, capital expenditure and customer demand.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/markets/emerging/viettel-singtel-start-building-submarine-cable-linking-vietnam-singapore-2026-11-26/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261116-UNICREDIT-COMMERZBANK-EU-US-APPROVAL",
+      "version": 4,
+      "status": "follow-up",
+      "freshness": "current",
+      "topic": "EUROPE / ITALY / GERMANY / POLAND / UNICREDIT / COMMERZBANK / BANKING / M&A",
+      "headline": "UniCredit clears final regulatory step for Commerzbank share acquisition",
+      "body": "European banking consolidation: UniCredit said approval from Poland’s financial regulator KNF completed the authorisation process needed to take delivery of Commerzbank shares. It requested a shareholder vote to appoint supervisory-board representatives and expected the share swap to finish by 7 December. The expected settlement date is prospective, not confirmation that ownership transfer or the share swap has already completed. Earlier offer valuations are omitted from this preview because retained reports and the new source refer to different dated values.",
+      "analysis": "Regulatory clearance advances European banking consolidation; integration and capital-allocation risks remain relevant to shareholders and creditors.",
+      "watch_next": "Share settlement and supervisory-board representation.",
+      "earlier": "Retained v1 covered earlier EU/US approvals, v2 the German political agreement and v3 Commerzbank’s profit guidance. This v4 adds final Polish regulatory clearance and the expected 7 December share settlement. The source’s new-report ID is treated as an alias of the same existing transaction; earlier versions remain unchanged.",
+      "source_urls": [
+        "https://www.reuters.com/business/finance/unicredit-seeks-commerzbank-shareholder-vote-it-completes-process-take-control-2026-11-26/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261126-JAPAN-CRE-Q3-INVESTMENT-RECORD",
+      "version": 1,
+      "status": "new",
+      "freshness": "current",
+      "topic": "JAPAN / JPY / GIC / SINGAPORE / COMMERCIAL PROPERTY / CREDIT",
+      "headline": "Japanese commercial property investment reaches a quarterly record",
+      "body": "Reuters reported CBRE data showing Japanese commercial property investment of ¥2.21 trillion in the third quarter, 4% above a year earlier. Overseas purchases totalled ¥775 billion, up 30%. These are investment transaction volumes, rather than asset-price returns. Colliers reported a 1.1% Tokyo office vacancy rate. GIC’s Japan real estate representative highlighted logistics and hospitality opportunities. The article also described refinancing, leverage and currency risks as Japanese rates rise; the figures do not establish an isolated market reaction.",
+      "analysis": "Rental growth can support cash flow while borrowing costs rise. Strong transaction volumes do not by themselves imply improving credit quality or uniformly attractive returns.",
+      "watch_next": "Bank of Japan policy, refinancing costs and rental growth.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/business/japan-property-draws-global-money-easy-gains-fade-rates-rise-2026-11-26/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261126-BOK-RATE-HIKE-325",
+      "version": 2,
+      "status": "follow-up",
+      "freshness": "catch-up",
+      "topic": "SOUTH KOREA / BANK OF KOREA / RATES / INFLATION",
+      "headline": "Bank of Korea’s divided vote and projections clarify the tightening outlook",
+      "body": "The Bank of Korea’s seven-member board voted 5–2 for the increase to 3.25%. Six-month policy-rate projections were almost evenly split among 3.25%, 3.50% and 3.75%; these levels are projections, not probabilities or confirmed future decisions. Its statement referred to the timing of further increases, replacing earlier wording about timing and pace. Korean three-year Treasury bond futures were down 0.18 points at 103.83 at 03:35 GMT on 26 November, or 11:35 SGT. That is a historical futures-price observation, not a government-bond yield. The exact article revision time was not established.",
+      "analysis": "The vote and projections indicate disagreement about the remaining tightening cycle rather than a confirmed terminal rate.",
+      "watch_next": "Subsequent guidance and inflation releases.",
+      "earlier": "Version 1 reported the 25bp increase to 3.25%, growth forecast upgrades and a different, earlier futures-price observation. Version 2 adds the vote split, six-month projections and revised guidance; it preserves the earlier version.",
+      "source_urls": [
+        "https://www.reuters.com/markets/asia/south-koreas-central-bank-resumes-tightening-with-quarter-point-hike-2026-11-26/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261125-FSB-GSIB-CAPITAL-BUFFER-BNP-MUFG",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "FRANCE / JAPAN / BNP PARIBAS / MUFG / FSB / BANK CAPITAL / CREDIT",
+      "headline": "BNP Paribas moves to a higher systemic-bank capital buffer",
+      "body": "Reuters reported changes to the Financial Stability Board’s 2026 list of global systemically important banks. BNP Paribas’s additional buffer rises from 1.5% to 2.0%, while MUFG’s falls from 1.5% to 1.0%. The revised requirements take effect on 1 January 2028. These are additional regulatory capital buffers, not total capital ratios, bond yields or credit-rating changes. This is an older recovered development; it is not presented as a new decision during the afternoon window. No isolated BNP Paribas share-price reaction was verified.",
+      "analysis": "A higher capital buffer can constrain distributions while improving capacity to absorb losses. The classification change does not constitute a credit downgrade.",
+      "watch_next": "Capital-management plans and implementation in 2028.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/business/finance/bnp-paribas-moves-up-global-systemic-bank-list-capital-buffer-rises-2026-11-25/"
+      ],
+      "development_at": null
+    }
+  ]
+}
