@@ -1,7 +1,50 @@
 {
   "schema_version": 1,
-  "through": "2026-11-26T08:00:00+08:00",
+  "through": "2026-11-26T20:00:00+08:00",
   "entries": [
+    {
+      "id": "R-20261125-FSB-GSIB-CAPITAL-BUFFER-BNP-MUFG",
+      "version": 1,
+      "headline": "BNP Paribas moves to a higher systemic-bank capital buffer",
+      "href": "https://www.reuters.com/business/finance/bnp-paribas-moves-up-global-systemic-bank-list-capital-buffer-rises-2026-11-25/",
+      "topic": "FRANCE / JAPAN / BNP PARIBAS / MUFG / FSB / BANK CAPITAL / CREDIT",
+      "cutoff": "2026-11-26T15:49:49+08:00",
+      "published": "2026-11-25",
+      "selected": "2026-11-26T20:00:00+08:00",
+      "reasons": [
+        "Credit stress",
+        "Major companies"
+      ],
+      "score": 19
+    },
+    {
+      "id": "R-20261126-BOK-RATE-HIKE-325",
+      "version": 2,
+      "headline": "Bank of Korea’s divided vote and projections clarify the tightening outlook",
+      "href": "https://www.reuters.com/markets/asia/south-koreas-central-bank-resumes-tightening-with-quarter-point-hike-2026-11-26/",
+      "topic": "SOUTH KOREA / BANK OF KOREA / RATES / INFLATION",
+      "cutoff": "2026-11-26T15:49:49+08:00",
+      "published": "2026-11-26",
+      "selected": "2026-11-26T20:00:00+08:00",
+      "reasons": [
+        "Global rates"
+      ],
+      "score": 6
+    },
+    {
+      "id": "R-20261126-BOJ-TAMURA-FASTER-HIKES",
+      "version": 1,
+      "headline": "BOJ board member Tamura signals readiness for faster hikes if inflation overshoots",
+      "href": "https://www.reuters.com/markets/us/bojs-tamura-signals-chance-faster-pace-interest-rate-hikes-2026-11-26/",
+      "topic": "JAPAN / BANK OF JAPAN / NAOKI TAMURA / JPY / JGB / RATES",
+      "cutoff": "2026-11-26T11:32:46+08:00",
+      "published": "2026-11-26",
+      "selected": "2026-11-26T20:00:00+08:00",
+      "reasons": [
+        "Global rates"
+      ],
+      "score": 6
+    },
     {
       "id": "R-20261125-AI-CREDIT-CDS-DISTRESS",
       "version": 1,
@@ -132,6 +175,20 @@
       "score": 10
     },
     {
+      "id": "R-20261116-UNICREDIT-COMMERZBANK-EU-US-APPROVAL",
+      "version": 4,
+      "headline": "UniCredit clears final regulatory step for Commerzbank share acquisition",
+      "href": "https://www.reuters.com/business/finance/unicredit-seeks-commerzbank-shareholder-vote-it-completes-process-take-control-2026-11-26/",
+      "topic": "EUROPE / ITALY / GERMANY / POLAND / UNICREDIT / COMMERZBANK / BANKING / M&A",
+      "cutoff": "2026-11-26T15:49:49+08:00",
+      "published": "2026-11-26",
+      "selected": "2026-11-22T20:00:00+08:00",
+      "reasons": [
+        "Major companies"
+      ],
+      "score": 7
+    },
+    {
       "id": "R-20261120-CITI-EUROPEAN-TRADING-RWA-35BN-ERROR",
       "version": 1,
       "headline": "Citigroup reportedly understated European trading-unit risk-weighted assets by US$35bn",
@@ -151,20 +208,6 @@
       "headline": "Missouri court approves Bayer’s US$7.25bn Roundup settlement; some cases remain",
       "href": "https://www.reuters.com/legal/government/missouri-judge-approves-bayers-725-billion-roundup-settlement-2026-11-20/",
       "topic": "GERMANY / US / BAYER / LITIGATION / CREDIT",
-      "cutoff": "2026-11-22T16:19:51+08:00",
-      "published": "2026-11-20",
-      "selected": "2026-11-22T20:00:00+08:00",
-      "reasons": [
-        "Major companies"
-      ],
-      "score": 7
-    },
-    {
-      "id": "R-20261116-UNICREDIT-COMMERZBANK-EU-US-APPROVAL",
-      "version": 3,
-      "headline": "Commerzbank raises expected 2026 net profit to EUR3.5bn as retained takeover story advances",
-      "href": "https://www.reuters.com/business/finance/commerzbank-ceo-raises-2026-profit-outlook-unicredit-takeover-nears-2026-11-20/",
-      "topic": "EUROPE / GERMANY / UNICREDIT / COMMERZBANK / BANKS / M&A / PROFIT GUIDANCE",
       "cutoff": "2026-11-22T16:19:51+08:00",
       "published": "2026-11-20",
       "selected": "2026-11-22T20:00:00+08:00",
