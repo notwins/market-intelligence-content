@@ -1,0 +1,143 @@
+{
+  "id": "reuters-20261127T000526-SGT",
+  "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+  "report_at": "2026-11-27T00:07:42+08:00",
+  "cutoff": "2026-11-27T00:05:26+08:00",
+  "window_start": "2026-11-26T19:40:52+08:00",
+  "coverage": "partial",
+  "summary": "Bank of England AI-credit warning, an advance in the existing ECB leadership story, Trump’s GDP-investigation demand and BAWAG/PTSB court refusal. Four reviewed previews; three disconnected follow-ups held. Earlier gaps persist. Full detailed publication remains held.",
+  "limitations": [
+    "Partial targeted source report, 26 November 19:40:52 to 27 November 00:05:26 SGT; primary window 23:05:26–00:05:26 and discovery overlap from 19:25:52. Earlier coverage gaps remain and no complete-scan cutoff is advanced.",
+    "Four reviewed metadata previews: two connected follow-ups and two new events. The ECB development reuses its retained leadership-event ID. Metadata is only a preview; the complete detailed report remains held.",
+    "Three disconnected follow-ups remain held at their source versions: Singapore tariffs v6 needs v5, oil v8 needs v7, and Nvidia v11 needs v10. No missing history has been recovered or renumbered.",
+    "The Bank of England item is conservatively labelled catch-up: the attributed copy indicates earlier initial publication; its later displayed update is not treated as a new original publication.",
+    "Reuters-attributed article text corroborated the material claims and original publication date. Exact original minutes and revision times were not independently established; public date-only precision is retained. Market quote times remain unavailable and no isolated reaction is inferred.",
+    "The original seven-story JSON was downloaded and checksum verified; the complete generated research text, ten-entry source register, available chart data and source-to-output checklist are retained privately. Full hourly channel support, immutable time-aware identities and discoverable exact full-report links remain absent. Missing native visuals and full-output desktop/mobile presentation review prevent completeness approval.",
+    "All retained hourly editions and published research records were checked for overlap. Fresh daily producer chats and exhaustive older source-side archives were not checked. Partial source coverage and prior backlog remain visible."
+  ],
+  "original_url": null,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/business/finance/bank-england-sees-growing-financial-risks-ai-borrowing-surges-2026-11-26/",
+      "title": "Bank of England sees growing financial risks as AI borrowing surges",
+      "published_at": null,
+      "published_date": "2026-11-26",
+      "publication_precision": "date",
+      "updated_at": null,
+      "verification_url": "https://uk.marketscreener.com/news/bank-of-england-sees-growing-financial-risks-as-ai-borrowing-surges-ce7851d8de80f42c"
+    },
+    {
+      "url": "https://www.reuters.com/world/europe/spains-de-cos-set-be-nominated-by-eu-leaders-new-head-ecb-2026-11-26/",
+      "title": "Spain's De Cos set to be nominated by EU countries as next head of ECB",
+      "published_at": null,
+      "published_date": "2026-11-26",
+      "publication_precision": "date",
+      "updated_at": null,
+      "verification_url": "https://new.streetinsider.com/Reuters/Spains%2BDe%2BCos%2Bset%2Bto%2Bbe%2Bnominated%2Bby%2BEU%2Bleaders%2Bas%2Bnew%2Bhead%2Bof%2BECB/27404665.html"
+    },
+    {
+      "url": "https://www.reuters.com/business/finance/ecb-turns-crisis-veteran-de-cos-new-strains-loom-2026-11-26/",
+      "title": "ECB turns to crisis veteran De Cos as new strains loom",
+      "published_at": null,
+      "published_date": "2026-11-26",
+      "publication_precision": "date",
+      "updated_at": null,
+      "verification_url": "https://www.devdiscourse.com/article/international/4012716-newsmaker-ecb-turns-to-crisis-veteran-de-cos-as-new-strains-loom"
+    },
+    {
+      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-26/",
+      "title": "Stocks rally, Europe sizes up next ECB chief",
+      "published_at": null,
+      "published_date": "2026-11-26",
+      "publication_precision": "date",
+      "updated_at": null,
+      "verification_url": "https://live.euronext.com/en/financial-news/stocks-rally-europe-sizes-next-ecb-chief"
+    },
+    {
+      "url": "https://www.reuters.com/world/us/trump-demands-probe-gdp-data-released-before-midterms-2026-11-26/",
+      "title": "Trump demands probe of GDP data released before midterms",
+      "published_at": null,
+      "published_date": "2026-11-26",
+      "publication_precision": "date",
+      "updated_at": null,
+      "verification_url": "https://www.marketscreener.com/news/trump-demands-probe-of-gdp-data-released-before-midterms-ce7851d9d988f121"
+    },
+    {
+      "url": "https://www.reuters.com/business/finance/irish-high-court-refuses-sanction-bawag-acquisition-permanent-tsb-2026-11-26/",
+      "title": "Irish High Court refuses to sanction BAWAG acquisition of Permanent TSB",
+      "published_at": null,
+      "published_date": "2026-11-26",
+      "publication_precision": "date",
+      "updated_at": null,
+      "verification_url": "https://www.globalbankingandfinance.com/irish-high-court-refuses-sanction-bawag-acquisition/"
+    }
+  ],
+  "stories": [
+    {
+      "story_id": "R-20261125-AI-CREDIT-CDS-DISTRESS",
+      "version": 2,
+      "status": "follow-up",
+      "freshness": "catch-up",
+      "topic": "UK / BANK OF ENGLAND / AI / CORPORATE CREDIT / FINANCIAL STABILITY",
+      "headline": "Bank of England warns that AI borrowing could transmit financial stress",
+      "body": "Reuters reported that the Bank of England’s Financial Stability Report identified increasingly complex and interconnected artificial intelligence (AI) financing as a channel for stress to spread. Hyperscalers were on course to issue more than US$305 billion of debt in 2026; this is a projection, not a final realised annual total. Separately, 6.5 million UK households were expected to face higher mortgage payments over the next three years, with a median increase of £100 a month. The Bank still judged household finances resilient overall. No new default or separately attributable market-price reaction was established.",
+      "analysis": "Borrowing structures, cash generation, maturities and lender concentration matter alongside technology demand. A financial-stability warning is not a forecast that a crisis will occur.",
+      "watch_next": "Actual AI debt issuance, credit spreads, refinancing access and free cash flow.",
+      "earlier": "Retained v1 at the 26 November 03:40:57 SGT cutoff covered elevated credit protection costs for AI borrowers. This v2 adds the Bank of England’s systemic-risk assessment; the earlier version remains unchanged.",
+      "source_urls": [
+        "https://www.reuters.com/business/finance/bank-england-sees-growing-financial-risks-ai-borrowing-surges-2026-11-26/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261120-ECB-BOARD-FR-DE-ES-NOMINATIONS",
+      "version": 2,
+      "status": "follow-up",
+      "freshness": "catch-up",
+      "topic": "EURO AREA / ECB / SPAIN / FRANCE / GERMANY / EUR / BUNDS / POLICY",
+      "headline": "Dutch support advances De Cos’s prospective ECB presidency",
+      "body": "Reuters reported that Dutch support for Pablo Hernández de Cos cleared a political obstacle to his expected nomination to succeed Christine Lagarde as European Central Bank president. EU ambassadors were to begin the written recommendation procedure for three ECB positions; formal appointment remains separate. Reuters expected the handover on 7 February 2027 and described policy continuity as likely. In a separate dated market snapshot, German 10-year yields were up 5 basis points at 3.268% and EUR/USD was broadly flat at 1.0972. The report described scant reaction to the succession news; those observations do not isolate its market impact, and exact quote times were unavailable.",
+      "analysis": "Leadership matters within the ECB’s collective decision process. Expected continuity does not establish a new rate decision or remove inflation and sovereign-risk concerns.",
+      "watch_next": "Formal appointments, December policy decisions and French government-bond spreads.",
+      "earlier": "Retained v1 covered France’s Boone nomination and prospective Spanish/German appointments. This v2 adds Dutch backing and the expected recommendation process. The producer’s separate De Cos story ID is an alias of this existing leadership event, not a second new event.",
+      "source_urls": [
+        "https://www.reuters.com/world/europe/spains-de-cos-set-be-nominated-by-eu-leaders-new-head-ecb-2026-11-26/",
+        "https://www.reuters.com/business/finance/ecb-turns-crisis-veteran-de-cos-new-strains-loom-2026-11-26/",
+        "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-26/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261126-US-GDP-DATA-PROBE-DEMAND",
+      "version": 1,
+      "status": "new",
+      "freshness": "current",
+      "topic": "US / DONALD TRUMP / GDP / BEA / ECONOMIC DATA / GOVERNANCE",
+      "headline": "Trump demands investigation into an earlier GDP estimate",
+      "body": "Reuters reported that Donald Trump demanded an investigation into the pre-election gross domestic product (GDP) estimate, alleging manipulation without supplying evidence. The BEA had revised third-quarter annualised growth from 3.4% to 4.3% on Wednesday, 25 November. Those previously reported economic estimates provide context; the new development is Thursday’s demand for an investigation, not another GDP revision. BEA’s established explanation is that advance estimates lack complete source data. The reviewed report did not confirm that an investigation had formally opened or establish a market reaction.",
+      "analysis": "A political allegation is not evidence of manipulation. Distinguish normal revisions as source data improve from decisions affecting statistical independence.",
+      "watch_next": "Any formal investigation, official agency responses and changes to statistical procedures.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/us/trump-demands-probe-gdp-data-released-before-midterms-2026-11-26/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261126-BAWAG-PTSB-COURT-REFUSAL",
+      "version": 1,
+      "status": "new",
+      "freshness": "current",
+      "topic": "IRELAND / AUSTRIA / BAWAG / PERMANENT TSB / BANKS / MERGERS AND ACQUISITIONS",
+      "headline": "Irish court refuses to approve BAWAG’s proposed Permanent TSB acquisition",
+      "body": "Reuters reported that Ireland’s High Court refused to sanction BAWAG’s proposed €1.6 billion acquisition of Permanent TSB because minority shareholders had not been given a separate meeting to vote. Shareholders, including the Irish government with its 57.5% holding, had approved the transaction in July. The court’s refusal creates a legal completion obstacle; the proposal remains subject to legal completion requirements. No separately attributable price reaction was verified.",
+      "analysis": "Voting and court requirements can interrupt banking consolidation independently of the commercial rationale. Announced transaction value does not establish that ownership or funds have transferred.",
+      "watch_next": "Revised voting arrangements, any appeal and changes to transaction terms.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/business/finance/irish-high-court-refuses-sanction-bawag-acquisition-permanent-tsb-2026-11-26/"
+      ],
+      "development_at": null
+    }
+  ]
+}
