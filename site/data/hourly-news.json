@@ -2,13 +2,136 @@
   "schema_version": 1,
   "source_name": "Reuters Hourly News",
   "source_url": null,
-  "publisher_checked_at": "2026-11-26T04:16:38+08:00",
+  "publisher_checked_at": "2026-11-26T15:47:15+08:00",
   "last_complete_cutoff": null,
   "source_schedule": {
     "status": "Active",
     "checked_at": "2026-11-03T18:21:21+08:00"
   },
   "editions": [
+    {
+      "id": "reuters-20261126T113246-SGT",
+      "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+      "report_at": "2026-11-26T11:34:41+08:00",
+      "cutoff": "2026-11-26T11:32:46+08:00",
+      "window_start": "2026-11-26T08:28:51+08:00",
+      "coverage": "partial",
+      "summary": "South Korea’s rate increase, conditional BOJ tightening remarks, SATS cargo demand and Australian business investment. Four reviewed previews; four disconnected follow-ups remain withheld. Earlier coverage gaps remain open. The full detailed report remains held.",
+      "limitations": [
+        "Partial targeted source coverage for 26 November 08:28:51–11:32:46 SGT, with discovery overlap from 08:13:51 and a primary window of 10:32:46–11:32:46. Earlier gaps, including the interval after the last published 03:40:57 cutoff, remain open. The intervening 08:28 source report was checked for provenance but is not imported in this edition. No complete-scan cutoff is established.",
+        "Four independently reviewed metadata previews are included. They are not the full detailed dashboard. Full detail remains held because the approved report process lacks an hourly channel, exact-cutoff immutable identity for multiple editions per day and corresponding full-edition reader/card/search links.",
+        "Four disconnected follow-ups remain withheld with their original identities: tariff proposal v5 requires v4; AI equity/sovereign-market v28 requires v27; oil v6 requires v5; India foreign equity flows v4 requires v3. Their earlier context and supplied figures are retained privately; no predecessor or backlog coverage is implied.",
+        "Original Reuters publication dates were checked against Reuters-attributed syndication and retained as 26 November. Exact original publication minutes and substantive revision times were not independently established; source-reported minute headers or later carrier updates are not substituted for original timestamps. Market observations remain dated historical references.",
+        "SATS is labelled current according to the completed producer edition, while its interview occurred on Wednesday and its cargo comparisons concern July–September. The policy and capex items retain the producer’s catch-up labels. Publication timing, interview timing and economic observation periods are separate.",
+        "The complete 17,572-character generated report, checksum-matched original JSON, original mechanism SVG, chart-widget values and source-to-output checklist are retained privately. Native dashboard chart assets are not all portable. No full-detail completeness or desktop/mobile visual approval is asserted.",
+        "All 66 retained hourly editions and eight public research records were checked for overlap, with available saved original 25-Nov earnings and credit reports. Fresh daily source chats, current policy original and exhaustive source-side backlog were not checked; previously missing coverage remains missing."
+      ],
+      "original_url": null,
+      "sources": [
+        {
+          "url": "https://www.reuters.com/markets/asia/south-koreas-central-bank-resumes-tightening-with-quarter-point-hike-2026-11-26/",
+          "title": "South Korea's central bank raises rates, upgrades 2027 growth outlook",
+          "published_at": null,
+          "published_date": "2026-11-26",
+          "publication_precision": "date",
+          "updated_at": null,
+          "verification_url": "https://ca.marketscreener.com/news/south-korea-s-central-bank-raises-rates-upgrades-2027-growth-outlook-ce7851d8dd81f420"
+        },
+        {
+          "url": "https://www.reuters.com/markets/us/bojs-tamura-signals-chance-faster-pace-interest-rate-hikes-2026-11-26/",
+          "title": "BOJ policymaker signals chance of faster-pace interest rate hikes",
+          "published_at": null,
+          "published_date": "2026-11-26",
+          "publication_precision": "date",
+          "updated_at": null,
+          "verification_url": "https://ca.investing.com/news/economy-news/bojs-tamura-signals-chance-of-fasterpace-interest-rate-hikes-4981931"
+        },
+        {
+          "url": "https://www.reuters.com/world/asia-pacific/air-cargo-demand-ai-data-centres-shows-no-sign-slowing-sats-ceo-says-2026-11-26/",
+          "title": "Air cargo demand from AI data centres shows no sign of slowing, SATS CEO says",
+          "published_at": null,
+          "published_date": "2026-11-26",
+          "publication_precision": "date",
+          "updated_at": null,
+          "verification_url": "https://www.investing.com/news/stock-market-news/air-cargo-demand-from-ai-data-centres-shows-no-sign-of-slowing-sats-ceo-says-5051923"
+        },
+        {
+          "url": "https://www.reuters.com/world/asia-pacific/data-centre-rush-drives-biggest-rise-australian-business-investment-since-mining-2026-11-26/",
+          "title": "Data centre rush drives biggest rise in Australian business investment since mining boom",
+          "published_at": null,
+          "published_date": "2026-11-26",
+          "publication_precision": "date",
+          "updated_at": null,
+          "verification_url": "https://www.investing.com/news/economy-news/data-centre-rush-drives-biggest-rise-in-australian-business-investment-since-mining-boom-5051924"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261126-BOK-RATE-HIKE-325",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "SOUTH KOREA / BANK OF KOREA / RATES / GDP / INFLATION",
+          "headline": "Bank of Korea raises its policy rate to 3.25% and upgrades growth forecasts",
+          "body": "The Bank of Korea increased its policy rate by 25 basis points to 3.25%, its third increase of 2026 and 75 basis points of cumulative tightening. The move was expected by 32 of 34 Reuters-polled analysts. It lifted its 2026 growth forecast from 3.3% to 3.9% and its 2027 forecast from 2.9% to 4.1%; its 2027 inflation forecast rose from 2.3% to 2.4%. These are forecasts, not actual GDP or inflation readings. Korean three-year Treasury bond futures fell 0.24 points to 103.77 after the announcement; that is a futures-price change, not a yield change. Its exact quote time was unavailable.",
+          "analysis": "Strong semiconductor demand and persistent inflation can support monetary tightening despite volatile equity markets. An anticipated increase is distinct from a policy surprise.",
+          "watch_next": "Bank of Korea guidance, housing prices and inflation.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/markets/asia/south-koreas-central-bank-resumes-tightening-with-quarter-point-hike-2026-11-26/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261126-BOJ-TAMURA-FASTER-HIKES",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "JAPAN / BANK OF JAPAN / NAOKI TAMURA / JPY / JGB / RATES",
+          "headline": "BOJ board member Tamura signals readiness for faster hikes if inflation overshoots",
+          "body": "Bank of Japan board member Naoki Tamura urged a faster response if inflation exceeded expectations, citing energy costs, yen weakness and demand for AI-related goods. Reuters described broad market expectations for a rise from the current 1.25% policy rate to 1.50% at the meeting ending 18 December. That expected rate is not an announced December decision, and one board member’s remarks are not a collective BOJ decision. No isolated yen or Japanese government bond reaction was verified. Only the remarks already included in the completed source are used; later news-conference additions are excluded.",
+          "analysis": "Higher Japanese funding costs could affect yen-funded carry strategies. Actual borrowing terms and currency movements remain separate from a policymaker’s conditional preference.",
+          "watch_next": "The Bank of Japan meeting ending 18 December, inflation data and JPY funding costs.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/markets/us/bojs-tamura-signals-chance-faster-pace-interest-rate-hikes-2026-11-26/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261126-SATS-AI-AIR-CARGO-DEMAND",
+          "version": 1,
+          "status": "new",
+          "freshness": "current",
+          "topic": "SINGAPORE / SATS / KERRY MOK / AI / AIR CARGO / SEMICONDUCTORS",
+          "headline": "SATS reports resilient AI cargo demand despite technology-market volatility",
+          "body": "Singapore-based SATS CEO Kerry Mok told Reuters that demand for shipments tied to AI data-centre projects remained strong during the peak cargo season. Multi-year projects provide continuing demand for equipment. SATS cargo volumes grew 8% in July–September, compared with 5.3% global growth in IATA data, its 12th consecutive quarter ahead of that benchmark. Those figures describe cargo volumes for the same quarterly period, rather than revenue growth or a live share-price return. The interview took place on Wednesday; this is a newly reported disclosure, not a claim that the interview occurred during this report window. No isolated SATS share-price reaction was established.",
+          "analysis": "Physical shipments provide evidence of AI infrastructure demand alongside market valuations. Strong volumes do not guarantee margins, cash generation or debt-servicing capacity; export controls may redirect flows.",
+          "watch_next": "Cargo volumes, margins and semiconductor export restrictions.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/asia-pacific/air-cargo-demand-ai-data-centres-shows-no-sign-slowing-sats-ceo-says-2026-11-26/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261126-AUSTRALIA-Q3-CAPEX-DATACENTRES",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "AUSTRALIA / RESERVE BANK OF AUSTRALIA / AUD / AI / DATA CENTRES / CAPITAL EXPENDITURE",
+          "headline": "Australia’s third-quarter business investment rises 12.2% on data-centre demand",
+          "body": "Reuters reported Australian real private capital expenditure rising 12.2% in the third quarter to A$59.5 billion, versus a forecast 4.4% increase. Information and telecommunications equipment spending rose 87%. Firms planned A$223.7 billion of spending for the financial year ending June 2027, 11.8% above the previous estimate; these plans are not realised expenditure. AUD/USD rose 0.2% to 0.6640, while three-year Australian government bond futures fell three ticks to 95.51. Exact market observation times were unavailable, and the futures move is not a yield change.",
+          "analysis": "Imported equipment limits the direct contribution to domestic GDP. Strong technology investment can coexist with weakness elsewhere and affect the Reserve Bank of Australia’s assessment of capacity pressures.",
+          "watch_next": "Reserve Bank of Australia guidance and investment outside technology.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/asia-pacific/data-centre-rush-drives-biggest-rise-australian-business-investment-since-mining-2026-11-26/"
+          ],
+          "development_at": null
+        }
+      ]
+    },
     {
       "id": "reuters-20261126T034057-SGT",
       "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
