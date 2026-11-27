@@ -2,13 +2,161 @@
   "schema_version": 1,
   "source_name": "Reuters Hourly News",
   "source_url": null,
-  "publisher_checked_at": "2026-11-27T17:06:08+08:00",
+  "publisher_checked_at": "2026-11-27T22:54:41+08:00",
   "last_complete_cutoff": null,
   "source_schedule": {
     "status": "Active",
     "checked_at": "2026-11-03T18:21:21+08:00"
   },
   "editions": [
+    {
+      "id": "reuters-20261127T202927-SGT",
+      "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+      "report_at": "2026-11-27T20:31:26+08:00",
+      "cutoff": "2026-11-27T20:29:27+08:00",
+      "window_start": "2026-11-27T15:48:08+08:00",
+      "coverage": "partial",
+      "summary": "Weekly fund-flow divergence, Norse Atlantic lease notices, Indonesian share-manipulation allegations, prospective Indian dollar bonds and Turkey’s financing squeeze. Three new previews and two connected follow-ups; four source follow-ups and the full detailed report remain held.",
+      "limitations": [
+        "Partial targeted source report, cutoff 27 November 2026 20:29:27 SGT, completed 20:31:26. The downloaded original report supplies the exact window start 15:48:08; primary window begins 19:29:27 and discovery overlap 15:33:08. Earlier coverage gaps remain and no complete-scan cutoff advances.",
+        "Five reviewed previews: three new catch-up stories, Norse Atlantic v2 and canonical Indonesia transparency/enforcement v4. Four disconnected source follow-ups remain held: ECB v3 needs v2, US AI-market v30 needs v29, EU budget v2 needs v1 and oil/OPEC v11 needs v10. Missing chains are not implied recovered or restarted.",
+        "Material preview facts were checked against Reuters-attributed syndication. Original publication precision was independently established only to the date; displayed source-report minutes and syndication revision times are not substituted for verified original Reuters timestamps. The Norse share observation has its own verified 16:37 SGT time.",
+        "Norse findings are historical and limited to the source cutoff; no formal bankruptcy was established by the reviewed development as of that cutoff. Later developments are outside this edition. Alleged share manipulation is not a conviction. Indian bond sizes and maturities remain proposals; no issue yield or coupon is inferred.",
+        "Metadata is a preview only. Full detailed publication remains held because the approved process lacks an hourly channel, immutable exact-cutoff identities for several editions per day and matching full-report card/search links. The complete downloaded original JSON, generated research text, metrics, source register and private section/table/chart checklist are retained.",
+        "The source JSON attachment was downloaded and its 44,769 bytes and SHA-256 matched the producer’s displayed checksum. Some original native dashboard chart assets and exact presentation data remain unavailable outside the rendered source. Full-report desktop/mobile presentation and completeness approval remain held; no summary is represented as a full detailed dashboard.",
+        "All retained hourly editions and published research records were checked for event overlap. Fresh daily producer chats and exhaustive missing predecessor chains were not retrieved. Producer schedule status was not independently verified and is unchanged."
+      ],
+      "original_url": null,
+      "sources": [
+        {
+          "url": "https://www.reuters.com/world/china/global-markets-flows-graphic-2026-11-27/",
+          "title": "Global equity funds log biggest weekly outflow in 14 months",
+          "published_at": null,
+          "updated_at": null,
+          "published_date": "2026-11-27",
+          "publication_precision": "date",
+          "verification_url": "https://live.euronext.com/en/financial-news/global-equity-funds-log-biggest-weekly-outflow-14-months"
+        },
+        {
+          "url": "https://www.reuters.com/business/aerospace-defense/norse-atlantic-says-lessors-terminate-aircraft-agreements-2026-11-27/",
+          "title": "Norse Atlantic lessors demand jets back as airline seeks urgent funding",
+          "published_at": null,
+          "updated_at": null,
+          "published_date": "2026-11-27",
+          "publication_precision": "date",
+          "verification_url": "https://live.euronext.com/en/financial-news/norse-atlantic-lessors-demand-jets-back-airline-seeks-urgent-funding"
+        },
+        {
+          "url": "https://www.reuters.com/business/retail-consumer/indonesian-police-arrest-three-over-alleged-dian-swastatika-share-manipulation-2026-11-27/",
+          "title": "Indonesian police arrest three over alleged Dian Swastatika share manipulation, official says",
+          "published_at": null,
+          "updated_at": null,
+          "published_date": "2026-11-27",
+          "publication_precision": "date",
+          "verification_url": "https://ca.marketscreener.com/news/indonesia-police-arrest-three-over-alleged-dian-swastatika-share-manipulation-official-says-ce7851d9da81f022"
+        },
+        {
+          "url": "https://www.reuters.com/world/india/two-indian-state-run-financiers-eye-debut-dollar-debt-before-rbi-window-shuts-2026-11-27/",
+          "title": "Two Indian state-run financiers eye debut dollar debt before RBI window shuts, bankers say",
+          "published_at": null,
+          "updated_at": null,
+          "published_date": "2026-11-27",
+          "publication_precision": "date",
+          "verification_url": "https://uk.marketscreener.com/news/two-indian-state-run-financiers-eye-debut-dollar-debt-before-rbi-window-shuts-bankers-say-ce7851d9dd89f325"
+        },
+        {
+          "url": "https://www.reuters.com/world/middle-east/turkeys-capital-markets-catch-cold-funds-crisis-2026-11-26/",
+          "title": "Turkey's capital markets catch cold from funds crisis",
+          "published_at": null,
+          "updated_at": null,
+          "published_date": "2026-11-26",
+          "publication_precision": "date",
+          "verification_url": "https://www.devdiscourse.com/article/international/4012849-turkeys-capital-markets-catch-cold-from-funds-crisis"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261127-GLOBAL-FUND-FLOWS-WEEK-NOV25",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "GLOBAL MARKETS / AI / EQUITIES / UST / CREDIT / FUND FLOWS",
+          "headline": "Global equity funds lose US$22.73bn while government-bond funds attract inflows",
+          "body": "Reuters reported LSEG Lipper data showing net global equity-fund withdrawals of US$22.73 billion in the week ended 25 November 2026, the largest weekly outflow in 14 months. US and Asian equity funds lost US$30.57 billion and US$2.75 billion respectively, while European equity funds gained US$7.29 billion. Global bond funds lost US$3.51 billion overall, despite US$7.14 billion entering government-bond funds; high-yield funds lost US$1.54 billion. These are weekly fund flows, not prices, investment returns or current-day trading. Selected regional and bond categories are not necessarily additive.",
+          "analysis": "Investors can reduce equity and lower-quality credit exposure while selectively buying government debt. Fund inflows alone do not guarantee a positive bond-price return.",
+          "watch_next": "Subsequent weekly flows, credit spreads and evidence of AI-related cash generation.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/china/global-markets-flows-graphic-2026-11-27/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261126-NORSE-ATLANTIC-LIQUIDITY",
+          "version": 2,
+          "status": "follow-up",
+          "freshness": "catch-up",
+          "topic": "SINGAPORE / BOC AVIATION / CORPORATE CREDIT / AIRLINES",
+          "headline": "Norse Atlantic disputes notices terminating leases across its 12-aircraft fleet",
+          "body": "Reuters reported Norse Atlantic receiving termination notices for leases covering all 12 aircraft in its fleet. The airline contested their validity and continued seeking urgent short-term funding. The lessors included AerCap and Singapore-based BOC Aviation. Reuters recorded Norse shares down 45% at 08:37 GMT on 27 November, or 16:37 SGT, with a 99.6% year-to-date decline. Those are dated share observations, not current quotes. At the source report’s 20:29:27 SGT cutoff, this reviewed development did not establish a formal bankruptcy filing or a quantified loss for either lessor; later developments are outside this edition.",
+          "analysis": "Lease termination notices add operational uncertainty to financing pressure. Airline liquidity, contractual disputes and any actual lessor losses require separate assessment.",
+          "watch_next": "Funding announcements, resolution of lease disputes and any subsequent formal insolvency filing.",
+          "earlier": "Retained v1 covered the 26 November flight suspension and a bankruptcy warning conditional on financing failure. This v2 adds the disputed lease termination notices and preserves that earlier context.",
+          "source_urls": [
+            "https://www.reuters.com/business/aerospace-defense/norse-atlantic-says-lessors-terminate-aircraft-agreements-2026-11-27/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261117-INDONESIA-MSCI-RUPIAH-POLITICAL-RISK",
+          "version": 4,
+          "status": "follow-up",
+          "freshness": "catch-up",
+          "topic": "INDONESIA / MSCI / EQUITIES / GOVERNANCE",
+          "headline": "Indonesia police announce three arrests in alleged Dian Swastatika share manipulation",
+          "body": "Reuters reported Indonesian police announcing three arrests over alleged manipulation of Dian Swastatika Sentosa trading volumes to meet MSCI index-inclusion criteria. Police alleged profits of IDR10 trillion from overseas-account transactions. These are police allegations, not convictions or independently established realised profits. The company did not immediately respond to Reuters. No isolated share-price reaction or newly completed MSCI market reclassification was verified in this edition.",
+          "analysis": "Criminal enforcement adds a substantive development to the retained ownership-transparency and index-eligibility event. Allegations and any eventual index decision remain distinct.",
+          "watch_next": "Court proceedings, company responses, ownership disclosures and MSCI’s assessment.",
+          "earlier": "Retained v1 described Indonesia’s MSCI-related market risks; v2 added MSCI’s consultation clarification; v3 added exchange penalties for five issuers. The producer’s sanctions alias v1 maps to retained v3. Its new police-enforcement alias v2 therefore becomes canonical v4, preserving all three predecessors rather than duplicating or restarting the same event.",
+          "source_urls": [
+            "https://www.reuters.com/business/retail-consumer/indonesian-police-arrest-three-over-alleged-dian-swastatika-share-manipulation-2026-11-27/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261127-INDIA-STATE-FINANCIERS-USD-DEBT",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "INDIA / RBI / USD / IG CREDIT / BONDS",
+          "headline": "IIFCL and UCO Bank consider debut US-dollar bond offerings before RBI hedge window closes",
+          "body": "Bankers told Reuters that India Infrastructure Finance Company (IIFCL) could seek about US$500 million through five-year bonds, while UCO Bank could issue US$250–300 million with a three- or five-year maturity. They were considering issuance before the Reserve Bank of India’s subsidised hedging window closes on 31 December 2026. Reuters reported IIFCL’s S&P Global Ratings assessment at BBB, and UCO debt rated BBB by S&P Global Ratings and BBB− by Fitch. The amounts, maturities and timing remain prospective; no final coupon, issue spread, issuance yield or completed fundraising was established.",
+          "analysis": "Benchmark Treasury yields, issuer credit spreads and currency hedging costs jointly determine financing economics. A proposed issue is separate from funds received or an actual borrowing cost.",
+          "watch_next": "Offering documents, final pricing and ratings, investor demand and the hedge-window deadline.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/india/two-indian-state-run-financiers-eye-debut-dollar-debt-before-rbi-window-shuts-2026-11-27/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261127-TURKEY-FUND-CRISIS-CAPITAL-MARKETS",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "TURKEY / CREDIT / LIQUIDITY / GOVERNANCE",
+          "headline": "Turkey’s fund crisis restricts capital-market issuance and leaves IPO applicants waiting",
+          "body": "Reuters described financing pressure following Turkey’s September investment-fund collapse. Corporate bond issue counts fell from 119 in August 2026 to 102 in September and 74 in October. Some 119 companies were awaiting IPO approval, with no new IPO approvals since the crisis. These are counts of issues and pending applicants, not borrowing volumes, prices or a count of corporate defaults. The article is an older recovered development, originally dated 26 November; its exact original publication minute was not independently verified for this preview.",
+          "analysis": "Liquidity and confidence problems can constrain refinancing even when no economy-wide default is established. The issue counts do not by themselves quantify losses or future credit performance.",
+          "watch_next": "Regulatory measures, investor repayments and the recovery of primary-market issuance.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/middle-east/turkeys-capital-markets-catch-cold-funds-crisis-2026-11-26/"
+          ],
+          "development_at": null
+        }
+      ]
+    },
     {
       "id": "reuters-20261127T154808-SGT",
       "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
