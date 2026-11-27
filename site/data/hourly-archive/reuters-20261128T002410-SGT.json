@@ -1,0 +1,198 @@
+{
+  "id": "reuters-20261128T002410-SGT",
+  "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+  "report_at": "2026-11-28T00:26:01+08:00",
+  "cutoff": "2026-11-28T00:24:10+08:00",
+  "window_start": "2026-11-27T20:29:27+08:00",
+  "coverage": "partial",
+  "summary": "US goods trade, Taiwan’s AI-led growth forecasts, Germany’s budget and Citi’s FX-hedging analysis, plus connected Norse bankruptcy, Nagel and US bond-flow updates. Four new previews and three follow-ups; two source follow-ups and the full detailed report remain held.",
+  "limitations": [
+    "Partial targeted report: cutoff 28 November 2026 00:24:10 SGT, completed 00:26:01. Window starts 27 November 20:29:27, primary window 23:24:10–00:24:10 and discovery overlap 20:14:27. No complete scan cutoff is established; earlier gaps remain.",
+    "Seven verified previews: four new stories and three connected follow-ups (Norse v3, Nagel v2 and weekly fund flows v2). SAP v2 is held because v1 is absent; India equity-flow/rupee v8 is held because v7 is absent. No missing predecessor chain is treated as recovered.",
+    "Reuters-attributed reporting corroborates the public preview facts. Original publication is independently resolved only to the date, 27 November 2026. Producer-displayed minute times and syndication updates are not substituted for exact original publication timestamps. No fresh executable FX quotes or isolated market reactions are verified.",
+    "Taiwan growth figures are forecasts; German borrowing is a budget plan, not completed issuance; weekly flows are separate from prices or returns. Norse bankruptcy concerns the Norwegian operating subsidiary and excludes the listed parent. The source’s Goldman Sachs GDP estimate is omitted from the public preview because it was not independently corroborated in the reviewed text.",
+    "Metadata is only a preview. Full detailed publication remains held because the approved process lacks the hourly channel, immutable exact-cutoff identities for multiple reports per day and matching full-report reader/card/search links. Complete available original generated research, nine-source register, supplied metrics and a section/table/chart/emphasis checklist are retained privately.",
+    "The 43,452-byte original attachment was downloaded and matched its displayed SHA-256. Some rendered native charts and exact presentation assets/data are not retained in the JSON; full desktop/mobile presentation and completeness approval remain held. No extract is presented as the complete original dashboard.",
+    "All retained hourly stories and available published research reports were checked for event overlap. Fresh daily producer chats and exhaustive missing chains were not retrieved. Producer schedule state was not independently verified and remains unchanged."
+  ],
+  "original_url": null,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/business/us-goods-trade-deficit-widens-sharply-october-2026-11-27/",
+      "title": "US goods trade deficit deteriorates further as AI helps to lift imports to record high",
+      "published_at": null,
+      "updated_at": null,
+      "published_date": "2026-11-27",
+      "publication_precision": "date",
+      "verification_url": "https://www.marketscreener.com/news/us-goods-trade-deficit-deteriorates-further-as-ai-helps-to-lift-imports-to-record-high-ce7851d9de8af525"
+    },
+    {
+      "url": "https://www.reuters.com/legal/litigation/airline-norse-atlantics-norwegian-operating-unit-declares-bankruptcy-2026-11-27/",
+      "title": "Airline Norse Atlantic's Norwegian operating unit declares bankruptcy",
+      "published_at": null,
+      "updated_at": null,
+      "published_date": "2026-11-27",
+      "publication_precision": "date",
+      "verification_url": "https://uk.marketscreener.com/news/airline-norse-atlantic-s-norwegian-operating-unit-declares-bankruptcy-ce7851d9df8df723"
+    },
+    {
+      "url": "https://www.reuters.com/world/asia-pacific/taiwans-economy-expected-grow-its-fastest-rate-nearly-50-years-due-ai-demand-2026-11-27/",
+      "title": "Taiwan's economy expected to grow at its fastest rate in nearly 50 years due to AI demand",
+      "published_at": null,
+      "updated_at": null,
+      "published_date": "2026-11-27",
+      "publication_precision": "date",
+      "verification_url": "https://ca.marketscreener.com/news/taiwan-raises-2026-gdp-growth-projection-to-13-28-on-strong-ai-demand-ce7851d9da80f726"
+    },
+    {
+      "url": "https://www.reuters.com/world/german-lower-house-parliament-passes-2027-budget-2026-11-27/",
+      "title": "German lower house of parliament passes 2027 budget",
+      "published_at": null,
+      "updated_at": null,
+      "published_date": "2026-11-27",
+      "publication_precision": "date",
+      "verification_url": "https://www.devdiscourse.com/article/international/4013294-german-lower-house-of-parliament-passes-2027-budget"
+    },
+    {
+      "url": "https://www.reuters.com/business/us-stock-selloffs-trigger-new-kind-dollar-bounce-2026-11-27/",
+      "title": "US stock selloffs trigger a new kind of dollar bounce",
+      "published_at": null,
+      "updated_at": null,
+      "published_date": "2026-11-27",
+      "publication_precision": "date",
+      "verification_url": "https://www.investing.com/news/economy-news/us-stock-selloffs-trigger-a-new-kind-of-dollar-bounce-5053494"
+    },
+    {
+      "url": "https://www.reuters.com/business/finance/ecb-may-have-raise-rates-further-inflation-stays-above-3-2026-11-27/",
+      "title": "ECB may have to raise rates further as inflation stays above 3%",
+      "published_at": null,
+      "updated_at": null,
+      "published_date": "2026-11-27",
+      "publication_precision": "date",
+      "verification_url": "https://live.euronext.com/en/financial-news/ecb-may-have-raise-rates-further-inflation-stays-above-3"
+    },
+    {
+      "url": "https://www.reuters.com/business/us-equity-funds-post-biggest-outflows-11-weeks-tech-rout-weighs-2026-11-27/",
+      "title": "US equity funds post biggest outflows in 11 weeks as tech rout weighs",
+      "published_at": null,
+      "updated_at": null,
+      "published_date": "2026-11-27",
+      "publication_precision": "date",
+      "verification_url": "https://www.investing.com/news/stock-market-news/us-equity-funds-post-biggest-outflows-in-11-weeks-as-tech-rout-weighs-5053333"
+    }
+  ],
+  "stories": [
+    {
+      "story_id": "R-20261127-US-OCT-GOODS-TRADE-DEFICIT",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "US / AI / macro / trade / GDP",
+      "headline": "US October goods deficit reaches US$149.5bn as AI investment raises imports",
+      "body": "Reuters reported that the US goods trade deficit rose 10.7% to US$149.5 billion in October 2026, against a Reuters poll forecast of US$133 billion. Goods imports rose 6.1% to US$365.3 billion and exports increased 3.2% to US$215.8 billion. Capital-goods imports increased 8.5% from September and 80.0% from October 2025. These are merchandise-trade figures, not the combined goods-and-services balance or a completed fourth-quarter GDP result.",
+      "analysis": "Imported AI equipment can support business investment while subtracting from the domestic GDP accounting contribution of net exports. Strong demand and a wider goods deficit can therefore coexist; no isolated price reaction is established.",
+      "watch_next": "Full trade figures, capital-goods imports and actual fourth-quarter GDP.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/business/us-goods-trade-deficit-widens-sharply-october-2026-11-27/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261126-NORSE-ATLANTIC-LIQUIDITY",
+      "version": 3,
+      "status": "follow-up",
+      "freshness": "catch-up",
+      "topic": "Norway / Singapore / credit / aviation / BOC Aviation",
+      "headline": "Norse Atlantic’s Norwegian operating subsidiary enters bankruptcy; listed parent excluded",
+      "body": "Reuters reported on 27 November that Norse Atlantic Airways AS, the Norwegian operating subsidiary, had declared bankruptcy. The listed parent, Norse Atlantic ASA, and other group companies were outside this filing and continued seeking a way to preserve operations. This development follows the flight suspension and disputed termination notices covering the 12-aircraft fleet. It does not establish a quantified recovery or loss for BOC Aviation, AerCap or another creditor.",
+      "analysis": "The development changes the operating subsidiary’s status from conditional funding distress to an actual insolvency event. Creditor exposure depends on the exact legal entity, collateral and subsequent proceedings.",
+      "watch_next": "Court and company notices, creditor recoveries, aircraft repossession and financing for the remaining group.",
+      "earlier": "Retained v1 covered the 26 November flight suspension and conditional bankruptcy warning. Retained v2, cutoff 27 November 20:29:27 SGT, covered disputed lease terminations and did not establish a formal filing as of that cutoff. This v3 adds the subsequent subsidiary bankruptcy and distinguishes the parent.",
+      "source_urls": [
+        "https://www.reuters.com/legal/litigation/airline-norse-atlantics-norwegian-operating-unit-declares-bankruptcy-2026-11-27/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261127-TAIWAN-GDP-FORECAST-AI",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "Taiwan / AI / TSMC / NVDA / GDP / exports",
+      "headline": "Taiwan raises its 2026 growth forecast to 13.28% on AI demand",
+      "body": "Reuters reported Taiwan’s statistics agency raising its 2026 GDP growth forecast from 11.05% to 13.28%, which would be the fastest expansion since 1978 if realised. Its 2027 growth forecast increased from 6.04% to 6.51%. These are forecasts for separate calendar years, not realised annual growth. Semiconductor equities in this supply-chain context include Taiwan Semiconductor Manufacturing (TSMC); Reuters identifies Nvidia and Apple Inc. as customers. Their involvement is economic context, not a new earnings forecast or share-price signal.",
+      "analysis": "AI demand supports Taiwan’s growth outlook while concentrating exposure to overseas technology spending and US export restrictions. Forecast revisions do not remove demand, regulation or financing risks.",
+      "watch_next": "Actual exports and GDP releases, semiconductor orders and US export controls.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/asia-pacific/taiwans-economy-expected-grow-its-fastest-rate-nearly-50-years-due-ai-demand-2026-11-27/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261127-GERMANY-2027-BUDGET-PASSED",
+      "version": 1,
+      "status": "new",
+      "freshness": "current",
+      "topic": "Germany / EUR / Bunds / fiscal policy / sovereign debt",
+      "headline": "German lower house approves €556bn 2027 budget with €210.4bn planned borrowing",
+      "body": "Reuters reported the Bundestag approving Germany’s 2027 federal budget by 317 votes to 260. Core spending is approximately €556 billion. Total planned new borrowing, including special funds, is €210.4 billion, compared with the €215.4 billion recorded in 2021. Core defence spending rises from €82.2 billion in 2026 to €109.7 billion in 2027; projected core interest costs are €41.4 billion in 2027. Budget approval and planned borrowing are distinct from completed bond issuance and an observed Bund yield.",
+      "analysis": "Fiscal spending can support activity while additional sovereign debt supply and debt-service costs affect duration risk. The report establishes the lower-house vote, without assigning a measured market repricing.",
+      "watch_next": "Remaining legislative steps, the German debt issuance calendar, Bund yields and later budget negotiations.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/german-lower-house-parliament-passes-2027-budget-2026-11-27/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261127-US-EQUITY-FX-HEDGE-REBALANCING",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "US / USD / FX / equities / hedging",
+      "headline": "Citi links some US-dollar buying after equity declines to FX hedge rebalancing",
+      "body": "Reuters described Citi observing net US-dollar buying by its global real-money clients on 20 and 23 November 2026 after equity losses, then net dollar selling on 24 November after a rebound. Reuters cited foreign ownership of US equities of roughly US$25 trillion as of September, approximately double the level three years earlier. These are dated portfolio and client-flow observations, not current USD/SGD or CHF/SGD quotes, and do not describe every investor.",
+      "analysis": "A hedged foreign equity investor may buy dollars to reduce an existing short-dollar hedge when the value of US shares falls. This mechanism can support USD after an equity selloff, but it is one influence alongside rates, risk sentiment and other flows.",
+      "watch_next": "Month-end hedge adjustments and actual dated USD/SGD, USD/CHF and CHF/SGD quotations.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/business/us-stock-selloffs-trigger-new-kind-dollar-bounce-2026-11-27/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261103-ECB-NAGEL-DEC-HIKE",
+      "version": 2,
+      "status": "follow-up",
+      "freshness": "catch-up",
+      "topic": "ECB / Germany / EUR / inflation / rates",
+      "headline": "Nagel says euro-area inflation could remain above 3% in 2027",
+      "body": "Reuters reported Bundesbank President and European Central Bank policymaker Joachim Nagel saying on 27 November that euro-area inflation could remain above 3% for some time in 2027. He said further interest-rate tightening might be needed as soon as December. This is one policymaker’s assessment and conditional guidance, not a confirmed ECB rate decision or a measured change in market-implied probabilities.",
+      "analysis": "The 2027 inflation warning adds context to previously retained December-rate guidance. Inflation persistence remains relevant to duration risk; comments alone do not establish a new policy rate.",
+      "watch_next": "Official ECB decisions and incoming inflation and wage data.",
+      "earlier": "Retained v1, cutoff 3 November 2026 19:26:27 UTC (4 November 03:26:27 SGT), described a likely December rise unless inflation improved. This v2 adds Nagel’s 27 November warning about inflation remaining above 3% into 2027.",
+      "source_urls": [
+        "https://www.reuters.com/business/finance/ecb-may-have-raise-rates-further-inflation-stays-above-3-2026-11-27/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261127-GLOBAL-FUND-FLOWS-WEEK-NOV25",
+      "version": 2,
+      "status": "follow-up",
+      "freshness": "catch-up",
+      "topic": "US / UST / IG / credit / fund flows",
+      "headline": "US fund-flow detail separates government-bond inflows from investment-grade withdrawals",
+      "body": "Reuters reported additional LSEG Lipper US fund data for the week ended 25 November 2026: short-to-intermediate investment-grade funds lost US$6.51 billion, while short-to-intermediate government and Treasury funds gained US$5.21 billion. Overall US bond-fund withdrawals were US$649 million, compared with US$5.59 billion the preceding week. These are weekly fund flows; selected categories are not additive, and their differing classifications should not be treated as a full reconciliation.",
+      "analysis": "The breakdown distinguishes demand for government duration exposure from corporate credit exposure. Fund withdrawals alone do not establish default, losses or a measured widening of credit spreads.",
+      "watch_next": "Subsequent weekly flows and dated credit spreads at comparable maturities.",
+      "earlier": "Retained v1 reported global equity withdrawals of US$22.73 billion and global government-bond inflows of US$7.14 billion for the same week. This v2 adds the distinct US bond-category breakdown; it does not count that global equity story again as new.",
+      "source_urls": [
+        "https://www.reuters.com/business/us-equity-funds-post-biggest-outflows-11-weeks-tech-rout-weighs-2026-11-27/"
+      ],
+      "development_at": null
+    }
+  ]
+}
