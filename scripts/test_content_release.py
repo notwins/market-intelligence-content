@@ -2,6 +2,7 @@ import json,shutil,tempfile,unittest
 from pathlib import Path
 from content_release import ROOT,validate_site,build,preserve
 from research_feed import canonical
+from archive_navigation import restore
 from test_research_feed import bundle as original_bundle,save
 from publication_colour import enrich_html
 from research_feed import read,digest
@@ -29,6 +30,8 @@ class IndependentReleaseTests(unittest.TestCase):
         p,v=bundle(self.base);accept(self.repo,p,v)
         result=build(self.base/'deployed-content',self.repo);self.assertEqual(result['reports'],initial_reports+1)
         report=self.base/'deployed-content/research/test-alpha-2026-11-14/index.html';original=report.read_bytes()
+        source=self.repo/'site/research/test-alpha-2026-11-14/index.html'
+        self.assertEqual(restore(original),source.read_bytes())
         (ui/'index.html').write_text('UI B');(ui/'index.html').write_text('UI A')
         self.assertEqual(report.read_bytes(),original)
         catalog=json.loads((self.base/'deployed-content/data/site-search.json').read_text())

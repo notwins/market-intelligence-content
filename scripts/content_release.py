@@ -6,6 +6,7 @@ from research_feed import ROOT,read,canonical,require,compile_feed,digest
 from import_hourly_news import validate,merge,empty_feed
 from public_data_projection import private_url
 from verify_research_destinations import verify_staged
+from archive_navigation import decorate, restore
 import read_ups
 
 BASE='https://notwins.github.io/market-intelligence-content/'
@@ -103,8 +104,14 @@ def build(output,repo=ROOT):
     revision=subprocess.check_output(['git','rev-parse','HEAD'],cwd=repo,text=True).strip()
     (output/'data/delivery.json').write_bytes(canonical({'schema_version':1,'source_revision':revision,'research_revision':feed['revision'],'hourly_cutoff':news['editions'][0]['cutoff'] if news['editions'] else None}))
     subprocess.run(['node',str(repo/'scripts/render_content_index.cjs'),str(output)],check=True)
-    verify_staged(output)
-    return {'result':'passed','reports':len(feed['records']),'hourly_editions':len(news['editions']),'source_revision':revision}
+    pages = sorted(output.rglob('*.html'))
+    for page in pages:
+        original = page.read_bytes()
+        page.write_bytes(decorate(original))
+        require(restore(page.read_bytes()) == original, 'Archive navigation changed content: '+str(page.relative_to(output)))
+    verify_staged(output, source_site=site, archive_navigation=True)
+    return {'result':'passed','reports':len(feed['records']),'hourly_editions':len(news['editions']),
+            'source_revision':revision,'archive_navigation_pages':len(pages)}
 
 if __name__=='__main__':
     p=argparse.ArgumentParser();p.add_argument('--output',type=Path,required=True);p.add_argument('--before');p.add_argument('--head');a=p.parse_args()
