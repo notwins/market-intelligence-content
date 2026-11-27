@@ -2,13 +2,111 @@
   "schema_version": 1,
   "source_name": "Reuters Hourly News",
   "source_url": null,
-  "publisher_checked_at": "2026-11-27T04:24:09+08:00",
+  "publisher_checked_at": "2026-11-27T12:23:25+08:00",
   "last_complete_cutoff": null,
   "source_schedule": {
     "status": "Active",
     "checked_at": "2026-11-03T18:21:21+08:00"
   },
   "editions": [
+    {
+      "id": "reuters-20261127T121020-SGT",
+      "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+      "report_at": "2026-11-27T12:11:58+08:00",
+      "cutoff": "2026-11-27T12:10:20+08:00",
+      "window_start": "2026-11-27T08:05+08:00",
+      "coverage": "partial",
+      "summary": "China’s uneven industrial-profit recovery, Indonesia shareholder-data sanctions and New Zealand’s final election count. Three reviewed previews; India and gold follow-ups held for missing predecessors. Earlier gaps persist. Full detailed report remains held.",
+      "limitations": [
+        "Partial targeted report, cutoff 27 November 2026 12:10:20 SGT and completion 12:11:58 SGT. The source gives its window start only to the minute, 08:05 SGT; no exact start seconds are inferred. Primary window 11:10–12:10, discovery overlap from 07:50. Earlier coverage gaps, including the unpublished 08:05 report, remain; the complete-scan cutoff does not advance.",
+        "Three reviewed previews: two events new to the hourly register and one connected follow-up. All retain the source’s catch-up label. Indonesia’s new sanctions alias continues the retained MSCI/transparency event as v3, preserving v1 and v2. Related daily coverage does not represent an additional source scan.",
+        "Two source follow-ups remain held: Indian equity inflows v7 lacks retained source v6, and gold rebound v5 lacks v4. Older related India-flow records do not supply the missing intervening chain. These later versions are not renamed or renumbered as new stories.",
+        "Preview facts were corroborated in accessible Reuters-attributed syndication text. Original publication was independently established to 27 November 2026 only; source-displayed minutes and carrier revision headers are not promoted to verified original publication timestamps. Market prices and index moves not independently reviewed are omitted.",
+        "Metadata is a preview, not the full report. The complete detailed dashboard remains held because the approved full-report process lacks an hourly channel, immutable time-aware identities for multiple daily cutoffs, and exact full-edition card/search links. The complete available generated text, six-source register, chart widget data and supplied SVG are retained privately.",
+        "The matching JSON attachment was not retrieved or checksum-verified in this run. Some native chart/table values and original visual presentation are absent from the text export; full-output desktop/mobile completeness and presentation approval remain held. The source’s 25bp policy-move label is not treated as a probability.",
+        "All retained hourly editions, published research records and saved daily-desk records were checked for overlapping events. Fresh daily producer chats and exhaustive earlier source archives were not read. Current producer schedule status was not independently checked."
+      ],
+      "original_url": null,
+      "sources": [
+        {
+          "url": "https://www.reuters.com/markets/asia/chinese-industrial-profit-rises-16-january-october-2026-11-27/",
+          "title": "China’s industrial profit growth fastest in five months as recovery remains uneven",
+          "published_at": null,
+          "published_date": "2026-11-27",
+          "publication_precision": "date",
+          "updated_at": null,
+          "verification_url": "https://wixx.com/2026/11/26/chinas-industrial-firms-post-faster-profit-growth-as-recovery-remains-uneven/"
+        },
+        {
+          "url": "https://www.reuters.com/markets/asia/indonesia-bourse-sanctions-five-companies-over-shareholder-data-2026-11-27/",
+          "title": "Indonesia bourse sanctions five companies over shareholder data",
+          "published_at": null,
+          "published_date": "2026-11-27",
+          "publication_precision": "date",
+          "updated_at": null,
+          "verification_url": "https://uk.marketscreener.com/news/indonesia-bourse-sanctions-five-companies-over-shareholder-data-ce7851d9db8bf426"
+        },
+        {
+          "url": "https://www.reuters.com/world/asia-pacific/new-zealands-ruling-coalition-falls-just-short-majority-final-election-count-2026-11-27/",
+          "title": "New Zealand’s ruling coalition falls just short of majority, needs centrist Opportunity to govern",
+          "published_at": null,
+          "published_date": "2026-11-27",
+          "publication_precision": "date",
+          "updated_at": null,
+          "verification_url": "https://new.streetinsider.com/Reuters/New%2BZealand%E2%80%99s%2Bruling%2Bcoalition%2Bfalls%2Bjust%2Bshort%2Bof%2Bmajority%2C%2Bneeds%2Bcentrist%2BOpportunity%2Bto%2Bgovern/27404901.html"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261127-CHINA-OCT-INDUSTRIAL-PROFITS",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "CHINA / INDUSTRIAL PROFITS / ARTIFICIAL INTELLIGENCE / EQUITIES / ECONOMIC DATA",
+          "headline": "China’s October industrial profit growth reaches 20.1%, with an uneven recovery",
+          "body": "Reuters reported Chinese industrial firms’ October profits rising 20.1% year on year. January–October profit growth was 16% year on year, a cumulative measure distinct from the single-month rate. Artificial intelligence (AI)-related manufacturing remained stronger than businesses exposed to weak domestic demand. The figures do not establish a broad recovery in consumption or property. Equity-index moves shown in the source dashboard are omitted from this preview because their individual observation times and attribution were not independently reviewed.",
+          "analysis": "A strong aggregate profit reading can conceal sector weakness. Its implications for monetary easing depend on the breadth and persistence of the recovery.",
+          "watch_next": "Domestic demand, export growth, AI investment and People’s Bank of China policy.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/markets/asia/chinese-industrial-profit-rises-16-january-october-2026-11-27/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261117-INDONESIA-MSCI-RUPIAH-POLITICAL-RISK",
+          "version": 3,
+          "status": "follow-up",
+          "freshness": "catch-up",
+          "topic": "INDONESIA / MSCI / EQUITIES / SHAREHOLDER DISCLOSURE / FREE FLOAT / GOVERNANCE",
+          "headline": "Indonesia’s exchange penalises five listed companies over shareholder-data discrepancies",
+          "body": "Reuters reported the Indonesia Stock Exchange penalising five listed companies after they failed to clarify or correct discrepancies in controlling-shareholder information and monthly ownership reports. The exchange did not specify the penalties. This is an enforcement development; it is not a completed MSCI reclassification, proof of passive-fund outflows or a verified isolated share-price reaction.",
+          "analysis": "Ownership transparency matters for index eligibility and investor confidence. Regulatory sanctions and any later index decision remain separate actions.",
+          "watch_next": "Corrective ownership disclosures and MSCI’s subsequent assessment.",
+          "earlier": "Retained v1 covered Indonesia’s MSCI-related market risks; v2 added MSCI’s clarification that its reclassification proposal remained under review. This v3 adds the exchange’s enforcement action. The source’s new sanctions-story alias is reconciled to that retained transparency event rather than duplicating its history.",
+          "source_urls": [
+            "https://www.reuters.com/markets/asia/indonesia-bourse-sanctions-five-companies-over-shareholder-data-2026-11-27/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261127-NZ-FINAL-ELECTION-COALITION",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "NEW ZEALAND / NZD / CHRISTOPHER LUXON / ELECTIONS / FISCAL POLICY",
+          "headline": "New Zealand’s ruling coalition falls one seat short of a parliamentary majority",
+          "body": "Reuters reported final election results giving Prime Minister Christopher Luxon’s ruling centre-right coalition in New Zealand 65 of 130 parliamentary seats, against the 66 required for a majority. The Opportunity Party won seven seats, and its leader said she would negotiate with National first. A coalition or confidence-and-supply agreement had not been completed. The final count changes the preliminary result; it does not establish the eventual governing agreement. No numerical NZD quotation is included in this preview.",
+          "analysis": "Government formation creates uncertainty over fiscal policy and currency sentiment; seat counts do not establish a financial-market return.",
+          "watch_next": "Coalition or confidence-and-supply negotiations and any confirmed agreement.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/asia-pacific/new-zealands-ruling-coalition-falls-just-short-majority-final-election-count-2026-11-27/"
+          ],
+          "development_at": null
+        }
+      ]
+    },
     {
       "id": "reuters-20261127T040520-SGT",
       "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
