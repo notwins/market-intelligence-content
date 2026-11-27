@@ -1,7 +1,21 @@
 {
   "schema_version": 1,
-  "through": "2026-11-26T20:00:00+08:00",
+  "through": "2026-11-27T08:00:00+08:00",
   "entries": [
+    {
+      "id": "R-20261126-KAZAKHSTAN-RUSSIA-AI-COOPERATION",
+      "version": 1,
+      "headline": "Kazakhstan advances AI cooperation with Russia",
+      "href": "https://www.reuters.com/business/finance/kazakhstan-boosts-ai-cooperation-with-russia-which-is-hungry-advanced-us-chips-2026-11-26/",
+      "topic": "KAZAKHSTAN / RUSSIA / ARTIFICIAL INTELLIGENCE / NVIDIA / NVDA / EXPORT CONTROLS",
+      "cutoff": "2026-11-27T04:05:20+08:00",
+      "published": "2026-11-26",
+      "selected": "2026-11-27T08:00:00+08:00",
+      "reasons": [
+        "Watchlist · NVDA"
+      ],
+      "score": 8
+    },
     {
       "id": "R-20261125-FSB-GSIB-CAPITAL-BUFFER-BNP-MUFG",
       "version": 1,
@@ -16,6 +30,34 @@
         "Major companies"
       ],
       "score": 19
+    },
+    {
+      "id": "R-20261126-NORSE-ATLANTIC-LIQUIDITY",
+      "version": 1,
+      "headline": "Norse Atlantic suspends flights and gives a conditional bankruptcy warning",
+      "href": "https://www.reuters.com/business/aerospace-defense/airline-norse-atlantic-suspends-flights-warns-possible-bankruptcy-2026-11-26/",
+      "topic": "NORWAY / NORSE ATLANTIC / AIRLINES / CREDIT / LIQUIDITY / ENERGY",
+      "cutoff": "2026-11-26T19:40:52+08:00",
+      "published": "2026-11-26",
+      "selected": "2026-11-26T20:00:00+08:00",
+      "reasons": [
+        "Credit stress"
+      ],
+      "score": 12
+    },
+    {
+      "id": "R-20261126-ADANI-ENTERPRISES-PUBLIC-BOND-SALE",
+      "version": 1,
+      "headline": "Adani Enterprises considers a December public bond offering",
+      "href": "https://www.reuters.com/world/india/indias-adani-flagship-unit-eyes-december-public-bond-sale-bankers-say-2026-11-26/",
+      "topic": "INDIA / ADANI ENTERPRISES / CORPORATE CREDIT / BONDS / PROPOSED ISSUANCE",
+      "cutoff": "2026-11-26T19:40:52+08:00",
+      "published": "2026-11-26",
+      "selected": "2026-11-26T20:00:00+08:00",
+      "reasons": [
+        "Bonds and credit"
+      ],
+      "score": 8
     },
     {
       "id": "R-20261126-BOK-RATE-HIKE-325",
@@ -47,12 +89,12 @@
     },
     {
       "id": "R-20261125-AI-CREDIT-CDS-DISTRESS",
-      "version": 1,
-      "headline": "AI credit stress spreads across borrowers as CoreWeave bond yields approach 18%",
-      "href": "https://www.reuters.com/business/media-telecom/global-markets-ai-cds-urgent-2026-11-25/",
-      "topic": "US / NVIDIA / COREWEAVE / ORACLE / SOFTBANK / ALPHABET / SPACEX / AI / CORPORATE CREDIT / CDS",
-      "cutoff": "2026-11-26T03:40:57+08:00",
-      "published": "2026-11-25",
+      "version": 2,
+      "headline": "Bank of England warns that AI borrowing could transmit financial stress",
+      "href": "https://www.reuters.com/business/finance/bank-england-sees-growing-financial-risks-ai-borrowing-surges-2026-11-26/",
+      "topic": "UK / BANK OF ENGLAND / AI / CORPORATE CREDIT / FINANCIAL STABILITY",
+      "cutoff": "2026-11-27T00:05:26+08:00",
+      "published": "2026-11-26",
       "selected": "2026-11-26T08:00:00+08:00",
       "reasons": [
         "Credit stress",
