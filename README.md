@@ -24,6 +24,11 @@ UI changes use the Hub repository and its deployment only. A UI release must ret
 ## Baseline
 Cutover source: Hub commit 3ed568866a968ef0c6d08f4387381f9fc4c46c68.
 Only already-public news metadata and publication identities are retained as a validation baseline. Private material, credentials and review receipts are excluded.
+At publication, full-page HTML receives the shared Hub navigation script. Each
+direct URL, original source file and publication receipt stays the same. The
+deployed HTML validator removes the one exact script tag to verify the original
+digest, and non-HTML assets are verified byte for byte.
+
 The content site is compatible with feed schema 1. Its pinned validators and renderer were taken from the reviewed Hub cutover; adopting future schema changes requires explicit compatibility tests. No runtime build dependency on the UI main branch exists.
 
 

@@ -3,6 +3,7 @@ import argparse,json,subprocess,time
 from urllib.request import Request,urlopen
 from research_feed import ROOT,compile_feed,read
 from content_release import search
+from archive_navigation import decorate
 import read_ups
 
 def verify(base,attempts=12):
@@ -20,7 +21,7 @@ def verify(base,attempts=12):
             for path in (ROOT/'site/data/read-up-records').glob('*.json'):
                 record=read(path)['record'];destination=read_ups.destination(record)
                 with urlopen(Request(base.rstrip('/')+'/'+destination+'?revision='+expected,headers={'Cache-Control':'no-cache'}),timeout=20) as response:
-                    assert response.read()==read_ups.render(record),'Published read-up bytes mismatch'
+                    assert response.read()==decorate(read_ups.render(record)),'Published read-up bytes mismatch'
             return {'source_revision':expected,'reports':len(feed['records']),'hourly_editions':len(news['editions']),'live_data':'exact match'}
         except Exception as exc:
             last=exc
