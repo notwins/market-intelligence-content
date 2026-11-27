@@ -2,13 +2,171 @@
   "schema_version": 1,
   "source_name": "Reuters Hourly News",
   "source_url": null,
-  "publisher_checked_at": "2026-11-27T12:23:25+08:00",
+  "publisher_checked_at": "2026-11-27T17:06:08+08:00",
   "last_complete_cutoff": null,
   "source_schedule": {
     "status": "Active",
     "checked_at": "2026-11-03T18:21:21+08:00"
   },
   "editions": [
+    {
+      "id": "reuters-20261127T154808-SGT",
+      "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
+      "report_at": "2026-11-27T15:50:00+08:00",
+      "cutoff": "2026-11-27T15:48:08+08:00",
+      "window_start": "2026-11-27T12:10+08:00",
+      "coverage": "partial",
+      "summary": "China equity-market support and PMI forecasts, Indonesia fuel-subsidy pressure, China Shenhua placement terms and Australia’s LNG law. Five reviewed previews; tariff and oil follow-ups held for missing predecessors. Earlier gaps persist. Full detailed publication remains held.",
+      "limitations": [
+        "Partial targeted source report, cutoff 27 November 2026 15:48:08 SGT, completed 15:50:00. Its visible window start is minute precision, 12:10 SGT; no start seconds are inferred. Primary window 14:48–15:48, discovery overlap from 11:55 and older eligible catch-up developments. Earlier coverage gaps remain; no complete-scan cutoff advances.",
+        "Five reviewed previews new to the hourly register: four catch-up developments and the current China PMI poll. The source’s two disconnected follow-ups are held: tariffs v9 needs v8 and oil v10 needs v9. No older chain is renamed, renumbered or implied recovered.",
+        "Reuters-attributed syndication corroborated material preview facts. Original publication was independently established only to the date; original minutes and separate revision times remain unverified. Historical prices, forecasts, proposed decisions, future legal obligations and completed actions are distinguished.",
+        "China Shenhua’s terms are described as a planned placement and intended debt repayment. About HK$6.74 billion is a gross fundraising amount, not verified settled cash or realised debt reduction. The source’s completed-fundraising shorthand and its later share-price changes are withheld pending settlement/observation verification. HKEX’s placement announcement also corroborates the offered share count and price.",
+        "Metadata is a preview only. Full detailed publication remains held: the approved report process lacks an hourly channel, immutable exact-time identities for several reports per day and exact full-edition card/search links. The complete available generated research, three source tables, supplied SVG and nine-source register are retained privately with a source-to-output checklist.",
+        "The matching JSON attachment was not obtained or checksum-verified. Native China performance, policy-transmission and Indonesia deficit visuals were absent from the text export; supporting values and original presentation remain unavailable. Full-report desktop/mobile completeness and presentation approval are held; no extract is represented as the full dashboard.",
+        "All retained hourly editions, published research records and saved daily-desk records were checked for overlapping events. Fresh daily producer chats and exhaustive source-side predecessor attachments were not read. Producer schedule status was not independently checked."
+      ],
+      "original_url": null,
+      "sources": [
+        {
+          "url": "https://www.reuters.com/markets/europe/china-stocks-shoot-up-after-beijing-vows-support-2026-11-27/",
+          "title": "China stocks, yuan rally after Beijing vows stronger market support",
+          "published_at": null,
+          "published_date": "2026-11-27",
+          "publication_precision": "date",
+          "updated_at": null,
+          "verification_url": "https://www.investing.com/news/stock-market-news/china-stocks-yuan-rally-after-beijing-vows-stronger-market-support-5053026"
+        },
+        {
+          "url": "https://www.reuters.com/world/china-strengthen-defense-against-imported-risks-capital-markets-2026-11-27/",
+          "title": "China to strengthen defense against imported risks in capital markets",
+          "published_at": null,
+          "published_date": "2026-11-27",
+          "publication_precision": "date",
+          "updated_at": null,
+          "verification_url": "https://www.investing.com/news/economy-news/china-to-strengthen-defense-against-imported-risks-in-capital-markets-5053016"
+        },
+        {
+          "url": "https://www.reuters.com/business/energy/indonesia-considers-subsidised-fuel-price-hike-fiscal-pressure-mounts-sources-2026-11-27/",
+          "title": "Indonesia considers subsidised fuel price hike as fiscal pressure mounts, sources say",
+          "published_at": null,
+          "published_date": "2026-11-27",
+          "publication_precision": "date",
+          "updated_at": null,
+          "verification_url": "https://www.investing.com/news/economy-news/exclusiveindonesia-considers-subsidised-fuel-price-hike-as-fiscal-pressure-mounts-sources-say-5052951"
+        },
+        {
+          "url": "https://www.reuters.com/markets/asia/chinas-factory-slump-likely-extends-november-despite-solid-exports-2026-11-27/",
+          "title": "China’s factory slump likely extends to November despite solid exports",
+          "published_at": null,
+          "published_date": "2026-11-27",
+          "publication_precision": "date",
+          "updated_at": null,
+          "verification_url": "https://www.investing.com/news/economic-indicators/chinas-factory-slump-likely-extends-to-november-despite-solid-exports-5053040"
+        },
+        {
+          "url": "https://www.reuters.com/markets/commodities/china-shenhua-seeks-up-881-million-hong-kong-share-sale-term-sheet-shows-2026-11-26/",
+          "title": "China Shenhua seeks up to $881 million in Hong Kong share sale, term sheet shows",
+          "published_at": null,
+          "published_date": "2026-11-26",
+          "publication_precision": "date",
+          "updated_at": null,
+          "verification_url": "https://www.itiger.com/news/2686548257"
+        },
+        {
+          "url": "https://www.reuters.com/business/energy/australian-parliament-passes-government-plan-reserve-20-lng-domestic-market-2026-11-26/",
+          "title": "Australia clears law requiring LNG exporters to keep 20% for domestic use",
+          "published_at": null,
+          "published_date": "2026-11-27",
+          "publication_precision": "date",
+          "updated_at": null,
+          "verification_url": "https://www.miningweekly.com/article/australia-clears-law-requiring-lng-exporters-to-keep-20-for-domestic-use-2026-11-27"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261127-CHINA-CABINET-CAPITAL-MARKET-SUPPORT",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "CHINA / CNY / LI QIANG / CENTRAL HUIJIN / EQUITIES / ARTIFICIAL INTELLIGENCE / CAPITAL MARKETS",
+          "headline": "China’s cabinet plans stronger support for equities",
+          "body": "Reuters reported a State Council meeting chaired by Premier Li Qiang setting out plans for stronger capital-market stabilisation, a larger Central Huijin role and longer-term institutional investment. Listed companies would be encouraged to increase dividends and share buybacks. Reuters observed the technology-focused STAR 50 index up 12% during afternoon trading; the exact quotation time was unavailable, so this is a historical intraday observation rather than a closing return or executable quote. The preview does not assign a new funding amount.",
+          "analysis": "State-backed buying can support liquidity and sentiment without establishing stronger household demand or sustainable corporate profitability.",
+          "watch_next": "Actual institutional purchases, policy implementation and the breadth of earnings and cash-flow improvement.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/markets/europe/china-stocks-shoot-up-after-beijing-vows-support-2026-11-27/",
+            "https://www.reuters.com/world/china-strengthen-defense-against-imported-risks-capital-markets-2026-11-27/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261127-INDONESIA-SUBSIDISED-FUEL-FISCAL-PRESSURE",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "INDONESIA / IDR / FISCAL POLICY / ENERGY SUBSIDIES / OIL / INFLATION / SOVEREIGN DEBT",
+          "headline": "Indonesia considers higher subsidised fuel prices as budget pressure increases",
+          "body": "Four sources told Reuters that Indonesia was considering raising subsidised fuel prices in early 2027. No final decision or increase size was established. The 2026 energy subsidy budget was expected to reach IDR500 trillion, about US$27.2 billion at the report’s conversion and 30% above the original allocation. Those are expected costs, not a final realised annual total. Existing subsidised prices were IDR10,000 per litre for 90-octane petrol and IDR6,800 for diesel. The Finance Ministry spokesperson said it had no knowledge of discussions on future subsidies.",
+          "analysis": "Keeping subsidies protects purchasing power while sustaining budget pressure; reducing them could ease fiscal costs while raising consumer inflation.",
+          "watch_next": "A formal government decision, revised budget figures and Bank Indonesia guidance.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/energy/indonesia-considers-subsidised-fuel-price-hike-fiscal-pressure-mounts-sources-2026-11-27/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261127-CHINA-NOVEMBER-PMI-POLL",
+          "version": 1,
+          "status": "new",
+          "freshness": "current",
+          "topic": "CHINA / MANUFACTURING / PMI / ECONOMIC FORECASTS / EXPORTS / DOMESTIC DEMAND",
+          "headline": "Reuters poll forecasts another month of contraction in China’s official manufacturing PMI",
+          "body": "A Reuters poll of 13 economists forecast November’s official manufacturing PMI at 49.4, against October’s actual 49.3. The private RatingDog manufacturing PMI was forecast at 51.5, versus October’s actual 52. A reading below 50 signals contraction and above 50 expansion; index levels are not output-growth percentages. These are forecasts for November, not released November results. The source report’s watch dates are 30 November for the official survey and 1 December for the private survey.",
+          "analysis": "A stock-market rally and an expected contractionary manufacturing survey measure different conditions. Technology strength does not establish broad domestic recovery.",
+          "watch_next": "The actual official and private PMI releases, new orders and domestic-demand indicators.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/markets/asia/chinas-factory-slump-likely-extends-november-despite-solid-exports-2026-11-27/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261127-CHINA-SHENHUA-EQUITY-DEBT-REPAYMENT",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "CHINA / HONG KONG / CHINA SHENHUA / 1088 / COAL / EQUITIES / CORPORATE CREDIT / SHARE PLACEMENT",
+          "headline": "China Shenhua Energy sets discounted placement terms with proceeds intended for debt repayment",
+          "body": "Reuters-attributed reporting described China Shenhua Energy’s planned placement of 177 million new Hong Kong H shares at HK$38.10 each, a 7.7% discount to the preceding HK$41.28 close. The stated gross fundraising amount was about HK$6.74 billion, or US$860 million, for onshore debt repayment and working capital. These placement terms and intended uses do not establish that all funds have settled or that debt has already been repaid. The source dashboard’s completed-fundraising shorthand and later share-price observations are not treated as independently verified settlement or price outcomes in this preview.",
+          "analysis": "Equity funding can improve financing flexibility while diluting existing shareholders; creditor benefits depend on actual debt repayment.",
+          "watch_next": "Placement completion, cash received, debt repayment and subsequent leverage.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/markets/commodities/china-shenhua-seeks-up-881-million-hong-kong-share-sale-term-sheet-shows-2026-11-26/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261127-AUSTRALIA-LNG-RESERVATION-LAW",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "AUSTRALIA / LNG / NATURAL GAS / ENERGY / ASIAN IMPORTERS / REGULATION",
+          "headline": "Australia passes legislation reserving part of LNG production for domestic use",
+          "body": "Reuters-attributed reporting said Australia’s Parliament passed a gas-reservation scheme requiring LNG exporters to set aside up to 20% of production for domestic use from 2028. Western Australia is exempt from the national scheme and already has a separate 15% reservation policy. These percentages belong to different frameworks and are not additive. Passage of the legislation is distinct from the future domestic supply obligation taking effect.",
+          "analysis": "Domestic supply availability and Asian import arrangements could change; actual effects depend on implementation and contracts.",
+          "watch_next": "Implementation rules, affected LNG projects and regional supply arrangements.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/energy/australian-parliament-passes-government-plan-reserve-20-lng-domestic-market-2026-11-26/"
+          ],
+          "development_at": null
+        }
+      ]
+    },
     {
       "id": "reuters-20261127T121020-SGT",
       "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
