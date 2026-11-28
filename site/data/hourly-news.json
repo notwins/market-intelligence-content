@@ -2,13 +2,155 @@
   "schema_version": 1,
   "source_name": "Reuters Hourly News",
   "source_url": null,
-  "publisher_checked_at": "2026-11-28T01:23:13+08:00",
+  "publisher_checked_at": "2026-11-28T17:19:42+08:00",
   "last_complete_cutoff": null,
   "source_schedule": {
     "status": "Active",
     "checked_at": "2026-11-03T18:21:21+08:00"
   },
   "editions": [
+    {
+      "id": "reuters-20261128T162616-SGT",
+      "report_at": "2026-11-28T16:28:24+08:00",
+      "cutoff": "2026-11-28T16:26:16+08:00",
+      "window_start": "2026-11-28T12:26:16+08:00",
+      "coverage": "partial",
+      "summary": "Five reviewed previews cover United Fidelity Bank’s failure, diesel supply risks, a cargo-vessel seizure off Yemen, Taiwan’s local elections and Binance’s preliminary Bhutan approval. Full detail remains held.",
+      "limitations": [
+        "Partial targeted source report: cutoff 28 November 2026 16:26:16 SGT; completed 16:28:24. Window 12:26:16–16:26:16; primary hour 15:26:16–16:26:16; discovery overlap from 12:11:16. Earlier unfilled intervals remain; no complete-scan cutoff is established.",
+        "Five new source story identities are retained at v1. Four are catch-up; no old background is counted as a new version. Earlier 28 November source editions have not been imported by this execution and are not implied recovered.",
+        "Reuters original URLs and attributed syndication were checked. Original publication dates are verified, but exact original Reuters publication minutes and subsequent revision times were not independently established. Displayed source report minutes are not imported as exact article times.",
+        "Metadata is only a preview. Full detailed publication remains held because the approved process lacks the hourly channel, immutable exact-cutoff identities for multiple reports per day and matching full-report/card/search links. All available original detail and presentation inputs are retained privately; no full-detail approval is claimed.",
+        "The source IEA chart labels Q2 2027 as a 180,000 barrels/day surplus. That sign and the asserted forecast disagreement are unverified and conflict with separately retrieved reporting describing a deficit. These chart claims are withheld from the public preview; the original is retained privately with a review warning.",
+        "No fresh executable FX quotations, measured credit-spread change or isolated market reaction was established. Public producer schedule state is retained without a new status inference."
+      ],
+      "original_url": null,
+      "source_report_key": "a462661a5cb1bdc73d8e6d42ebb193ad85bcbf1e753781aa6cb43571f6df8449",
+      "sources": [
+        {
+          "url": "https://www.reuters.com/sustainability/boards-policy-regulation/united-fidelity-bank-shut-biggest-us-bank-failure-2-years-first-citizens-buys-2026-11-28/",
+          "title": "United Fidelity Bank shut in biggest US bank failure in 2 years, First Citizens buys assets",
+          "published_at": null,
+          "published_date": "2026-11-28",
+          "publication_precision": "date",
+          "verification_url": "https://uk.marketscreener.com/news/united-fidelity-bank-shut-in-biggest-us-bank-failure-in-2-years-first-citizens-buys-assets-ce7851d9d08bff20"
+        },
+        {
+          "url": "https://www.reuters.com/business/energy/global-diesel-market-run-into-deficit-second-quarter-2027-2026-11-27/",
+          "title": "Global diesel market to run into deficit in second quarter of 2027",
+          "published_at": null,
+          "published_date": "2026-11-27",
+          "publication_precision": "date",
+          "verification_url": "https://au.marketscreener.com/news/global-diesel-market-to-run-into-deficit-in-second-quarter-of-2027-ce7851d9df89f123"
+        },
+        {
+          "url": "https://www.reuters.com/world/middle-east/armed-group-boards-cargo-ship-off-yemen-takes-control-ukmto-says-2026-11-28/",
+          "title": "Armed group boards cargo ship off Yemen and takes control, UKMTO says",
+          "published_at": null,
+          "published_date": "2026-11-28",
+          "publication_precision": "date",
+          "verification_url": "https://www.devdiscourse.com/article/international/4013411-armed-group-boards-cargo-ship-off-yemen-and-takes-control-ukmto-says"
+        },
+        {
+          "url": "https://www.reuters.com/world/china/taiwan-votes-key-local-elections-china-looks-2026-11-28/",
+          "title": "Taiwan votes in local elections as China sends warplanes, lambastes Taipei candidate",
+          "published_at": null,
+          "published_date": "2026-11-28",
+          "publication_precision": "date",
+          "verification_url": "https://quews.news/taiwan-votes-in-local/"
+        },
+        {
+          "url": "https://www.reuters.com/world/asia-pacific/binance-gets-preliminary-approval-establish-asia-hub-bhutan-2026-11-28/",
+          "title": "Binance gets preliminary approval to establish Asia hub in Bhutan",
+          "published_at": null,
+          "published_date": "2026-11-28",
+          "publication_precision": "date",
+          "verification_url": "https://www.brecorder.com/news/40451123"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261127-UNITED-FIDELITY-BANK-FAILURE",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "US / Banking / Credit / FDIC / First Citizens BancShares",
+          "headline": "US regulators close United Fidelity Bank",
+          "body": "Reuters reported that US regulators closed United Fidelity Bank on 27 November 2026 and appointed the FDIC as receiver. First Citizens agreed to acquire US$5.9bn of assets, US$4.5bn of deposits and US$3.1bn of loans, based on 30 September balances. The FDIC estimated a US$1.83bn Deposit Insurance Fund cost. The winning bid included an approximately US$2.6bn asset discount; 22 branches were included. These acquired balances are separate from the failed bank’s total deposits and are not additive. Reuters described this as the largest US bank failure since April 2024.",
+          "analysis": "An institution-specific bank failure warrants attention to funding and credit quality. It does not by itself establish systemic distress, a commercial-property cause or widespread depositor losses. The FDIC cost estimate is separate from losses to individual creditors.",
+          "watch_next": "Monitor other bank failures, deposit flows, funding spreads and disclosed loss drivers.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/sustainability/boards-policy-regulation/united-fidelity-bank-shut-biggest-us-bank-failure-2-years-first-citizens-buys-2026-11-28/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261127-GLOBAL-DIESEL-2027-SUPPLY-OUTLOOK",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "Energy / Diesel / Inflation / Rates",
+          "headline": "Diesel supply outlook remains tight despite lower futures",
+          "body": "Reuters reported on 27 November that diesel futures had fallen 24% during November while gasoil inventories in Europe’s ARA hub were 19% lower year on year. Goldman Sachs forecast global refinery runs 1.3 million barrels per day below trend in 2027 because of outages and planned maintenance. The article described a potential second-quarter 2027 diesel deficit. Forecasts are distinct from realised supply and current market prices. The source dashboard’s unverified IEA surplus comparison is excluded from this preview.",
+          "analysis": "Refinery constraints can sustain transport and agricultural input costs even when crude and fuel futures fall. Duration risk depends on actual inflation and yields; these forecasts do not establish a new bond-market repricing.",
+          "watch_next": "Monitor refinery availability, inventories and diesel margins.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/energy/global-diesel-market-run-into-deficit-second-quarter-2027-2026-11-27/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261128-YEMEN-CARGO-SHIP-SEIZURE",
+          "version": 1,
+          "status": "new",
+          "freshness": "current",
+          "topic": "Middle East / Yemen / Shipping / Trade",
+          "headline": "Cargo vessel seized off Yemen",
+          "body": "Reuters reported on 28 November that UKMTO said armed people had boarded and taken control of a cargo vessel off Yemen. Nearby shipping was advised to proceed cautiously. The report does not establish cargo type, an oil-supply disruption or a measured financial-market reaction.",
+          "analysis": "Shipping insecurity can affect logistics, but the size and direction of any market impact remain unverified.",
+          "watch_next": "Monitor the vessel’s status and any changes to regional shipping advisories.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/middle-east/armed-group-boards-cargo-ship-off-yemen-takes-control-ukmto-says-2026-11-28/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261128-TAIWAN-LOCAL-ELECTION",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "Taiwan / China / Elections / Semiconductors",
+          "headline": "Taiwan votes in local elections amid renewed Chinese pressure",
+          "body": "Reuters reported that Taiwan held elections for mayors and county chiefs across 22 cities and counties on 28 November. Domestic issues dominated campaigning, while China increased military pressure and criticised a Taipei candidate. At the report cutoff, results were expected later that evening; this preview contains no election result.",
+          "analysis": "Cross-strait tension remains relevant to semiconductor supply chains. Local election outcomes do not directly determine Taiwan’s China policy.",
+          "watch_next": "Monitor official election results and subsequent policy statements.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/china/taiwan-votes-key-local-elections-china-looks-2026-11-28/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261128-BINANCE-BHUTAN-HUB-APPROVAL",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "Binance / Bhutan / Asia / Digital assets / Regulation",
+          "headline": "Binance receives in-principle approval for Bhutan hub",
+          "body": "Reuters reported Binance saying it had received in-principle approval from Bhutan’s Gelephu Central Bank for regulated digital-asset operations. The company planned expansion into five Asian markets in 2027. This is preliminary approval: conditions must be satisfied before regulated activities can begin; the planned expansion is not five completed licences.",
+          "analysis": "Regulatory expansion does not independently establish platform solvency or cybersecurity. Conditional approval remains distinct from a full operating licence.",
+          "watch_next": "Monitor licence conditions and actual operational authorisation.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/asia-pacific/binance-gets-preliminary-approval-establish-asia-hub-bhutan-2026-11-28/"
+          ],
+          "development_at": null
+        }
+      ]
+    },
     {
       "id": "reuters-20261128T002410-SGT",
       "source_report_key": "a4533b2a710f1a34af0e4190b0a7f70c392116f4b4c853b6582d71c9e8f1c859",
