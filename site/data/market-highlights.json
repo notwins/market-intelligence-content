@@ -1,7 +1,35 @@
 {
   "schema_version": 1,
-  "through": "2026-11-27T20:00:00+08:00",
+  "through": "2026-11-28T08:00:00+08:00",
   "entries": [
+    {
+      "id": "R-20261127-TAIWAN-GDP-FORECAST-AI",
+      "version": 1,
+      "headline": "Taiwan raises its 2026 growth forecast to 13.28% on AI demand",
+      "href": "https://www.reuters.com/world/asia-pacific/taiwans-economy-expected-grow-its-fastest-rate-nearly-50-years-due-ai-demand-2026-11-27/",
+      "topic": "Taiwan / AI / TSMC / NVDA / GDP / exports",
+      "cutoff": "2026-11-28T00:24:10+08:00",
+      "published": "2026-11-27",
+      "selected": "2026-11-28T08:00:00+08:00",
+      "reasons": [
+        "Watchlist · NVDA, TSM"
+      ],
+      "score": 8
+    },
+    {
+      "id": "R-20261127-GLOBAL-FUND-FLOWS-WEEK-NOV25",
+      "version": 2,
+      "headline": "US fund-flow detail separates government-bond inflows from investment-grade withdrawals",
+      "href": "https://www.reuters.com/business/us-equity-funds-post-biggest-outflows-11-weeks-tech-rout-weighs-2026-11-27/",
+      "topic": "US / UST / IG / credit / fund flows",
+      "cutoff": "2026-11-28T00:24:10+08:00",
+      "published": "2026-11-27",
+      "selected": "2026-11-28T08:00:00+08:00",
+      "reasons": [
+        "Bonds and credit"
+      ],
+      "score": 8
+    },
     {
       "id": "R-20261126-KAZAKHSTAN-RUSSIA-AI-COOPERATION",
       "version": 1,
@@ -33,12 +61,12 @@
     },
     {
       "id": "R-20261126-NORSE-ATLANTIC-LIQUIDITY",
-      "version": 1,
-      "headline": "Norse Atlantic suspends flights and gives a conditional bankruptcy warning",
-      "href": "https://www.reuters.com/business/aerospace-defense/airline-norse-atlantic-suspends-flights-warns-possible-bankruptcy-2026-11-26/",
-      "topic": "NORWAY / NORSE ATLANTIC / AIRLINES / CREDIT / LIQUIDITY / ENERGY",
-      "cutoff": "2026-11-26T19:40:52+08:00",
-      "published": "2026-11-26",
+      "version": 3,
+      "headline": "Norse Atlantic’s Norwegian operating subsidiary enters bankruptcy; listed parent excluded",
+      "href": "https://www.reuters.com/legal/litigation/airline-norse-atlantics-norwegian-operating-unit-declares-bankruptcy-2026-11-27/",
+      "topic": "Norway / Singapore / credit / aviation / BOC Aviation",
+      "cutoff": "2026-11-28T00:24:10+08:00",
+      "published": "2026-11-27",
       "selected": "2026-11-26T20:00:00+08:00",
       "reasons": [
         "Credit stress"
@@ -814,12 +842,12 @@
     },
     {
       "id": "R-20261103-ECB-NAGEL-DEC-HIKE",
-      "version": 1,
-      "headline": "Bundesbank Nagel backs likely December ECB rate hike",
-      "href": "https://www.reuters.com/business/bundesbanks-nagel-joins-ecb-chorus-backing-december-rate-hike-2026-11-03/",
-      "topic": "central_banks, rates, fx",
-      "cutoff": "2026-11-03T19:26:27Z",
-      "published": "2026-11-03T18:01Z",
+      "version": 2,
+      "headline": "Nagel says euro-area inflation could remain above 3% in 2027",
+      "href": "https://www.reuters.com/business/finance/ecb-may-have-raise-rates-further-inflation-stays-above-3-2026-11-27/",
+      "topic": "ECB / Germany / EUR / inflation / rates",
+      "cutoff": "2026-11-28T00:24:10+08:00",
+      "published": "2026-11-27",
       "selected": "2026-11-04T08:00:00+08:00",
       "reasons": [
         "Global rates"
