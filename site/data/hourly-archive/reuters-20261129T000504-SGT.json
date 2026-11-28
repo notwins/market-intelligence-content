@@ -1,0 +1,118 @@
+{
+  "id": "reuters-20261129T000504-SGT",
+  "report_at": "2026-11-29T00:06:27+08:00",
+  "cutoff": "2026-11-29T00:05:04+08:00",
+  "window_start": "2026-11-28T20:05:04+08:00",
+  "coverage": "partial",
+  "summary": "Four reviewed previews cover AirAsia’s cash-conservation measures, Taiwan local-election results, proposed EU plug-in hybrid emissions flexibility and India’s proposed pre-IPO venue. The Black Friday follow-up and full detail remain held.",
+  "limitations": [
+    "Partial targeted source report: cutoff 29 November 2026 00:05:04 SGT; completed 00:06:27. Coverage window 28 November 20:05:04–29 November 00:05:04; primary initial hour 23:05:04–00:05:04. Earlier unfilled intervals remain; no complete-scan cutoff is established.",
+    "Four reviewed previews are included: three new source events and Taiwan’s connected v3 follow-up. Black Friday source v3 is withheld because its immediate v2 predecessor and initial v1 are not retained; they were not recovered and independently reviewed in this execution. This is not a five-story complete publication or recovery of that coverage gap.",
+    "All included previews are conservatively labelled catch-up: exact development/revision times were not independently established. Original Reuters publication dates and material claims were verified against attributed Reuters syndication, but source-displayed minutes and carrier updates are not treated as exact original Reuters times.",
+    "Metadata is a preview. Full detailed publication remains held because the approved process lacks an hourly channel, immutable exact-cutoff identity and discoverable matching full-report/card/search links. Full original text, matching attachment, available SVG and detailed section/table/chart/emphasis checklist are retained privately. Native presentation assets and desktop/mobile visual approval remain held.",
+    "AirAsia’s cash balance is dated 30 September; proposed aircraft returns and payroll timing are distinct from a bond default. EU changes and the SEBI platform remain proposals. Taiwan’s at-least-nine count is a reported minimum, not a complete certified tally. No fresh executable FX quotation or isolated market reaction was established.",
+    "Producer schedule state was not freshly verified and is retained without change. Publication does not imply complete Reuters wire coverage or fill older gaps."
+  ],
+  "original_url": null,
+  "source_report_key": "a462661a5cb1bdc73d8e6d42ebb193ad85bcbf1e753781aa6cb43571f6df8449",
+  "sources": [
+    {
+      "url": "https://www.reuters.com/world/airasia-delays-staff-salary-payments-end-month-internal-email-shows-2026-11-27/",
+      "title": "AirAsia delays staff salary payments to end of month",
+      "published_at": null,
+      "published_date": "2026-11-27",
+      "publication_precision": "date",
+      "verification_url": "https://ca.marketscreener.com/news/airasia-delays-staff-salary-payments-to-end-of-month-internal-email-shows-ce7851d9db80f12d"
+    },
+    {
+      "url": "https://www.reuters.com/world/china/taiwan-votes-key-local-elections-china-looks-2026-11-28/",
+      "title": "Ruling party makes gains in Taiwan local elections watched by China",
+      "published_at": null,
+      "published_date": "2026-11-28",
+      "publication_precision": "date",
+      "verification_url": "https://sa.marketscreener.com/news/latest/Ruling-party-makes-gains-in-Taiwan-local-elections-watched-by-China-13565184/"
+    },
+    {
+      "url": "https://www.reuters.com/sustainability/climate-energy/eu-set-delay-plug-in-hybrid-emissions-rating-update-until-2030-2026-11-28/",
+      "title": "EU set to delay plug-in hybrid emissions rating update until 2030",
+      "published_at": null,
+      "published_date": "2026-11-28",
+      "publication_precision": "date",
+      "verification_url": "https://malaysia.news.yahoo.com/eu-set-delay-plug-hybrid-143709822.html"
+    },
+    {
+      "url": "https://www.reuters.com/legal/government/india-markets-regulator-considering-platform-trading-pre-ipo-shares-2026-11-28/",
+      "title": "India markets regulator considering platform for trading pre-IPO shares",
+      "published_at": null,
+      "published_date": "2026-11-28",
+      "publication_precision": "date",
+      "verification_url": "https://in.marketscreener.com/news/india-markets-regulator-considering-platform-for-trading-pre-ipo-shares-ce7851ded98ff426"
+    }
+  ],
+  "stories": [
+    {
+      "story_id": "R-20261127-AIRASIA-CASH-CONSERVATION",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "Malaysia / ASEAN / AirAsia / Aviation / Corporate credit / Liquidity / Refinancing",
+      "headline": "AirAsia delays salaries as restructuring continues",
+      "body": "Reuters reported on 27 November that AirAsia confirmed temporarily moving Malaysian staff salary payments to month-end from November through March. The airline said salary entitlements were unchanged and wages would still be paid in full. Separately, cash and bank balances were MYR905m at 30 September, 5% below 30 June. Its investor presentation described creditor restructuring and plans to return 25 aircraft to lessors. The cash balance is a quarter-end observation and the aircraft figure is a conservation plan. These measures alone do not establish a missed contractual debt payment.",
+      "analysis": "Cash conservation and creditor negotiations warrant scrutiny of liquidity and refinancing. Payroll timing and a restructuring process remain distinct from a confirmed missed debt payment.",
+      "watch_next": "Creditor negotiations, funding support and actual cash balances.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/world/airasia-delays-staff-salary-payments-end-month-internal-email-shows-2026-11-27/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261128-TAIWAN-LOCAL-ELECTION",
+      "version": 3,
+      "status": "follow-up",
+      "freshness": "catch-up",
+      "topic": "Taiwan / China / Elections / Semiconductors",
+      "headline": "Taiwan ruling party gains at least nine jurisdictions",
+      "body": "Reuters reported on 28 November that the DPP had won at least nine of Taiwan’s 22 cities and counties, compared with five four years earlier. The DPP and KMT each won three of the six largest cities; the DPP regained Taichung and the KMT retained Taipei after the DPP candidate conceded. This advances the earlier preliminary-count snapshot. At least nine is a reported minimum, not a final certified total for all jurisdictions; the exact Reuters revision time was not independently established.",
+      "analysis": "The results influence domestic political positioning. They do not establish a change in cross-strait policy or semiconductor operating conditions.",
+      "watch_next": "Remaining official results and subsequent policy statements.",
+      "earlier": "28 November 8:15 PM SGT, v2: preliminary counts suggested three major cities for each party, with no declared victories or concessions at the snapshot.",
+      "source_urls": [
+        "https://www.reuters.com/world/china/taiwan-votes-key-local-elections-china-looks-2026-11-28/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261128-EU-PHEV-EMISSIONS-DELAY",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "European Union / Plug-in hybrids / Automotive / Emissions / Regulation",
+      "headline": "EU proposes postponing hybrid emissions-rating change to 2030",
+      "body": "Reuters reported that the European Commission proposed freezing the plug-in hybrid emissions utility factor for qualifying vehicles until 1 January 2030, postponing an update planned for 29 November 2026. The freeze would apply to vehicles with an electric range of at least 80 kilometres. The amendments are to be submitted to EU member states and the European Parliament, either of which can object. The proposed flexibility is not an unconditional final law or a verified saving for any manufacturer.",
+      "analysis": "A delay could ease near-term compliance pressure, while legislative objections and vehicle eligibility determine application. Actual profitability effects remain unverified.",
+      "watch_next": "Legislative objections and manufacturers’ product plans.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/sustainability/climate-energy/eu-set-delay-plug-in-hybrid-emissions-rating-update-until-2030-2026-11-28/"
+      ],
+      "development_at": null
+    },
+    {
+      "story_id": "R-20261128-INDIA-SEBI-PREIPO-PLATFORM",
+      "version": 1,
+      "status": "new",
+      "freshness": "catch-up",
+      "topic": "India / SEBI / IPO / Pre-IPO shares / Equities / Market regulation",
+      "headline": "India considers regulated trading venue for pre-IPO shares",
+      "body": "SEBI’s chairman said on 28 November that India’s securities regulator was considering a separate trading platform for companies preparing to list, with a consultation paper, framework and disclosure requirements to follow. It would not cover the entire unlisted-company universe. Reuters reported approximately INR1.95 trillion (US$20.97bn) raised through 112 public issues by end-October 2026. These are cumulative public-fundraising figures, not proposed-platform volume or money already raised through that venue.",
+      "analysis": "A regulated venue could improve transparency, but a consultation does not establish a functioning market, guaranteed liquidity, successful listings or positive returns.",
+      "watch_next": "Consultation paper, eligibility and disclosure rules.",
+      "earlier": "",
+      "source_urls": [
+        "https://www.reuters.com/legal/government/india-markets-regulator-considering-platform-trading-pre-ipo-shares-2026-11-28/"
+      ],
+      "development_at": null
+    }
+  ]
+}
