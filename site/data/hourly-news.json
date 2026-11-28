@@ -2,13 +2,131 @@
   "schema_version": 1,
   "source_name": "Reuters Hourly News",
   "source_url": null,
-  "publisher_checked_at": "2026-11-28T17:19:42+08:00",
+  "publisher_checked_at": "2026-11-28T22:19:38+08:00",
   "last_complete_cutoff": null,
   "source_schedule": {
     "status": "Active",
     "checked_at": "2026-11-03T18:21:21+08:00"
   },
   "editions": [
+    {
+      "id": "reuters-20261128T201526-SGT",
+      "report_at": "2026-11-28T20:17:51+08:00",
+      "cutoff": "2026-11-28T20:15:26+08:00",
+      "window_start": "2026-11-28T16:15:26+08:00",
+      "coverage": "partial",
+      "summary": "Four reviewed previews cover potential additional Google–SpaceX computing demand, India’s government inflation warning, preliminary Taiwan local-election counts and Friday’s January Fed probability. Full detail remains held.",
+      "limitations": [
+        "Partial targeted report: cutoff 28 November 2026 20:15:26 SGT; completed 20:17:51. Coverage window 16:15:26–20:15:26; primary hour 19:15:26–20:15:26; discovery overlap from 16:11. Earlier unfilled intervals remain and no complete-scan cutoff is established.",
+        "Three new source identities are retained at v1, and Taiwan’s preliminary counts extend its retained v1 as v2. All four previews are labelled catch-up because exact development/revision times were not independently established. The source describes three catch-up stories and one timing-unverified follow-up; this does not prove four events occurred in the current window.",
+        "Original Reuters publication dates and material claims were checked against attributed Reuters syndication. Exact original publication minutes and subsequent update times were not independently established. Source-displayed minutes and carrier timestamps are not imported as exact Reuters times.",
+        "Metadata is only a preview. Full detailed publication remains held: the approved process lacks an hourly channel, immutable exact-cutoff identities for multiple daily editions and matching full-report/card/search links. The full original source text, attachment, available chart and supporting detail are retained privately; unavailable native presentation assets and desktop/mobile visual review remain held.",
+        "The January probability and Friday FX observations are historical references, not a verified change in rate expectations. India’s October CPI and the Google–SpaceX contract are historical context. Taiwan counts remain preliminary as of the source snapshot. No fresh CHF/SGD or USD/SGD quotation was verified.",
+        "No producer schedule-state change was directly verified; the previously published schedule state is retained. Coverage and older gaps are not reset by publication."
+      ],
+      "original_url": null,
+      "source_report_key": "a462661a5cb1bdc73d8e6d42ebb193ad85bcbf1e753781aa6cb43571f6df8449",
+      "sources": [
+        {
+          "url": "https://www.reuters.com/business/media-telecom/musk-says-google-is-interested-renting-more-computing-capacity-spacex-2026-11-28/",
+          "title": "Musk says Google is interested in renting more computing capacity from SpaceX",
+          "published_at": null,
+          "published_date": "2026-11-28",
+          "publication_precision": "date",
+          "verification_url": "https://www.investing.com/news/stock-market-news/musk-says-google-is-interested-in-renting-more-computing-capacity-from-spacex-5054241"
+        },
+        {
+          "url": "https://www.reuters.com/world/india/weather-supply-uncertainties-may-accelerate-india-inflation-report-says-2026-11-28/",
+          "title": "Weather, supply uncertainties may accelerate India inflation, report says",
+          "published_at": null,
+          "published_date": "2026-11-28",
+          "publication_precision": "date",
+          "verification_url": "https://www.marketscreener.com/news/weather-supply-uncertainties-may-accelerate-india-inflation-report-says-ce7851d9d08ef220"
+        },
+        {
+          "url": "https://www.reuters.com/world/china/taiwan-votes-key-local-elections-china-looks-2026-11-28/",
+          "title": "Ruling party set to make gains in Taiwan local elections watched by China",
+          "published_at": null,
+          "published_date": "2026-11-28",
+          "publication_precision": "date",
+          "verification_url": "https://www.marketscreener.com/news/latest/Ruling-party-set-to-make-gains-in-Taiwan-local-elections-watched-by-China-13564455/"
+        },
+        {
+          "url": "https://www.reuters.com/world/africa/dollar-lingers-near-22-month-peak-ai-worries-simmer-2026-11-27/",
+          "title": "Dollar set for weekly gain as risk appetite returns",
+          "published_at": null,
+          "published_date": "2026-11-27",
+          "publication_precision": "date",
+          "verification_url": "https://uk.marketscreener.com/news/dollar-set-for-weekly-gain-as-risk-appetite-returns-ce7851d9d18bf224"
+        }
+      ],
+      "stories": [
+        {
+          "story_id": "R-20261128-SPACEX-GOOGLE-COMPUTE-INTEREST",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "US / AI infrastructure / Alphabet / Google / GOOGL / Nvidia / NVDA / SpaceX / Elon Musk / Credit",
+          "headline": "Google may rent additional SpaceX computing capacity",
+          "body": "Reuters reported on 28 November that Elon Musk said Google was interested in renting additional computing capacity from SpaceX. The report supplied no additional contract terms, and Musk and the companies had not immediately responded to requests for comment. Separately, the existing agreement provides for US$920m monthly payments from October 2026 to June 2029 and approximately 110,000 Nvidia GPUs. These are existing terms, not the value of a newly confirmed order.",
+          "analysis": "Potential extra AI computing demand could support infrastructure suppliers. Investment profitability still depends on binding contracts, utilisation, capital expenditure and financing costs; interest in capacity is not recognised revenue.",
+          "watch_next": "Company confirmation, binding contract value, delivery and funding arrangements.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/business/media-telecom/musk-says-google-is-interested-renting-more-computing-capacity-spacex-2026-11-28/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261128-INDIA-GOVERNMENT-INFLATION-RISK",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "India / RBI / INR / FX / CPI / Inflation / Rates / Oil",
+          "headline": "India warns of renewed inflation pressure",
+          "body": "India’s government said in its monthly economic report released on 28 November that weather, supply constraints and seasonal spending could raise inflation in coming months. Moderating oil prices and a stronger rupee could offset some pressure. October retail CPI had risen 6.09% year on year, above the RBI’s 6% upper limit. That is previously released October data, not a new November CPI observation or an RBI rate decision.",
+          "analysis": "Persistent inflation could limit monetary easing. The government assessment and conditional inflation risks remain separate from actual policy decisions.",
+          "watch_next": "Next CPI release, RBI guidance and actual oil and INR movements.",
+          "earlier": "",
+          "source_urls": [
+            "https://www.reuters.com/world/india/weather-supply-uncertainties-may-accelerate-india-inflation-report-says-2026-11-28/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261128-TAIWAN-LOCAL-ELECTION",
+          "version": 2,
+          "status": "follow-up",
+          "freshness": "catch-up",
+          "topic": "Taiwan / China / Elections / Semiconductors",
+          "headline": "Taiwan ruling party projected to gain local seats",
+          "body": "Reuters’ preliminary-count report on 28 November indicated that the DPP and KMT were each on track for three of Taiwan’s six largest cities. The KMT incumbent led in Taipei, while the DPP looked likely to regain Taichung. At that report snapshot, none of the candidates in those six cities had declared victory or conceded. These are preliminary indications, not certified results; the exact revision time is unverified.",
+          "analysis": "Local election outcomes may affect domestic political positioning. They do not directly establish a cross-strait policy change or a semiconductor production disruption.",
+          "watch_next": "Certified results and subsequent government statements.",
+          "earlier": "28 November 16:26:16 SGT, v1: local elections were underway; results were pending.",
+          "source_urls": [
+            "https://www.reuters.com/world/china/taiwan-votes-key-local-elections-china-looks-2026-11-28/"
+          ],
+          "development_at": null
+        },
+        {
+          "story_id": "R-20261127-FED-JANUARY-HIKE-PRICING-FX",
+          "version": 1,
+          "status": "new",
+          "freshness": "catch-up",
+          "topic": "US / Federal Reserve / UST / Rates / FX / USD / EUR / JPY",
+          "headline": "Friday FX report adds January Fed tightening probability",
+          "body": "Reuters’ updated 27 November currency report cited CME FedWatch pricing of a 64% probability of an additional January Fed increase, alongside the already reported 99% December probability. It also reported Friday observations of DXY 104.04 (+0.25%), EUR/USD 1.0933 (−0.31%) and USD/JPY 159.51 (+0.16%). These are dated market observations without individually verified quote clocks, not executable rates. No matched earlier January probability was retrieved, so no change in that probability is established.",
+          "analysis": "Further expected tightening presents duration and funding risk, but futures probabilities are expectations rather than decisions. This additional January reference is a catch-up discovery, not a verified new repricing event.",
+          "watch_next": "US employment data, December FOMC and Japanese intervention commentary.",
+          "earlier": "Earlier reports covered December tightening expectations. The January probability is an additional Friday reference, with no matched earlier January reading.",
+          "source_urls": [
+            "https://www.reuters.com/world/africa/dollar-lingers-near-22-month-peak-ai-worries-simmer-2026-11-27/"
+          ],
+          "development_at": null
+        }
+      ]
+    },
     {
       "id": "reuters-20261128T162616-SGT",
       "report_at": "2026-11-28T16:28:24+08:00",
