@@ -2,16 +2,153 @@
   "schema_version": 1,
   "editions": [
     {
-      "date": "2026-11-27",
-      "cutoff": "2026-11-27T09:58:08+08:00",
+      "date": "2026-11-28",
+      "cutoff": "2026-11-28T09:33:58+08:00",
       "reports": {
         "news": {
-          "summary": "EU leaders put forward Pablo Hernández de Cos to head the ECB. In London, Imperial Brands responded to Altria’s interest after European shares had closed higher. US exchanges were closed for Thanksgiving.",
-          "coverage": "Through 09:58 SGT. Imperial’s response was released at 01:18 SGT and the European Council notice at 06:50 SGT. The index figures are European closes dated 26 November. NYSE had no Thursday cash session.",
+          "summary": "US equities rose in the shortened Friday session. The S&P 500 added 1.60% to finish a week in which it gained 5.6%. The Nasdaq Composite led the three major indexes on Friday even as Treasury yields rose.",
+          "coverage": "The cash market closed at 13:00 New York time on Friday, 02:00 Saturday in Singapore. All quoted levels are closing observations. The weekly S&P figure is from AP’s closing report.",
           "happened": [
+            "The S&P 500 closed at 7,297.49, up 114.71 points from Wednesday. The Nasdaq Composite gained 543.70 points, or 2.31%, to 24,129.50.",
+            "The Dow Jones Industrial Average rose 591.99 points, or 1.18%, to 50,774.94. All three comparisons use Wednesday’s close because the exchanges observed Thanksgiving on Thursday.",
+            "The 10-year Treasury par yield reached 4.94%, up from 4.85% on Wednesday. Equities and benchmark yields both ended the holiday week higher than at Wednesday’s close."
+          ],
+          "key_points": [
+            "The Nasdaq outpaced the Dow by about 1.13 percentage points on Friday. These index moves show how differently the two benchmarks participated in the rebound.",
+            "The S&P 500’s 5.6% weekly rise includes the earlier sessions. Friday alone accounted for a 1.60% gain."
+          ],
+          "watch": [
+            "At the next full US session, compare the Nasdaq and Dow with these closing levels to see whether the rally broadens."
+          ],
+          "sources": [
+            {
+              "title": "Associated Press · Friday’s daily and weekly US index changes",
+              "url": "https://apnews.com/article/04dab6079cf7f3dfe7285a3cc1f240a2"
+            },
+            {
+              "title": "S&P 500 · dated closes via Yahoo Finance",
+              "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EGSPC?period1=1795564800&period2=1795824000&interval=1d"
+            },
+            {
+              "title": "Nasdaq Composite · dated closes via Yahoo Finance",
+              "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EIXIC?period1=1795564800&period2=1795824000&interval=1d"
+            },
+            {
+              "title": "Dow Jones Industrial Average · dated closes via Yahoo Finance",
+              "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EDJI?period1=1795564800&period2=1795824000&interval=1d"
+            },
+            {
+              "title": "NYSE · holiday schedule and 13:00 early close",
+              "url": "https://www.nyse.com/markets/hours-calendars"
+            },
+            {
+              "title": "US Treasury · daily par yield curve, 25 and 27 November",
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/pages/xml?data=daily_treasury_yield_curve&field_tdr_date_value_month=202611"
+            }
+          ]
+        },
+        "bonds": {
+          "summary": "Treasury yields rose across the two- to thirty-year maturities after Thanksgiving. The 10-year rose nine basis points to 4.94%. The latest verified corporate spreads cover an earlier observation date.",
+          "coverage": "Treasury figures come from the dated official XML curve. The ICE figures come from FRED’s 11:46 US Central time refresh on Friday. A 27 November corporate spread observation was unavailable at cutoff.",
+          "happened": [
+            "The two-year Treasury par yield reached 4.69%, up eight basis points from Wednesday. The five-year reached 4.74%, up nine basis points.",
+            "The 10-year rose from 4.85% to 4.94%, and the 30-year rose from 5.24% to 5.33%. The 10-year premium over the two-year edged up from 24 to 25 basis points.",
+            "In its 27 November update, FRED showed ICE investment-grade and high-yield option-adjusted spreads of 99 bp and 377 bp for both 25 and 26 November. On 24 November they were 98 bp and 372 bp."
+          ],
+          "key_points": [
+            "The larger recent widening was in high yield, at five basis points from Tuesday to Wednesday, versus one basis point for investment grade. The holiday-dated rows repeated Wednesday’s levels.",
+            "Treasury par yields measure the benchmark rate at specific maturities. Corporate option-adjusted spreads measure the extra yield over a benchmark and have a different reporting lag."
+          ],
+          "watch": [
+            "Check the first published 27 November corporate observations before attributing a widening or tightening in spreads to Friday’s equity rebound.",
+            "Track whether the 10-year sustains its rise alongside the two-year at the next Treasury observation."
+          ],
+          "sources": [
+            {
+              "title": "US Treasury · daily par yield curve, 25 and 27 November",
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/pages/xml?data=daily_treasury_yield_curve&field_tdr_date_value_month=202611"
+            },
+            {
+              "title": "ICE BofA US Corporate Index · option-adjusted spread via FRED",
+              "url": "https://fred.stlouisfed.org/series/BAMLC0A0CM"
+            },
+            {
+              "title": "ICE BofA US High Yield Index · option-adjusted spread via FRED",
+              "url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2"
+            }
+          ]
+        },
+        "earnings": {
+          "summary": "Mountain Province Diamonds sold more than twice as many carats as a year earlier, yet its quarterly net loss widened to C$371.7m. The fall in its realised diamond price and the subsequent transfer of its mine interest are central to reading the result.",
+          "coverage": "The Canadian issuer released its September-quarter figures at 16:30 EST on Friday, 05:30 Saturday in Singapore. Coverage is limited to this verified result. Amounts are Canadian dollars.",
+          "happened": [
+            "For the quarter ended 30 September, sales rose to C$49.8m from C$29.2m. The company sold 913,255 carats against 409,081 a year earlier, while its average realised price fell to C$55 from C$71 per carat.",
+            "The loss from mine operations widened to C$38.4m from C$3.7m. The net loss was C$371.7m, against C$55.9m a year earlier, and included a derecognition and impairment charge.",
+            "After quarter-end, De Beers obtained the company’s 49% interest in Gahcho Kué and released Mountain Province from the corresponding joint-venture obligations. Specified lenders agreed to a six-month payment standstill."
+          ],
+          "key_points": [
+            "Revenue grew because the company sold more carats despite the lower price per carat. The mine operating loss and the larger net loss measure different costs.",
+            "The September-quarter mine sales predate the transfer. Using those sales as a run rate would assume ownership the company has since relinquished."
+          ],
+          "watch": [
+            "Look for terms on the remaining debt before the standstill expires. The option to repurchase the mine interest before 31 December 2029 depends on funding and diamond-market conditions."
+          ],
+          "sources": [
+            {
+              "title": "Mountain Province Diamonds · third-quarter results and post-quarter restructuring via CNW",
+              "url": "https://www.newswire.ca/news-releases/mountain-province-diamonds-announces-third-quarter-financial-results-for-2026-851369789.html"
+            }
+          ]
+        },
+        "economy": {
+          "summary": "US shoppers spent $9.7bn online by early Friday evening, up 12.8% from the comparable period last year. Separately, the Federal Reserve released weekly data on bank credit and reserve balances.",
+          "coverage": "Adobe’s 18:30 EST reading corresponds to 07:30 SGT. Reuters published the update at 08:06 SGT. The Fed scheduled H.8 and H.4.1 for 05:15 and 05:30 SGT respectively. The US retail day was still in progress at cutoff.",
+          "happened": [
+            "Adobe Analytics tracked $9.7bn of US online purchases by 18:30 EST on Black Friday. Reuters reported Adobe’s full-day forecast range of $13.0bn to $13.4bn.",
+            "For the week to 25 November, reserve balances at the Fed averaged $2.964tn, down $16.0bn from the preceding weekly average. The single Wednesday observation was $2.929tn.",
+            "Seasonally adjusted commercial bank credit rose from $20,134.7bn to $20,147.4bn between 11 and 18 November. Loans and leases increased by $1.8bn over that week."
+          ],
+          "key_points": [
+            "The spending figure covers online transactions through a specified hour. It gives an early read on sales dollars, with in-store purchases and retailer margins outside its scope.",
+            "The two Fed releases describe different weeks. The bank-credit observation is dated 18 November and the reserves observation is dated 25 November."
+          ],
+          "watch": [
+            "Compare Adobe’s final total with the $13.0bn–$13.4bn forecast when full-day data arrive.",
+            "In the next weekly releases, check whether loans take a larger share of bank-credit growth and whether the reserve decline persists."
+          ],
+          "sources": [
+            {
+              "title": "Reuters · Adobe Analytics spending update, 19:06 EST on 27 November",
+              "url": "https://new.streetinsider.com/Reuters/US%2BBlack%2BFriday%2Bonline%2Bsales%2Bto%2Bcross%2B%2413%2Bbillion%2C%2BAdobe%2Bsays/27409474.html"
+            },
+            {
+              "title": "Federal Reserve · H.4.1, published 27 November; week ended 25 November",
+              "url": "https://www.federalreserve.gov/releases/h41/20261127/"
+            },
+            {
+              "title": "Federal Reserve · H.8, 27 November release, seasonally adjusted bank credit",
+              "url": "https://www.federalreserve.gov/releases/h8/20261127/"
+            },
+            {
+              "title": "Federal Reserve · November release calendar and scheduled times",
+              "url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-11-27",
+      "cutoff": "2026-11-27T23:59:59+08:00",
+      "reports": {
+        "news": {
+          "summary": "The US goods deficit widened sharply as imports outpaced exports. EU leaders nominated Pablo Hernández de Cos to head the ECB. In Norway, the operating subsidiary of Norse Atlantic resolved to file for bankruptcy.",
+          "coverage": "Full Singapore day, reconstructed with releases through 23:59 SGT. Norse announced the petition decision at 21:00 SGT and Census published at 21:30 SGT. Friday’s New York stock close fell in Saturday’s edition.",
+          "happened": [
+            "The US Census Bureau’s advance report put the October goods deficit at $149.5bn, up from $135.1bn in September. Imports rose $21.1bn over the month and exports rose $6.7bn.",
             "The European Council proposed Hernández de Cos to succeed Christine Lagarde, who is due to leave on 7 February 2027. Leaders also proposed Laurence Boone and Markus Brunnermeier for the ECB’s executive board.",
-            "Imperial’s board said it had received no approach and had held no talks about Altria’s possible bid. Altria had already disclosed that it was considering a cash offer and discussing a possible disposal of part of the business with a third party.",
-            "The STOXX Europe 600 closed at 636.98 versus 626.03, and the FTSE 100 at 10,609.30 versus 10,426.90. Each rose 1.75% in Thursday’s European session, which ended after Singapore midnight."
+            "Norse Atlantic said its Norwegian operator would petition the Agder District Court. Flights were cancelled and ticket sales stopped. The listed parent and its UK subsidiary were pursuing a solution for their remaining business.",
+            "Imperial’s board said it had received no approach and had held no talks about Altria’s possible bid. Altria had already disclosed that it was considering a cash offer and discussing a possible disposal of part of the business with a third party."
           ],
           "key_points": [
             "The European Council still has to consult the European Parliament and the ECB Governing Council before a formal appointment. The presidency carries an eight-year term.",
@@ -22,6 +159,14 @@
             "Altria faces a 17:00 London deadline on 24 December to declare its intentions, unless the UK Takeover Panel grants an extension."
           ],
           "sources": [
+            {
+              "title": "US Census Bureau · advance October goods trade and inventories, 27 November",
+              "url": "https://www.census.gov/econ/indicators/2026/advance_report2610.pdf"
+            },
+            {
+              "title": "Norse Atlantic ASA · Norwegian subsidiary bankruptcy petition, 14:00 CET, 27 November",
+              "url": "https://news.cision.com/norse-atlantic-airways-as/r/norse-atlantic-asa--norwegian-operating-subsidiary-filing-for-bankruptcy,c4430282"
+            },
             {
               "title": "European Council · leadership nominations, 26 November at 23:50 Brussels time",
               "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/26/european-council-puts-forward-pablo-hernandez-de-cos-as-next-president-of-the-european-central-bank/"
@@ -41,38 +186,32 @@
             {
               "title": "Altria · 26 November statement on a possible offer",
               "url": "https://investor.altria.com/press-releases/news-details/2026/Altria-Response-to-Media-Speculation-on-Possible-Offer-for-Imperial-Brands-plc/default.aspx"
-            },
-            {
-              "title": "Yahoo Finance · STOXX Europe 600 dated closes",
-              "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5ESTOXX?interval=1d&period1=1795564800&period2=1795737600"
-            },
-            {
-              "title": "Yahoo Finance · FTSE 100 dated closes",
-              "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EFTSE?interval=1d&period1=1795564800&period2=1795737600"
-            },
-            {
-              "title": "NYSE · Thanksgiving closure and Friday early close",
-              "url": "https://www.nyse.com/markets/hours-calendars"
             }
           ]
         },
         "bonds": {
-          "summary": "Kiwibank set the initial coupon on its NZ$200m Tier 2 issue at 5.17%. Bids at the final margin exceeded NZ$340m. The first optional redemption date comes five years before maturity.",
-          "coverage": "The books closed at 06:57 SGT, the coupon was announced at 07:24 and final terms followed at 07:40. The US corporate index levels are dated 24 November. A newer observation was unavailable in the verified FRED releases.",
+          "summary": "Norse Atlantic’s Norwegian operating company decided to file for bankruptcy after failing to secure a path to continued operations. Earlier, Kiwibank priced NZ$200m of subordinated notes with a 5.17% initial coupon.",
+          "coverage": "The recap includes Kiwibank’s final terms at 07:40 SGT and Norse’s announcement at 21:00 SGT. Friday’s US Treasury close and the FRED spread refresh both fell after Singapore midnight.",
           "happened": [
+            "The board of Norse Atlantic Airways AS resolved to file a bankruptcy petition. The group said the court would appoint a trustee. The announcement concerned the Norwegian operating subsidiary.",
             "Kiwibank allocated the full NZ$200m at a margin of 120 basis points over the swap rate. The issuer reported about 1.7 times coverage at that margin, excluding lead managers’ trading interest.",
             "Interest is fixed at 5.17% per year until 4 June 2032. If the notes remain outstanding, the coupon resets quarterly to the three-month bank bill rate plus 120 basis points.",
             "The final terms set maturity for 4 June 2037. Kiwibank expects issuance on 4 December 2026 and NZX quotation under KWB3T2 on 7 December."
           ],
           "key_points": [
+            "The Norwegian operator, listed parent and UK subsidiary are separate legal entities. The petition decision alone does not establish a recovery rate for claims against any of them.",
             "The 5.17% figure is the initial contractual coupon. Secondary-market yields will depend on traded prices.",
             "A holder could remain invested beyond June 2032 because redemption at the first call date is optional."
           ],
           "watch": [
-            "Check settlement on 4 December and the first eligible traded price after quotation.",
-            "Compare subsequent US corporate spread readings with the last verified observations of 98 bp for investment grade and 372 bp for high yield."
+            "Follow the court process and separate statements on the parent and UK business before assessing creditor recoveries.",
+            "Check settlement on 4 December and the first eligible traded price after quotation."
           ],
           "sources": [
+            {
+              "title": "Norse Atlantic ASA · Norwegian subsidiary bankruptcy petition, 14:00 CET, 27 November",
+              "url": "https://news.cision.com/norse-atlantic-airways-as/r/norse-atlantic-asa--norwegian-operating-subsidiary-filing-for-bankruptcy,c4430282"
+            },
             {
               "title": "Kiwibank via NZX · allocation and bookbuild",
               "url": "https://announcements.nzx.com/announcement/484616"
@@ -84,34 +223,33 @@
             {
               "title": "Kiwibank · final Tier 2 terms sheet, 27 November",
               "url": "https://announcements.nzx.com/attachment/482685.pdf"
-            },
-            {
-              "title": "ICE BofA US Corporate Index spread via FRED",
-              "url": "https://fred.stlouisfed.org/series/BAMLC0A0CM"
-            },
-            {
-              "title": "ICE BofA US High Yield Index spread via FRED",
-              "url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2"
             }
           ]
         },
         "earnings": {
-          "summary": "Two New Zealand half-year results show why profit and revenue need to be read alongside asset sales. Green Cross Health’s medical disposal drove most of its reported profit. Burger Fuel’s store transfer reduced the sales it consolidated.",
-          "coverage": "Both issuers reported unaudited six-month results to 30 September in NZ dollars. NZX released Green Cross at 03:30 SGT and Burger Fuel at 08:52 SGT. These are separate company results from New Zealand.",
+          "summary": "Meituan returned to a quarterly profit as core local commerce recovered. In New Zealand, disposals at Green Cross Health and Burger Fuel affected otherwise comparable half-year results.",
+          "coverage": "Full-day recap using Meituan’s 27 November Hong Kong filing for the three months to September and the two NZX releases for the six months to September. Meituan reports in renminbi. Both New Zealand companies report in NZ dollars.",
           "happened": [
+            "Meituan’s third-quarter revenue rose 21.6% year on year to RMB115.56bn. It earned RMB2.07bn after a loss of RMB18.63bn a year earlier. Operating profit reached RMB2.74bn after a RMB19.76bn operating loss.",
             "Green Cross Health reported NZ$196.7m in profit attributable to shareholders, including a NZ$188.1m gain on its medical division sale, completed on 31 July.",
             "In its continuing pharmacy business, revenue rose 9% to NZ$197.7m and operating profit rose 3% to NZ$7.0m. The company cited pressure on margins from a shift toward high-value, lower-margin medicines.",
             "Burger Fuel reported NZ$948,749 in profit after tax, up 11.7%. Operating revenue excluding IFRS 16 interest income fell 3.9% to NZ$11.8m after the Ponsonby store passed to a franchisee."
           ],
           "key_points": [
+            "At Meituan, core local commerce moved from a RMB14.07bn operating loss to a RMB5.70bn operating profit. New initiatives still recorded a RMB1.31bn operating loss.",
             "Green Cross’s pharmacy operating profit offers a baseline for assessing the continuing business after the disposal.",
             "Burger Fuel said operating revenue would have grown excluding the ownership change. It ended September debt-free with NZ$5.26m cash."
           ],
           "watch": [
+            "Track whether Meituan’s core commerce profit can cover new-initiative losses as well as unallocated costs.",
             "Track pharmacy operating profit alongside sales in Green Cross’s first full half following the sale.",
             "Compare Burger Fuel’s next half-year revenue with a period that also excludes company-operated Ponsonby sales."
           ],
           "sources": [
+            {
+              "title": "Meituan · September-quarter earnings filed with HKEX on 27 November",
+              "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1127/2026112700341.pdf"
+            },
             {
               "title": "Green Cross Health via NZX · continuing pharmacy operations and medical disposal",
               "url": "https://announcements.nzx.com/announcement/484544"
@@ -123,22 +261,32 @@
           ]
         },
         "economy": {
-          "summary": "Chinese industrial profits grew 20.1% year on year in October. In Tokyo, inflation accelerated on the measure excluding fresh food, while the measure stripping out both fresh food and energy slowed.",
-          "coverage": "Tokyo figures are the preliminary mid-November 2025-base series released on 27 November. China released January–October results at 09:30 Beijing and Singapore time, 28 minutes before cutoff.",
+          "summary": "The US goods deficit widened to $149.5bn in October. Taiwan estimated third-quarter growth at 14.39% year on year. Earlier Friday releases showed faster Chinese industrial profit growth and a divergence between two Tokyo inflation measures.",
+          "coverage": "The full-day recap includes Friday’s official releases from Japan, China, Taiwan and the US. The Census figures were released at 21:30 Singapore time. The US spending and weekly Federal Reserve updates published after midnight belong to Saturday.",
           "happened": [
+            "US October goods imports reached $365.3bn and goods exports $215.8bn. Imports rose $21.1bn from September while exports rose $6.7bn, widening the deficit by $14.4bn.",
+            "Taiwan raised third-quarter real GDP growth to 14.39% year on year, 0.03 percentage point above its advance estimate. Real exports of goods and services grew 21.65% and gross capital formation rose 26.74%.",
             "China’s statistics bureau reported RMB6.737tn of profits for industrial enterprises above its reporting threshold in January–October, up 16.0% year on year on a comparable basis. October alone rose 20.1%.",
-            "Over the ten months, Chinese manufacturing profits rose 17.5% and mining profits rose 38.8%. Profit in electricity, heat, gas and water supply fell 14.8%.",
             "Preliminary Tokyo ward CPI rose 2.8% year on year in November after 2.7% in October. Excluding fresh food, inflation rose to 2.9% from 2.6%. Excluding both fresh food and energy, it eased to 2.5% from 2.6%."
           ],
           "key_points": [
-            "The Chinese profit data cover industrial enterprises above the designated size. Across this group, the ten-month operating revenue profit margin rose 0.45 percentage points to 5.69%.",
+            "The US advance estimate covers goods. Services enter the broader trade balance in a separate release.",
+            "Taiwan’s 13.28% growth for 2026 and 6.51% for 2027 are forecasts. The 14.39% third-quarter rate is a preliminary measured outcome.",
             "The two Tokyo measures moved in opposite directions. The figures cover Tokyo’s wards and offer an early indication ahead of the national November release."
           ],
           "watch": [
-            "Check the national Japanese CPI release for whether the divergence seen in Tokyo also appears across Japan.",
-            "Track Chinese manufacturers’ margins and receivables as well as headline profits. Receivables at end-October were 10.5% above a year earlier."
+            "Compare the advance US goods figures with the subsequent goods-and-services release and check revisions to imports.",
+            "Check the national Japanese CPI release for whether the divergence seen in Tokyo also appears across Japan."
           ],
           "sources": [
+            {
+              "title": "US Census Bureau · advance October goods trade and inventories, 27 November",
+              "url": "https://www.census.gov/econ/indicators/2026/advance_report2610.pdf"
+            },
+            {
+              "title": "Taiwan DGBAS · preliminary third-quarter GDP and economic outlook, 27 November",
+              "url": "https://eng.dgbas.gov.tw/News_Content.aspx?n=4438&s=236907"
+            },
             {
               "title": "China National Bureau of Statistics · January–October industrial enterprise profits",
               "url": "https://www.stats.gov.cn/sj/zxfb/202611/t20261127_1965949.html"
@@ -146,197 +294,6 @@
             {
               "title": "Statistics Bureau of Japan via e-Stat · November Tokyo CPI tables",
               "url": "https://www.e-stat.go.jp/stat-search/file-download?fileKind=2&statInfId=000040525998"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "date": "2026-11-26",
-      "cutoff": "2026-11-26T23:59:59+08:00",
-      "reports": {
-        "news": {
-          "summary": "Singapore will challenge the proposed US tariff during the consultation. Taiwan shares recovered part of Wednesday’s fall, while the latest US close showed weaker tech shares and a modest gain for the Dow. Altria also disclosed interest in a possible cash bid for Imperial Brands.",
-          "coverage": "Full Thursday Singapore window, reconstructed from the 15:05 edition and dated releases. Altria’s 12:56 London disclosure falls here. The completed US stock prices are from Wednesday’s New York close. The NYSE observed Thanksgiving on Thursday.",
-          "happened": [
-            "Singapore’s trade ministry said it would ask USTR to reconsider a proposed tariff of up to 20%, net of existing Section 301 duties and subject to exemptions. The ministry cited a US bilateral trade surplus of US$33bn in 2025.",
-            "An Eldridge-led consortium announced an agreement to acquire Lukoil International. The group said the upstream portfolio produces about 350,000 barrels of oil equivalent a day. The deal requires US sanctions approval, due diligence and other closing conditions.",
-            "Taiwan’s TAIEX closed at 39,151.81, up 956.38 points from 38,195.43. Thursday’s gain recovered roughly half of Wednesday’s 1,926.92-point loss.",
-            "At the Wednesday New York close, Nvidia fell 3.91% to US$149.30. The Nasdaq Composite fell 0.62% to 23,585.80 and the S&P 500 fell 0.25% to 7,182.78. The Dow rose 0.33% to 50,182.95.",
-            "At 20:56 SGT, Altria disclosed that it was considering an offer for Imperial Brands, likely solely in cash. It also confirmed talks with a third party about buying part of Imperial. Altria had not committed to a bid."
-          ],
-          "key_points": [
-            "The US proposal leaves room for a 10% rate if the US and Singapore reach qualifying terms. The consultation matters for both the rate and the goods covered.",
-            "Current output from Lukoil’s portfolio measures the size of the assets. The announcement establishes a conditional agreement, with ownership transfer still pending.",
-            "Altria’s disclosure began the UK takeover timetable. The disclosure gave neither a bid price nor a binding commitment."
-          ],
-          "watch": [
-            "Look for Singapore’s formal submission and any revisions to the US product exemptions or rate.",
-            "Watch for the US Treasury’s sanctions decision on the Lukoil deal and the consortium’s closing notice.",
-            "Look for a firm Altria offer or a statement withdrawing its interest by the 24 December deadline, subject to any permitted extension."
-          ],
-          "sources": [
-            {
-              "title": "Singapore METI · 26 November response and full statement",
-              "url": "https://www.meti.gov.sg/newsroom/meti-media-statement-on-the-office-of-the-united-states-trade-representative--ustr--s-findings-and-proposed-actions-in-section-301-investigation-into-structural-excess-capacity/"
-            },
-            {
-              "title": "USTR · 25 November proposed actions and country terms",
-              "url": "https://www.ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural"
-            },
-            {
-              "title": "Reuters via MarketScreener · Singapore response, 26 November SGT",
-              "url": "https://ca.marketscreener.com/news/singapore-very-disappointed-over-new-tariffs-urges-us-to-reconsider--ce7851d8dc8dff25"
-            },
-            {
-              "title": "Eldridge-led consortium via Business Wire · agreement and conditions",
-              "url": "https://www.sttinfo.fi/tiedote/72538179/american-led-consortium-announces-agreement-to-acquire-lukoil-internationals-global-energy-portfolio?lang=en&publisherId=58763726"
-            },
-            {
-              "title": "Taiwan Stock Exchange · daily November index observations",
-              "url": "https://www.twse.com.tw/rwd/en/afterTrading/FMTQIK?date=20261126&response=json"
-            },
-            {
-              "title": "Associated Press · 25 November US market close",
-              "url": "https://apnews.com/article/94fdb0ecb060ec65c0b02879ce0d2d09"
-            },
-            {
-              "title": "Yahoo Finance · dated Nvidia closes",
-              "url": "https://query1.finance.yahoo.com/v8/finance/chart/NVDA?interval=1d&period1=1795478400&period2=1795651200"
-            },
-            {
-              "title": "Yahoo Finance · dated Nasdaq Composite closes",
-              "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EIXIC?interval=1d&period1=1795478400&period2=1795651200"
-            },
-            {
-              "title": "Yahoo Finance · dated S&P 500 closes",
-              "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EGSPC?interval=1d&period1=1795478400&period2=1795651200"
-            },
-            {
-              "title": "Yahoo Finance · dated Dow Jones Industrial Average closes",
-              "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EDJI?interval=1d&period1=1795478400&period2=1795651200"
-            },
-            {
-              "title": "Altria · 26 November possible-offer statement",
-              "url": "https://investor.altria.com/press-releases/news-details/2026/Altria-Response-to-Media-Speculation-on-Possible-Offer-for-Imperial-Brands-plc/default.aspx"
-            },
-            {
-              "title": "Imperial Brands RNS · 12:56 London disclosure",
-              "url": "https://www.investegate.co.uk/company/IMB"
-            },
-            {
-              "title": "NYSE · 2026 holiday calendar",
-              "url": "https://www.nyse.com/markets/hours-calendars"
-            }
-          ]
-        },
-        "bonds": {
-          "summary": "S&P placed Nvidia on negative watch over governance concerns. In the Treasury market, seven-year notes sold at 4.708% and benchmark yields fell across the two- to thirty-year maturities. The UK completed its bank capital review and outlined a consultation on domestic lending.",
-          "coverage": "The auction and par curve are dated 25 November in the US and became available on 26 November in Singapore. The Nvidia action was checked against Reuters reporting. The latest verified ICE figures were for 24 November, before the rating news. UK policy figures are estimates from the 26 November Financial Stability Report.",
-          "happened": [
-            "Reuters reported that S&P put Nvidia’s AA credit rating on CreditWatch Negative after the CEO’s departure and return raised questions about board oversight. The review was open at cutoff.",
-            "The US Treasury offered US$44bn of seven-year notes. The high yield was 4.708%, the coupon 4.625%, and bids totaled 2.43 times the amount awarded. The notes mature on 30 November 2033.",
-            "On the 25 November US par curve, the two-year yield fell 2 bp to 4.61%, the five-year fell 4 bp to 4.65%, the ten-year fell 6 bp to 4.85%, and the thirty-year fell 6 bp to 5.24%.",
-            "The Bank of England said its capital review would lower normal-times Tier 1 requirements for major UK banks by the equivalent of around 50 bp of risk-weighted assets in aggregate. The Prudential Regulation Authority plans to consult on lower minima connected to domestic lending."
-          ],
-          "key_points": [
-            "A negative watch raises the possibility of a downgrade. Nvidia still carried an AA rating in the report.",
-            "The ten-year yield fell more than the two-year yield. The difference narrowed from 28 bp to 24 bp over the US session.",
-            "The 50 bp estimate combines review measures and varies by bank. The FPC’s benchmark for aggregate system-wide capital requirements is around 13%."
-          ],
-          "watch": [
-            "Follow S&P’s resolution of the watch and any Nvidia board changes it cites.",
-            "Compare the next ICE US high-yield and investment-grade observations with their 24 November levels of 372 bp and 98 bp.",
-            "Watch the PRA consultation for how the UK capital changes would apply to lenders with different domestic exposures."
-          ],
-          "sources": [
-            {
-              "title": "Reuters via StreetInsider · S&P rating action and existing AA rating",
-              "url": "https://new.streetinsider.com/Reuters/S%26P%2BGlobal%2Bplaces%2BNvidia%2Brating%2Bon%2BCreditWatch%2BNegative%2Bon%2Brising%2Bmanagement%2Band%2Bgovernance%2Brisks/27400553.html"
-            },
-            {
-              "title": "US Treasury · competitive seven-year auction result, 25 November",
-              "url": "https://www.treasurydirect.gov/instit/annceresult/press/preanre/2026/R_20261125_3.pdf"
-            },
-            {
-              "title": "US Treasury · daily par yields, November 2026",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202611&type=daily_treasury_yield_curve"
-            },
-            {
-              "title": "ICE BofA US Corporate Index OAS via FRED",
-              "url": "https://fred.stlouisfed.org/series/BAMLC0A0CM"
-            },
-            {
-              "title": "ICE BofA US High Yield Index OAS via FRED",
-              "url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2"
-            },
-            {
-              "title": "Bank of England · November 2026 Financial Stability Report and capital review",
-              "url": "https://www.bankofengland.co.uk/financial-stability-report/2026/november-2026"
-            }
-          ]
-        },
-        "earnings": {
-          "summary": "Fisher & Paykel Healthcare raised full-year guidance after a strong half in hospital care. Insurer Tower reported lower annual profit as large-event costs rose from the previous year.",
-          "coverage": "Both NZX releases appeared at 08:30 NZDT, or 03:30 SGT, on 26 November. Both periods ended 30 September. Fisher & Paykel Healthcare reported six months and Tower reported twelve. Currency is NZD.",
-          "happened": [
-            "Fisher & Paykel Healthcare reported first-half operating revenue of NZ$1.25bn, up 15%, and net profit of NZ$291.4m, up 37%. Hospital revenue rose 22% to NZ$841.5m, while homecare revenue grew 4%.",
-            "The company raised fiscal 2027 net profit guidance from NZ$525m–565m to NZ$565m–605m. Its interim dividend increased from 19 to 26 New Zealand cents per share.",
-            "Tower reported full-year profit of NZ$52m versus NZ$83.7m a year earlier. Gross written premiums rose 3% to NZ$620m. Five large events cost NZ$23.9m, compared with NZ$7.2m in the prior year."
-          ],
-          "key_points": [
-            "A NZ$23m US tariff refund helped lift Fisher & Paykel Healthcare’s gross margin to 66.4%. The company put margin excluding that refund at 64.6%.",
-            "Tower’s 10-cent final dividend comprises 6 ordinary cents and 4 special cents. Including the interim payout, the year’s dividends total 15 cents per share."
-          ],
-          "watch": [
-            "Compare Fisher & Paykel Healthcare’s second-half hospital sales and margin with its upgraded full-year guidance.",
-            "Track Tower’s large-event costs against its NZ$50m fiscal 2027 allowance when assessing the NZ$60m–70m underlying profit guidance."
-          ],
-          "sources": [
-            {
-              "title": "Fisher & Paykel Healthcare via NZX · FY2027 first-half results and guidance",
-              "url": "https://announcements.nzx.com/announcement/484444"
-            },
-            {
-              "title": "Tower via NZX · FY2026 results and dividends",
-              "url": "https://announcements.nzx.com/announcement/484447"
-            }
-          ]
-        },
-        "economy": {
-          "summary": "Korea tightened policy as it raised growth forecasts and expected inflation to stay above target. The Fed’s regional contacts reported US growth in eight districts alongside little improvement in consumer spending. Singapore factory output increased 6.1% year on year in October.",
-          "coverage": "Korean figures use the 26 November policy decision. The Fed released the Beige Book at 14:00 EST on 25 November, or 03:00 SGT Thursday. District reports are qualitative. EDB released its October estimate at 13:00 SGT on Thursday.",
-          "happened": [
-            "The Bank of Korea voted 5–2 to raise its base rate by 25 bp to 3.25%. The two dissenting members preferred 3.00%.",
-            "The bank projects GDP growth of 3.9% in 2026 and 4.1% in 2027, up from 3.3% and 2.9% in August. It cited exports and semiconductor investment. Its 2027 headline inflation forecast rose from 2.3% to 2.4%.",
-            "The Fed’s November Beige Book reported slight to moderate growth in eight districts and little change in four. Contacts described flat overall consumer spending, softer housing activity and modest manufacturing growth.",
-            "Singapore’s EDB reported October factory output up 6.1% year on year, or 12.1% excluding biomedical manufacturing. Seasonally adjusted output rose 7.1% from September. Precision engineering rose 54.1% year on year as semiconductor equipment production increased, and electronics output rose 6.6%."
-          ],
-          "key_points": [
-            "The Korean forecasts assume that strength in semiconductors supports the domestic economy. How far that income reaches households remains an uncertainty in the bank’s outlook.",
-            "The Beige Book draws on contacts through 16 November. Its regional descriptions cover a later period than Wednesday’s US third-quarter GDP estimate and use a different method.",
-            "Singapore’s 7.1% monthly change uses seasonally adjusted output. Its 6.1% annual growth compares October with October a year earlier."
-          ],
-          "watch": [
-            "Track Korean core inflation against the bank’s 2.6% forecast for 2027 and watch for stronger household consumption.",
-            "Compare upcoming US spending and housing releases with the uneven conditions regional Fed contacts described."
-          ],
-          "sources": [
-            {
-              "title": "Bank of Korea · monetary policy decision and November projections",
-              "url": "https://www.bok.or.kr/eng/bbs/E0000634/view.do?nttId=11067086&menuNo=400423"
-            },
-            {
-              "title": "Federal Reserve · national summary and district evidence",
-              "url": "https://www.federalreserve.gov/monetarypolicy/files/BeigeBook_20261125.pdf"
-            },
-            {
-              "title": "Federal Reserve · November publication calendar",
-              "url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
-            },
-            {
-              "title": "Singapore EDB · 26 November October manufacturing release and sector breakdown",
-              "url": "https://assets.app.optical.gov.sg/edb/production/published/collections/corporate_news/en%252Fmonthly-manufacturing-performance/00357363-8a8d-4023-98a6-fbd2391469e1.pdf"
             }
           ]
         }
